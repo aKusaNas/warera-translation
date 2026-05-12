@@ -173,7 +173,7 @@ msgstr "{score}/{0} Ronder"
 
 #: src/components/_common/GameRules.tsx:153
 msgid "* A gear merging scheme consists of buying items with very low durability at a relatively high price, merging them, and then reselling the result at a low price."
-msgstr "* Ett systematiskt materielupplägg innebär inköp av utrustning med mycket låg hållbarhet till ett relativt högt pris, sammanslagning av dessa och därefter vidareförsäljning av resultatet till ett lågt pris.""
+msgstr "* Ett systematiskt materielupplägg innebär inköp av utrustning med mycket låg hållbarhet till ett relativt högt pris, sammanslagning av dessa och därefter vidareförsäljning av resultatet till ett lågt pris.\""
 
 #: src/components/_other/shop/SkinPackModal.tsx:214
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
@@ -440,7 +440,7 @@ msgstr "<0/> Prioritet upphör om <1/>"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:124
 msgid "<0/> proposed a new law: <1/>"
-msgstr "<0/> föreslog en ny lag: <1/>""
+msgstr "<0/> föreslog en ny lag: <1/>\""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:740
 msgid "<0/> published a new article"
@@ -3335,6 +3335,14 @@ msgstr "Utgått: inga bud"
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:68
 msgid "Expired: round ended"
 msgstr "Utgått: omgången har avslutats"
+
+#: src/pages/region/[regionId]/index.tsx:79
+msgid "Expires in"
+msgstr ""
+
+#: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:217
+msgid "Exploit Finder"
+msgstr ""
 
 #: src/components/_common/GameRules.tsx:146
 msgid "Exploited accounts will be permanently banned and the boosted account will receive a temporary ban, fine, or permanent ban if repeated."
