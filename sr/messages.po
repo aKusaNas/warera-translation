@@ -34,7 +34,7 @@ msgid " - Low-wage labor (lower than 0.7x and above 1.3x the normal salary)"
 msgstr " - Рад за неправичну плату (испод 0.7x и изнад 1.3x нормалне плате)"
 
 #. placeholder {0}: user.data.mute.reason
-#: src/components/_user/user/UserHeader.tsx:412
+#: src/components/_user/user/UserHeader.tsx:421
 msgid " - Reason: {0}"
 msgstr " - Разлог: {0}"
 
@@ -137,22 +137,6 @@ msgstr "{0}% пореза на приход ће бити одузето од п
 #: src/components/_economy/company/CompanyDropdown.tsx:243
 msgid "{0}% of invested"
 msgstr "{0}% од уложеног"
-
-#: src/components/_military/battle/BattleName.tsx:142
-msgid "{battleIcon}Battle for {regionName} {score}"
-msgstr "{battleIcon}Битка за {regionName} {score}"
-
-#: src/components/_military/battle/BattleName.tsx:147
-msgid "{battleIcon}Resistance for {regionName} {score}"
-msgstr "{battleIcon}Отпор за {regionName} {score}"
-
-#: src/components/_military/battle/BattleName.tsx:152
-msgid "{battleIcon}Revolution {score}"
-msgstr "{battleIcon}Револуција {score}"
-
-#: src/components/_military/battle/BattleName.tsx:157
-msgid "{battleIcon}Tournament battle for {tournamentName} {score}"
-msgstr "{battleIcon}Турнирска битка {tournamentName} {score}"
 
 #: src/components/_user/mission/MissionsList.tsx:172
 msgid "{completedCount}/{totalCount} completed"
@@ -526,15 +510,15 @@ msgstr "<0/> је однео победу у рунди <1>#{0}</1> у <2/>"
 msgid "<0/> won the round <1>#{0}</1> in <2/>!"
 msgstr "<0/> је остварио победу у рунди <1>#{0}</1> у <2/>!"
 
-#: src/components/_user/user/UserHeader.tsx:279
+#: src/components/_user/user/UserHeader.tsx:288
 msgid "<0/><1>Buff</1> ends <2/>"
 msgstr "<0/><1>Ојачање</1> истиче <2/>"
 
-#: src/components/_user/user/UserHeader.tsx:288
+#: src/components/_user/user/UserHeader.tsx:297
 msgid "<0/><1>Debuff</1> ends <2/>"
 msgstr "<0/><1>Ослабљење</1> истиче <2/>"
 
-#: src/components/_user/user/UserHeader.tsx:351
+#: src/components/_user/user/UserHeader.tsx:360
 msgid "<0/>Last connection was <1><2/></1>"
 msgstr "<0/>Последње повезивање је било <1><2/></1>"
 
@@ -759,6 +743,10 @@ msgstr "<0>Немир</0> представља унутрашњу тензију
 #: src/components/_user/modals/PhoneVerificationModal.tsx:108
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
 msgstr "<0>Твој налог захтева додатну верификацију. Верификуј свој број телефона што пре како би наставио нормално да користиш налог. Неверификовани налози ће имати ограничен приступ након 48 часова и могу бити трајно угашени након 5 дана.</0><1>Бројеви телефона су шифровани и нису видљиви ниједном администратору.</1>"
+
+#: src/components/_layout/LayoutOptions.tsx:95
+msgid "= consumes more power"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -1269,7 +1257,7 @@ msgid "Access war"
 msgstr "Погледај рат"
 
 #: src/components/_political/country/CountryHeader.tsx:75
-#: src/components/_user/user/UserHeader.tsx:165
+#: src/components/_user/user/UserHeader.tsx:167
 #: src/pages/country/[countryId]/account.tsx:43
 #: src/pages/country/[countryId]/index.tsx:341
 #: src/pages/user/[userId]/account.tsx:32
@@ -1543,7 +1531,7 @@ msgstr "API токени"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API токени омогућавају спољним апликацијама приступ API-ју у твоје име. Користи токен у <0>X-API-Key</0> заглављу. Сваки токен има ограничење од 200 захтева у минути."
 
-#: src/components/_layout/LayoutMapOptions.tsx:314
+#: src/components/_layout/LayoutOptions.tsx:243
 msgid "App pattern"
 msgstr "Шаблон апликације"
 
@@ -1643,7 +1631,7 @@ msgstr "Напојница за чланак"
 msgid "Article tipped"
 msgstr "Напојница дата"
 
-#: src/components/_user/user/UserHeader.tsx:205
+#: src/components/_user/user/UserHeader.tsx:214
 #: src/pages/user/[userId]/index.tsx:208
 msgid "Articles"
 msgstr "Чланци"
@@ -1701,6 +1689,7 @@ msgstr "Аутентификација неуспела. Покушајте по
 msgid "Auto approval"
 msgstr "Аутоматско одобравање"
 
+#: src/components/_layout/LayoutOptions.tsx:176
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
@@ -1759,7 +1748,7 @@ msgstr "Балансирано - без модификатора"
 msgid "Bankruptcy"
 msgstr "Банкрот"
 
-#: src/components/_user/user/UserHeader.tsx:400
+#: src/components/_user/user/UserHeader.tsx:409
 msgid "Banned"
 msgstr "Банован"
 
@@ -1779,8 +1768,8 @@ msgstr "Поклон банер послат"
 msgid "Banners"
 msgstr "Банери"
 
-#: src/components/_user/user/UserHeader.tsx:183
-#: src/components/_user/user/UserHeader.tsx:224
+#: src/components/_user/user/UserHeader.tsx:185
+#: src/components/_user/user/UserHeader.tsx:233
 msgid "Bans"
 msgstr "Банови"
 
@@ -1815,6 +1804,10 @@ msgstr "Битка"
 msgid "Battle ended"
 msgstr "Битка завршена"
 
+#: src/components/_military/battle/BattleName.tsx:147
+msgid "Battle for {regionName} {score}"
+msgstr ""
+
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
 msgstr "Херој битке"
@@ -1843,11 +1836,11 @@ msgstr "Наређења"
 msgid "Battles"
 msgstr "Битке"
 
-#: src/components/_layout/LayoutMapOptions.tsx:251
+#: src/components/_layout/LayoutOptions.tsx:118
 msgid "Battles on layout"
 msgstr "Приказ битака"
 
-#: src/components/_layout/LayoutMapOptions.tsx:244
+#: src/components/_layout/LayoutOptions.tsx:113
 msgid "Battles on map"
 msgstr "Битке на мапи"
 
@@ -1864,6 +1857,7 @@ msgstr "Битке добијене"
 msgid "Become a Candidate"
 msgstr "Постани кандидат"
 
+#: src/components/_layout/LayoutOptions.tsx:196
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
@@ -1887,6 +1881,10 @@ msgstr "Блокирај (сакриј садржај)"
 #: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Blue Staff"
 msgstr "Плаво жезло"
+
+#: src/components/_layout/LayoutOptions.tsx:149
+msgid "Blur"
+msgstr ""
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:47
 #: src/components/_political/law/law.frontConfig.tsx:241
@@ -2202,7 +2200,7 @@ msgstr "Изабери своју земљу"
 msgid "Choose your side and click to deal <0>Damages</0>! Keep hitting to help your team win."
 msgstr "Изабери страну и кликни да нанесеш <0>штету</0>! Настави да удараш да помогнеш свом тиму да победи."
 
-#: src/components/_user/user/UserHeader.tsx:272
+#: src/components/_user/user/UserHeader.tsx:281
 msgid "Citizen since <0><1/></0>"
 msgstr "Грађанин од <0><1/></0>"
 
@@ -2304,7 +2302,7 @@ msgstr "Кликни да изабереш закон"
 msgid "Click to select motion"
 msgstr "Кликните да бисте изабрали предлог"
 
-#: src/components/_layout/LayoutMapOptions.tsx:199
+#: src/components/_layout/LayoutMapOptions.tsx:121
 msgid "Climate"
 msgstr "Клима"
 
@@ -2340,7 +2338,7 @@ msgstr "Заједница"
 
 #: src/components/_layout/LayoutMenu.tsx:184
 #: src/components/_user/user/MyAvatar.tsx:48
-#: src/components/_user/user/UserHeader.tsx:197
+#: src/components/_user/user/UserHeader.tsx:206
 #: src/components/_user/user/WealthPanel.tsx:42
 #: src/pages/companies.tsx:96
 msgid "Companies"
@@ -2512,7 +2510,7 @@ msgstr "Троши се током борбе у биткама"
 msgid "Consuming it increases your <0>Attack</0> during {0}h.<1/> Then decrease the same amount during {1}h"
 msgstr "Конзумирање повећава твој <0>напад</0> током {0}ч.<1/> Затим смањује за исти износ током {1}ч"
 
-#: src/components/_layout/LayoutMapOptions.tsx:258
+#: src/components/_layout/LayoutOptions.tsx:123
 msgid "Contextual borders"
 msgstr "Контекстуалне границе"
 
@@ -2788,7 +2786,7 @@ msgstr "Мрачно доба"
 msgid "Dark Era Pack"
 msgstr "Пакет „Мрачно доба“"
 
-#: src/components/_layout/LayoutMapOptions.tsx:281
+#: src/components/_layout/LayoutOptions.tsx:140
 msgid "Dark map"
 msgstr "Тамна мапа"
 
@@ -2955,7 +2953,7 @@ msgstr "Налазиште <0>{0}</0> је исцрпљено у <1/>"
 msgid "Deposit resource"
 msgstr "Ресурс налазишта"
 
-#: src/components/_layout/LayoutMapOptions.tsx:160
+#: src/components/_layout/LayoutMapOptions.tsx:78
 msgid "Deposit resources"
 msgstr "Ресурси налазишта"
 
@@ -2990,7 +2988,7 @@ msgstr "Опис ажуриран!"
 msgid "Destruct"
 msgstr "Уништи"
 
-#: src/components/_layout/LayoutMapOptions.tsx:147
+#: src/components/_layout/LayoutMapOptions.tsx:64
 msgid "Development"
 msgstr "Развој"
 
@@ -3014,10 +3012,6 @@ msgstr "Дипломатска политика"
 #: src/components/_economy/company/CompanyDropdown.tsx:189
 msgid "Disable company"
 msgstr "Онемогући компанију"
-
-#: src/components/_layout/LayoutMapOptions.tsx:288
-msgid "Disable transparency"
-msgstr "Искључи провидност"
 
 #: src/components/_economy/company/CompanyTags.tsx:81
 msgid "Disabled"
@@ -3267,6 +3261,7 @@ msgid "Entrepreneurship"
 msgstr "Предузетништво"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
+#: src/components/_layout/LayoutOptions.tsx:173
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3570,7 +3565,7 @@ msgstr "Отпуштен из владе"
 msgid "Fish"
 msgstr "Риба"
 
-#: src/components/_layout/LayoutMapOptions.tsx:274
+#: src/components/_layout/LayoutOptions.tsx:135
 msgid "Flags"
 msgstr "Заставе"
 
@@ -3578,11 +3573,11 @@ msgstr "Заставе"
 msgid "Flail"
 msgstr "Млатилица"
 
-#: src/components/_layout/LayoutMapOptions.tsx:337
+#: src/components/_layout/LayoutOptions.tsx:213
 msgid "Font"
 msgstr "Фонт"
 
-#: src/components/_layout/LayoutMapOptions.tsx:346
+#: src/components/_layout/LayoutOptions.tsx:225
 msgid "Font size"
 msgstr "Величина фонта"
 
@@ -3701,7 +3696,7 @@ msgstr "Наградна игра освојена!"
 msgid "Gives <0>{0}</0>"
 msgstr "Даје <0>{0}</0>"
 
-#: src/components/_layout/LayoutMapOptions.tsx:218
+#: src/components/_layout/LayoutOptions.tsx:101
 msgid "Globe (experimental)"
 msgstr "Глобус (експериментално)"
 
@@ -3746,7 +3741,7 @@ msgstr "Плата чланова владе"
 msgid "Grain"
 msgstr "Жито"
 
-#: src/components/_layout/LayoutMapOptions.tsx:229
+#: src/components/_layout/LayoutOptions.tsx:108
 msgid "Graticule"
 msgstr "Координатна мрежа"
 
@@ -3907,7 +3902,7 @@ msgstr "Ударање за своју земљу док си у влади да
 
 #: src/components/_other/shop/ShopHeader.tsx:16
 #: src/components/_political/country/CountryHeader.tsx:62
-#: src/components/_user/user/UserHeader.tsx:151
+#: src/components/_user/user/UserHeader.tsx:153
 msgid "Home"
 msgstr "Почетна"
 
@@ -4056,7 +4051,7 @@ msgstr "Намерно или поновљено кршење ове полит�
 
 #: src/components/_layout/LayoutMenu.tsx:125
 #: src/components/_user/user/MyAvatar.tsx:35
-#: src/components/_user/user/UserHeader.tsx:157
+#: src/components/_user/user/UserHeader.tsx:159
 #: src/pages/companies.tsx:83
 #: src/pages/country/[countryId]/account.tsx:25
 #: src/pages/market/index.tsx:49
@@ -4194,7 +4189,7 @@ msgstr "Ножеви не користе муницију"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Задај <0>{count}</0> крит. ударца"
 
-#: src/components/_layout/LayoutMapOptions.tsx:361
+#: src/components/_layout/LayoutOptions.tsx:166
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Language"
 msgstr "Језик"
@@ -4368,7 +4363,7 @@ msgstr "Ограничење потрошње хране"
 msgid "Limited:"
 msgstr "Ограничено:"
 
-#: src/components/_layout/LayoutMapOptions.tsx:324
+#: src/components/_layout/LayoutOptions.tsx:255
 msgid "Line"
 msgstr "Линија"
 
@@ -4474,13 +4469,14 @@ msgstr "Менаџмент"
 msgid "map"
 msgstr "мапа"
 
+#: src/components/_layout/LayoutLeftIcons.tsx:64
+#: src/components/_layout/LayoutOptions.tsx:98
+msgid "Map"
+msgstr ""
+
 #: src/components/_political/law/LawFormModal.tsx:266
 msgid "Map Accent"
 msgstr "Акцент мапе"
-
-#: src/components/_layout/LayoutMapOptions.tsx:121
-msgid "Map options"
-msgstr "Подешавања мапе"
 
 #: src/components/_economy/market/MarketHeader.tsx:43
 #: src/components/_layout/LayoutMenu.tsx:165
@@ -5335,7 +5331,7 @@ msgstr "Отвори своје сандуче!"
 msgid "Operative"
 msgstr "Оперативац"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:82
+#: src/components/_layout/LayoutLeftIcons.tsx:105
 msgid "Options"
 msgstr "Опције"
 
@@ -5586,7 +5582,7 @@ msgstr "Молимо вас да попуните CAPTCHA."
 msgid "Please select a region"
 msgstr "Изаберите регион"
 
-#: src/components/_layout/LayoutMapOptions.tsx:134
+#: src/components/_layout/LayoutMapOptions.tsx:49
 msgid "Political"
 msgstr "Политички"
 
@@ -5980,7 +5976,7 @@ msgstr "Смањује губитак здравља током борбе у б
 msgid "Referral link copied to clipboard"
 msgstr "Реферал линк копиран у клипборд"
 
-#: src/components/_user/user/UserHeader.tsx:211
+#: src/components/_user/user/UserHeader.tsx:220
 #: src/components/_user/user/UserRankingsPanel.tsx:50
 #: src/pages/user/[userId]/index.tsx:219
 #: src/pages/user/[userId]/referrals.tsx:67
@@ -6173,6 +6169,10 @@ msgstr "Пријави"
 msgid "Report user"
 msgstr "Пријави корисника"
 
+#: src/components/_user/user/UserHeader.tsx:192
+msgid "Reports"
+msgstr ""
+
 #: src/components/_political/party/party.frontConfig.tsx:217
 #: src/components/_political/party/party.frontConfig.tsx:232
 msgid "Republican"
@@ -6234,6 +6234,10 @@ msgstr "Отпор"
 msgid "Resistance Contributors"
 msgstr "Доприносиоци отпору"
 
+#: src/components/_military/battle/BattleName.tsx:152
+msgid "Resistance for {regionName} {score}"
+msgstr ""
+
 #: src/pages/country/[countryId]/index.tsx:315
 #: src/pages/region/[regionId]/index.tsx:49
 msgid "Resources"
@@ -6262,6 +6266,10 @@ msgstr "Опозови API токен?"
 #: src/components/_user/notification/notification.frontConfig.tsx:2004
 msgid "Revolt started!"
 msgstr "Буна почела!"
+
+#: src/components/_military/battle/BattleName.tsx:157
+msgid "Revolution {score}"
+msgstr ""
 
 #: src/components/_political/event/EventList.tsx:77
 msgid "Revolution ended"
@@ -6358,7 +6366,7 @@ msgstr "Добијене рунде"
 msgid "Rounds Won"
 msgstr "Добијене рунде"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:92
+#: src/components/_layout/LayoutLeftIcons.tsx:115
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Rules"
 msgstr "Правила"
@@ -6614,7 +6622,7 @@ msgid "Set your username"
 msgstr "Постави своје корисничко име"
 
 #: src/components/_user/user/MyAvatar.tsx:54
-#: src/components/_user/user/UserHeader.tsx:217
+#: src/components/_user/user/UserHeader.tsx:226
 msgid "Settings"
 msgstr "Подешавања"
 
@@ -6671,7 +6679,7 @@ msgid "Skill upgrade:"
 msgstr "Надоградња вештина:"
 
 #: src/components/_user/user/MyAvatar.tsx:41
-#: src/components/_user/user/UserHeader.tsx:172
+#: src/components/_user/user/UserHeader.tsx:174
 #: src/pages/user/[userId]/index.tsx:157
 msgid "Skills"
 msgstr "Вештине"
@@ -6733,11 +6741,7 @@ msgstr "Друштво и поруке"
 msgid "Some of your companies are disabled."
 msgstr "Неке твоје компаније су онемогућене."
 
-#: src/components/_layout/LayoutMapOptions.tsx:304
-msgid "Sound"
-msgstr "Звук"
-
-#: src/components/_layout/LayoutMapOptions.tsx:307
+#: src/components/_layout/LayoutOptions.tsx:157
 msgid "Sound effects"
 msgstr "Звучни ефекти"
 
@@ -6745,7 +6749,7 @@ msgstr "Звучни ефекти"
 msgid "Specialist"
 msgstr "Специјалиста"
 
-#: src/components/_layout/LayoutMapOptions.tsx:175
+#: src/components/_layout/LayoutMapOptions.tsx:93
 msgid "Specialization"
 msgstr "Специјализација"
 
@@ -6872,7 +6876,7 @@ msgstr "Стратешки"
 msgid "Strategic resource"
 msgstr "Стратешки ресурс"
 
-#: src/components/_layout/LayoutMapOptions.tsx:187
+#: src/components/_layout/LayoutMapOptions.tsx:107
 msgid "Strategic resources"
 msgstr "Стратешки ресурс"
 
@@ -7013,7 +7017,7 @@ msgstr "Услови"
 msgid "Terms of Service"
 msgstr "Услови коришћења"
 
-#: src/components/_layout/LayoutMapOptions.tsx:333
+#: src/components/_layout/LayoutOptions.tsx:266
 msgid "Texture"
 msgstr "Текстуре"
 
@@ -7356,6 +7360,10 @@ msgstr "Укупно:"
 msgid "Tournament"
 msgstr "Турнир"
 
+#: src/components/_military/battle/BattleName.tsx:160
+msgid "Tournament battle for {tournamentName} {score}"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:2015
 msgid "Tournament Created"
 msgstr "Турнир креиран"
@@ -7401,7 +7409,7 @@ msgstr "Трговинска трансакција"
 msgid "Trainee"
 msgstr "Приправник"
 
-#: src/components/_user/user/UserHeader.tsx:191
+#: src/components/_user/user/UserHeader.tsx:200
 msgid "Transac."
 msgstr "Трансак."
 
@@ -7448,6 +7456,10 @@ msgstr "Водичи"
 msgid "Tutorials reseted"
 msgstr "Водичи су ресетовани"
 
+#: src/components/_layout/LayoutOptions.tsx:146
+msgid "UI"
+msgstr ""
+
 #: src/components/_user/user/UserDropdown.tsx:277
 msgid "Unblock (show content)"
 msgstr "Деблокирај (прикажи садржај)"
@@ -7486,7 +7498,7 @@ msgstr "Откључај дугме „Произведи све“"
 msgid "Unlocked pack"
 msgstr "Пакет откључан"
 
-#: src/components/_user/user/UserHeader.tsx:408
+#: src/components/_user/user/UserHeader.tsx:417
 msgid "Unmuted <0/>"
 msgstr "Укинуто утишавање <0/>"
 
@@ -7987,6 +7999,7 @@ msgstr "Радници"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Рад за друге је одличан начин да зарадите новац на почетку."
 
+#: src/components/_layout/LayoutOptions.tsx:208
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""
