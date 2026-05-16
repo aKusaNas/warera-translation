@@ -1531,7 +1531,7 @@ msgstr "API-tokens"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API-tokens tillåter externa applikationer att ansluta för din räkning. Använd din token i <0>X-API-Key</0>-headern. Varje token är begränsad till 200 anrop per minut."
 
-#: src/components/_layout/LayoutOptions.tsx:243
+#: src/components/_layout/LayoutOptions.tsx:252
 msgid "App pattern"
 msgstr "App-mönster"
 
@@ -1689,7 +1689,7 @@ msgstr "Autentiseringen misslyckades. Försök igen."
 msgid "Auto approval"
 msgstr "Automatiskt godkännande"
 
-#: src/components/_layout/LayoutOptions.tsx:176
+#: src/components/_layout/LayoutOptions.tsx:185
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
@@ -1857,7 +1857,7 @@ msgstr "Vunna strider"
 msgid "Become a Candidate"
 msgstr "Kandidera"
 
-#: src/components/_layout/LayoutOptions.tsx:196
+#: src/components/_layout/LayoutOptions.tsx:205
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
@@ -2302,7 +2302,7 @@ msgstr "Klicka för att välja lag"
 msgid "Click to select motion"
 msgstr "Klicka för att välja förslag"
 
-#: src/components/_layout/LayoutMapOptions.tsx:121
+#: src/components/_layout/map.frontConfig.tsx:55
 msgid "Climate"
 msgstr "Klimat"
 
@@ -2953,7 +2953,7 @@ msgstr "Fyndigheten av <0>{0}</0> har tömts i <1/>"
 msgid "Deposit resource"
 msgstr "Fyndighetsresurs"
 
-#: src/components/_layout/LayoutMapOptions.tsx:78
+#: src/components/_layout/map.frontConfig.tsx:37
 msgid "Deposit resources"
 msgstr "Fyndigheter"
 
@@ -2988,7 +2988,7 @@ msgstr "Beskrivningen har uppdaterats."
 msgid "Destruct"
 msgstr "Riv"
 
-#: src/components/_layout/LayoutMapOptions.tsx:64
+#: src/components/_layout/map.frontConfig.tsx:31
 msgid "Development"
 msgstr "Bebyggelse"
 
@@ -3261,7 +3261,7 @@ msgid "Entrepreneurship"
 msgstr "Entreprenörskap"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
-#: src/components/_layout/LayoutOptions.tsx:173
+#: src/components/_layout/LayoutOptions.tsx:182
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3573,11 +3573,11 @@ msgstr "Flaggor"
 msgid "Flail"
 msgstr "Stridsslaga"
 
-#: src/components/_layout/LayoutOptions.tsx:213
+#: src/components/_layout/LayoutOptions.tsx:222
 msgid "Font"
 msgstr "Typsnitt"
 
-#: src/components/_layout/LayoutOptions.tsx:225
+#: src/components/_layout/LayoutOptions.tsx:234
 msgid "Font size"
 msgstr "Teckenstorlek"
 
@@ -4189,7 +4189,7 @@ msgstr "Knivar kan inte laddas med ammunition"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Få <0>{count}</0> fullträffar"
 
-#: src/components/_layout/LayoutOptions.tsx:166
+#: src/components/_layout/LayoutOptions.tsx:175
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Language"
 msgstr "Språk"
@@ -4363,7 +4363,7 @@ msgstr "Gräns för livsmedelskonsumtion"
 msgid "Limited:"
 msgstr "Begränsad:"
 
-#: src/components/_layout/LayoutOptions.tsx:255
+#: src/components/_layout/LayoutOptions.tsx:264
 msgid "Line"
 msgstr "Linje"
 
@@ -4469,7 +4469,7 @@ msgstr "Arbetsledning"
 msgid "map"
 msgstr "karta"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:64
+#: src/components/_layout/LayoutLeftIcons.tsx:62
 #: src/components/_layout/LayoutOptions.tsx:98
 msgid "Map"
 msgstr ""
@@ -5331,7 +5331,7 @@ msgstr "Öppna din låda!"
 msgid "Operative"
 msgstr "Kustjägare"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:105
+#: src/components/_layout/LayoutLeftIcons.tsx:103
 msgid "Options"
 msgstr "Alternativ"
 
@@ -5582,7 +5582,7 @@ msgstr "Vänligen slutför CAPTCHA-verifieringen."
 msgid "Please select a region"
 msgstr "Vänligen välj en region"
 
-#: src/components/_layout/LayoutMapOptions.tsx:49
+#: src/components/_layout/map.frontConfig.tsx:25
 msgid "Political"
 msgstr "Politiskt"
 
@@ -6366,7 +6366,7 @@ msgstr "Vunna ronder"
 msgid "Rounds Won"
 msgstr "Vunna ronder"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:115
+#: src/components/_layout/LayoutLeftIcons.tsx:113
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Rules"
 msgstr "Regler"
@@ -6749,7 +6749,7 @@ msgstr "Ljudeffekter"
 msgid "Specialist"
 msgstr "Specialist"
 
-#: src/components/_layout/LayoutMapOptions.tsx:93
+#: src/components/_layout/map.frontConfig.tsx:43
 msgid "Specialization"
 msgstr "Specialisering"
 
@@ -6876,7 +6876,7 @@ msgstr "Strategisk"
 msgid "Strategic resource"
 msgstr "Strategisk resurs"
 
-#: src/components/_layout/LayoutMapOptions.tsx:107
+#: src/components/_layout/map.frontConfig.tsx:49
 msgid "Strategic resources"
 msgstr "Strategiska resurser"
 
@@ -7017,7 +7017,7 @@ msgstr "Villkor"
 msgid "Terms of Service"
 msgstr "Användarvillkor"
 
-#: src/components/_layout/LayoutOptions.tsx:266
+#: src/components/_layout/LayoutOptions.tsx:275
 msgid "Texture"
 msgstr "Textur"
 
@@ -7177,6 +7177,10 @@ msgstr "Dags att strida för ditt land! Häng med där det händer."
 #: src/components/_other/tour/tuto.frontConfig.tsx:45
 msgid "Time to produce!"
 msgstr "Dags att tillverka!"
+
+#: src/components/_layout/LayoutOptions.tsx:165
+msgid "Tiny chat tabs"
+msgstr ""
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:17
 msgid "Tiny Pixel"
@@ -7999,7 +8003,7 @@ msgstr "Anställda"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Att arbeta för andra är ett bra sätt att tjäna valuta när man börjar."
 
-#: src/components/_layout/LayoutOptions.tsx:208
+#: src/components/_layout/LayoutOptions.tsx:217
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""

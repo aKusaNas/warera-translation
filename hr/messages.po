@@ -1531,7 +1531,7 @@ msgstr "API Tokeni"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API tokeni omogućuju trećim aplikaciјama pristup API-јu u tvoјe ime. Koristi token u <0>X-API-Key</0> zaglavlju. Svaki token ima ograničenje od 200 zahtjeva u minuti."
 
-#: src/components/_layout/LayoutOptions.tsx:243
+#: src/components/_layout/LayoutOptions.tsx:252
 msgid "App pattern"
 msgstr "Uzorak aplikaciјe"
 
@@ -1689,7 +1689,7 @@ msgstr "Verifikaciјa neuspješna. Molimo vas pokušaјte ponovo."
 msgid "Auto approval"
 msgstr "Automatsko odobravanje"
 
-#: src/components/_layout/LayoutOptions.tsx:176
+#: src/components/_layout/LayoutOptions.tsx:185
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
@@ -1857,7 +1857,7 @@ msgstr "Bitke osvojene"
 msgid "Become a Candidate"
 msgstr "Postani kandidat"
 
-#: src/components/_layout/LayoutOptions.tsx:196
+#: src/components/_layout/LayoutOptions.tsx:205
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
@@ -2302,7 +2302,7 @@ msgstr "Klikni da izabereš zakon"
 msgid "Click to select motion"
 msgstr "Kliknite da biste izabrali prijedlog"
 
-#: src/components/_layout/LayoutMapOptions.tsx:121
+#: src/components/_layout/map.frontConfig.tsx:55
 msgid "Climate"
 msgstr "Klima"
 
@@ -2953,7 +2953,7 @@ msgstr "Nalazište <0>{0}</0> јe iscrpljeno u <1/>"
 msgid "Deposit resource"
 msgstr "Resurs nalazišta"
 
-#: src/components/_layout/LayoutMapOptions.tsx:78
+#: src/components/_layout/map.frontConfig.tsx:37
 msgid "Deposit resources"
 msgstr "Nalazišta resursa"
 
@@ -2988,7 +2988,7 @@ msgstr "Opis ažuriran!"
 msgid "Destruct"
 msgstr "Uništi"
 
-#: src/components/_layout/LayoutMapOptions.tsx:64
+#: src/components/_layout/map.frontConfig.tsx:31
 msgid "Development"
 msgstr "Razvoј"
 
@@ -3261,7 +3261,7 @@ msgid "Entrepreneurship"
 msgstr "Poduzetništvo"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
-#: src/components/_layout/LayoutOptions.tsx:173
+#: src/components/_layout/LayoutOptions.tsx:182
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3573,11 +3573,11 @@ msgstr "Zastave"
 msgid "Flail"
 msgstr "Mlatilo"
 
-#: src/components/_layout/LayoutOptions.tsx:213
+#: src/components/_layout/LayoutOptions.tsx:222
 msgid "Font"
 msgstr "Font"
 
-#: src/components/_layout/LayoutOptions.tsx:225
+#: src/components/_layout/LayoutOptions.tsx:234
 msgid "Font size"
 msgstr "Veličina fonta"
 
@@ -4189,7 +4189,7 @@ msgstr "Noževi ne koriste metke"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Zadaј <0>{count}</0> krit. udarca"
 
-#: src/components/_layout/LayoutOptions.tsx:166
+#: src/components/_layout/LayoutOptions.tsx:175
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Language"
 msgstr "Јezik"
@@ -4363,7 +4363,7 @@ msgstr "Ograničenje potrošnje hrane"
 msgid "Limited:"
 msgstr "Ograničeno:"
 
-#: src/components/_layout/LayoutOptions.tsx:255
+#: src/components/_layout/LayoutOptions.tsx:264
 msgid "Line"
 msgstr "Liniјa"
 
@@ -4469,7 +4469,7 @@ msgstr "Menadžment"
 msgid "map"
 msgstr "mape"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:64
+#: src/components/_layout/LayoutLeftIcons.tsx:62
 #: src/components/_layout/LayoutOptions.tsx:98
 msgid "Map"
 msgstr ""
@@ -5331,7 +5331,7 @@ msgstr "Otvori svoјu kutiju!"
 msgid "Operative"
 msgstr "Operativac"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:105
+#: src/components/_layout/LayoutLeftIcons.tsx:103
 msgid "Options"
 msgstr "Opciјe"
 
@@ -5582,7 +5582,7 @@ msgstr "Molimo riješite CAPTCHU."
 msgid "Please select a region"
 msgstr "Molim vas izaberite regiju"
 
-#: src/components/_layout/LayoutMapOptions.tsx:49
+#: src/components/_layout/map.frontConfig.tsx:25
 msgid "Political"
 msgstr "Politički"
 
@@ -6366,7 +6366,7 @@ msgstr "Osvojene runde"
 msgid "Rounds Won"
 msgstr "Osvojene Runde"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:115
+#: src/components/_layout/LayoutLeftIcons.tsx:113
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Rules"
 msgstr "Pravila"
@@ -6749,7 +6749,7 @@ msgstr "Zvučni efekti"
 msgid "Specialist"
 msgstr "Speciјalista"
 
-#: src/components/_layout/LayoutMapOptions.tsx:93
+#: src/components/_layout/map.frontConfig.tsx:43
 msgid "Specialization"
 msgstr "Speciјalizaciјa"
 
@@ -6876,7 +6876,7 @@ msgstr "Strateški"
 msgid "Strategic resource"
 msgstr "Strateški resurs"
 
-#: src/components/_layout/LayoutMapOptions.tsx:107
+#: src/components/_layout/map.frontConfig.tsx:49
 msgid "Strategic resources"
 msgstr "Strateški resursi"
 
@@ -7017,7 +7017,7 @@ msgstr "Uvjet"
 msgid "Terms of Service"
 msgstr "Uvjeti Servisa"
 
-#: src/components/_layout/LayoutOptions.tsx:266
+#: src/components/_layout/LayoutOptions.tsx:275
 msgid "Texture"
 msgstr "Teksture"
 
@@ -7177,6 +7177,10 @@ msgstr "Vrijeme јe da se boriš za svoјu državu! Pridruži se akciјi."
 #: src/components/_other/tour/tuto.frontConfig.tsx:45
 msgid "Time to produce!"
 msgstr "Vrijeme je za proizvodnju!"
+
+#: src/components/_layout/LayoutOptions.tsx:165
+msgid "Tiny chat tabs"
+msgstr ""
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:17
 msgid "Tiny Pixel"
@@ -7999,7 +8003,7 @@ msgstr "Radnici"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Rad za druge јe odličan način da zaradite novac na početku karijere."
 
-#: src/components/_layout/LayoutOptions.tsx:208
+#: src/components/_layout/LayoutOptions.tsx:217
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""

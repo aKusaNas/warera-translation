@@ -1531,7 +1531,7 @@ msgstr "API Token'ları"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API tokenleri harici uygulamaların sizin adınıza API'ye erişmesine izin verir. Tokenı <0>X-API-Key</0> başlığında kullanın. Her jetonun dakikada 200 istek limiti vardır."
 
-#: src/components/_layout/LayoutOptions.tsx:243
+#: src/components/_layout/LayoutOptions.tsx:252
 msgid "App pattern"
 msgstr "Uygulama deseni"
 
@@ -1689,7 +1689,7 @@ msgstr "Kimlik doğrulama başarısız. Lütfen tekrar deneyin."
 msgid "Auto approval"
 msgstr "Otomatik onay"
 
-#: src/components/_layout/LayoutOptions.tsx:176
+#: src/components/_layout/LayoutOptions.tsx:185
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
@@ -1857,7 +1857,7 @@ msgstr "Galip Gelinen Cepheler"
 msgid "Become a Candidate"
 msgstr "Aday Ol"
 
-#: src/components/_layout/LayoutOptions.tsx:196
+#: src/components/_layout/LayoutOptions.tsx:205
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
@@ -2302,7 +2302,7 @@ msgstr "Yasa tasarısı seçmek için tıkla"
 msgid "Click to select motion"
 msgstr "Önerge seçmek için tıkla"
 
-#: src/components/_layout/LayoutMapOptions.tsx:121
+#: src/components/_layout/map.frontConfig.tsx:55
 msgid "Climate"
 msgstr "İklim"
 
@@ -2953,7 +2953,7 @@ msgstr "<1/> bölgesindeki <0>{0}</0> yatağı tükendi"
 msgid "Deposit resource"
 msgstr "Yatak kaynağı"
 
-#: src/components/_layout/LayoutMapOptions.tsx:78
+#: src/components/_layout/map.frontConfig.tsx:37
 msgid "Deposit resources"
 msgstr "Kaynak yatakları"
 
@@ -2988,7 +2988,7 @@ msgstr "Açıklama güncellendi!"
 msgid "Destruct"
 msgstr "İmha Et"
 
-#: src/components/_layout/LayoutMapOptions.tsx:64
+#: src/components/_layout/map.frontConfig.tsx:31
 msgid "Development"
 msgstr "Gelişim"
 
@@ -3261,7 +3261,7 @@ msgid "Entrepreneurship"
 msgstr "Girişimcilik"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
-#: src/components/_layout/LayoutOptions.tsx:173
+#: src/components/_layout/LayoutOptions.tsx:182
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3573,11 +3573,11 @@ msgstr "Bayraklar"
 msgid "Flail"
 msgstr "Topuzlu Gürz"
 
-#: src/components/_layout/LayoutOptions.tsx:213
+#: src/components/_layout/LayoutOptions.tsx:222
 msgid "Font"
 msgstr "Yazı tipi"
 
-#: src/components/_layout/LayoutOptions.tsx:225
+#: src/components/_layout/LayoutOptions.tsx:234
 msgid "Font size"
 msgstr "Yazı boyutu"
 
@@ -4189,7 +4189,7 @@ msgstr "Bıçaklar ile mermi kullanılamaz"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "<0>{count}</0> kritik vuruş yap"
 
-#: src/components/_layout/LayoutOptions.tsx:166
+#: src/components/_layout/LayoutOptions.tsx:175
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Language"
 msgstr "Dil"
@@ -4363,7 +4363,7 @@ msgstr "Yiyecek tüketim limiti"
 msgid "Limited:"
 msgstr "Sınırlı:"
 
-#: src/components/_layout/LayoutOptions.tsx:255
+#: src/components/_layout/LayoutOptions.tsx:264
 msgid "Line"
 msgstr "Çizgi"
 
@@ -4469,7 +4469,7 @@ msgstr "Yönetim"
 msgid "map"
 msgstr "harita"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:64
+#: src/components/_layout/LayoutLeftIcons.tsx:62
 #: src/components/_layout/LayoutOptions.tsx:98
 msgid "Map"
 msgstr ""
@@ -5331,7 +5331,7 @@ msgstr "Kasanı aç!"
 msgid "Operative"
 msgstr "Operatif"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:105
+#: src/components/_layout/LayoutLeftIcons.tsx:103
 msgid "Options"
 msgstr "Seçenekler"
 
@@ -5582,7 +5582,7 @@ msgstr "Lütfen CAPTCHA'yı tamamlayın."
 msgid "Please select a region"
 msgstr "Lütfen bir bölge seç"
 
-#: src/components/_layout/LayoutMapOptions.tsx:49
+#: src/components/_layout/map.frontConfig.tsx:25
 msgid "Political"
 msgstr "Politik"
 
@@ -6366,7 +6366,7 @@ msgstr "Kazanılan turlar"
 msgid "Rounds Won"
 msgstr "Kazanılan Turlar"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:115
+#: src/components/_layout/LayoutLeftIcons.tsx:113
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Rules"
 msgstr "Kurallar"
@@ -6749,7 +6749,7 @@ msgstr "Ses efektleri"
 msgid "Specialist"
 msgstr "Uzman"
 
-#: src/components/_layout/LayoutMapOptions.tsx:93
+#: src/components/_layout/map.frontConfig.tsx:43
 msgid "Specialization"
 msgstr "Uzmanlık"
 
@@ -6876,7 +6876,7 @@ msgstr "Stratejik"
 msgid "Strategic resource"
 msgstr "Stratejik kaynak"
 
-#: src/components/_layout/LayoutMapOptions.tsx:107
+#: src/components/_layout/map.frontConfig.tsx:49
 msgid "Strategic resources"
 msgstr "Stratejik kaynaklar"
 
@@ -7017,7 +7017,7 @@ msgstr "Şartlar"
 msgid "Terms of Service"
 msgstr "Hizmet Şartları"
 
-#: src/components/_layout/LayoutOptions.tsx:266
+#: src/components/_layout/LayoutOptions.tsx:275
 msgid "Texture"
 msgstr "Doku"
 
@@ -7177,6 +7177,10 @@ msgstr "Ülken için savaşma zamanı! Aksiyona katılalım."
 #: src/components/_other/tour/tuto.frontConfig.tsx:45
 msgid "Time to produce!"
 msgstr "Üretme zamanı!"
+
+#: src/components/_layout/LayoutOptions.tsx:165
+msgid "Tiny chat tabs"
+msgstr ""
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:17
 msgid "Tiny Pixel"
@@ -7999,7 +8003,7 @@ msgstr "İşçiler"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Başlarken başkaları için çalışmak para kazanmanın harika bir yoludur."
 
-#: src/components/_layout/LayoutOptions.tsx:208
+#: src/components/_layout/LayoutOptions.tsx:217
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""

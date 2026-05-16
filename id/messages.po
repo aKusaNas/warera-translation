@@ -1531,7 +1531,7 @@ msgstr "Token API"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "Token API memungkinkan aplikasi eksternal mengakses API atas nama kamu. Gunakan token di header <0>X-API-Key</0>. Setiap token memiliki batas 200 request per menit."
 
-#: src/components/_layout/LayoutOptions.tsx:243
+#: src/components/_layout/LayoutOptions.tsx:252
 msgid "App pattern"
 msgstr "Pola aplikasi"
 
@@ -1689,7 +1689,7 @@ msgstr "Autentikasi gagal. Silakan coba lagi."
 msgid "Auto approval"
 msgstr "Persetujuan otomatis"
 
-#: src/components/_layout/LayoutOptions.tsx:176
+#: src/components/_layout/LayoutOptions.tsx:185
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
@@ -1857,7 +1857,7 @@ msgstr "Pertempuran dimenangkan"
 msgid "Become a Candidate"
 msgstr "Jadi kandidat"
 
-#: src/components/_layout/LayoutOptions.tsx:196
+#: src/components/_layout/LayoutOptions.tsx:205
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
@@ -2302,7 +2302,7 @@ msgstr "Klik untuk memilih undang-undang"
 msgid "Click to select motion"
 msgstr "Klik untuk memilih mosi"
 
-#: src/components/_layout/LayoutMapOptions.tsx:121
+#: src/components/_layout/map.frontConfig.tsx:55
 msgid "Climate"
 msgstr "Iklim"
 
@@ -2953,7 +2953,7 @@ msgstr "Deposit <0>{0}</0> telah habis di <1/>"
 msgid "Deposit resource"
 msgstr "Sumber daya deposit"
 
-#: src/components/_layout/LayoutMapOptions.tsx:78
+#: src/components/_layout/map.frontConfig.tsx:37
 msgid "Deposit resources"
 msgstr "Sumber daya deposit"
 
@@ -2988,7 +2988,7 @@ msgstr "Deskripsi diperbarui!"
 msgid "Destruct"
 msgstr "Hancurkan"
 
-#: src/components/_layout/LayoutMapOptions.tsx:64
+#: src/components/_layout/map.frontConfig.tsx:31
 msgid "Development"
 msgstr "Pembangunan"
 
@@ -3261,7 +3261,7 @@ msgid "Entrepreneurship"
 msgstr "Kewirausahaan"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
-#: src/components/_layout/LayoutOptions.tsx:173
+#: src/components/_layout/LayoutOptions.tsx:182
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3573,11 +3573,11 @@ msgstr "Bendera"
 msgid "Flail"
 msgstr "Gada Rantai"
 
-#: src/components/_layout/LayoutOptions.tsx:213
+#: src/components/_layout/LayoutOptions.tsx:222
 msgid "Font"
 msgstr "Jenis huruf"
 
-#: src/components/_layout/LayoutOptions.tsx:225
+#: src/components/_layout/LayoutOptions.tsx:234
 msgid "Font size"
 msgstr "Ukuran huruf"
 
@@ -4189,7 +4189,7 @@ msgstr "Pisau tidak memakai peluru"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Dapatkan <0>{count}</0> serangan kritikal"
 
-#: src/components/_layout/LayoutOptions.tsx:166
+#: src/components/_layout/LayoutOptions.tsx:175
 #: src/components/_user/auth/WelcomeModal.tsx:134
 msgid "Language"
 msgstr "Bahasa"
@@ -4363,7 +4363,7 @@ msgstr "Batas konsumsi makanan"
 msgid "Limited:"
 msgstr "Terbatas:"
 
-#: src/components/_layout/LayoutOptions.tsx:255
+#: src/components/_layout/LayoutOptions.tsx:264
 msgid "Line"
 msgstr "Garis"
 
@@ -4469,7 +4469,7 @@ msgstr "Manajemen"
 msgid "map"
 msgstr "peta"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:64
+#: src/components/_layout/LayoutLeftIcons.tsx:62
 #: src/components/_layout/LayoutOptions.tsx:98
 msgid "Map"
 msgstr ""
@@ -5331,7 +5331,7 @@ msgstr "Buka petimu!"
 msgid "Operative"
 msgstr "Operative"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:105
+#: src/components/_layout/LayoutLeftIcons.tsx:103
 msgid "Options"
 msgstr "Opsi"
 
@@ -5582,7 +5582,7 @@ msgstr "Silakan selesaikan CAPTCHA."
 msgid "Please select a region"
 msgstr "Silakan pilih wilayah"
 
-#: src/components/_layout/LayoutMapOptions.tsx:49
+#: src/components/_layout/map.frontConfig.tsx:25
 msgid "Political"
 msgstr "Politik"
 
@@ -6366,7 +6366,7 @@ msgstr "Ronde dimenangkan"
 msgid "Rounds Won"
 msgstr "Ronde Dimenangkan"
 
-#: src/components/_layout/LayoutLeftIcons.tsx:115
+#: src/components/_layout/LayoutLeftIcons.tsx:113
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Rules"
 msgstr "Aturan"
@@ -6749,7 +6749,7 @@ msgstr "Efek suara"
 msgid "Specialist"
 msgstr "Specialist"
 
-#: src/components/_layout/LayoutMapOptions.tsx:93
+#: src/components/_layout/map.frontConfig.tsx:43
 msgid "Specialization"
 msgstr "Spesialisasi"
 
@@ -6876,7 +6876,7 @@ msgstr "Strategis"
 msgid "Strategic resource"
 msgstr "Sumber daya strategis"
 
-#: src/components/_layout/LayoutMapOptions.tsx:107
+#: src/components/_layout/map.frontConfig.tsx:49
 msgid "Strategic resources"
 msgstr "Sumber daya strategis"
 
@@ -7017,7 +7017,7 @@ msgstr "Ketentuan"
 msgid "Terms of Service"
 msgstr "Ketentuan Layanan"
 
-#: src/components/_layout/LayoutOptions.tsx:266
+#: src/components/_layout/LayoutOptions.tsx:275
 msgid "Texture"
 msgstr "Tekstur"
 
@@ -7177,6 +7177,10 @@ msgstr "Saatnya bertarung demi negaramu! Ayo ikut aksinya."
 #: src/components/_other/tour/tuto.frontConfig.tsx:45
 msgid "Time to produce!"
 msgstr "Saatnya produksi!"
+
+#: src/components/_layout/LayoutOptions.tsx:165
+msgid "Tiny chat tabs"
+msgstr ""
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:17
 msgid "Tiny Pixel"
@@ -7999,7 +8003,7 @@ msgstr "Pekerja"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Bekerja untuk orang lain adalah cara yang bagus untuk dapat uang saat baru mulai."
 
-#: src/components/_layout/LayoutOptions.tsx:208
+#: src/components/_layout/LayoutOptions.tsx:217
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""
