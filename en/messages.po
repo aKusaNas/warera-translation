@@ -182,6 +182,10 @@ msgstr "<0/> applied to join <1/>"
 msgid "<0/> at <1>{0}</1> wage.{1}"
 msgstr "<0/> at <1>{0}</1> wage.{1}"
 
+#: src/components/_political/message/systemMessage.frontConfig.tsx:53
+msgid "<0/> banned <1/> from the conversation"
+msgstr "<0/> banned <1/> from the conversation"
+
 #: src/components/_user/notification/notification.frontConfig.tsx:1854
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
 msgstr "<0/> bought your {assetLabel} as a gift for <1/>!"
@@ -226,7 +230,7 @@ msgstr "<0/> completed a contract, you earned <1/>"
 msgid "<0/> conquered the region in <1/>"
 msgstr "<0/> conquered the region in <1/>"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:82
+#: src/components/_political/message/systemMessage.frontConfig.tsx:93
 msgid "<0/> created the conversation"
 msgstr "<0/> created the conversation"
 
@@ -244,11 +248,11 @@ msgid "<0/> donated <1>{0}</1> to <2/>"
 msgstr "<0/> donated <1>{0}</1> to <2/>"
 
 #. placeholder {0}: ts[data.caseCode]
-#: src/components/_political/message/systemMessage.frontConfig.tsx:112
+#: src/components/_political/message/systemMessage.frontConfig.tsx:123
 msgid "<0/> dropped <1/> from <2>{0}</2>"
 msgstr "<0/> dropped <1/> from <2>{0}</2>"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:150
+#: src/components/_political/message/systemMessage.frontConfig.tsx:161
 msgid "<0/> ended <1/>"
 msgstr "<0/> ended <1/>"
 
@@ -264,7 +268,7 @@ msgstr "<0/> financed a revolt in <1/>"
 msgid "<0/> financed a revolt in <1/> for <2/> against <3/>"
 msgstr "<0/> financed a revolt in <1/> for <2/> against <3/>"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:53
+#: src/components/_political/message/systemMessage.frontConfig.tsx:64
 msgid "<0/> gifted a sub to <1/>"
 msgstr "<0/> gifted a sub to <1/>"
 
@@ -430,7 +434,7 @@ msgstr "<0/> paid fee"
 msgid "<0/> Priority ends in <1/>"
 msgstr "<0/> Priority ends in <1/>"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:124
+#: src/components/_political/message/systemMessage.frontConfig.tsx:135
 msgid "<0/> proposed a new law: <1/>"
 msgstr "<0/> proposed a new law: <1/>"
 
@@ -457,7 +461,7 @@ msgstr "<0/> responded to your message {0}"
 msgid "<0/> responded to your message in <1/>{0}"
 msgstr "<0/> responded to your message in <1/>{0}"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:141
+#: src/components/_political/message/systemMessage.frontConfig.tsx:152
 msgid "<0/> started, vote for your favorite candidate"
 msgstr "<0/> started, vote for your favorite candidate"
 
@@ -495,7 +499,7 @@ msgid "<0/> was nominated as <1>{0}</1>"
 msgstr "<0/> was nominated as <1>{0}</1>"
 
 #. placeholder {0}: data.roundNumber
-#: src/components/_political/message/systemMessage.frontConfig.tsx:63
+#: src/components/_political/message/systemMessage.frontConfig.tsx:74
 msgid "<0/> won round {0}"
 msgstr "<0/> won round {0}"
 
@@ -505,7 +509,7 @@ msgstr "<0/> won the auction on a contract with <1/>"
 
 #. placeholder {0}: data.attackerWonRoundsCount
 #. placeholder {1}: data.defenderWonRoundsCount
-#: src/components/_political/message/systemMessage.frontConfig.tsx:72
+#: src/components/_political/message/systemMessage.frontConfig.tsx:83
 msgid "<0/> won the battle ({0}-{1})"
 msgstr "<0/> won the battle ({0}-{1})"
 
@@ -2090,7 +2094,7 @@ msgstr "Cancelled by admin"
 msgid "Cancelled by Admin"
 msgstr "Cancelled by Admin"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:133
+#: src/components/_political/message/systemMessage.frontConfig.tsx:144
 msgid "Candidacy is open for <0/>"
 msgstr "Candidacy is open for <0/>"
 
@@ -4880,7 +4884,7 @@ msgid "MU Ownership Transferred"
 msgstr "MU Ownership Transferred"
 
 #. placeholder {0}: data.level
-#: src/components/_political/message/systemMessage.frontConfig.tsx:103
+#: src/components/_political/message/systemMessage.frontConfig.tsx:114
 msgid "MU reached level {0}! Reward: {rewardDisplay}"
 msgstr "MU reached level {0}! Reward: {rewardDisplay}"
 

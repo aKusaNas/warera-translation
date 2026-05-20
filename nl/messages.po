@@ -182,6 +182,10 @@ msgstr "<0/> heeft zich aangemeld om lid te worden van <1/>"
 msgid "<0/> at <1>{0}</1> wage.{1}"
 msgstr "<0/> bij <1>{0}</1> loon.{1}"
 
+#: src/components/_political/message/systemMessage.frontConfig.tsx:53
+msgid "<0/> banned <1/> from the conversation"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:1854
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
 msgstr "<0/> kocht jouw {assetLabel} als een cadeau voor <1/>!"
@@ -226,7 +230,7 @@ msgstr "<0/> heeft een contract voltooid, je hebt <1/> verdiend"
 msgid "<0/> conquered the region in <1/>"
 msgstr "<0/> heeft de regio in <1/> veroverd"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:82
+#: src/components/_political/message/systemMessage.frontConfig.tsx:93
 msgid "<0/> created the conversation"
 msgstr "<0/> heeft het gesprek aangemaakt"
 
@@ -244,11 +248,11 @@ msgid "<0/> donated <1>{0}</1> to <2/>"
 msgstr "<0/> heeft <1>{0}</1> gedoneerd aan <2/>"
 
 #. placeholder {0}: ts[data.caseCode]
-#: src/components/_political/message/systemMessage.frontConfig.tsx:112
+#: src/components/_political/message/systemMessage.frontConfig.tsx:123
 msgid "<0/> dropped <1/> from <2>{0}</2>"
 msgstr "<0/> heeft <1/> verwijderd van <2>{0}</2>"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:150
+#: src/components/_political/message/systemMessage.frontConfig.tsx:161
 msgid "<0/> ended <1/>"
 msgstr "<0/> heeft <1/> beëindigd"
 
@@ -264,7 +268,7 @@ msgstr "<0/> heeft een opstand gefinancierd in <1/>"
 msgid "<0/> financed a revolt in <1/> for <2/> against <3/>"
 msgstr "<0/> heeft een opstand gefinancierd in <1/> voor <2/> tegen <3/>"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:53
+#: src/components/_political/message/systemMessage.frontConfig.tsx:64
 msgid "<0/> gifted a sub to <1/>"
 msgstr "<0/> heeft een abonnement aan <1/> gegeven"
 
@@ -430,7 +434,7 @@ msgstr "<0/> heeft vergoeding betaald"
 msgid "<0/> Priority ends in <1/>"
 msgstr "<0/> Prioriteit loopt af over <1/>"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:124
+#: src/components/_political/message/systemMessage.frontConfig.tsx:135
 msgid "<0/> proposed a new law: <1/>"
 msgstr "<0/> heeft een nieuwe wet voorgesteld: <1/>"
 
@@ -457,7 +461,7 @@ msgstr "<0/> heeft op je bericht gereageerd {0}"
 msgid "<0/> responded to your message in <1/>{0}"
 msgstr ""
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:141
+#: src/components/_political/message/systemMessage.frontConfig.tsx:152
 msgid "<0/> started, vote for your favorite candidate"
 msgstr "<0/> is begonnen, stem op je favoriete kandidaat"
 
@@ -495,7 +499,7 @@ msgid "<0/> was nominated as <1>{0}</1>"
 msgstr "<0/> is genomineerd als <1>{0}</1>"
 
 #. placeholder {0}: data.roundNumber
-#: src/components/_political/message/systemMessage.frontConfig.tsx:63
+#: src/components/_political/message/systemMessage.frontConfig.tsx:74
 msgid "<0/> won round {0}"
 msgstr "<0/> heeft ronde {0} gewonnen"
 
@@ -505,7 +509,7 @@ msgstr "<0/> heeft de veiling gewonnen voor een contract met <1/>"
 
 #. placeholder {0}: data.attackerWonRoundsCount
 #. placeholder {1}: data.defenderWonRoundsCount
-#: src/components/_political/message/systemMessage.frontConfig.tsx:72
+#: src/components/_political/message/systemMessage.frontConfig.tsx:83
 msgid "<0/> won the battle ({0}-{1})"
 msgstr "<0/> heeft het gevecht ({0}-{1}) gewonnen"
 
@@ -2090,7 +2094,7 @@ msgstr "Geannuleerd door admin"
 msgid "Cancelled by Admin"
 msgstr "Geannuleerd door admin"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:133
+#: src/components/_political/message/systemMessage.frontConfig.tsx:144
 msgid "Candidacy is open for <0/>"
 msgstr "Kandidaatstelling is open voor <0/>"
 
@@ -4880,7 +4884,7 @@ msgid "MU Ownership Transferred"
 msgstr "Overdracht van het eigendom van ME"
 
 #. placeholder {0}: data.level
-#: src/components/_political/message/systemMessage.frontConfig.tsx:103
+#: src/components/_political/message/systemMessage.frontConfig.tsx:114
 msgid "MU reached level {0}! Reward: {rewardDisplay}"
 msgstr "ME heeft level {0} bereikt! Beloning: {rewardDisplay}"
 

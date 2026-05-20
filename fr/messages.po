@@ -182,6 +182,10 @@ msgstr "<0/> a demandé à rejoindre <1/>"
 msgid "<0/> at <1>{0}</1> wage.{1}"
 msgstr "<0/> à <1>{0}</1> de salaire.{1}"
 
+#: src/components/_political/message/systemMessage.frontConfig.tsx:53
+msgid "<0/> banned <1/> from the conversation"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:1854
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
 msgstr "<0/> a acheté votre {assetLabel} en cadeau pour <1/> !"
@@ -226,7 +230,7 @@ msgstr "<0/> a terminé un contrat, vous avez gagné <1/>"
 msgid "<0/> conquered the region in <1/>"
 msgstr "<0/> a conquis la région dans <1/>"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:82
+#: src/components/_political/message/systemMessage.frontConfig.tsx:93
 msgid "<0/> created the conversation"
 msgstr "<0/> a créé la conversation"
 
@@ -244,11 +248,11 @@ msgid "<0/> donated <1>{0}</1> to <2/>"
 msgstr "<0/> a donné <1>{0}</1> à <2/>"
 
 #. placeholder {0}: ts[data.caseCode]
-#: src/components/_political/message/systemMessage.frontConfig.tsx:112
+#: src/components/_political/message/systemMessage.frontConfig.tsx:123
 msgid "<0/> dropped <1/> from <2>{0}</2>"
 msgstr "<0/> a retiré <1/> de <2>{0}</2>"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:150
+#: src/components/_political/message/systemMessage.frontConfig.tsx:161
 msgid "<0/> ended <1/>"
 msgstr "<0/> a terminé <1/>"
 
@@ -264,7 +268,7 @@ msgstr "<0/> a financé une révolte en <1/>"
 msgid "<0/> financed a revolt in <1/> for <2/> against <3/>"
 msgstr "<0/> a financé une révolte en <1/> pour <2/> contre <3/>"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:53
+#: src/components/_political/message/systemMessage.frontConfig.tsx:64
 msgid "<0/> gifted a sub to <1/>"
 msgstr "<0/> a offert un abonnement à <1/>"
 
@@ -430,7 +434,7 @@ msgstr "<0/> frais payés"
 msgid "<0/> Priority ends in <1/>"
 msgstr "La priorité de <0/> se termine dans <1/>"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:124
+#: src/components/_political/message/systemMessage.frontConfig.tsx:135
 msgid "<0/> proposed a new law: <1/>"
 msgstr "<0/> a proposé une nouvelle loi : <1/>"
 
@@ -457,7 +461,7 @@ msgstr "<0/> a répondu à ton message {0}"
 msgid "<0/> responded to your message in <1/>{0}"
 msgstr ""
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:141
+#: src/components/_political/message/systemMessage.frontConfig.tsx:152
 msgid "<0/> started, vote for your favorite candidate"
 msgstr "<0/> a commencé, votez pour votre candidat préféré"
 
@@ -495,7 +499,7 @@ msgid "<0/> was nominated as <1>{0}</1>"
 msgstr "<0/> a été nommé comme <1>{0}</1>"
 
 #. placeholder {0}: data.roundNumber
-#: src/components/_political/message/systemMessage.frontConfig.tsx:63
+#: src/components/_political/message/systemMessage.frontConfig.tsx:74
 msgid "<0/> won round {0}"
 msgstr "<0/> a gagné la manche {0}"
 
@@ -505,7 +509,7 @@ msgstr "<0/> a remporté l'enchère sur un contrat avec <1/>"
 
 #. placeholder {0}: data.attackerWonRoundsCount
 #. placeholder {1}: data.defenderWonRoundsCount
-#: src/components/_political/message/systemMessage.frontConfig.tsx:72
+#: src/components/_political/message/systemMessage.frontConfig.tsx:83
 msgid "<0/> won the battle ({0}-{1})"
 msgstr "<0/> a remporté la bataille ({0}-{1})"
 
@@ -2090,7 +2094,7 @@ msgstr "Annulé par un administrateur"
 msgid "Cancelled by Admin"
 msgstr "Annulé par un administrateur"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:133
+#: src/components/_political/message/systemMessage.frontConfig.tsx:144
 msgid "Candidacy is open for <0/>"
 msgstr "Les candidatures sont ouvertes pour <0/>"
 
@@ -4880,7 +4884,7 @@ msgid "MU Ownership Transferred"
 msgstr "Propriété de l'UM transférée"
 
 #. placeholder {0}: data.level
-#: src/components/_political/message/systemMessage.frontConfig.tsx:103
+#: src/components/_political/message/systemMessage.frontConfig.tsx:114
 msgid "MU reached level {0}! Reward: {rewardDisplay}"
 msgstr "L'UM a atteint le niveau {0} ! Récompense : {rewardDisplay}"
 

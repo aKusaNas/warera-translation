@@ -182,6 +182,10 @@ msgstr "طلب <0/> الانضمام إلى <1/>"
 msgid "<0/> at <1>{0}</1> wage.{1}"
 msgstr "<0/> بأجر <1>{0}</1>.{1}"
 
+#: src/components/_political/message/systemMessage.frontConfig.tsx:53
+msgid "<0/> banned <1/> from the conversation"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:1854
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
 msgstr "اشترى <0/> {assetLabel} الخاص بك كهدية لـ <1/>!"
@@ -226,7 +230,7 @@ msgstr "أكمل <0/> عقداً، لقد ربحت <1/>"
 msgid "<0/> conquered the region in <1/>"
 msgstr "احتل <0/> المنطقة في <1/>"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:82
+#: src/components/_political/message/systemMessage.frontConfig.tsx:93
 msgid "<0/> created the conversation"
 msgstr "قام <0/> بإنشاء المحادثة"
 
@@ -244,11 +248,11 @@ msgid "<0/> donated <1>{0}</1> to <2/>"
 msgstr "تبرع <0/> بـ <1>{0}</1> إلى <2/>"
 
 #. placeholder {0}: ts[data.caseCode]
-#: src/components/_political/message/systemMessage.frontConfig.tsx:112
+#: src/components/_political/message/systemMessage.frontConfig.tsx:123
 msgid "<0/> dropped <1/> from <2>{0}</2>"
 msgstr "قام <0/> بالحصول على <1/> من <2>{0}</2>"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:150
+#: src/components/_political/message/systemMessage.frontConfig.tsx:161
 msgid "<0/> ended <1/>"
 msgstr "<0/> أنهى <1/>"
 
@@ -264,7 +268,7 @@ msgstr "موّلت <0/> تمردًا في <1/>"
 msgid "<0/> financed a revolt in <1/> for <2/> against <3/>"
 msgstr "موّل <0/> تمردًا في <1/> لصالح <2/> ضد <3/>"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:53
+#: src/components/_political/message/systemMessage.frontConfig.tsx:64
 msgid "<0/> gifted a sub to <1/>"
 msgstr "أهدى <0/> اشتراكاً لـ <1/>"
 
@@ -430,7 +434,7 @@ msgstr "دفع <0/> الرسوم"
 msgid "<0/> Priority ends in <1/>"
 msgstr "تنتهي أولوية <0/> في <1/>"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:124
+#: src/components/_political/message/systemMessage.frontConfig.tsx:135
 msgid "<0/> proposed a new law: <1/>"
 msgstr "<0/> اقترح قانونا جديداً: <1/>"
 
@@ -457,7 +461,7 @@ msgstr "رد <0/> على رسالتك {0}"
 msgid "<0/> responded to your message in <1/>{0}"
 msgstr "ردّ <0/> على رسالتك في <1/>{0}"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:141
+#: src/components/_political/message/systemMessage.frontConfig.tsx:152
 msgid "<0/> started, vote for your favorite candidate"
 msgstr "<0/> بدأ, صوت لمرشحك المفضل"
 
@@ -495,7 +499,7 @@ msgid "<0/> was nominated as <1>{0}</1>"
 msgstr "تم ترشيح <0/> كـ <1>{0}</1>"
 
 #. placeholder {0}: data.roundNumber
-#: src/components/_political/message/systemMessage.frontConfig.tsx:63
+#: src/components/_political/message/systemMessage.frontConfig.tsx:74
 msgid "<0/> won round {0}"
 msgstr "فاز <0/> بالجولة {0}"
 
@@ -505,7 +509,7 @@ msgstr "فاز <0/> بالمزاد على عقد مع <1/>"
 
 #. placeholder {0}: data.attackerWonRoundsCount
 #. placeholder {1}: data.defenderWonRoundsCount
-#: src/components/_political/message/systemMessage.frontConfig.tsx:72
+#: src/components/_political/message/systemMessage.frontConfig.tsx:83
 msgid "<0/> won the battle ({0}-{1})"
 msgstr "<0/> فاز بالمعركة ({0}-{1})"
 
@@ -2090,7 +2094,7 @@ msgstr "أُلغي بواسطة المسؤول"
 msgid "Cancelled by Admin"
 msgstr "أُلغي بواسطة المسؤول"
 
-#: src/components/_political/message/systemMessage.frontConfig.tsx:133
+#: src/components/_political/message/systemMessage.frontConfig.tsx:144
 msgid "Candidacy is open for <0/>"
 msgstr "باب الترشح مفتوح لـ <0/>"
 
@@ -4880,7 +4884,7 @@ msgid "MU Ownership Transferred"
 msgstr "تم نقل ملكية الوحدة العسكرية"
 
 #. placeholder {0}: data.level
-#: src/components/_political/message/systemMessage.frontConfig.tsx:103
+#: src/components/_political/message/systemMessage.frontConfig.tsx:114
 msgid "MU reached level {0}! Reward: {rewardDisplay}"
 msgstr "وصلت الوحدة العسكرية إلى المستوى {0}! المكافأة: {rewardDisplay}"
 
