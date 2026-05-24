@@ -1556,7 +1556,7 @@ msgstr "API raktai leidžia išorinėms programoms pasiekti API jūsų vardu. Na
 msgid "App pattern"
 msgstr "Programėlės raštas"
 
-#: src/components/_economy/transaction/TransactionList.tsx:76
+#: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
 msgstr "Paraiškos mokestis"
 
@@ -1643,7 +1643,7 @@ msgstr "Straipsnio ID"
 msgid "Article liked"
 msgstr "Straipsnis pamėgtas"
 
-#: src/components/_economy/transaction/TransactionList.tsx:80
+#: src/components/_economy/transaction/TransactionList.tsx:86
 msgid "Article Tip"
 msgstr "Arbatpinigiai už straipsnį"
 
@@ -2644,7 +2644,7 @@ msgstr "Šalis"
 msgid "Country development income bonus"
 msgstr "Šalies vystymo pajamų bonusas"
 
-#: src/components/_economy/transaction/TransactionList.tsx:90
+#: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
 msgstr ""
 
@@ -2682,7 +2682,7 @@ msgstr "Gaminti"
 msgid "Craft <0>{count}</0> items"
 msgstr "Pagamink <0>{count}</0> daiktus"
 
-#: src/components/_economy/transaction/TransactionList.tsx:82
+#: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
 msgstr "Daikto gamyba"
 
@@ -3067,7 +3067,7 @@ msgstr "Išardyti"
 msgid "Dismantle <0>{count}</0> items"
 msgstr "Išardyti <0>{count}</0> daiktų"
 
-#: src/components/_economy/transaction/TransactionList.tsx:85
+#: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
 msgstr "Daikto išardymas"
 
@@ -3117,7 +3117,7 @@ msgstr "Paaukoti"
 msgid "Donate <0>{count}</0> to MU or Country"
 msgstr "Paaukok <0>{count}</0> MU arba šaliai"
 
-#: src/components/_economy/transaction/TransactionList.tsx:79
+#: src/components/_economy/transaction/TransactionList.tsx:83
 msgid "Donation"
 msgstr "Auka"
 
@@ -3527,7 +3527,7 @@ msgstr "Kovok!"
 msgid "Fighter Jet"
 msgstr "Naikintuvas"
 
-#: src/components/_economy/transaction/TransactionList.tsx:109
+#: src/components/_economy/transaction/TransactionList.tsx:143
 msgid "Filter by transaction type"
 msgstr "Filtruoti pagal operacijos tipą"
 
@@ -4144,7 +4144,7 @@ msgstr "Ji negaus jokios produkcijos, o jos darbuotojai negalės dirbti."
 msgid "Item bought"
 msgstr "Daiktas nupirktas"
 
-#: src/components/_economy/transaction/TransactionList.tsx:72
+#: src/components/_economy/transaction/TransactionList.tsx:74
 msgid "Item Market"
 msgstr "Daiktų turgus"
 
@@ -5228,7 +5228,7 @@ msgstr "Nėra prisiekusio priešo"
 msgid "No trading orders"
 msgstr "Nėra prekybos užsakymų"
 
-#: src/components/_economy/transaction/TransactionList.tsx:119
+#: src/components/_economy/transaction/TransactionList.tsx:153
 msgid "No transactions found"
 msgstr "Operacijų nerasta"
 
@@ -5352,7 +5352,7 @@ msgstr "Atidaryk <0>{count}</0>"
 msgid "Open case"
 msgstr "Atidaryti dėžę"
 
-#: src/components/_economy/transaction/TransactionList.tsx:81
+#: src/components/_economy/transaction/TransactionList.tsx:89
 msgid "Open Case"
 msgstr "Atidaryti dėžę"
 
@@ -7890,7 +7890,7 @@ msgstr "Rinkėjas"
 msgid "VS"
 msgstr "prieš"
 
-#: src/components/_economy/transaction/TransactionList.tsx:73
+#: src/components/_economy/transaction/TransactionList.tsx:77
 #: src/components/_economy/work/WorkChart.tsx:245
 msgid "Wage"
 msgstr "Atlyginimas"

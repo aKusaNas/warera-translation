@@ -1556,7 +1556,7 @@ msgstr "API token 允許外部應用程式使用你的身分存取。請在 <0>X
 msgid "App pattern"
 msgstr "App 背景"
 
-#: src/components/_economy/transaction/TransactionList.tsx:76
+#: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
 msgstr "申請費"
 
@@ -1643,7 +1643,7 @@ msgstr "文章 ID"
 msgid "Article liked"
 msgstr "文章已按讚"
 
-#: src/components/_economy/transaction/TransactionList.tsx:80
+#: src/components/_economy/transaction/TransactionList.tsx:86
 msgid "Article Tip"
 msgstr "文章小費"
 
@@ -2644,7 +2644,7 @@ msgstr "國家"
 msgid "Country development income bonus"
 msgstr "國家發展度收入加成"
 
-#: src/components/_economy/transaction/TransactionList.tsx:90
+#: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
 msgstr ""
 
@@ -2682,7 +2682,7 @@ msgstr "製造"
 msgid "Craft <0>{count}</0> items"
 msgstr "製造 <0>{count}</0> 個物品"
 
-#: src/components/_economy/transaction/TransactionList.tsx:82
+#: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
 msgstr "製造物品"
 
@@ -3067,7 +3067,7 @@ msgstr "拆解"
 msgid "Dismantle <0>{count}</0> items"
 msgstr "拆解 <0>{count}</0> 個物品"
 
-#: src/components/_economy/transaction/TransactionList.tsx:85
+#: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
 msgstr "拆解物品"
 
@@ -3117,7 +3117,7 @@ msgstr "捐獻"
 msgid "Donate <0>{count}</0> to MU or Country"
 msgstr "捐獻 <0>{count}</0> 至軍團或國家"
 
-#: src/components/_economy/transaction/TransactionList.tsx:79
+#: src/components/_economy/transaction/TransactionList.tsx:83
 msgid "Donation"
 msgstr "捐款"
 
@@ -3527,7 +3527,7 @@ msgstr "出擊！"
 msgid "Fighter Jet"
 msgstr "戰鬥機"
 
-#: src/components/_economy/transaction/TransactionList.tsx:109
+#: src/components/_economy/transaction/TransactionList.tsx:143
 msgid "Filter by transaction type"
 msgstr "依交易種類篩選"
 
@@ -4144,7 +4144,7 @@ msgstr "它不會獲得任何產能，且它的員工不能工作。"
 msgid "Item bought"
 msgstr "已購買物品"
 
-#: src/components/_economy/transaction/TransactionList.tsx:72
+#: src/components/_economy/transaction/TransactionList.tsx:74
 msgid "Item Market"
 msgstr "裝備市場"
 
@@ -5228,7 +5228,7 @@ msgstr "沒有宿敵"
 msgid "No trading orders"
 msgstr "沒有交易訂單"
 
-#: src/components/_economy/transaction/TransactionList.tsx:119
+#: src/components/_economy/transaction/TransactionList.tsx:153
 msgid "No transactions found"
 msgstr "找不到交易紀錄"
 
@@ -5352,7 +5352,7 @@ msgstr "開啟 <0>{count}</0> 個"
 msgid "Open case"
 msgstr "開啟箱子"
 
-#: src/components/_economy/transaction/TransactionList.tsx:81
+#: src/components/_economy/transaction/TransactionList.tsx:89
 msgid "Open Case"
 msgstr "開啟箱子"
 
@@ -7890,7 +7890,7 @@ msgstr ""
 msgid "VS"
 msgstr "VS"
 
-#: src/components/_economy/transaction/TransactionList.tsx:73
+#: src/components/_economy/transaction/TransactionList.tsx:77
 #: src/components/_economy/work/WorkChart.tsx:245
 msgid "Wage"
 msgstr "薪資"

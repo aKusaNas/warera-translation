@@ -1556,7 +1556,7 @@ msgstr "API-tokens stellen externe applicaties in staat om namens jou toegang te
 msgid "App pattern"
 msgstr "App-patroon"
 
-#: src/components/_economy/transaction/TransactionList.tsx:76
+#: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
 msgstr "Aanmeldvergoeding"
 
@@ -1643,7 +1643,7 @@ msgstr "Artikel ID"
 msgid "Article liked"
 msgstr "Artikel leuk gevonden"
 
-#: src/components/_economy/transaction/TransactionList.tsx:80
+#: src/components/_economy/transaction/TransactionList.tsx:86
 msgid "Article Tip"
 msgstr "Artikel Fooi"
 
@@ -2644,7 +2644,7 @@ msgstr "Land"
 msgid "Country development income bonus"
 msgstr "Inkomstenbonus voor landontwikkeling"
 
-#: src/components/_economy/transaction/TransactionList.tsx:90
+#: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
 msgstr ""
 
@@ -2682,7 +2682,7 @@ msgstr "Maak"
 msgid "Craft <0>{count}</0> items"
 msgstr "Maak <0>{count}</0> items"
 
-#: src/components/_economy/transaction/TransactionList.tsx:82
+#: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
 msgstr "Maak item"
 
@@ -3067,7 +3067,7 @@ msgstr "Ontmantelen"
 msgid "Dismantle <0>{count}</0> items"
 msgstr "Ontmantel <0>{count}</0> items"
 
-#: src/components/_economy/transaction/TransactionList.tsx:85
+#: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
 msgstr "Ontmantel Item"
 
@@ -3117,7 +3117,7 @@ msgstr "Doneren"
 msgid "Donate <0>{count}</0> to MU or Country"
 msgstr "Doneer <0>{count}</0> aan ME of Land"
 
-#: src/components/_economy/transaction/TransactionList.tsx:79
+#: src/components/_economy/transaction/TransactionList.tsx:83
 msgid "Donation"
 msgstr "Donatie"
 
@@ -3527,7 +3527,7 @@ msgstr "Vecht!"
 msgid "Fighter Jet"
 msgstr "Straaljager"
 
-#: src/components/_economy/transaction/TransactionList.tsx:109
+#: src/components/_economy/transaction/TransactionList.tsx:143
 msgid "Filter by transaction type"
 msgstr "Filter op transactietype"
 
@@ -4144,7 +4144,7 @@ msgstr "Het zal geen productie opleveren en de arbeiders zullen niet kunnen werk
 msgid "Item bought"
 msgstr "Item gekocht"
 
-#: src/components/_economy/transaction/TransactionList.tsx:72
+#: src/components/_economy/transaction/TransactionList.tsx:74
 msgid "Item Market"
 msgstr "Item Markt"
 
@@ -5228,7 +5228,7 @@ msgstr "Geen gezworen vijand"
 msgid "No trading orders"
 msgstr "Geen handelsorders"
 
-#: src/components/_economy/transaction/TransactionList.tsx:119
+#: src/components/_economy/transaction/TransactionList.tsx:153
 msgid "No transactions found"
 msgstr "Geen transacties gevonden"
 
@@ -5352,7 +5352,7 @@ msgstr "Open <0>{count}</0>"
 msgid "Open case"
 msgstr "Open kist"
 
-#: src/components/_economy/transaction/TransactionList.tsx:81
+#: src/components/_economy/transaction/TransactionList.tsx:89
 msgid "Open Case"
 msgstr "Open Kist"
 
@@ -7890,7 +7890,7 @@ msgstr "Kiezer"
 msgid "VS"
 msgstr "tegen"
 
-#: src/components/_economy/transaction/TransactionList.tsx:73
+#: src/components/_economy/transaction/TransactionList.tsx:77
 #: src/components/_economy/work/WorkChart.tsx:245
 msgid "Wage"
 msgstr "Loon"

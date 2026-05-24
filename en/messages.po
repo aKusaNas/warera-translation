@@ -1556,7 +1556,7 @@ msgstr "API tokens allow external applications to access the API on your behalf.
 msgid "App pattern"
 msgstr "App pattern"
 
-#: src/components/_economy/transaction/TransactionList.tsx:76
+#: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
 msgstr "Application fee"
 
@@ -1643,7 +1643,7 @@ msgstr "Article ID"
 msgid "Article liked"
 msgstr "Article liked"
 
-#: src/components/_economy/transaction/TransactionList.tsx:80
+#: src/components/_economy/transaction/TransactionList.tsx:86
 msgid "Article Tip"
 msgstr "Article Tip"
 
@@ -2644,7 +2644,7 @@ msgstr "Country"
 msgid "Country development income bonus"
 msgstr "Country development income bonus"
 
-#: src/components/_economy/transaction/TransactionList.tsx:90
+#: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
 msgstr "Country Money Transfer"
 
@@ -2682,7 +2682,7 @@ msgstr "Craft"
 msgid "Craft <0>{count}</0> items"
 msgstr "Craft <0>{count}</0> items"
 
-#: src/components/_economy/transaction/TransactionList.tsx:82
+#: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
 msgstr "Craft Item"
 
@@ -3067,7 +3067,7 @@ msgstr "Dismantle"
 msgid "Dismantle <0>{count}</0> items"
 msgstr "Dismantle <0>{count}</0> items"
 
-#: src/components/_economy/transaction/TransactionList.tsx:85
+#: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
 msgstr "Dismantle Item"
 
@@ -3117,7 +3117,7 @@ msgstr "Donate"
 msgid "Donate <0>{count}</0> to MU or Country"
 msgstr "Donate <0>{count}</0> to MU or Country"
 
-#: src/components/_economy/transaction/TransactionList.tsx:79
+#: src/components/_economy/transaction/TransactionList.tsx:83
 msgid "Donation"
 msgstr "Donation"
 
@@ -3527,7 +3527,7 @@ msgstr "Fight!"
 msgid "Fighter Jet"
 msgstr "Fighter Jet"
 
-#: src/components/_economy/transaction/TransactionList.tsx:109
+#: src/components/_economy/transaction/TransactionList.tsx:143
 msgid "Filter by transaction type"
 msgstr "Filter by transaction type"
 
@@ -4144,7 +4144,7 @@ msgstr "It will not gain any production and its workers will not be able to work
 msgid "Item bought"
 msgstr "Item bought"
 
-#: src/components/_economy/transaction/TransactionList.tsx:72
+#: src/components/_economy/transaction/TransactionList.tsx:74
 msgid "Item Market"
 msgstr "Item Market"
 
@@ -5228,7 +5228,7 @@ msgstr "No sworn enemy"
 msgid "No trading orders"
 msgstr "No trading orders"
 
-#: src/components/_economy/transaction/TransactionList.tsx:119
+#: src/components/_economy/transaction/TransactionList.tsx:153
 msgid "No transactions found"
 msgstr "No transactions found"
 
@@ -5352,7 +5352,7 @@ msgstr "Open <0>{count}</0>"
 msgid "Open case"
 msgstr "Open case"
 
-#: src/components/_economy/transaction/TransactionList.tsx:81
+#: src/components/_economy/transaction/TransactionList.tsx:89
 msgid "Open Case"
 msgstr "Open Case"
 
@@ -7890,7 +7890,7 @@ msgstr "Voter"
 msgid "VS"
 msgstr "VS"
 
-#: src/components/_economy/transaction/TransactionList.tsx:73
+#: src/components/_economy/transaction/TransactionList.tsx:77
 #: src/components/_economy/work/WorkChart.tsx:245
 msgid "Wage"
 msgstr "Wage"

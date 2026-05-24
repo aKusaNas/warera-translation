@@ -1556,7 +1556,7 @@ msgstr "Os tokens de API permitem que aplicações externas acessem a API em seu
 msgid "App pattern"
 msgstr "Padrão da aplicação"
 
-#: src/components/_economy/transaction/TransactionList.tsx:76
+#: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
 msgstr "Taxa de aplicação"
 
@@ -1643,7 +1643,7 @@ msgstr "ID do artigo"
 msgid "Article liked"
 msgstr "Artigo curtido"
 
-#: src/components/_economy/transaction/TransactionList.tsx:80
+#: src/components/_economy/transaction/TransactionList.tsx:86
 msgid "Article Tip"
 msgstr "Gorjeta de artigo"
 
@@ -2644,7 +2644,7 @@ msgstr "País"
 msgid "Country development income bonus"
 msgstr "Bónus de renda por desenvolvimento do país"
 
-#: src/components/_economy/transaction/TransactionList.tsx:90
+#: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
 msgstr ""
 
@@ -2682,7 +2682,7 @@ msgstr "Fabricar"
 msgid "Craft <0>{count}</0> items"
 msgstr "Fabricar <0>{count}</0> itens"
 
-#: src/components/_economy/transaction/TransactionList.tsx:82
+#: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
 msgstr "Fabricar item"
 
@@ -3067,7 +3067,7 @@ msgstr "Desmontar"
 msgid "Dismantle <0>{count}</0> items"
 msgstr "Desmontar <0>{count}</0> itens"
 
-#: src/components/_economy/transaction/TransactionList.tsx:85
+#: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
 msgstr "Desmontar item"
 
@@ -3117,7 +3117,7 @@ msgstr "Doar"
 msgid "Donate <0>{count}</0> to MU or Country"
 msgstr "Doar <0>{count}</0> para a UM ou país"
 
-#: src/components/_economy/transaction/TransactionList.tsx:79
+#: src/components/_economy/transaction/TransactionList.tsx:83
 msgid "Donation"
 msgstr "Doação"
 
@@ -3527,7 +3527,7 @@ msgstr "Lute!"
 msgid "Fighter Jet"
 msgstr "Caça"
 
-#: src/components/_economy/transaction/TransactionList.tsx:109
+#: src/components/_economy/transaction/TransactionList.tsx:143
 msgid "Filter by transaction type"
 msgstr "Filtrar por tipo de transação"
 
@@ -4144,7 +4144,7 @@ msgstr "Não ganhará produção e seus funcionários não poderão trabalhar."
 msgid "Item bought"
 msgstr "Item comprado"
 
-#: src/components/_economy/transaction/TransactionList.tsx:72
+#: src/components/_economy/transaction/TransactionList.tsx:74
 msgid "Item Market"
 msgstr "Mercado de itens"
 
@@ -5228,7 +5228,7 @@ msgstr "Sem inimigo jurado"
 msgid "No trading orders"
 msgstr "Sem ordens de troca"
 
-#: src/components/_economy/transaction/TransactionList.tsx:119
+#: src/components/_economy/transaction/TransactionList.tsx:153
 msgid "No transactions found"
 msgstr "Nenhuma transação encontrada"
 
@@ -5352,7 +5352,7 @@ msgstr "Abrir <0>{count}</0>"
 msgid "Open case"
 msgstr "Abrir caixa"
 
-#: src/components/_economy/transaction/TransactionList.tsx:81
+#: src/components/_economy/transaction/TransactionList.tsx:89
 msgid "Open Case"
 msgstr "Abrir Caixa"
 
@@ -7890,7 +7890,7 @@ msgstr "Eleitor"
 msgid "VS"
 msgstr "VS"
 
-#: src/components/_economy/transaction/TransactionList.tsx:73
+#: src/components/_economy/transaction/TransactionList.tsx:77
 #: src/components/_economy/work/WorkChart.tsx:245
 msgid "Wage"
 msgstr "Salário"

@@ -1556,7 +1556,7 @@ msgstr ""
 msgid "App pattern"
 msgstr ""
 
-#: src/components/_economy/transaction/TransactionList.tsx:76
+#: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
 msgstr ""
 
@@ -1643,7 +1643,7 @@ msgstr ""
 msgid "Article liked"
 msgstr ""
 
-#: src/components/_economy/transaction/TransactionList.tsx:80
+#: src/components/_economy/transaction/TransactionList.tsx:86
 msgid "Article Tip"
 msgstr ""
 
@@ -2644,7 +2644,7 @@ msgstr ""
 msgid "Country development income bonus"
 msgstr ""
 
-#: src/components/_economy/transaction/TransactionList.tsx:90
+#: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
 msgstr ""
 
@@ -2682,7 +2682,7 @@ msgstr ""
 msgid "Craft <0>{count}</0> items"
 msgstr ""
 
-#: src/components/_economy/transaction/TransactionList.tsx:82
+#: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
 msgstr ""
 
@@ -3067,7 +3067,7 @@ msgstr "اکھاڑیں"
 msgid "Dismantle <0>{count}</0> items"
 msgstr "<0>{count}</0> چیزیں اکھاڑیں"
 
-#: src/components/_economy/transaction/TransactionList.tsx:85
+#: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
 msgstr "چیز اکھاڑیں"
 
@@ -3117,7 +3117,7 @@ msgstr ""
 msgid "Donate <0>{count}</0> to MU or Country"
 msgstr ""
 
-#: src/components/_economy/transaction/TransactionList.tsx:79
+#: src/components/_economy/transaction/TransactionList.tsx:83
 msgid "Donation"
 msgstr ""
 
@@ -3527,7 +3527,7 @@ msgstr ""
 msgid "Fighter Jet"
 msgstr ""
 
-#: src/components/_economy/transaction/TransactionList.tsx:109
+#: src/components/_economy/transaction/TransactionList.tsx:143
 msgid "Filter by transaction type"
 msgstr ""
 
@@ -4144,7 +4144,7 @@ msgstr ""
 msgid "Item bought"
 msgstr ""
 
-#: src/components/_economy/transaction/TransactionList.tsx:72
+#: src/components/_economy/transaction/TransactionList.tsx:74
 msgid "Item Market"
 msgstr ""
 
@@ -5228,7 +5228,7 @@ msgstr ""
 msgid "No trading orders"
 msgstr ""
 
-#: src/components/_economy/transaction/TransactionList.tsx:119
+#: src/components/_economy/transaction/TransactionList.tsx:153
 msgid "No transactions found"
 msgstr ""
 
@@ -5352,7 +5352,7 @@ msgstr "کھولیں <0>{count}</0>"
 msgid "Open case"
 msgstr "صندوق کھولیں"
 
-#: src/components/_economy/transaction/TransactionList.tsx:81
+#: src/components/_economy/transaction/TransactionList.tsx:89
 msgid "Open Case"
 msgstr "صندوق کھولیں"
 
@@ -7890,7 +7890,7 @@ msgstr "رائے دہندہ"
 msgid "VS"
 msgstr "بمقابلہ"
 
-#: src/components/_economy/transaction/TransactionList.tsx:73
+#: src/components/_economy/transaction/TransactionList.tsx:77
 #: src/components/_economy/work/WorkChart.tsx:245
 msgid "Wage"
 msgstr "مزدوری"

@@ -1556,7 +1556,7 @@ msgstr "API-tokens tillåter externa applikationer att ansluta för din räkning
 msgid "App pattern"
 msgstr "App-mönster"
 
-#: src/components/_economy/transaction/TransactionList.tsx:76
+#: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
 msgstr "Ansökningsavgift"
 
@@ -1643,7 +1643,7 @@ msgstr "Artikel-ID"
 msgid "Article liked"
 msgstr "Artikel gillad"
 
-#: src/components/_economy/transaction/TransactionList.tsx:80
+#: src/components/_economy/transaction/TransactionList.tsx:86
 msgid "Article Tip"
 msgstr "Artikeldricks"
 
@@ -2644,7 +2644,7 @@ msgstr "Land"
 msgid "Country development income bonus"
 msgstr "Nationell bonus för bebyggelseinkomst"
 
-#: src/components/_economy/transaction/TransactionList.tsx:90
+#: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
 msgstr ""
 
@@ -2682,7 +2682,7 @@ msgstr "Tillverka"
 msgid "Craft <0>{count}</0> items"
 msgstr "Tillverka <0>{count}</0> föremål"
 
-#: src/components/_economy/transaction/TransactionList.tsx:82
+#: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
 msgstr "Tillverka föremål"
 
@@ -3067,7 +3067,7 @@ msgstr "Skrota"
 msgid "Dismantle <0>{count}</0> items"
 msgstr "Skrota <0>{count}</0> föremål"
 
-#: src/components/_economy/transaction/TransactionList.tsx:85
+#: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
 msgstr "Skrota föremål"
 
@@ -3117,7 +3117,7 @@ msgstr "Donera"
 msgid "Donate <0>{count}</0> to MU or Country"
 msgstr "Donera <0>{count}</0> till förband eller land"
 
-#: src/components/_economy/transaction/TransactionList.tsx:79
+#: src/components/_economy/transaction/TransactionList.tsx:83
 msgid "Donation"
 msgstr "Donation"
 
@@ -3527,7 +3527,7 @@ msgstr "Till Strid!"
 msgid "Fighter Jet"
 msgstr "Jaktplan Gripen"
 
-#: src/components/_economy/transaction/TransactionList.tsx:109
+#: src/components/_economy/transaction/TransactionList.tsx:143
 msgid "Filter by transaction type"
 msgstr "Filtrera efter transaktionstyp"
 
@@ -4144,7 +4144,7 @@ msgstr "Det kommer inte att producera något och dess anställda kommer inte att
 msgid "Item bought"
 msgstr "Föremål köpt"
 
-#: src/components/_economy/transaction/TransactionList.tsx:72
+#: src/components/_economy/transaction/TransactionList.tsx:74
 msgid "Item Market"
 msgstr "Föremålsmarknad"
 
@@ -5228,7 +5228,7 @@ msgstr "Ingen svuren fiende"
 msgid "No trading orders"
 msgstr "Inga handelsordrar"
 
-#: src/components/_economy/transaction/TransactionList.tsx:119
+#: src/components/_economy/transaction/TransactionList.tsx:153
 msgid "No transactions found"
 msgstr "Inga transaktioner hittades"
 
@@ -5352,7 +5352,7 @@ msgstr "Öppna <0>{count}</0>"
 msgid "Open case"
 msgstr "Öppna låda"
 
-#: src/components/_economy/transaction/TransactionList.tsx:81
+#: src/components/_economy/transaction/TransactionList.tsx:89
 msgid "Open Case"
 msgstr "Öppna låda"
 
@@ -7890,7 +7890,7 @@ msgstr "Röstande"
 msgid "VS"
 msgstr "mot"
 
-#: src/components/_economy/transaction/TransactionList.tsx:73
+#: src/components/_economy/transaction/TransactionList.tsx:77
 #: src/components/_economy/work/WorkChart.tsx:245
 msgid "Wage"
 msgstr "Lön"

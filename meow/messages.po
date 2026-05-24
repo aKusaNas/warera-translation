@@ -1556,7 +1556,7 @@ msgstr "Meow meow meow meow meow meow meow meow Meow meow meow meow. Meow meow m
 msgid "App pattern"
 msgstr "Meow meow"
 
-#: src/components/_economy/transaction/TransactionList.tsx:76
+#: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
 msgstr "Meow meow"
 
@@ -1643,7 +1643,7 @@ msgstr "Meow Meow"
 msgid "Article liked"
 msgstr "Meow meow"
 
-#: src/components/_economy/transaction/TransactionList.tsx:80
+#: src/components/_economy/transaction/TransactionList.tsx:86
 msgid "Article Tip"
 msgstr "Meow Meow"
 
@@ -2644,7 +2644,7 @@ msgstr "Meow"
 msgid "Country development income bonus"
 msgstr "Meow meow meow meow"
 
-#: src/components/_economy/transaction/TransactionList.tsx:90
+#: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
 msgstr ""
 
@@ -2682,7 +2682,7 @@ msgstr "Meow"
 msgid "Craft <0>{count}</0> items"
 msgstr "Meow <0>{count}</0> meow"
 
-#: src/components/_economy/transaction/TransactionList.tsx:82
+#: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
 msgstr "Meow Meow"
 
@@ -3067,7 +3067,7 @@ msgstr "Meow"
 msgid "Dismantle <0>{count}</0> items"
 msgstr "Meow <0>{count}</0> meow"
 
-#: src/components/_economy/transaction/TransactionList.tsx:85
+#: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
 msgstr "Meow Meow"
 
@@ -3117,7 +3117,7 @@ msgstr "Meow"
 msgid "Donate <0>{count}</0> to MU or Country"
 msgstr "Meow <0>{count}</0> meow Meow meow Meow"
 
-#: src/components/_economy/transaction/TransactionList.tsx:79
+#: src/components/_economy/transaction/TransactionList.tsx:83
 msgid "Donation"
 msgstr "Meow"
 
@@ -3527,7 +3527,7 @@ msgstr "Meow!"
 msgid "Fighter Jet"
 msgstr "Meow Meow"
 
-#: src/components/_economy/transaction/TransactionList.tsx:109
+#: src/components/_economy/transaction/TransactionList.tsx:143
 msgid "Filter by transaction type"
 msgstr "Meow meow meow meow"
 
@@ -4144,7 +4144,7 @@ msgstr "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow me
 msgid "Item bought"
 msgstr "Meow meow"
 
-#: src/components/_economy/transaction/TransactionList.tsx:72
+#: src/components/_economy/transaction/TransactionList.tsx:74
 msgid "Item Market"
 msgstr "Meow Meow"
 
@@ -5228,7 +5228,7 @@ msgstr "Meow meow meow"
 msgid "No trading orders"
 msgstr "Meow meow meow"
 
-#: src/components/_economy/transaction/TransactionList.tsx:119
+#: src/components/_economy/transaction/TransactionList.tsx:153
 msgid "No transactions found"
 msgstr "Meow meow meow"
 
@@ -5352,7 +5352,7 @@ msgstr "Meow <0>{count}</0>"
 msgid "Open case"
 msgstr "Meow meow"
 
-#: src/components/_economy/transaction/TransactionList.tsx:81
+#: src/components/_economy/transaction/TransactionList.tsx:89
 msgid "Open Case"
 msgstr "Meow Meow"
 
@@ -7890,7 +7890,7 @@ msgstr "Meow"
 msgid "VS"
 msgstr "Meow"
 
-#: src/components/_economy/transaction/TransactionList.tsx:73
+#: src/components/_economy/transaction/TransactionList.tsx:77
 #: src/components/_economy/work/WorkChart.tsx:245
 msgid "Wage"
 msgstr "Meow"

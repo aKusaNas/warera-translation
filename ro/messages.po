@@ -1554,7 +1554,7 @@ msgstr "Tokenii API permit aplicațiilor externe să acceseze API-ul în numele 
 msgid "App pattern"
 msgstr "Textură"
 
-#: src/components/_economy/transaction/TransactionList.tsx:76
+#: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
 msgstr "Taxă aplicare"
 
@@ -1641,7 +1641,7 @@ msgstr "ID articol"
 msgid "Article liked"
 msgstr "Articol apreciat"
 
-#: src/components/_economy/transaction/TransactionList.tsx:80
+#: src/components/_economy/transaction/TransactionList.tsx:86
 msgid "Article Tip"
 msgstr "Sponsorizări articol"
 
@@ -2642,7 +2642,7 @@ msgstr "Țară"
 msgid "Country development income bonus"
 msgstr "Venit bonus din dezvoltare pe țară"
 
-#: src/components/_economy/transaction/TransactionList.tsx:90
+#: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
 msgstr ""
 
@@ -2680,7 +2680,7 @@ msgstr "Fabrică"
 msgid "Craft <0>{count}</0> items"
 msgstr "Fabrică <0>{count}</0> obiecte"
 
-#: src/components/_economy/transaction/TransactionList.tsx:82
+#: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
 msgstr "Creează obiect"
 
@@ -3065,7 +3065,7 @@ msgstr "Dezmembrează"
 msgid "Dismantle <0>{count}</0> items"
 msgstr "Dezmembrează <0>{count}</0> obiecte"
 
-#: src/components/_economy/transaction/TransactionList.tsx:85
+#: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
 msgstr "Dezmembrează obiect"
 
@@ -3115,7 +3115,7 @@ msgstr "Donează"
 msgid "Donate <0>{count}</0> to MU or Country"
 msgstr "Donează <0>{count}</0> către UM sau țară"
 
-#: src/components/_economy/transaction/TransactionList.tsx:79
+#: src/components/_economy/transaction/TransactionList.tsx:83
 msgid "Donation"
 msgstr "Donație"
 
@@ -3525,7 +3525,7 @@ msgstr "Luptă!"
 msgid "Fighter Jet"
 msgstr "Jet militar"
 
-#: src/components/_economy/transaction/TransactionList.tsx:109
+#: src/components/_economy/transaction/TransactionList.tsx:143
 msgid "Filter by transaction type"
 msgstr "Filtează după tipul tranzacției"
 
@@ -4142,7 +4142,7 @@ msgstr "Producția este oprită, iar angajații nu pot munci."
 msgid "Item bought"
 msgstr "Obiect cumpărat"
 
-#: src/components/_economy/transaction/TransactionList.tsx:72
+#: src/components/_economy/transaction/TransactionList.tsx:74
 msgid "Item Market"
 msgstr "Piață Obiecte"
 
@@ -5226,7 +5226,7 @@ msgstr "Niciun inamic principal"
 msgid "No trading orders"
 msgstr "Fără comenzi de tranzacționare"
 
-#: src/components/_economy/transaction/TransactionList.tsx:119
+#: src/components/_economy/transaction/TransactionList.tsx:153
 msgid "No transactions found"
 msgstr "Fără tranzacții"
 
@@ -5350,7 +5350,7 @@ msgstr "Deschide <0>{count}</0>"
 msgid "Open case"
 msgstr "Deschide cutia"
 
-#: src/components/_economy/transaction/TransactionList.tsx:81
+#: src/components/_economy/transaction/TransactionList.tsx:89
 msgid "Open Case"
 msgstr "Deschide cutie"
 
@@ -7888,7 +7888,7 @@ msgstr "Votant"
 msgid "VS"
 msgstr "VS"
 
-#: src/components/_economy/transaction/TransactionList.tsx:73
+#: src/components/_economy/transaction/TransactionList.tsx:77
 #: src/components/_economy/work/WorkChart.tsx:245
 msgid "Wage"
 msgstr "Salariu"

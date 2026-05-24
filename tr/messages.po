@@ -1556,7 +1556,7 @@ msgstr "API tokenleri harici uygulamaların sizin adınıza API'ye erişmesine i
 msgid "App pattern"
 msgstr "Uygulama deseni"
 
-#: src/components/_economy/transaction/TransactionList.tsx:76
+#: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
 msgstr "Başvuru ücreti"
 
@@ -1643,7 +1643,7 @@ msgstr "Makale ID"
 msgid "Article liked"
 msgstr "Makale beğenildi"
 
-#: src/components/_economy/transaction/TransactionList.tsx:80
+#: src/components/_economy/transaction/TransactionList.tsx:86
 msgid "Article Tip"
 msgstr "Makale Bahşişi"
 
@@ -2644,7 +2644,7 @@ msgstr "Ülke"
 msgid "Country development income bonus"
 msgstr "Ülke kalkınma gelir bonusu"
 
-#: src/components/_economy/transaction/TransactionList.tsx:90
+#: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
 msgstr ""
 
@@ -2682,7 +2682,7 @@ msgstr "Üret"
 msgid "Craft <0>{count}</0> items"
 msgstr "<0>{count}</0> eşya üret"
 
-#: src/components/_economy/transaction/TransactionList.tsx:82
+#: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
 msgstr "Eşya Üret"
 
@@ -3067,7 +3067,7 @@ msgstr "Parçala"
 msgid "Dismantle <0>{count}</0> items"
 msgstr "<0>{count}</0> eşya parçala"
 
-#: src/components/_economy/transaction/TransactionList.tsx:85
+#: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
 msgstr "Eşyayı Parçala"
 
@@ -3117,7 +3117,7 @@ msgstr "Bağış yap"
 msgid "Donate <0>{count}</0> to MU or Country"
 msgstr "AB veya Ülkeye <0>{count}</0> bağışla"
 
-#: src/components/_economy/transaction/TransactionList.tsx:79
+#: src/components/_economy/transaction/TransactionList.tsx:83
 msgid "Donation"
 msgstr "Bağış"
 
@@ -3527,7 +3527,7 @@ msgstr "Savaş!"
 msgid "Fighter Jet"
 msgstr "Savaş Uçağı"
 
-#: src/components/_economy/transaction/TransactionList.tsx:109
+#: src/components/_economy/transaction/TransactionList.tsx:143
 msgid "Filter by transaction type"
 msgstr "İşlem türüne göre filtrele"
 
@@ -4144,7 +4144,7 @@ msgstr "Herhangi bir üretim kazanmayacak ve işçileri çalışamayacak."
 msgid "Item bought"
 msgstr "Eşya satın alındı"
 
-#: src/components/_economy/transaction/TransactionList.tsx:72
+#: src/components/_economy/transaction/TransactionList.tsx:74
 msgid "Item Market"
 msgstr "Eşya Pazarı"
 
@@ -5228,7 +5228,7 @@ msgstr "Baş düşman yok"
 msgid "No trading orders"
 msgstr "Alım satım emri yok"
 
-#: src/components/_economy/transaction/TransactionList.tsx:119
+#: src/components/_economy/transaction/TransactionList.tsx:153
 msgid "No transactions found"
 msgstr "İşlem bulunamadı"
 
@@ -5352,7 +5352,7 @@ msgstr "<0>{count}</0> aç"
 msgid "Open case"
 msgstr "Kasa aç"
 
-#: src/components/_economy/transaction/TransactionList.tsx:81
+#: src/components/_economy/transaction/TransactionList.tsx:89
 msgid "Open Case"
 msgstr "Kasa Aç"
 
@@ -7890,7 +7890,7 @@ msgstr "Seçmen"
 msgid "VS"
 msgstr "VS"
 
-#: src/components/_economy/transaction/TransactionList.tsx:73
+#: src/components/_economy/transaction/TransactionList.tsx:77
 #: src/components/_economy/work/WorkChart.tsx:245
 msgid "Wage"
 msgstr "Maaş"

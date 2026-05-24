@@ -1556,7 +1556,7 @@ msgstr "Az API tokenek lehetővé teszik külső alkalmazások számára, hogy a
 msgid "App pattern"
 msgstr "Alkalmazás minta"
 
-#: src/components/_economy/transaction/TransactionList.tsx:76
+#: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
 msgstr "Jelentkezési díj"
 
@@ -1643,7 +1643,7 @@ msgstr "Cikk azonosító"
 msgid "Article liked"
 msgstr "Cikk lájkolva"
 
-#: src/components/_economy/transaction/TransactionList.tsx:80
+#: src/components/_economy/transaction/TransactionList.tsx:86
 msgid "Article Tip"
 msgstr "Cikk borravaló"
 
@@ -2644,7 +2644,7 @@ msgstr "Ország"
 msgid "Country development income bonus"
 msgstr "Országfejlesztési jövedelem bónusz"
 
-#: src/components/_economy/transaction/TransactionList.tsx:90
+#: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
 msgstr ""
 
@@ -2682,7 +2682,7 @@ msgstr "Készítés"
 msgid "Craft <0>{count}</0> items"
 msgstr "Készíts <0>{count}</0> tárgyat"
 
-#: src/components/_economy/transaction/TransactionList.tsx:82
+#: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
 msgstr "Tárgy készítése"
 
@@ -3067,7 +3067,7 @@ msgstr "Szétszerelés"
 msgid "Dismantle <0>{count}</0> items"
 msgstr "Szerelj szét <0>{count}</0> tárgyat"
 
-#: src/components/_economy/transaction/TransactionList.tsx:85
+#: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
 msgstr "Tárgy szétszerelése"
 
@@ -3117,7 +3117,7 @@ msgstr "Adományozás"
 msgid "Donate <0>{count}</0> to MU or Country"
 msgstr "Adományozz <0>{count}</0> értékben katonai egységnek vagy országnak"
 
-#: src/components/_economy/transaction/TransactionList.tsx:79
+#: src/components/_economy/transaction/TransactionList.tsx:83
 msgid "Donation"
 msgstr "Adomány"
 
@@ -3527,7 +3527,7 @@ msgstr "Harcolj!"
 msgid "Fighter Jet"
 msgstr "Vadászgép"
 
-#: src/components/_economy/transaction/TransactionList.tsx:109
+#: src/components/_economy/transaction/TransactionList.tsx:143
 msgid "Filter by transaction type"
 msgstr "Szűrés tranzakció típusa szerint"
 
@@ -4144,7 +4144,7 @@ msgstr "Nem termel semmit, és a dolgozók nem tudnak dolgozni."
 msgid "Item bought"
 msgstr "Tárgy megvásárolva"
 
-#: src/components/_economy/transaction/TransactionList.tsx:72
+#: src/components/_economy/transaction/TransactionList.tsx:74
 msgid "Item Market"
 msgstr "Tárgy piac"
 
@@ -5228,7 +5228,7 @@ msgstr "Nincs esküdt ellenség"
 msgid "No trading orders"
 msgstr "Nincs kereskedelmi megbízás"
 
-#: src/components/_economy/transaction/TransactionList.tsx:119
+#: src/components/_economy/transaction/TransactionList.tsx:153
 msgid "No transactions found"
 msgstr "Nem található tranzakció"
 
@@ -5352,7 +5352,7 @@ msgstr "<0>{count}</0> megnyitása"
 msgid "Open case"
 msgstr "Láda megnyitása"
 
-#: src/components/_economy/transaction/TransactionList.tsx:81
+#: src/components/_economy/transaction/TransactionList.tsx:89
 msgid "Open Case"
 msgstr "Láda megnyitása"
 
@@ -7890,7 +7890,7 @@ msgstr "Szavazó"
 msgid "VS"
 msgstr "VS"
 
-#: src/components/_economy/transaction/TransactionList.tsx:73
+#: src/components/_economy/transaction/TransactionList.tsx:77
 #: src/components/_economy/work/WorkChart.tsx:245
 msgid "Wage"
 msgstr "Bér"

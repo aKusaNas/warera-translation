@@ -1556,7 +1556,7 @@ msgstr "تسمح رموز API للتطبيقات الخارجية بالوصول
 msgid "App pattern"
 msgstr "نمط التطبيق"
 
-#: src/components/_economy/transaction/TransactionList.tsx:76
+#: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
 msgstr "رسوم الطلب"
 
@@ -1643,7 +1643,7 @@ msgstr "معرف المقال"
 msgid "Article liked"
 msgstr "تم الإعجاب بالمقال"
 
-#: src/components/_economy/transaction/TransactionList.tsx:80
+#: src/components/_economy/transaction/TransactionList.tsx:86
 msgid "Article Tip"
 msgstr "إكرامية المقال"
 
@@ -2644,7 +2644,7 @@ msgstr "الدولة"
 msgid "Country development income bonus"
 msgstr "مكافأة دخل تطوير الدولة"
 
-#: src/components/_economy/transaction/TransactionList.tsx:90
+#: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
 msgstr ""
 
@@ -2682,7 +2682,7 @@ msgstr "صناعة"
 msgid "Craft <0>{count}</0> items"
 msgstr "صناعة <0>{count}</0> عناصر"
 
-#: src/components/_economy/transaction/TransactionList.tsx:82
+#: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
 msgstr "صناعة عنصر"
 
@@ -3067,7 +3067,7 @@ msgstr "تفكيك"
 msgid "Dismantle <0>{count}</0> items"
 msgstr "فكك <0>{count}</0> عناصر"
 
-#: src/components/_economy/transaction/TransactionList.tsx:85
+#: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
 msgstr "تفكيك العنصر"
 
@@ -3117,7 +3117,7 @@ msgstr "تبرع"
 msgid "Donate <0>{count}</0> to MU or Country"
 msgstr "تبرع بـ <0>{count}</0> للوحدة العسكرية أو الدولة"
 
-#: src/components/_economy/transaction/TransactionList.tsx:79
+#: src/components/_economy/transaction/TransactionList.tsx:83
 msgid "Donation"
 msgstr "تبرع"
 
@@ -3527,7 +3527,7 @@ msgstr "قتال!"
 msgid "Fighter Jet"
 msgstr "طائرة مقاتلة"
 
-#: src/components/_economy/transaction/TransactionList.tsx:109
+#: src/components/_economy/transaction/TransactionList.tsx:143
 msgid "Filter by transaction type"
 msgstr "تصفية حسب نوع المعاملة"
 
@@ -4144,7 +4144,7 @@ msgstr "لن يكتسب أي إنتاج ولن يتمكن عماله من الع
 msgid "Item bought"
 msgstr "تم شراء العنصر"
 
-#: src/components/_economy/transaction/TransactionList.tsx:72
+#: src/components/_economy/transaction/TransactionList.tsx:74
 msgid "Item Market"
 msgstr "سوق العناصر"
 
@@ -5228,7 +5228,7 @@ msgstr "لا يوجد عدو لدود"
 msgid "No trading orders"
 msgstr "لا توجد أوامر تداول"
 
-#: src/components/_economy/transaction/TransactionList.tsx:119
+#: src/components/_economy/transaction/TransactionList.tsx:153
 msgid "No transactions found"
 msgstr "لم يتم العثور على معاملات"
 
@@ -5352,7 +5352,7 @@ msgstr "فتح <0>{count}</0>"
 msgid "Open case"
 msgstr "فتح الصندوق"
 
-#: src/components/_economy/transaction/TransactionList.tsx:81
+#: src/components/_economy/transaction/TransactionList.tsx:89
 msgid "Open Case"
 msgstr "فتح الصندوق"
 
@@ -7890,7 +7890,7 @@ msgstr "ناخب"
 msgid "VS"
 msgstr "ضد"
 
-#: src/components/_economy/transaction/TransactionList.tsx:73
+#: src/components/_economy/transaction/TransactionList.tsx:77
 #: src/components/_economy/work/WorkChart.tsx:245
 msgid "Wage"
 msgstr "أجر"

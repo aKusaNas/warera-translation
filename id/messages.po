@@ -1556,7 +1556,7 @@ msgstr "Token API memungkinkan aplikasi eksternal mengakses API atas nama kamu. 
 msgid "App pattern"
 msgstr "Pola aplikasi"
 
-#: src/components/_economy/transaction/TransactionList.tsx:76
+#: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
 msgstr "Biaya pengajuan"
 
@@ -1643,7 +1643,7 @@ msgstr "ID artikel"
 msgid "Article liked"
 msgstr "Artikel disukai"
 
-#: src/components/_economy/transaction/TransactionList.tsx:80
+#: src/components/_economy/transaction/TransactionList.tsx:86
 msgid "Article Tip"
 msgstr "Tip artikel"
 
@@ -2644,7 +2644,7 @@ msgstr "Negara"
 msgid "Country development income bonus"
 msgstr "Bonus pendapatan pembangunan negara"
 
-#: src/components/_economy/transaction/TransactionList.tsx:90
+#: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
 msgstr ""
 
@@ -2682,7 +2682,7 @@ msgstr "Rakit"
 msgid "Craft <0>{count}</0> items"
 msgstr "Rakit <0>{count}</0> item"
 
-#: src/components/_economy/transaction/TransactionList.tsx:82
+#: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
 msgstr "Rakit item"
 
@@ -3067,7 +3067,7 @@ msgstr "Bongkar"
 msgid "Dismantle <0>{count}</0> items"
 msgstr "Bongkar <0>{count}</0> item"
 
-#: src/components/_economy/transaction/TransactionList.tsx:85
+#: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
 msgstr "Bongkar item"
 
@@ -3117,7 +3117,7 @@ msgstr "Sumbang"
 msgid "Donate <0>{count}</0> to MU or Country"
 msgstr "Sumbang <0>{count}</0> ke MU atau Negara"
 
-#: src/components/_economy/transaction/TransactionList.tsx:79
+#: src/components/_economy/transaction/TransactionList.tsx:83
 msgid "Donation"
 msgstr "Donasi"
 
@@ -3527,7 +3527,7 @@ msgstr "Bertarung!"
 msgid "Fighter Jet"
 msgstr "Jet tempur"
 
-#: src/components/_economy/transaction/TransactionList.tsx:109
+#: src/components/_economy/transaction/TransactionList.tsx:143
 msgid "Filter by transaction type"
 msgstr "Filter berdasarkan jenis transaksi"
 
@@ -4144,7 +4144,7 @@ msgstr "Tidak akan menghasilkan produksi apa pun dan pekerjanya tidak bisa beker
 msgid "Item bought"
 msgstr "Item dibeli"
 
-#: src/components/_economy/transaction/TransactionList.tsx:72
+#: src/components/_economy/transaction/TransactionList.tsx:74
 msgid "Item Market"
 msgstr "Pasar item"
 
@@ -5228,7 +5228,7 @@ msgstr "Tidak ada musuh bebuyutan"
 msgid "No trading orders"
 msgstr "Tidak ada order dagang"
 
-#: src/components/_economy/transaction/TransactionList.tsx:119
+#: src/components/_economy/transaction/TransactionList.tsx:153
 msgid "No transactions found"
 msgstr "Tidak ada transaksi"
 
@@ -5352,7 +5352,7 @@ msgstr "Buka <0>{count}</0>"
 msgid "Open case"
 msgstr "Buka peti"
 
-#: src/components/_economy/transaction/TransactionList.tsx:81
+#: src/components/_economy/transaction/TransactionList.tsx:89
 msgid "Open Case"
 msgstr "Buka Peti"
 
@@ -7890,7 +7890,7 @@ msgstr "Pemilih"
 msgid "VS"
 msgstr "VS"
 
-#: src/components/_economy/transaction/TransactionList.tsx:73
+#: src/components/_economy/transaction/TransactionList.tsx:77
 #: src/components/_economy/work/WorkChart.tsx:245
 msgid "Wage"
 msgstr "Upah"

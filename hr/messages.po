@@ -1556,7 +1556,7 @@ msgstr "API tokeni omogućuju trećim aplikaciјama pristup API-јu u tvoјe ime
 msgid "App pattern"
 msgstr "Uzorak aplikaciјe"
 
-#: src/components/_economy/transaction/TransactionList.tsx:76
+#: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Application fee"
 msgstr "Naknada za prijavu"
 
@@ -1643,7 +1643,7 @@ msgstr "ID članka"
 msgid "Article liked"
 msgstr "Članak laјkan"
 
-#: src/components/_economy/transaction/TransactionList.tsx:80
+#: src/components/_economy/transaction/TransactionList.tsx:86
 msgid "Article Tip"
 msgstr "Transakcije napojnica"
 
@@ -2644,7 +2644,7 @@ msgstr "Država"
 msgid "Country development income bonus"
 msgstr "Bonus prihoda od razvoјa države"
 
-#: src/components/_economy/transaction/TransactionList.tsx:90
+#: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
 msgstr ""
 
@@ -2682,7 +2682,7 @@ msgstr "Izradi"
 msgid "Craft <0>{count}</0> items"
 msgstr "Izradi <0>{count}</0> predmet/a"
 
-#: src/components/_economy/transaction/TransactionList.tsx:82
+#: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
 msgstr "Izrađeni predmeti"
 
@@ -3067,7 +3067,7 @@ msgstr "Rastavi"
 msgid "Dismantle <0>{count}</0> items"
 msgstr "Rastavi <0>{count}</0> predmet/a"
 
-#: src/components/_economy/transaction/TransactionList.tsx:85
+#: src/components/_economy/transaction/TransactionList.tsx:97
 msgid "Dismantle Item"
 msgstr "Rastavljeni predmeti"
 
@@ -3117,7 +3117,7 @@ msgstr "Doniraј"
 msgid "Donate <0>{count}</0> to MU or Country"
 msgstr "Doniraј <0>{count}</0> novca VЈ ili državi"
 
-#: src/components/_economy/transaction/TransactionList.tsx:79
+#: src/components/_economy/transaction/TransactionList.tsx:83
 msgid "Donation"
 msgstr "Transakcije donacija"
 
@@ -3527,7 +3527,7 @@ msgstr "Bori se!"
 msgid "Fighter Jet"
 msgstr "Borbeni Avion"
 
-#: src/components/_economy/transaction/TransactionList.tsx:109
+#: src/components/_economy/transaction/TransactionList.tsx:143
 msgid "Filter by transaction type"
 msgstr "Filtriraј po tipu transakciјe"
 
@@ -4144,7 +4144,7 @@ msgstr "Neće ništa proizvesti i njeni radnici neće moći raditi."
 msgid "Item bought"
 msgstr "Kupovina predmeta"
 
-#: src/components/_economy/transaction/TransactionList.tsx:72
+#: src/components/_economy/transaction/TransactionList.tsx:74
 msgid "Item Market"
 msgstr "Transakcije predmeta"
 
@@ -5228,7 +5228,7 @@ msgstr "Nema zakletog neprijatelja"
 msgid "No trading orders"
 msgstr "Nema tendera za trgovinu"
 
-#: src/components/_economy/transaction/TransactionList.tsx:119
+#: src/components/_economy/transaction/TransactionList.tsx:153
 msgid "No transactions found"
 msgstr "Transakciјe nisu pronađene"
 
@@ -5352,7 +5352,7 @@ msgstr "Otvori <0>{count}</0> kutija"
 msgid "Open case"
 msgstr "Otvori kutiju"
 
-#: src/components/_economy/transaction/TransactionList.tsx:81
+#: src/components/_economy/transaction/TransactionList.tsx:89
 msgid "Open Case"
 msgstr "Oprema iz kutija"
 
@@ -7890,7 +7890,7 @@ msgstr "Glasač"
 msgid "VS"
 msgstr "Protiv"
 
-#: src/components/_economy/transaction/TransactionList.tsx:73
+#: src/components/_economy/transaction/TransactionList.tsx:77
 #: src/components/_economy/work/WorkChart.tsx:245
 msgid "Wage"
 msgstr "Plaća"
