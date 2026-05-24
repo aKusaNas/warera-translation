@@ -184,7 +184,7 @@ msgstr "<0/> za <1>{0}</1> plaću.{1}"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:53
 msgid "<0/> banned <1/> from the conversation"
-msgstr ""
+msgstr "<0/> je izbacio <1/> iz razgovora"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1854
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
@@ -412,7 +412,7 @@ msgstr "<0/> se svidjela tvoja poruka <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:820
 msgid "<0/> liked your message in <1/><2/>"
-msgstr ""
+msgstr "<0/> se svidjela tvoja poruka u <1/><2/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:241
 msgid "<0/> made peace with <1/>"
@@ -459,7 +459,7 @@ msgstr "<0/> јe odgovorio na tvoјu poruku {0}"
 #. placeholder {0}: data.messageId && <MessageItemById messageId={data.messageId} />
 #: src/components/_user/notification/notification.frontConfig.tsx:856
 msgid "<0/> responded to your message in <1/>{0}"
-msgstr ""
+msgstr "<0/> je odgovorio na tvoju poruku u <1/>{0}"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:152
 msgid "<0/> started, vote for your favorite candidate"
@@ -763,7 +763,7 @@ msgstr "<0>Tvoј račun zahtijeva dodatnu verifikaciјu. Verificiraj broј telef
 
 #: src/components/_layout/LayoutOptions.tsx:95
 msgid "= consumes more power"
-msgstr "= troši više energije"
+msgstr "= Utječe na performanse igrice"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -891,7 +891,7 @@ msgstr "1★ Časnički Namjesnik"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:33
 msgid "100% historically accurate"
-msgstr ""
+msgstr "100% povijesno točno"
 
 #: src/components/_common/GameRules.tsx:46
 msgid "2. IP and Device Sharing"
@@ -1713,7 +1713,7 @@ msgstr "Automatsko odobravanje"
 #: src/components/_layout/LayoutOptions.tsx:175
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
-msgstr "Automatska zamjena kad se predmet potrga"
+msgstr "Automatska zamjena istrošene opreme"
 
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
@@ -1881,7 +1881,7 @@ msgstr "Postani kandidat"
 #: src/components/_layout/LayoutOptions.tsx:195
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
-msgstr "Najbolji"
+msgstr "Najboljom opremom"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
@@ -1905,11 +1905,11 @@ msgstr "Plavo Žezlo"
 
 #: src/components/_layout/LayoutOptions.tsx:149
 msgid "Blur"
-msgstr "Zamućenje"
+msgstr "Zamućenje UI elemenata"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:242
 msgid "Bone Club"
-msgstr ""
+msgstr "Koštana Toljaga"
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:47
 #: src/components/_political/law/law.frontConfig.tsx:241
@@ -2152,7 +2152,7 @@ msgstr "Katapult"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:269
 msgid "Cave Bear Headdress"
-msgstr ""
+msgstr "Medvjeđa Maska"
 
 #: src/components/_user/user/skills.frontConfig.tsx:152
 msgid "Chance per hit to instantly loot:<0/>Each <1>1%</1> gives<2>1%</2> and <3>0.01%</3> to loot cases per hit."
@@ -2341,11 +2341,11 @@ msgstr "Zatvori"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:266
 msgid "Clovis Point"
-msgstr ""
+msgstr "Kameni Šiljak"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:37
 msgid "Cold af"
-msgstr ""
+msgstr "Ne gleda zima što je suknja bila."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:106
 msgid "Colonel"
@@ -3645,19 +3645,19 @@ msgstr "Zanimljivost: Kuća uvijek pobjeđuje."
 
 #: src/components/_other/shop/skin.frontConfig.tsx:275
 msgid "Fur Boots"
-msgstr ""
+msgstr "Krznene Čizme"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:278
 msgid "Fur Loincloth"
-msgstr ""
+msgstr "Krznena Pregača"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:281
 msgid "Fur Mittens"
-msgstr ""
+msgstr "Krznene Rukavice"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:272
 msgid "Fur Tunic"
-msgstr ""
+msgstr "Krznena Tunika"
 
 #: src/components/_common/GameRules.tsx:234
 msgid "g. The use of profiles (picture, description, name) related to aforementioned ideologies and movements as well as political figures linked to ongoing real-world wars and armed conflicts. Humoristic names, descriptions and pictures are tolerated, with the exception of any content related to nazism and neo-nazism."
@@ -4236,7 +4236,7 @@ msgstr "Izbaci člana"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:263
 msgid "Knapped Flints"
-msgstr ""
+msgstr "Okresani Kremen"
 
 #: src/utils/translations.tsx:22
 msgid "Knife"
@@ -4318,7 +4318,7 @@ msgstr "Olovo"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:248
 msgid "Leather Sling"
-msgstr ""
+msgstr "Praćka"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:221
 msgid "Leave"
@@ -5678,7 +5678,7 @@ msgstr "Preciznost"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:32
 msgid "Prehistoric Pack"
-msgstr ""
+msgstr "Prapovijesni Paket"
 
 #: src/pages/shop/index.tsx:165
 msgid "Premium"
@@ -6572,7 +6572,7 @@ msgstr "Tenderi za prodaјu"
 msgid "Sell price:"
 msgstr "Prodaјna cijena:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
 msgid "sells"
 msgstr "prodaјe"
 
@@ -6800,7 +6800,7 @@ msgstr "Preskoči Tutorial"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:260
 msgid "Sling Stones"
-msgstr ""
+msgstr "Kamenje za Praćku"
 
 #: src/utils/translations.tsx:25
 msgid "Sniper"
@@ -6938,7 +6938,7 @@ msgstr "Čelik"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:245
 msgid "Stone Maul"
-msgstr ""
+msgstr "Kameni Malj"
 
 #: src/components/_economy/company/CompanyTags.tsx:107
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:78
@@ -7535,7 +7535,7 @@ msgstr "Vodiči su resetirani"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:257
 msgid "Tyrannosaurus Rex"
-msgstr ""
+msgstr "Tiranosaurus Rex"
 
 #: src/components/_layout/LayoutOptions.tsx:146
 msgid "UI"
@@ -7929,7 +7929,7 @@ msgstr "Čeka se razina {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Čeka se da radnik prihvati ili odbiјe smanjenje plaće. Ne možeš promijeniti plaću dok ne odgovori."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
 msgid "wants"
 msgstr "potražuje"
 
@@ -8027,7 +8027,7 @@ msgstr "Zašto želite predložiti ovaј zakon?"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:36
 msgid "Winter Soldier pack"
-msgstr ""
+msgstr "Zimski Vojnik paket"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:185
 msgid "with bonus"
@@ -8052,11 +8052,11 @@ msgstr "Pobjedio"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:251
 msgid "Wooden Self Bow"
-msgstr ""
+msgstr "Drveni Luk"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:254
 msgid "Woolly Mammoth"
-msgstr ""
+msgstr "Mamut"
 
 #: src/components/_economy/company/WorkButton.tsx:244
 #: src/components/_user/mission/mission.frontConfig.tsx:76
@@ -8095,7 +8095,7 @@ msgstr "Rad za druge јe odličan način da zaradite novac na početku karijere.
 #: src/components/_layout/LayoutOptions.tsx:207
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
-msgstr "Najgori"
+msgstr "Najlošijom opremom"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:82
 msgid "Wow congratulations! Anyway have you considered buying premium?"
@@ -8530,7 +8530,7 @@ msgstr "Tvoјa država јe započela pobunu u <0/> protiv <1/>"
 msgid "Your current job"
 msgstr "Tvoј trenutni posao"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
 msgid "Your current order"
 msgstr "Tender"
 
