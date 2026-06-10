@@ -624,7 +624,7 @@ msgstr "<0>{0}</0> ضد عدو <1/>"
 #. placeholder {0}: levelConfig.stats.attackBonus || 0
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:49
 msgid "<0>{0}</0> Attack bonus when attacking from this region.<1/>Citizens get the full bonus, allied countries get half."
-msgstr "مكافأة هجوم بنسبة <0>{0}</0> عند الهجوم من هذه المنطقة,<1/>يحصل المواطنون على الاضرار الاضافية كاملة، بينما تحصل الدول المتحالفة على نصفها.
+msgstr "مكافأة هجوم بنسبة <0>{0}</0> عند الهجوم من هذه المنطقة,<1/>يحصل المواطنون على الاضرار الاضافية كاملة، بينما تحصل الدول المتحالفة على نصفها."
 
 #. placeholder {0}: sideBonus.regionNotLinkedToCapitalMalusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:209
@@ -2013,7 +2013,7 @@ msgstr "أوامر المعركة"
 
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism['-2'].enemyBattleOrderMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:152
-msgid "Battle orders against your sworn enemy cost <0>{0}</0> less"
+msgid "Battle orders against your sworn enemy cost <0>{0}</0> less."
 msgstr "تكون تكلفة أوامر المعركة ضد عدوك اللدود أقل بنسبة <0>{0}</0>."
 
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism[2].pactBattleOrderMultiplier, )
@@ -5995,7 +5995,7 @@ msgstr "مسالم"
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:439
 msgid "Pacifist: orders defending your core regions or revolts cost {orderDiscountPercent}% less <0>{0}</0>"
-msgstr "مسالم: أوامر الدفاع عن مناطقك الأساسية أو التمردات تكلف أقل بنسبة {orderDiscountPercent}% <0>{0}</0>
+msgstr "مسالم: أوامر الدفاع عن مناطقك الأساسية أو التمردات تكلف أقل بنسبة {orderDiscountPercent}% <0>{0}</0>"
 
 #: src/components/_other/shop/ShopHeader.tsx:29
 msgid "Packs"
