@@ -64,16 +64,16 @@ msgstr "- इस क्षेत्र की रक्षा करने प�
 msgid "- Development income is reduced by 50%:<0>{0}</0>."
 msgstr "- विकास आय में 50% की कमी कर दी गई है: <0>{0}</0>।"
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:70
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:231
-msgid "(alliance average development)"
+#: src/components/_political/alliance/AllianceMemberRow.tsx:71
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:236
+msgid "(average member development)"
 msgstr ""
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:65
+#: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
 msgstr ""
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:225
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:226
 msgid "(own development)"
 msgstr ""
 
@@ -1372,7 +1372,7 @@ msgstr "सक्रिय निर्माण"
 msgid "Active War"
 msgstr "सक्रिय युद्ध"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:254
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:259
 msgid "Active wars"
 msgstr "सक्रिय युद्ध"
 
@@ -1495,7 +1495,7 @@ msgid "All types"
 msgstr "सभी प्रकार"
 
 #: src/components/_layout/map.frontConfig.tsx:32
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:192
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:193
 msgid "Alliance"
 msgstr ""
 
@@ -2987,7 +2987,7 @@ msgstr "d. किसी भी प्रकार का भेदभाव, न
 msgid "Daily"
 msgstr "दैनिक"
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:58
+#: src/components/_political/alliance/AllianceMemberRow.tsx:59
 #: src/components/_political/law/LawTypeSelect.tsx:188
 msgid "Daily maintenance"
 msgstr "दैनिक रखरखाव"
@@ -3147,7 +3147,7 @@ msgstr "रक्षक"
 msgid "Defenders"
 msgstr "रक्षक"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:329
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:334
 msgid "Defensive pact"
 msgstr ""
 
@@ -5106,7 +5106,7 @@ msgstr "सदस्य को कमांडर पद पर पदोन्�
 msgid "Members"
 msgstr "सदस्य"
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:45
+#: src/components/_political/alliance/AllianceMemberRow.tsx:46
 msgid "Membership suspended"
 msgstr ""
 
@@ -5583,7 +5583,7 @@ msgstr "कोई सक्रिय नैतिकता नहीं - सं
 msgid "No active job offer"
 msgstr "कोई सक्रिय नौकरी प्रस्ताव नहीं"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:262
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:267
 msgid "No active wars"
 msgstr "कोई सक्रिय युद्ध नहीं"
 
@@ -5631,7 +5631,7 @@ msgstr "अभी तक कोई योगदान नहीं"
 msgid "No damages ranking yet."
 msgstr "अभी तक कोई क्षति रैंकिंग नहीं।"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:388
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:393
 msgid "No defensive pact"
 msgstr ""
 
@@ -5712,7 +5712,7 @@ msgstr "अभी तक कोई रेफरर नहीं"
 msgid "No skins equipped"
 msgstr "कोई स्किन सुसज्जित नहीं है"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:321
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:326
 msgid "No sworn enemy"
 msgstr "कोई शपथ लिया हुआ दुश्मन नहीं"
 
@@ -5772,7 +5772,7 @@ msgstr "सहायता के सभी रूपों को बूस्�
 msgid "Not bad!"
 msgstr "बुरा नहीं!"
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:46
+#: src/components/_political/alliance/AllianceMemberRow.tsx:47
 msgid "Not enough paper to pay the daily alliance maintenance. Alliance damage bonuses are disabled for this country until it pays."
 msgstr ""
 
@@ -5780,7 +5780,7 @@ msgstr ""
 msgid "Not impressive, but not shameful"
 msgstr "प्रभावशाली नहीं, लेकिन शर्मनाक भी नहीं"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:207
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:208
 msgid "Not in any alliance"
 msgstr ""
 
@@ -7640,7 +7640,7 @@ msgstr "समर्थक योजना आपको {maxKits} तक कस�
 msgid "Supreme Commander"
 msgstr "सर्वोच्च कमांडर"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:271
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:276
 msgid "Sworn enemy"
 msgstr "शपथ लिया हुआ शत्रु"
 
@@ -8065,7 +8065,7 @@ msgstr "कुल क्षति"
 msgid "Total Donated:"
 msgstr "कुल दान:"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:394
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:399
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
 msgstr ""
 

@@ -64,16 +64,16 @@ msgstr "- Defending this region will have a malus of <0>{0}</0>."
 msgid "- Development income is reduced by 50%:<0>{0}</0>."
 msgstr "- Development income is reduced by 50%:<0>{0}</0>."
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:70
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:231
-msgid "(alliance average development)"
-msgstr "(alliance average development)"
+#: src/components/_political/alliance/AllianceMemberRow.tsx:71
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:236
+msgid "(average member development)"
+msgstr "(average member development)"
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:65
+#: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
 msgstr "(member average development)"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:225
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:226
 msgid "(own development)"
 msgstr "(own development)"
 
@@ -1372,7 +1372,7 @@ msgstr "Active construction"
 msgid "Active War"
 msgstr "Active War"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:254
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:259
 msgid "Active wars"
 msgstr "Active wars"
 
@@ -1495,7 +1495,7 @@ msgid "All types"
 msgstr "All types"
 
 #: src/components/_layout/map.frontConfig.tsx:32
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:192
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:193
 msgid "Alliance"
 msgstr "Alliance"
 
@@ -2987,7 +2987,7 @@ msgstr "d. Any form of discrimination, racism, xenophobia, antisemitism, homopho
 msgid "Daily"
 msgstr "Daily"
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:58
+#: src/components/_political/alliance/AllianceMemberRow.tsx:59
 #: src/components/_political/law/LawTypeSelect.tsx:188
 msgid "Daily maintenance"
 msgstr "Daily maintenance"
@@ -3147,7 +3147,7 @@ msgstr "Defender"
 msgid "Defenders"
 msgstr "Defenders"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:329
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:334
 msgid "Defensive pact"
 msgstr "Defensive pact"
 
@@ -5106,7 +5106,7 @@ msgstr "Member promoted to commander"
 msgid "Members"
 msgstr "Members"
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:45
+#: src/components/_political/alliance/AllianceMemberRow.tsx:46
 msgid "Membership suspended"
 msgstr "Membership suspended"
 
@@ -5583,7 +5583,7 @@ msgstr "No active ethics - Balanced"
 msgid "No active job offer"
 msgstr "No active job offer"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:262
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:267
 msgid "No active wars"
 msgstr "No active wars"
 
@@ -5631,7 +5631,7 @@ msgstr "No contributions yet"
 msgid "No damages ranking yet."
 msgstr "No damages ranking yet."
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:388
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:393
 msgid "No defensive pact"
 msgstr "No defensive pact"
 
@@ -5712,7 +5712,7 @@ msgstr "No referrer yet"
 msgid "No skins equipped"
 msgstr "No skins equipped"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:321
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:326
 msgid "No sworn enemy"
 msgstr "No sworn enemy"
 
@@ -5772,7 +5772,7 @@ msgstr "Not all forms of helping are treated as boosting or exploiting; the inte
 msgid "Not bad!"
 msgstr "Not bad!"
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:46
+#: src/components/_political/alliance/AllianceMemberRow.tsx:47
 msgid "Not enough paper to pay the daily alliance maintenance. Alliance damage bonuses are disabled for this country until it pays."
 msgstr "Not enough paper to pay the daily alliance maintenance. Alliance damage bonuses are disabled for this country until it pays."
 
@@ -5780,7 +5780,7 @@ msgstr "Not enough paper to pay the daily alliance maintenance. Alliance damage 
 msgid "Not impressive, but not shameful"
 msgstr "Not impressive, but not shameful"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:207
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:208
 msgid "Not in any alliance"
 msgstr "Not in any alliance"
 
@@ -7640,7 +7640,7 @@ msgstr "Supporter Plan lets you save up to {maxKits} custom equipment loadouts a
 msgid "Supreme Commander"
 msgstr "Supreme Commander"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:271
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:276
 msgid "Sworn enemy"
 msgstr "Sworn enemy"
 
@@ -8065,7 +8065,7 @@ msgstr "Total damages"
 msgid "Total Donated:"
 msgstr "Total Donated:"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:394
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:399
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
 msgstr "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
 

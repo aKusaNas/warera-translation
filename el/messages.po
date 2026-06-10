@@ -64,16 +64,16 @@ msgstr "- Η υπεράσπιση αυτής της περιοχής θα έχε
 msgid "- Development income is reduced by 50%:<0>{0}</0>."
 msgstr "- Το εισόδημα από ανάπτυξη μειώνεται κατά 50%:<0>{0}</0>."
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:70
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:231
-msgid "(alliance average development)"
+#: src/components/_political/alliance/AllianceMemberRow.tsx:71
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:236
+msgid "(average member development)"
 msgstr ""
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:65
+#: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
 msgstr ""
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:225
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:226
 msgid "(own development)"
 msgstr ""
 
@@ -1372,7 +1372,7 @@ msgstr "Ενεργή κατασκευή"
 msgid "Active War"
 msgstr "Ενεργός Πόλεμος"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:254
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:259
 msgid "Active wars"
 msgstr "Ενεργοί πόλεμοι"
 
@@ -1495,7 +1495,7 @@ msgid "All types"
 msgstr "Όλοι οι τύποι"
 
 #: src/components/_layout/map.frontConfig.tsx:32
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:192
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:193
 msgid "Alliance"
 msgstr ""
 
@@ -2987,7 +2987,7 @@ msgstr ""
 msgid "Daily"
 msgstr "Ημερήσιο"
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:58
+#: src/components/_political/alliance/AllianceMemberRow.tsx:59
 #: src/components/_political/law/LawTypeSelect.tsx:188
 msgid "Daily maintenance"
 msgstr "Ημερήσια συντήρηση"
@@ -3147,7 +3147,7 @@ msgstr "Υπερασπιστής"
 msgid "Defenders"
 msgstr "Υπερασπιστές"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:329
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:334
 msgid "Defensive pact"
 msgstr ""
 
@@ -5106,7 +5106,7 @@ msgstr ""
 msgid "Members"
 msgstr "Μέλη"
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:45
+#: src/components/_political/alliance/AllianceMemberRow.tsx:46
 msgid "Membership suspended"
 msgstr ""
 
@@ -5583,7 +5583,7 @@ msgstr "Δεν υπάρχει ενεργή ηθική - Ισορροπημένο
 msgid "No active job offer"
 msgstr "Δεν υπάρχει ενεργή προσφορά εργασίας"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:262
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:267
 msgid "No active wars"
 msgstr "Δεν υπάρχουν ενεργοί πόλεμοι"
 
@@ -5631,7 +5631,7 @@ msgstr "Δεν υπάρχουν ακόμα συνεισφορές"
 msgid "No damages ranking yet."
 msgstr "Δεν υπάρχει ακόμα κατάταξη ζημιών."
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:388
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:393
 msgid "No defensive pact"
 msgstr ""
 
@@ -5712,7 +5712,7 @@ msgstr "Δεν υπάρχει ακόμα παραπέμπων"
 msgid "No skins equipped"
 msgstr "Δεν υπάρχουν εξοπλισμένα skins"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:321
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:326
 msgid "No sworn enemy"
 msgstr "Δεν υπάρχει ορκισμένος εχθρός"
 
@@ -5772,7 +5772,7 @@ msgstr ""
 msgid "Not bad!"
 msgstr "Όχι άσχημα!"
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:46
+#: src/components/_political/alliance/AllianceMemberRow.tsx:47
 msgid "Not enough paper to pay the daily alliance maintenance. Alliance damage bonuses are disabled for this country until it pays."
 msgstr ""
 
@@ -5780,7 +5780,7 @@ msgstr ""
 msgid "Not impressive, but not shameful"
 msgstr "Όχι εντυπωσιακό, αλλά όχι ντροπιαστικό"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:207
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:208
 msgid "Not in any alliance"
 msgstr ""
 
@@ -7640,7 +7640,7 @@ msgstr ""
 msgid "Supreme Commander"
 msgstr "Ανώτατος Στρατηγός"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:271
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:276
 msgid "Sworn enemy"
 msgstr "Ορκισμένος εχθρός"
 
@@ -8065,7 +8065,7 @@ msgstr "Συνολικές ζημιές"
 msgid "Total Donated:"
 msgstr "Συνολικές Δωρεές:"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:394
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:399
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
 msgstr ""
 

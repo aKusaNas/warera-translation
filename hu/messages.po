@@ -64,16 +64,16 @@ msgstr "- Ennek a régiónak a védelme <0>{0}</0> büntetéssel jár."
 msgid "- Development income is reduced by 50%:<0>{0}</0>."
 msgstr "- A fejlettségi bevétel 50%-kal csökken:<0>{0}</0>."
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:70
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:231
-msgid "(alliance average development)"
+#: src/components/_political/alliance/AllianceMemberRow.tsx:71
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:236
+msgid "(average member development)"
 msgstr ""
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:65
+#: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
 msgstr ""
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:225
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:226
 msgid "(own development)"
 msgstr ""
 
@@ -1372,7 +1372,7 @@ msgstr "Aktív építkezés"
 msgid "Active War"
 msgstr "Aktív háború"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:254
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:259
 msgid "Active wars"
 msgstr "Aktív háborúk"
 
@@ -1495,7 +1495,7 @@ msgid "All types"
 msgstr "Minden típus"
 
 #: src/components/_layout/map.frontConfig.tsx:32
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:192
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:193
 msgid "Alliance"
 msgstr ""
 
@@ -2987,7 +2987,7 @@ msgstr "d. A diszkrimináció, rasszizmus, idegengylőlet, antiszemitizmus, homo
 msgid "Daily"
 msgstr "Napi"
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:58
+#: src/components/_political/alliance/AllianceMemberRow.tsx:59
 #: src/components/_political/law/LawTypeSelect.tsx:188
 msgid "Daily maintenance"
 msgstr "Napi karbantartás"
@@ -3147,7 +3147,7 @@ msgstr "Védő"
 msgid "Defenders"
 msgstr "Védők"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:329
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:334
 msgid "Defensive pact"
 msgstr ""
 
@@ -5106,7 +5106,7 @@ msgstr "Tag előléptetve parancsnokká"
 msgid "Members"
 msgstr "Tagok"
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:45
+#: src/components/_political/alliance/AllianceMemberRow.tsx:46
 msgid "Membership suspended"
 msgstr ""
 
@@ -5583,7 +5583,7 @@ msgstr "Nincs aktív etika - Kiegyensúlyozott"
 msgid "No active job offer"
 msgstr "Nincs aktív állásajánlat"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:262
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:267
 msgid "No active wars"
 msgstr "Nincsenek aktív háborúk"
 
@@ -5631,7 +5631,7 @@ msgstr "Még nincsenek hozzájárulások"
 msgid "No damages ranking yet."
 msgstr "Még nincs sebzési rangsor."
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:388
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:393
 msgid "No defensive pact"
 msgstr ""
 
@@ -5712,7 +5712,7 @@ msgstr "Még nincs ajánló"
 msgid "No skins equipped"
 msgstr "Nincs felszerelt kinézet"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:321
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:326
 msgid "No sworn enemy"
 msgstr "Nincs esküdt ellenség"
 
@@ -5772,7 +5772,7 @@ msgstr "Nem minden segítségnyújtás minősül boostingnak vagy kihasználásn
 msgid "Not bad!"
 msgstr "Nem rossz!"
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:46
+#: src/components/_political/alliance/AllianceMemberRow.tsx:47
 msgid "Not enough paper to pay the daily alliance maintenance. Alliance damage bonuses are disabled for this country until it pays."
 msgstr ""
 
@@ -5780,7 +5780,7 @@ msgstr ""
 msgid "Not impressive, but not shameful"
 msgstr "Nem lenyűgöző, de nem is szégyenletes"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:207
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:208
 msgid "Not in any alliance"
 msgstr ""
 
@@ -7640,7 +7640,7 @@ msgstr ""
 msgid "Supreme Commander"
 msgstr "Legfelsőbb Parancsnok"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:271
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:276
 msgid "Sworn enemy"
 msgstr "Esküdt ellenség"
 
@@ -8065,7 +8065,7 @@ msgstr "Összes sebzés"
 msgid "Total Donated:"
 msgstr "Összesen adományozott:"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:394
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:399
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
 msgstr ""
 

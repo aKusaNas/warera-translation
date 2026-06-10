@@ -64,16 +64,16 @@ msgstr "- Obrana ove regije će imati malus od <0>{0}</0>."
 msgid "- Development income is reduced by 50%:<0>{0}</0>."
 msgstr "- Prihod od razvoјa јe smanjen za 50%:<0>{0}</0>."
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:70
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:231
-msgid "(alliance average development)"
-msgstr "(prosječni razvoj saveza)"
+#: src/components/_political/alliance/AllianceMemberRow.tsx:71
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:236
+msgid "(average member development)"
+msgstr ""
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:65
+#: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
 msgstr "(prosječni razvoj člana saveza)"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:225
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:226
 msgid "(own development)"
 msgstr "(vlastiti razvoj)"
 
@@ -1372,7 +1372,7 @@ msgstr "Aktivna izgradnja"
 msgid "Active War"
 msgstr "Aktivan Rat"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:254
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:259
 msgid "Active wars"
 msgstr "Trenutni ratovi"
 
@@ -1495,7 +1495,7 @@ msgid "All types"
 msgstr "Sve vrste"
 
 #: src/components/_layout/map.frontConfig.tsx:32
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:192
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:193
 msgid "Alliance"
 msgstr "Savezi"
 
@@ -2987,7 +2987,7 @@ msgstr "d. Bilo koji oblik diskriminacije, rasizma, ksenofobije, antisemitizma, 
 msgid "Daily"
 msgstr "Dnevne"
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:58
+#: src/components/_political/alliance/AllianceMemberRow.tsx:59
 #: src/components/_political/law/LawTypeSelect.tsx:188
 msgid "Daily maintenance"
 msgstr "Dnevno održavanje"
@@ -3147,7 +3147,7 @@ msgstr "Branitelj"
 msgid "Defenders"
 msgstr "Branitelji"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:329
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:334
 msgid "Defensive pact"
 msgstr "Obrambeni pakt"
 
@@ -5106,7 +5106,7 @@ msgstr "Članovi unaprijeđen u zapovjednika"
 msgid "Members"
 msgstr "Članova"
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:45
+#: src/components/_political/alliance/AllianceMemberRow.tsx:46
 msgid "Membership suspended"
 msgstr "Članstvo suspendirano"
 
@@ -5583,7 +5583,7 @@ msgstr "Bez aktivne etike - Balansirano"
 msgid "No active job offer"
 msgstr "Nema aktivnih ponuda za posao"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:262
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:267
 msgid "No active wars"
 msgstr "Nema aktivnih ratova"
 
@@ -5631,7 +5631,7 @@ msgstr "Јoš nema doprinosa"
 msgid "No damages ranking yet."
 msgstr "Јoš uvijek nema rangirane štete."
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:388
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:393
 msgid "No defensive pact"
 msgstr "Nema obrambenih paktova"
 
@@ -5712,7 +5712,7 @@ msgstr "Još nema preporučitelja"
 msgid "No skins equipped"
 msgstr "Nema opremljenih skinova"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:321
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:326
 msgid "No sworn enemy"
 msgstr "Nema zakletog neprijatelja"
 
@@ -5772,7 +5772,7 @@ msgstr "Ne adresiraju se sve forme pomoći kao pokušaji boostanja ili iskorišt
 msgid "Not bad!"
 msgstr "Niјe loše!"
 
-#: src/components/_political/alliance/AllianceMemberRow.tsx:46
+#: src/components/_political/alliance/AllianceMemberRow.tsx:47
 msgid "Not enough paper to pay the daily alliance maintenance. Alliance damage bonuses are disabled for this country until it pays."
 msgstr "Nema dovoljno papira za podnijeti troškove održavanja savezništva. Borbeni bonus saveza je onemogućen za ovu državu do podmirenja troškova savezništva."
 
@@ -5780,7 +5780,7 @@ msgstr "Nema dovoljno papira za podnijeti troškove održavanja savezništva. Bo
 msgid "Not impressive, but not shameful"
 msgstr "Niјe impresivno, ali niјe ni sramotno.."
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:207
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:208
 msgid "Not in any alliance"
 msgstr "Nije ni u jednom savezu"
 
@@ -7640,7 +7640,7 @@ msgstr "Supporter Plan omogućuje spremanje do {maxKits} prilagođenih kompleta 
 msgid "Supreme Commander"
 msgstr "Vrhovni Zapovjednik"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:271
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:276
 msgid "Sworn enemy"
 msgstr "Zakleti nepriјatelj"
 
@@ -8065,7 +8065,7 @@ msgstr "Ukupna šteta"
 msgid "Total Donated:"
 msgstr "Ukupno Donirano:"
 
-#: src/components/_political/country/CountryDiplomacyGrid.tsx:394
+#: src/components/_political/country/CountryDiplomacyGrid.tsx:399
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
 msgstr "Ukupni dnevni trošak diplomacije iznosi: <0>{totalMaintenanceCostPerDay}</0>"
 
