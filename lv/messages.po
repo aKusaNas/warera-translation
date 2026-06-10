@@ -1246,7 +1246,7 @@ msgstr "Šajā reģionā tika atrasta resursu atradne. Uzņēmumi to var izmanto
 #. placeholder {2}: data.durationDays
 #: src/components/_political/event/event.frontConfig.tsx:272
 msgid "A deposit of <0>{0}</0> <1>{1}</1> has been found in <2/> for {2} days"
-msgstr "<0>{0}</0> <1>{1}</1> atradne tika atklāta <2/> uz {2} dienām"
+msgstr "<0>{0}</0> <1>{1}</1> atradne tika atrasta <2/> uz {2} dienām"
 
 #. placeholder {0}: contract.acceptanceFee
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:97
