@@ -89,7 +89,7 @@ msgid "{0} active citizens required"
 msgstr "Tarvitaan {0} aktiivista kansalaista"
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
-#: src/components/_user/notification/notification.frontConfig.tsx:486
+#: src/components/_user/notification/notification.frontConfig.tsx:487
 msgid "{0} bought your item offer"
 msgstr "{0} osti tarjouksesi"
 
@@ -112,12 +112,12 @@ msgstr "{0} tuntia"
 
 #. placeholder {0}: data.outbidByMuName
 #. placeholder {1}: data.newPerK
-#: src/components/_user/notification/notification.frontConfig.tsx:1673
+#: src/components/_user/notification/notification.frontConfig.tsx:1674
 msgid "{0} outbid you at ${1}/K"
 msgstr ""
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
-#: src/components/_user/notification/notification.frontConfig.tsx:509
+#: src/components/_user/notification/notification.frontConfig.tsx:510
 msgid "{0} proposed a new law <0/>"
 msgstr ""
 
@@ -185,8 +185,8 @@ msgstr "*Voidaan polttaa"
 msgid "/day"
 msgstr "/päivä"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:379
-#: src/components/_user/notification/notification.frontConfig.tsx:1093
+#: src/components/_user/notification/notification.frontConfig.tsx:380
+#: src/components/_user/notification/notification.frontConfig.tsx:1094
 msgid "<0/> applied to join <1/>"
 msgstr "<0/> haki liittyä <1/>"
 
@@ -200,21 +200,21 @@ msgstr "<0/> palkalla <1>{0}</1>{1}"
 msgid "<0/> banned <1/> from the conversation"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1854
+#: src/components/_user/notification/notification.frontConfig.tsx:1863
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1861
+#: src/components/_user/notification/notification.frontConfig.tsx:1870
 msgid "<0/> bought your {assetLabel}!"
 msgstr ""
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
-#: src/components/_user/notification/notification.frontConfig.tsx:1508
+#: src/components/_user/notification/notification.frontConfig.tsx:1509
 msgid "<0/> bought your banner{0} as a gift for <1/>!"
 msgstr ""
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
-#: src/components/_user/notification/notification.frontConfig.tsx:1516
+#: src/components/_user/notification/notification.frontConfig.tsx:1517
 msgid "<0/> bought your banner{0}!"
 msgstr ""
 
@@ -228,19 +228,19 @@ msgstr ""
 msgid "<0/> buys your region <1/> for <2>{0}</2>"
 msgstr "<0/> ostaa alueesi <1/> hintaan <2>{0}</2>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1593
+#: src/components/_user/notification/notification.frontConfig.tsx:1594
 msgid "<0/> cancelled the contract."
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:772
+#: src/components/_user/notification/notification.frontConfig.tsx:773
 msgid "<0/> commented on your article <1/>"
 msgstr "<0/> kommentoi artikkeliasi <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1568
+#: src/components/_user/notification/notification.frontConfig.tsx:1569
 msgid "<0/> completed a contract, you earned <1/>"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:665
+#: src/components/_user/notification/notification.frontConfig.tsx:666
 msgid "<0/> conquered the region in <1/>"
 msgstr "<0/> valloitti alueen <1/>"
 
@@ -252,12 +252,12 @@ msgstr "<0/> loi keskustelun"
 msgid "<0/> declared war on <1/>"
 msgstr "<0/> julisti sodan <1/> vastaan"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:660
+#: src/components/_user/notification/notification.frontConfig.tsx:661
 msgid "<0/> defended in <1/>"
 msgstr "<0/> puolusti alueella <1/>"
 
 #. placeholder {0}: data.amount
-#: src/components/_user/notification/notification.frontConfig.tsx:1167
+#: src/components/_user/notification/notification.frontConfig.tsx:1168
 msgid "<0/> donated <1>{0}</1> to <2/>"
 msgstr "<0/> lahjoitti <1>{0}</1> <2/>:lle"
 
@@ -286,33 +286,32 @@ msgstr "<0/> rahoitti kapinan alueella <1/> <2/>:n puolesta <3/> vastaan"
 msgid "<0/> gifted a sub to <1/>"
 msgstr "<0/> lahjoitti tilauksen käyttäjälle <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1030
+#: src/components/_user/notification/notification.frontConfig.tsx:1031
 msgid "<0/> gifted you a premium subscription!"
 msgstr "<0/> antoi sinulle premium-tilauksen lahjaksi!"
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1477
+#: src/components/_user/notification/notification.frontConfig.tsx:1478
 msgid "<0/> gifted you the banner \"{0}\"!"
 msgstr "<0/> antoi sinulle bannerin \"{0}\" lahjaksi!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1744
+#: src/components/_user/notification/notification.frontConfig.tsx:1745
 msgid "<0/> gifted you the skin \"{skinTitle}\"!"
 msgstr "<0/> antoi sinulle ulkoasun \"{skinTitle}\" lahjaksi!"
 
-#. placeholder {0}: data.skinPackTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1807
-msgid "<0/> gifted you the skin pack \"{0}\"!"
-msgstr "<0/> antoi sinulle ulkoasupakkauksen \"{0}\" lahjaksi!"
+#: src/components/_user/notification/notification.frontConfig.tsx:1816
+msgid "<0/> gifted you the skin pack \"{skinPackTitle}\"!"
+msgstr ""
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:227
 msgid "<0/> got fee back"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1330
+#: src/components/_user/notification/notification.frontConfig.tsx:1331
 msgid "<0/> has been created, it gonna start soon!"
 msgstr "<0/> on luotu, ja se alkaa pian!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:212
+#: src/components/_user/notification/notification.frontConfig.tsx:213
 msgid "<0/> has been elected president of <1/>"
 msgstr "<0/> on valittu <1/>:n presidentiksi"
 
@@ -373,11 +372,11 @@ msgstr "<0/> on vapauttanut <1/> ja palauttanut sen <2/>:lle"
 msgid "<0/> has signed a defensive pact with <1/>"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:951
+#: src/components/_user/notification/notification.frontConfig.tsx:952
 msgid "<0/> has started a revolution in <1/>"
 msgstr "<0/> on aloittanut vallankumouksen maassa <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1343
+#: src/components/_user/notification/notification.frontConfig.tsx:1344
 msgid "<0/> has started! Let the battles begin!"
 msgstr "<0/> on alkanut! Taistelut alkakoon!"
 
@@ -390,7 +389,7 @@ msgstr "<0/> on tukahduttanut vastarinnan maassa <1/>"
 msgid "<0/> has transferred <1>{0}</1> to <2/>"
 msgstr "<0/> on siirtänyt <1>{0}</1> <2/>:lle"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:907
+#: src/components/_user/notification/notification.frontConfig.tsx:908
 msgid "<0/> is attacking <1/> in <2/>"
 msgstr "<0/> hyökkää kohteeseen <1/> maassa <2/>"
 
@@ -398,7 +397,7 @@ msgstr "<0/> hyökkää kohteeseen <1/> maassa <2/>"
 msgid "<0/> is attacking in <1/>"
 msgstr "<0/> hyökkää alueella <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:893
+#: src/components/_user/notification/notification.frontConfig.tsx:894
 msgid "<0/> is attacking your country in <1/>"
 msgstr "<0/> hyökkää maahasi alueella <1/>"
 
@@ -410,7 +409,7 @@ msgstr "<0/> on mennyt konkurssiin. Liittoutumat puretaan ja aluepäivitykset po
 msgid "<0/> is revolting in <1/>"
 msgstr "<0/> kapinoi alueella <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:922
+#: src/components/_user/notification/notification.frontConfig.tsx:923
 msgid "<0/> is revolting in <1/> against your country"
 msgstr "<0/> kapinoi alueella <1/> maatasi vastaan"
 
@@ -418,12 +417,12 @@ msgstr "<0/> kapinoi alueella <1/> maatasi vastaan"
 msgid "<0/> joined the conversation"
 msgstr "<0/> liittyi keskusteluun"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:548
+#: src/components/_user/notification/notification.frontConfig.tsx:549
 msgid "<0/> joined the game with your referral link!"
 msgstr "<0/> liittyi peliin viittauslinkilläsi!"
 
 #. placeholder {0}: data.wage
-#: src/components/_user/notification/notification.frontConfig.tsx:410
+#: src/components/_user/notification/notification.frontConfig.tsx:411
 msgid "<0/> joined your company <1/> for <2>{0}</2> wage"
 msgstr "<0/> liittyi yritykseesi <1/> <2>{0}</2> palkalla"
 
@@ -432,7 +431,7 @@ msgid "<0/> kicked <1/> from the conversation"
 msgstr "<0/> potkaisi <1/> keskustelusta"
 
 #. placeholder {0}: data.company && <CompanyNameById companyId={data.company} />
-#: src/components/_user/notification/notification.frontConfig.tsx:426
+#: src/components/_user/notification/notification.frontConfig.tsx:427
 msgid "<0/> left his job in your company {0}"
 msgstr "<0/> jätti työnsä yrityksessäsi {0}"
 
@@ -440,15 +439,15 @@ msgstr "<0/> jätti työnsä yrityksessäsi {0}"
 msgid "<0/> left the conversation"
 msgstr "<0/> poistui keskustelusta"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:757
+#: src/components/_user/notification/notification.frontConfig.tsx:758
 msgid "<0/> liked your article <1/>"
 msgstr "<0/> piti artikkelistasi <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:829
+#: src/components/_user/notification/notification.frontConfig.tsx:830
 msgid "<0/> liked your message <1/>"
 msgstr "<0/> pidin viestistäsi <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:820
+#: src/components/_user/notification/notification.frontConfig.tsx:821
 msgid "<0/> liked your message in <1/><2/>"
 msgstr ""
 
@@ -456,11 +455,11 @@ msgstr ""
 msgid "<0/> made peace with <1/>"
 msgstr "<0/> teki rauhan <1/>:n kanssa"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1218
+#: src/components/_user/notification/notification.frontConfig.tsx:1219
 msgid "<0/> mentioned you <1/>"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1209
+#: src/components/_user/notification/notification.frontConfig.tsx:1210
 msgid "<0/> mentioned you in <1/><2/>"
 msgstr ""
 
@@ -484,26 +483,26 @@ msgstr ""
 msgid "<0/> proposed a new law: <1/>"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:741
+#: src/components/_user/notification/notification.frontConfig.tsx:742
 msgid "<0/> published a new article"
 msgstr "<0/> julkaisi uuden artikkelin"
 
 #. placeholder {0}: data.level
-#: src/components/_user/notification/notification.frontConfig.tsx:1194
+#: src/components/_user/notification/notification.frontConfig.tsx:1195
 msgid "<0/> reached level {0}!"
 msgstr "<0/> saavutti tason {0}!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:559
+#: src/components/_user/notification/notification.frontConfig.tsx:560
 msgid "<0/> referred you to the game."
 msgstr "<0/> viittasi peliin."
 
 #. placeholder {0}: data.messageId && <MessageItemById messageId={data.messageId} />
-#: src/components/_user/notification/notification.frontConfig.tsx:865
+#: src/components/_user/notification/notification.frontConfig.tsx:866
 msgid "<0/> responded to your message {0}"
 msgstr "<0/> vastasi viestiisi {0}"
 
 #. placeholder {0}: data.messageId && <MessageItemById messageId={data.messageId} />
-#: src/components/_user/notification/notification.frontConfig.tsx:856
+#: src/components/_user/notification/notification.frontConfig.tsx:857
 msgid "<0/> responded to your message in <1/>{0}"
 msgstr ""
 
@@ -511,11 +510,11 @@ msgstr ""
 msgid "<0/> started, vote for your favorite candidate"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:806
+#: src/components/_user/notification/notification.frontConfig.tsx:807
 msgid "<0/> subscribed to you on your article <1/>"
 msgstr "<0/> tilasi sinulle artikkelisi <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:787
+#: src/components/_user/notification/notification.frontConfig.tsx:788
 msgid "<0/> tipped your article <1/>"
 msgstr "<0/> antoi vihjeen artikkelillesi <1/>"
 
@@ -540,7 +539,7 @@ msgid "<0/> was elected president of <1/>"
 msgstr "<0/> valittiin <1/>:n presidentiksi"
 
 #. placeholder {0}: ts[data.governmentRole]
-#: src/components/_user/notification/notification.frontConfig.tsx:525
+#: src/components/_user/notification/notification.frontConfig.tsx:526
 msgid "<0/> was nominated as <1>{0}</1>"
 msgstr "<0/> oli ehdolla <1>{0}</1>"
 
@@ -549,7 +548,7 @@ msgstr "<0/> oli ehdolla <1>{0}</1>"
 msgid "<0/> won round {0}"
 msgstr "<0/> voitti kierroksen {0}"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1551
+#: src/components/_user/notification/notification.frontConfig.tsx:1552
 msgid "<0/> won the auction on a contract with <1/>"
 msgstr ""
 
@@ -559,17 +558,17 @@ msgstr ""
 msgid "<0/> won the battle ({0}-{1})"
 msgstr "<0/> voitti taistelun ({0}-{1})"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:336
+#: src/components/_user/notification/notification.frontConfig.tsx:337
 msgid "<0/> won the primary election in <1/> and can now run for president!"
 msgstr "<0/> voitti esivaalit <1/> ja voi nyt asettua presidentiksi!"
 
 #. placeholder {0}: data.roundNumber
-#: src/components/_user/notification/notification.frontConfig.tsx:624
+#: src/components/_user/notification/notification.frontConfig.tsx:625
 msgid "<0/> won the round <1>#{0}</1> in <2/>"
 msgstr "<0/> voitti kierroksen <1>#{0}</1> pelissä <2/>"
 
 #. placeholder {0}: data.roundNumber
-#: src/components/_user/notification/notification.frontConfig.tsx:630
+#: src/components/_user/notification/notification.frontConfig.tsx:631
 msgid "<0/> won the round <1>#{0}</1> in <2/>!"
 msgstr "<0/> voitti kierroksen <1>#{0}</1> pelissä <2/>!"
 
@@ -648,7 +647,7 @@ msgid "<0>{0}</0> Defense bonus when defending this region.<1/>Citizens get the 
 msgstr ""
 
 #. placeholder {0}: data.acceptanceFeeReturned
-#: src/components/_user/notification/notification.frontConfig.tsx:1614
+#: src/components/_user/notification/notification.frontConfig.tsx:1615
 msgid "<0>{0}</0> fee returned to MU."
 msgstr ""
 
@@ -720,7 +719,7 @@ msgid "<0>{0}</0> ground are required to win a round, points are gained every ti
 msgstr "<0>{0}</0> maata vaaditaan kierroksen voittoon, pisteitä kertyy jokaisella rastilla"
 
 #. placeholder {0}: data.refund
-#: src/components/_user/notification/notification.frontConfig.tsx:1606
+#: src/components/_user/notification/notification.frontConfig.tsx:1607
 msgid "<0>{0}</0> returned to <1/>."
 msgstr ""
 
@@ -1397,7 +1396,7 @@ msgstr "Lisäkustannukset"
 msgid "Admin"
 msgstr "Ylläpitäjä"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2108
+#: src/components/_user/notification/notification.frontConfig.tsx:2117
 msgid "Admin notification"
 msgstr "Järjestelmänvalvojan ilmoitus"
 
@@ -1578,7 +1577,7 @@ msgid "Amount of companies you can own"
 msgstr "Niiden yritysten määrä, jotka voit omistaa"
 
 #. placeholder {0}: data.refund
-#: src/components/_user/notification/notification.frontConfig.tsx:1586
+#: src/components/_user/notification/notification.frontConfig.tsx:1587
 msgid "An admin cancelled the contract. <0>{0}</0> returned to <1/>."
 msgstr ""
 
@@ -1606,7 +1605,7 @@ msgstr "Vahvistuskoodin sisältävä sähköposti on lähetetty osoitteeseen {em
 msgid "Animated <0>GIF</0> as avatar"
 msgstr "Animoitu <0>GIF</0> avatarina"
 
-#: src/pages/country/[countryId]/government.tsx:145
+#: src/pages/country/[countryId]/government.tsx:148
 msgid "Announcement"
 msgstr ""
 
@@ -1703,7 +1702,7 @@ msgstr "Haluatko varmasti poistaa kaikki ostotilaukset?"
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "Haluatko varmasti poistaa kaikki myyntitilaukset?"
 
-#: src/pages/country/[countryId]/government.tsx:161
+#: src/pages/country/[countryId]/government.tsx:165
 msgid "Are you sure you want to remove this announcement?"
 msgstr ""
 
@@ -1733,7 +1732,7 @@ msgstr "Panssari"
 msgid "Article ID"
 msgstr "Artikkelin tunnus"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1969
+#: src/components/_user/notification/notification.frontConfig.tsx:1978
 msgid "Article liked"
 msgstr "Artikkelista tykätty"
 
@@ -1741,8 +1740,8 @@ msgstr "Artikkelista tykätty"
 msgid "Article Tip"
 msgstr "Artikkelin vinkki"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1971
-#: src/components/_user/notification/notification.frontConfig.tsx:1972
+#: src/components/_user/notification/notification.frontConfig.tsx:1980
+#: src/components/_user/notification/notification.frontConfig.tsx:1981
 msgid "Article tipped"
 msgstr "Artikkeli sai tipin"
 
@@ -1838,7 +1837,7 @@ msgstr "Hyökkääjät"
 msgid "Auction Duration (minutes)"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2092
+#: src/components/_user/notification/notification.frontConfig.tsx:2101
 msgid "Auction Outbid"
 msgstr ""
 
@@ -1903,7 +1902,7 @@ msgstr "Babyboomeri"
 msgid "Badge won"
 msgstr "Merkki ansaittu"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1920
+#: src/components/_user/notification/notification.frontConfig.tsx:1929
 msgid "Badge Won"
 msgstr "Merkki voitettu"
 
@@ -1928,15 +1927,15 @@ msgstr "Konkurssi"
 msgid "Banned"
 msgstr "Kielletty"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1936
+#: src/components/_user/notification/notification.frontConfig.tsx:1945
 msgid "Banner Accepted!"
 msgstr "Banneri hyväksytty!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1933
+#: src/components/_user/notification/notification.frontConfig.tsx:1942
 msgid "Banner gift received"
 msgstr "Bannerlahja vastaanotettu"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1931
+#: src/components/_user/notification/notification.frontConfig.tsx:1940
 msgid "Banner gift sent"
 msgstr "Bannerilahja lähetetty"
 
@@ -1979,12 +1978,12 @@ msgstr "Perushousut"
 msgid "Battle"
 msgstr "Taistelu"
 
-#: src/pages/alliance/[allianceId]/index.tsx:39
+#: src/pages/alliance/[allianceId]/index.tsx:41
 msgid "Battle damage bonus"
 msgstr ""
 
 #: src/components/_political/event/EventList.tsx:65
-#: src/components/_user/notification/notification.frontConfig.tsx:2017
+#: src/components/_user/notification/notification.frontConfig.tsx:2026
 msgid "Battle ended"
 msgstr "Taistelu päättyi"
 
@@ -2149,15 +2148,15 @@ msgstr "Selaa paketteja"
 msgid "Budget"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2097
+#: src/components/_user/notification/notification.frontConfig.tsx:2106
 msgid "Buff ended"
 msgstr "Buff loppui"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2095
+#: src/components/_user/notification/notification.frontConfig.tsx:2104
 msgid "Buff expiring soon"
 msgstr "Buff vanhenee pian"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2093
+#: src/components/_user/notification/notification.frontConfig.tsx:2102
 msgid "Buff started"
 msgstr "Buff aloitti"
 
@@ -2534,8 +2533,8 @@ msgstr "Värimaailma"
 msgid "Commander"
 msgstr "Komentaja"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1939
-#: src/components/_user/notification/notification.frontConfig.tsx:1952
+#: src/components/_user/notification/notification.frontConfig.tsx:1948
+#: src/components/_user/notification/notification.frontConfig.tsx:1961
 msgid "Commission earned"
 msgstr "Provisio ansaittu"
 
@@ -2610,43 +2609,43 @@ msgid "Congrats"
 msgstr "Onnittelut"
 
 #. placeholder {0}: data.level
-#: src/components/_user/notification/notification.frontConfig.tsx:395
+#: src/components/_user/notification/notification.frontConfig.tsx:396
 msgid "Congratulations, you leveled up to level {0}!"
 msgstr "Onnittelut, nousit tasolle {0}!"
 
 #. placeholder {0}: data.countryName
-#: src/components/_user/notification/notification.frontConfig.tsx:199
+#: src/components/_user/notification/notification.frontConfig.tsx:200
 msgid "Congratulations! You have been elected as the new congress member of {0}"
 msgstr "Onnittelut! Sinut on valittu {0}:n uudeksi kongressijäseneksi"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:303
+#: src/components/_user/notification/notification.frontConfig.tsx:304
 msgid "Congratulations! You have been elected as the new leader of <0/>"
 msgstr "Onnittelut! Sinut on valittu <0/>:n uudeksi johtajaksi"
 
 #. placeholder {0}: data.countryName
-#: src/components/_user/notification/notification.frontConfig.tsx:194
+#: src/components/_user/notification/notification.frontConfig.tsx:195
 msgid "Congratulations! You have been elected as the new president of {0}"
 msgstr "Onnittelut! Sinut on valittu {0}:n uudeksi presidentiksi"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:308
+#: src/components/_user/notification/notification.frontConfig.tsx:309
 msgid "Congratulations! You have been elected to the council of <0/>"
 msgstr "Onnittelut! Sinut on valittu <0/> hallitukseen"
 
 #. placeholder {0}: militaryRankingConfig[data.rank].percentDamages
-#: src/components/_user/notification/notification.frontConfig.tsx:1243
+#: src/components/_user/notification/notification.frontConfig.tsx:1244
 msgid "Congratulations! You have been promoted to <0/> with an attack bonus of <1>{0}</1>"
 msgstr "Onnittelut! Sinut on ylennetty tasolle <0/> hyökkäysbonuksella <1>{0}</1>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1432
+#: src/components/_user/notification/notification.frontConfig.tsx:1433
 msgid "Congratulations! You won the giveaway and received cases!"
 msgstr "Onnittelut! Voitit arvonnan ja sait laatikoita!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:352
-#: src/components/_user/notification/notification.frontConfig.tsx:1079
+#: src/components/_user/notification/notification.frontConfig.tsx:353
+#: src/components/_user/notification/notification.frontConfig.tsx:1080
 msgid "Congratulations! Your application to <0/> has been accepted"
 msgstr "Onnittelut! Hakemuksesi numeroon <0/> on hyväksytty"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1311
+#: src/components/_user/notification/notification.frontConfig.tsx:1312
 msgid "Congratulations! Your team <0/> won the tournament <1/>!"
 msgstr "Onnittelut! Joukkueesi <0/> voitti turnauksen <1/>!"
 
@@ -2654,15 +2653,15 @@ msgstr "Onnittelut! Joukkueesi <0/> voitti turnauksen <1/>!"
 msgid "Congress election"
 msgstr "kongressin vaalit"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:139
+#: src/components/_user/notification/notification.frontConfig.tsx:140
 msgid "Congress election candidacy is now open in <0/>"
 msgstr "Kongressin vaaliehdokas on nyt auki <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:179
+#: src/components/_user/notification/notification.frontConfig.tsx:180
 msgid "Congress election has ended in <0/>. Check the results!"
 msgstr "Kongressivaalit päättyivät <0/>. Tarkista tulokset!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:159
+#: src/components/_user/notification/notification.frontConfig.tsx:160
 msgid "Congress election voting is now open in <0/>"
 msgstr "Kongressivaalien äänestys on nyt auki <0/>"
 
@@ -2720,19 +2719,19 @@ msgstr "Sen nauttiminen lisää <0>hyökkäystäsi</0> {0}h.<1/> ja vähennä si
 msgid "Contextual borders"
 msgstr "Kontekstuaaliset rajat"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2084
+#: src/components/_user/notification/notification.frontConfig.tsx:2093
 msgid "Contract cancelled"
 msgstr "Sopimus purettu"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2081
+#: src/components/_user/notification/notification.frontConfig.tsx:2090
 msgid "Contract completed"
 msgstr "Sopimus tehty"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2087
+#: src/components/_user/notification/notification.frontConfig.tsx:2096
 msgid "Contract expired"
 msgstr "Sopimus umpeutunut"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2090
+#: src/components/_user/notification/notification.frontConfig.tsx:2099
 msgid "Contract rolled back"
 msgstr "Sopimus peruutettu"
 
@@ -2839,7 +2838,7 @@ msgid "Country Orders"
 msgstr "Maatilaukset"
 
 #. placeholder {0}: data.partialPayout
-#: src/components/_user/notification/notification.frontConfig.tsx:1600
+#: src/components/_user/notification/notification.frontConfig.tsx:1601
 msgid "Country paid <0>{0}</0> for damages done."
 msgstr ""
 
@@ -2993,7 +2992,7 @@ msgstr "Päivittäin"
 msgid "Daily maintenance"
 msgstr "Päivittäinen huolto"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2112
+#: src/components/_user/notification/notification.frontConfig.tsx:2121
 msgid "Daily Missions Reset"
 msgstr "Päivittäiset tehtävät nollataan"
 
@@ -3100,7 +3099,7 @@ msgstr "Aiheuttaa enemmän vahinkoja"
 msgid "Deals some damages"
 msgstr "Aiheuttaa joitakin vahinkoja"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2098
+#: src/components/_user/notification/notification.frontConfig.tsx:2107
 msgid "Debuff ended"
 msgstr "Debuff päättyi"
 
@@ -3210,7 +3209,7 @@ msgstr "Alenna komentaja"
 msgid "Demote from Commander"
 msgstr "Alenna komentajalta"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2069
+#: src/components/_user/notification/notification.frontConfig.tsx:2078
 msgid "Demoted from Commander"
 msgstr "Alennettiin Commanderista"
 
@@ -3452,15 +3451,15 @@ msgstr "Muokkaa työntekijää"
 msgid "Effective:"
 msgstr "Voimassa:"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1976
+#: src/components/_user/notification/notification.frontConfig.tsx:1985
 msgid "Election candidacy open"
 msgstr "Ehdokkaaksi vaaleissa avattu"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1981
+#: src/components/_user/notification/notification.frontConfig.tsx:1990
 msgid "Election ended"
 msgstr "Vaalit päättyivät"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1979
+#: src/components/_user/notification/notification.frontConfig.tsx:1988
 msgid "Election vote open"
 msgstr "Vaaliäänestys auki"
 
@@ -3901,7 +3900,7 @@ msgstr "Irtisano hallituksen jäsen"
 msgid "Fire worker?"
 msgstr "Irtisano työntekijä?"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1988
+#: src/components/_user/notification/notification.frontConfig.tsx:1997
 msgid "Fired from government"
 msgstr "Irtisanottu hallitukselta"
 
@@ -4051,7 +4050,7 @@ msgstr "Anna tunnuksellesi kuvaava nimi, jotta voit tunnistaa sen myöhemmin."
 msgid "Giveaway Winner"
 msgstr "Arvontavoittaja"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2110
+#: src/components/_user/notification/notification.frontConfig.tsx:2119
 msgid "Giveaway Won!"
 msgstr "Giveaway voitettu!"
 
@@ -4525,7 +4524,7 @@ msgstr "Se vain paranee… ehkä"
 msgid "It will not gain any production and its workers will not be able to work."
 msgstr "Se ei saa tuotantoa eivätkä sen työntekijät pysty työskentelemään."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1961
+#: src/components/_user/notification/notification.frontConfig.tsx:1970
 msgid "Item bought"
 msgstr "Ostettu tuote"
 
@@ -4710,12 +4709,12 @@ msgid "Law failed"
 msgstr "Laki epäonnistui"
 
 #: src/components/_political/law/LawFormModal.tsx:76
-#: src/components/_user/notification/notification.frontConfig.tsx:1974
+#: src/components/_user/notification/notification.frontConfig.tsx:1983
 msgid "Law proposed"
 msgstr "Lakiehdotus"
 
 #: src/components/_political/country/CountryHeader.tsx:70
-#: src/pages/alliance/[allianceId]/index.tsx:96
+#: src/pages/alliance/[allianceId]/index.tsx:95
 #: src/pages/country/[countryId]/index.tsx:182
 #: src/pages/country/[countryId]/laws.tsx:26
 msgid "Laws"
@@ -4806,7 +4805,7 @@ msgstr ""
 msgid "Level up your skills!"
 msgstr "Nosta osaamistasi!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1921
+#: src/components/_user/notification/notification.frontConfig.tsx:1930
 msgid "Level up!"
 msgstr "Taso ylöspäin!"
 
@@ -4921,7 +4920,7 @@ msgstr "Ryöstötapaukset"
 msgid "Loot chance"
 msgstr "Saalismahdollisuus"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2037
+#: src/components/_user/notification/notification.frontConfig.tsx:2046
 msgid "Loot reward"
 msgstr "Saalispalkinto"
 
@@ -5076,8 +5075,7 @@ msgstr "Tapaa muita pelaajia chatissa. Älä ole ujo, esittele itsesi!"
 msgid "Member Applications"
 msgstr "Jäsenhakemukset"
 
-#: src/pages/alliance/[allianceId]/index.tsx:67
-#: src/pages/alliance/[allianceId]/members.tsx:46
+#: src/pages/alliance/[allianceId]/index.tsx:68
 msgid "Member countries"
 msgstr ""
 
@@ -5111,7 +5109,7 @@ msgstr "jäsenet"
 msgid "Membership suspended"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2105
+#: src/components/_user/notification/notification.frontConfig.tsx:2114
 msgid "Mentioned in message"
 msgstr "Viestissä mainittu"
 
@@ -5142,7 +5140,7 @@ msgstr "Palkkasotilaiden maine"
 msgid "Message (Optional)"
 msgstr "Viesti (valinnainen)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2103
+#: src/components/_user/notification/notification.frontConfig.tsx:2112
 msgid "Message liked"
 msgstr "Viestistä tykätty"
 
@@ -5169,7 +5167,7 @@ msgstr "Sotilaalliset lait"
 msgid "Military Rank"
 msgstr "Sotilasarvo"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2016
+#: src/components/_user/notification/notification.frontConfig.tsx:2025
 msgid "Military Rank Up!"
 msgstr "Sotilasarvo ylös!"
 
@@ -5310,7 +5308,7 @@ msgstr "Siirrä yritys"
 msgid "Move to top"
 msgstr "Siirrä ylös"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1957
+#: src/components/_user/notification/notification.frontConfig.tsx:1966
 msgid "Moved to a new company"
 msgstr "Muutti uuteen yritykseen"
 
@@ -5319,19 +5317,19 @@ msgstr "Muutti uuteen yritykseen"
 msgid "MU"
 msgstr "MU-yksikkö"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2056
+#: src/components/_user/notification/notification.frontConfig.tsx:2065
 msgid "MU Application Accepted"
 msgstr "MU-hakemus hyväksytty"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2053
+#: src/components/_user/notification/notification.frontConfig.tsx:2062
 msgid "MU Application Rejected"
 msgstr "MU-hakemus hylätty"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2075
+#: src/components/_user/notification/notification.frontConfig.tsx:2084
 msgid "MU Donation Received"
 msgstr "MU-lahjoitus vastaanotettu"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2061
+#: src/components/_user/notification/notification.frontConfig.tsx:2070
 msgid "MU Level Up!"
 msgstr "MU-taso nousi!"
 
@@ -5343,7 +5341,7 @@ msgstr "MU:n kuukausitasot"
 msgid "MU Orders"
 msgstr "MU tilaukset"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2072
+#: src/components/_user/notification/notification.frontConfig.tsx:2081
 msgid "MU Ownership Transferred"
 msgstr "MU:n omistusoikeus siirretty"
 
@@ -5448,15 +5446,15 @@ msgstr ""
 msgid "New API Token Created"
 msgstr "Uusi API-tunnus luotu"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1968
+#: src/components/_user/notification/notification.frontConfig.tsx:1977
 msgid "New article"
 msgstr "Uusi artikkeli"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1970
+#: src/components/_user/notification/notification.frontConfig.tsx:1979
 msgid "New comment"
 msgstr "Uusi kommentti"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2078
+#: src/components/_user/notification/notification.frontConfig.tsx:2087
 msgid "New contract accepted"
 msgstr "Uusi sopimus hyväksytty"
 
@@ -5486,7 +5484,7 @@ msgstr "Uusi sijainti"
 msgid "New Mercenary Auction"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2099
+#: src/components/_user/notification/notification.frontConfig.tsx:2108
 msgid "New message"
 msgstr "Uusi viesti"
 
@@ -5494,7 +5492,7 @@ msgstr "Uusi viesti"
 msgid "New military unit"
 msgstr "Uusi sotilasyksikkö"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2059
+#: src/components/_user/notification/notification.frontConfig.tsx:2068
 msgid "New MU Application"
 msgstr "Uusi MU-sovellus"
 
@@ -5502,28 +5500,28 @@ msgstr "Uusi MU-sovellus"
 msgid "New name"
 msgstr "Uusi nimi"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2011
+#: src/components/_user/notification/notification.frontConfig.tsx:2020
 msgid "New Party Application"
 msgstr "Uusi puoluehakemus"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2000
+#: src/components/_user/notification/notification.frontConfig.tsx:2009
 msgid "New Party Leader"
 msgstr "Uusi puoluejohtaja"
 
 #: src/components/_political/event/EventList.tsx:66
-#: src/components/_user/notification/notification.frontConfig.tsx:1983
+#: src/components/_user/notification/notification.frontConfig.tsx:1992
 msgid "New president"
 msgstr "Uusi presidentti"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2014
+#: src/components/_user/notification/notification.frontConfig.tsx:2023
 msgid "New referred user"
 msgstr "Uusi suositeltu käyttäjä"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2015
+#: src/components/_user/notification/notification.frontConfig.tsx:2024
 msgid "New referrer"
 msgstr "Uusi viittaaja"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1973
+#: src/components/_user/notification/notification.frontConfig.tsx:1982
 msgid "New subscriber"
 msgstr "Uusi tilaaja"
 
@@ -5531,7 +5529,7 @@ msgstr "Uusi tilaaja"
 msgid "New supporters"
 msgstr "Uusia kannattajia"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1954
+#: src/components/_user/notification/notification.frontConfig.tsx:1963
 msgid "New worker"
 msgstr "Uusi työntekijä"
 
@@ -5620,7 +5618,7 @@ msgstr ""
 msgid "No citizens"
 msgstr "Ei kansalaisia"
 
-#: src/pages/country/[countryId]/government.tsx:195
+#: src/pages/country/[countryId]/government.tsx:200
 msgid "No congress members"
 msgstr "Ei kongressin jäseniä"
 
@@ -5648,8 +5646,7 @@ msgstr "Ei vielä maasijaa."
 msgid "No laws yet"
 msgstr "Ei vielä lakeja"
 
-#: src/pages/alliance/[allianceId]/index.tsx:72
-#: src/pages/alliance/[allianceId]/members.tsx:51
+#: src/pages/alliance/[allianceId]/index.tsx:73
 msgid "No members"
 msgstr ""
 
@@ -5756,7 +5753,7 @@ msgstr ""
 msgid "Nominate leader"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1985
+#: src/components/_user/notification/notification.frontConfig.tsx:1994
 msgid "Nominated at government"
 msgstr "Ehdolla hallituksessa"
 
@@ -5972,7 +5969,7 @@ msgstr "Omistamia sotilasyksiköitä"
 msgid "Owner"
 msgstr "Omistaja"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1149
+#: src/components/_user/notification/notification.frontConfig.tsx:1150
 msgid "Ownership of <0/> has been transferred from <1/> to <2/>"
 msgstr "Kohteen <0/> omistusoikeus on siirtynyt <1/>:lle <2/>"
 
@@ -6030,11 +6027,11 @@ msgstr "Puolueet"
 msgid "Party"
 msgstr "Puolue"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2005
+#: src/components/_user/notification/notification.frontConfig.tsx:2014
 msgid "Party Application Accepted"
 msgstr "Puolueen hakemus hyväksytty"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2008
+#: src/components/_user/notification/notification.frontConfig.tsx:2017
 msgid "Party Application Rejected"
 msgstr "Puolueen hakemus hylätty"
 
@@ -6042,15 +6039,15 @@ msgstr "Puolueen hakemus hylätty"
 msgid "Party Council election"
 msgstr "Puolueen valtuuston vaalit"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:238
+#: src/components/_user/notification/notification.frontConfig.tsx:239
 msgid "Party Council election candidacy is now open in <0/>"
 msgstr "Puoluevaltuuston vaaliehdokas on nyt auki <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:288
+#: src/components/_user/notification/notification.frontConfig.tsx:289
 msgid "Party Council election has ended in <0/>. Check the results!"
 msgstr "Puoluevaltuuston vaalit ovat päättyneet <0/>. Tarkista tulokset!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:263
+#: src/components/_user/notification/notification.frontConfig.tsx:264
 msgid "Party Council election voting is now open in <0/>"
 msgstr "Puoluevaltuuston vaalien äänestys on nyt auki <0/>"
 
@@ -6058,15 +6055,15 @@ msgstr "Puoluevaltuuston vaalien äänestys on nyt auki <0/>"
 msgid "Party created"
 msgstr "Puolue luotu"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1991
+#: src/components/_user/notification/notification.frontConfig.tsx:2000
 msgid "Party election candidacy open"
 msgstr "Puolueen vaaliehdokas on auki"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1997
+#: src/components/_user/notification/notification.frontConfig.tsx:2006
 msgid "Party election ended"
 msgstr "Puoluevaalit päättyivät"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1994
+#: src/components/_user/notification/notification.frontConfig.tsx:2003
 msgid "Party election vote open"
 msgstr "Puoluevaalien äänestys avattu"
 
@@ -6074,27 +6071,27 @@ msgstr "Puoluevaalien äänestys avattu"
 msgid "Party Leader election"
 msgstr "Puolueen johtajan vaalit"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:228
+#: src/components/_user/notification/notification.frontConfig.tsx:229
 msgid "Party Leader election candidacy is now open in <0/>"
 msgstr "Puolueenjohtajavaalien ehdokas on nyt auki <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:278
+#: src/components/_user/notification/notification.frontConfig.tsx:279
 msgid "Party Leader election has ended in <0/>. Check the results!"
 msgstr "Puolueenjohtajavaalit päättyivät <0/>. Tarkista tulokset!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:253
+#: src/components/_user/notification/notification.frontConfig.tsx:254
 msgid "Party Leader election voting is now open in <0/>"
 msgstr "Puolueenjohtajavaalien äänestys on nyt auki <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:233
+#: src/components/_user/notification/notification.frontConfig.tsx:234
 msgid "Party Primary election candidacy is now open in <0/>"
 msgstr "Puolueen esivaalien ehdokas on nyt auki <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:283
+#: src/components/_user/notification/notification.frontConfig.tsx:284
 msgid "Party Primary election has ended in <0/>. Check the results!"
 msgstr "Puolueen esivaalit ovat päättyneet <0/>. Tarkista tulokset!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:258
+#: src/components/_user/notification/notification.frontConfig.tsx:259
 msgid "Party Primary election voting is now open in <0/>"
 msgstr "Puolueen esivaalien äänestys on nyt auki <0/>"
 
@@ -6210,7 +6207,7 @@ msgid "Popular Article"
 msgstr "Suosittu artikkeli"
 
 #: src/components/_political/government/AnnouncementForm.tsx:17
-#: src/pages/country/[countryId]/government.tsx:172
+#: src/pages/country/[countryId]/government.tsx:177
 msgid "Post announcement"
 msgstr ""
 
@@ -6231,23 +6228,23 @@ msgstr "Premium-tila"
 msgid "Premium & Gifts"
 msgstr "Premium ja lahjat"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1922
+#: src/components/_user/notification/notification.frontConfig.tsx:1931
 msgid "Premium activated"
 msgstr "Premium aktivoitu"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1923
+#: src/components/_user/notification/notification.frontConfig.tsx:1932
 msgid "Premium expired"
 msgstr "Premium vanhentunut"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1929
+#: src/components/_user/notification/notification.frontConfig.tsx:1938
 msgid "Premium gift expired"
 msgstr "Premium-lahja on vanhentunut"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1926
+#: src/components/_user/notification/notification.frontConfig.tsx:1935
 msgid "Premium gift received"
 msgstr "Premium lahja vastaanotettu"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1924
+#: src/components/_user/notification/notification.frontConfig.tsx:1933
 msgid "Premium gift sent"
 msgstr "Premium lahja lähetetty"
 
@@ -6264,15 +6261,15 @@ msgstr "Presidentti"
 msgid "Presidential election"
 msgstr "Presidentinvaalit"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:134
+#: src/components/_user/notification/notification.frontConfig.tsx:135
 msgid "Presidential election candidacy is now open in <0/>"
 msgstr "Presidentinvaalien ehdokas on nyt auki <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:174
+#: src/components/_user/notification/notification.frontConfig.tsx:175
 msgid "Presidential election has ended in <0/>. Check the results!"
 msgstr "Presidentinvaalit päättyivät <0/>. Tarkista tulokset!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:154
+#: src/components/_user/notification/notification.frontConfig.tsx:155
 msgid "Presidential election voting is now open in <0/>"
 msgstr "Presidentinvaalien äänestys on nyt auki <0/>"
 
@@ -6284,7 +6281,7 @@ msgstr "Presidentinvaalit"
 msgid "Primary election"
 msgstr "Esivaalit"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2002
+#: src/components/_user/notification/notification.frontConfig.tsx:2011
 msgid "Primary Election Ended"
 msgstr "Esivaalit päättyivät"
 
@@ -6347,11 +6344,11 @@ msgstr "Tuotantobonus"
 msgid "Production bonus:"
 msgstr "Tuotantobonus:"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:576
+#: src/components/_user/notification/notification.frontConfig.tsx:577
 msgid "Production in<0/> is full, you should start production!"
 msgstr "Tuotanto in<0/> on täynnä, sinun pitäisi aloittaa tuotanto!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1963
+#: src/components/_user/notification/notification.frontConfig.tsx:1972
 msgid "Production is full"
 msgstr "Tuotanto on täynnä"
 
@@ -6372,7 +6369,7 @@ msgstr "Profiili"
 msgid "Promote to Commander"
 msgstr "Ylennä komentajaksi"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2066
+#: src/components/_user/notification/notification.frontConfig.tsx:2075
 msgid "Promoted to Commander"
 msgstr "Ylennettiin komentajaksi"
 
@@ -6477,12 +6474,12 @@ msgstr "Pura tuotteet nopeasti"
 msgid "Ranking"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2013
+#: src/components/_user/notification/notification.frontConfig.tsx:2022
 msgid "Ranking reward"
 msgstr "Sijoituspalkinto"
 
 #: src/components/_layout/MoreButtonNav.tsx:120
-#: src/pages/alliance/[allianceId]/index.tsx:46
+#: src/pages/alliance/[allianceId]/index.tsx:48
 #: src/pages/country/[countryId]/index.tsx:167
 #: src/pages/user/[userId]/index.tsx:123
 msgid "Rankings"
@@ -6642,7 +6639,7 @@ msgstr "Alue"
 msgid "Region buy offer"
 msgstr "Alueen ostotarjous"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2029
+#: src/components/_user/notification/notification.frontConfig.tsx:2038
 msgid "Region is revolting!"
 msgstr "Alue kapinoi!"
 
@@ -6745,8 +6742,8 @@ msgstr "Poista kaikki"
 msgid "Remove an inactive congress member from its position"
 msgstr "Poista ei-aktiivinen kongressin jäsen asemastaan"
 
-#: src/pages/country/[countryId]/government.tsx:160
-#: src/pages/country/[countryId]/government.tsx:165
+#: src/pages/country/[countryId]/government.tsx:164
+#: src/pages/country/[countryId]/government.tsx:169
 msgid "Remove announcement"
 msgstr ""
 
@@ -6776,7 +6773,7 @@ msgstr "Poista vihollinen"
 msgid "Remove the current party leader from their position"
 msgstr "Poista puolueen nykyinen johtaja asemastaan"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2063
+#: src/components/_user/notification/notification.frontConfig.tsx:2072
 msgid "Removed from Military Unit"
 msgstr "Poistettu sotilasyksiköstä"
 
@@ -6906,7 +6903,7 @@ msgstr "Resurssit"
 msgid "Resources reshuffled"
 msgstr "Resurssit jaettu uudelleen"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2101
+#: src/components/_user/notification/notification.frontConfig.tsx:2110
 msgid "Response to message"
 msgstr "Vastaus viestiin"
 
@@ -6922,7 +6919,7 @@ msgstr "Palauta alue alkuperäiseen maahan"
 msgid "Revoke API token?"
 msgstr "Perutaanko API-tunnus?"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2032
+#: src/components/_user/notification/notification.frontConfig.tsx:2041
 msgid "Revolt started!"
 msgstr "Kapina alkoi!"
 
@@ -6938,7 +6935,7 @@ msgstr "Vallankumous päättyi"
 msgid "Revolution started"
 msgstr "Vallankumous alkoi"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2035
+#: src/components/_user/notification/notification.frontConfig.tsx:2044
 msgid "Revolution started!"
 msgstr "Vallankumous alkoi!"
 
@@ -6987,15 +6984,15 @@ msgid "Round #{0}"
 msgstr "Kierros #{0}"
 
 #. placeholder {0}: data.roundNumber
-#: src/components/_user/notification/notification.frontConfig.tsx:645
+#: src/components/_user/notification/notification.frontConfig.tsx:646
 msgid "Round <0>#{0}</0> in <1/> is about to end!"
 msgstr "Kierros <0>#{0}</0> jaksossa <1/> on päättymässä!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2020
+#: src/components/_user/notification/notification.frontConfig.tsx:2029
 msgid "Round about to end"
 msgstr "Kierros loppumassa"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2018
+#: src/components/_user/notification/notification.frontConfig.tsx:2027
 msgid "Round ended"
 msgstr "Kierros päättyi"
 
@@ -7359,15 +7356,15 @@ msgstr "Taidot tekevät sinusta vahvemman. Tehdään kykyjäsi!"
 msgid "Skills saved!"
 msgstr "Taidot pelastettu!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1943
+#: src/components/_user/notification/notification.frontConfig.tsx:1952
 msgid "Skin gift received"
 msgstr "Iholahja saatu"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1941
+#: src/components/_user/notification/notification.frontConfig.tsx:1950
 msgid "Skin gift sent"
 msgstr "Iholahja lähetetty"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1946
+#: src/components/_user/notification/notification.frontConfig.tsx:1955
 msgid "Skin pack gift sent"
 msgstr "Skin pakkaus lahja lähetetty"
 
@@ -7379,7 +7376,7 @@ msgstr "Skin pakkaus avattu! Kaikki skinit varustettu!"
 msgid "Skin Packs"
 msgstr "Skin pakkaukset"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2117
+#: src/components/_user/notification/notification.frontConfig.tsx:2126
 msgid "Skin Reward"
 msgstr ""
 
@@ -7749,12 +7746,12 @@ msgid "The civil war started by <0/> in <1/> has succeeded of <2/> and the gover
 msgstr "Sisällissota, jonka <0/> aloitti maassa <1/>, on onnistunut <2/>:n ansiosta ja hallitus on kaadettu."
 
 #. placeholder {0}: data.refund
-#: src/components/_user/notification/notification.frontConfig.tsx:1638
+#: src/components/_user/notification/notification.frontConfig.tsx:1639
 msgid "The contract for <0/> has expired. <1>{0}</1> returned to <2/>."
 msgstr ""
 
 #. placeholder {0}: data.moneyRolledBack
-#: src/components/_user/notification/notification.frontConfig.tsx:1656
+#: src/components/_user/notification/notification.frontConfig.tsx:1657
 msgid "The contract has been rolled back. <0>{0}</0> sent back to <1/>."
 msgstr ""
 
@@ -7774,7 +7771,7 @@ msgstr "Talletus antaa seuraavan prosentin tuotantobonuksen."
 msgid "The deposit will expire in the following amount of time."
 msgstr "Talletus vanhenee seuraavan ajan kuluessa."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:714
+#: src/components/_user/notification/notification.frontConfig.tsx:715
 msgid "The effect of your consumed buffs has ended. The debuff phase has begun and will last <0>{debuffDuration}h</0>."
 msgstr "Käyttämiesi buffien vaikutus on päättynyt. Debuff-vaihe on alkanut ja kestää <0>{debuffDuration}h</0>."
 
@@ -7800,7 +7797,7 @@ msgstr "<0/>:n vallankumous on onnistunut! Hallitus on kaadettu."
 msgid "The strategic resource will be reshuffled in the following amount of time."
 msgstr "Strateginen resurssi järjestetään uudelleen seuraavan ajan kuluessa."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1356
+#: src/components/_user/notification/notification.frontConfig.tsx:1357
 msgid "The tournament has ended for your team <0/>. Check the results!"
 msgstr "Turnaus on päättynyt joukkueellesi <0/>. Tarkista tulokset!"
 
@@ -8047,8 +8044,7 @@ msgstr "kokonais-"
 #: src/components/_military/mu/MuMemberList.tsx:190
 #: src/components/_political/law/LawCostExplanation.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:28
-#: src/pages/alliance/[allianceId]/index.tsx:58
-#: src/pages/alliance/[allianceId]/members.tsx:37
+#: src/pages/alliance/[allianceId]/index.tsx:59
 #: src/pages/market/index.tsx:139
 #: src/pages/market/index.tsx:191
 msgid "Total"
@@ -8090,15 +8086,15 @@ msgstr "Turnaus"
 msgid "Tournament battle for {tournamentName} {score}"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2043
+#: src/components/_user/notification/notification.frontConfig.tsx:2052
 msgid "Tournament Created"
 msgstr "Turnaus luotu"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2050
+#: src/components/_user/notification/notification.frontConfig.tsx:2059
 msgid "Tournament Eliminated"
 msgstr "Turnaus eliminoitu"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2048
+#: src/components/_user/notification/notification.frontConfig.tsx:2057
 msgid "Tournament Ended"
 msgstr "Turnaus päättynyt"
 
@@ -8106,15 +8102,15 @@ msgstr "Turnaus päättynyt"
 msgid "Tournament reward:"
 msgstr "Turnauksen palkinto:"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2039
+#: src/components/_user/notification/notification.frontConfig.tsx:2048
 msgid "Tournament round won!"
 msgstr "Turnauskierros voitettu!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2046
+#: src/components/_user/notification/notification.frontConfig.tsx:2055
 msgid "Tournament Started"
 msgstr "Turnaus alkanut"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2041
+#: src/components/_user/notification/notification.frontConfig.tsx:2050
 msgid "Tournament Won!"
 msgstr "Turnaus voitettu!"
 
@@ -8127,7 +8123,7 @@ msgstr "Kauppa"
 msgid "Trading"
 msgstr "Kaupankäynti"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1966
+#: src/components/_user/notification/notification.frontConfig.tsx:1975
 msgid "Trading transaction"
 msgstr "Kaupankäyntitapahtuma"
 
@@ -8242,7 +8238,7 @@ msgstr "Avaa Ohje kaikki -painike"
 msgid "Unlock Produce all button"
 msgstr "Avaa Tuo kaikki -painike"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1949
+#: src/components/_user/notification/notification.frontConfig.tsx:1958
 msgid "Unlocked pack"
 msgstr "Avattu pakkaus"
 
@@ -8567,7 +8563,7 @@ msgstr "vs."
 msgid "Wage"
 msgstr "Palkka"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1959
+#: src/components/_user/notification/notification.frontConfig.tsx:1968
 msgid "Wage changed"
 msgstr "Palkka muuttui"
 
@@ -8583,7 +8579,7 @@ msgstr "Palkka tuotantoa kohti"
 msgid "Wage reduction accepted."
 msgstr "Palkanalennus hyväksytty."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1960
+#: src/components/_user/notification/notification.frontConfig.tsx:1969
 #: src/components/_user/worker/WageReductionAlert.tsx:66
 msgid "Wage reduction proposed"
 msgstr "Palkan alentamista ehdotetaan"
@@ -8660,7 +8656,7 @@ msgstr "Viikkosaldo"
 msgid "Weekly damages"
 msgstr "Viikoittaiset vahingot"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2115
+#: src/components/_user/notification/notification.frontConfig.tsx:2124
 msgid "Weekly Missions Reset"
 msgstr "Viikoittaisten lähetysten nollaus"
 
@@ -8761,7 +8757,7 @@ msgstr "Työskentele ja tienaa!"
 msgid "Worker fired!"
 msgstr "Työntekijä potkut!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1955
+#: src/components/_user/notification/notification.frontConfig.tsx:1964
 msgid "Worker left"
 msgstr "Työntekijä lähti"
 
@@ -8866,7 +8862,7 @@ msgstr "Olet/olit osa henkilökuntaa ja autat peliä kasvamaan <3"
 msgid "You bought a coffee for the dev <3"
 msgstr "Ostit kahvin kehittäjälle <3"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:592
+#: src/components/_user/notification/notification.frontConfig.tsx:593
 msgid "You bought items."
 msgstr "Ostit kohteita."
 
@@ -8899,19 +8895,19 @@ msgstr "Et voi hakea kansalaisuutta, jos sinulla on hallituksen/kongressin rooli
 msgid "You don't have permission to view applications."
 msgstr "Sinulla ei ole lupaa tarkastella sovelluksia."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1523
+#: src/components/_user/notification/notification.frontConfig.tsx:1524
 msgid "You earned gems from a banner sale!"
 msgstr "Ansaitsit helmiä bannerimyynnistä!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1867
+#: src/components/_user/notification/notification.frontConfig.tsx:1876
 msgid "You earned gems from a sale of \"{skinTitle}\"!"
 msgstr "Ansaitsit helmiä \"{skinTitle}\":n myynnistä!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1869
+#: src/components/_user/notification/notification.frontConfig.tsx:1878
 msgid "You earned gems from a skin pack sale!"
 msgstr "Ansaitsit helmiä skin pack -myynnistä!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:728
+#: src/components/_user/notification/notification.frontConfig.tsx:729
 msgid "You feel healthy, the debuff effect no longer affects you."
 msgstr "Tunnet olosi terveeksi, debuff-efekti ei enää vaikuta sinuun."
 
@@ -8927,28 +8923,28 @@ msgstr "Sinut hyväksytään automaattisesti, koska maan väkiluku on alle"
 msgid "You have a case!"
 msgstr "Sinulla on tapaus!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1135
+#: src/components/_user/notification/notification.frontConfig.tsx:1136
 msgid "You have been demoted from commander in <0/> by <1/>"
 msgstr "<1/> on alentanut sinut komentajasta yksikössä <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:322
+#: src/components/_user/notification/notification.frontConfig.tsx:323
 msgid "You have been elected as the new leader of <0/>"
 msgstr "Sinut on valittu <0/>:n uudeksi johtajaksi"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1121
+#: src/components/_user/notification/notification.frontConfig.tsx:1122
 msgid "You have been promoted to commander in <0/> by <1/>"
 msgstr "Sinut on ylennetty komentajaksi yksikössä <0/>, toimesta <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1107
+#: src/components/_user/notification/notification.frontConfig.tsx:1108
 msgid "You have been removed from <0/> by <1/>"
 msgstr "<1/> on poistanut sinut ryhmästä <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:441
+#: src/components/_user/notification/notification.frontConfig.tsx:442
 msgid "You have been transferred from <0/> to <1/>"
 msgstr "Sinut on siirretty paikasta <0/> paikkaan <1/>"
 
 #. placeholder {0}: 1
-#: src/components/_user/notification/notification.frontConfig.tsx:682
+#: src/components/_user/notification/notification.frontConfig.tsx:683
 msgid "You have consumed <0>{0}</0>, it's effect starts now and ends in <1>{buffDuration}h</1>."
 msgstr "Olet käyttänyt <0>{0}</0>, sen vaikutus alkaa nyt ja päättyy <1>{buffDuration}h</1>:n kuluttua."
 
@@ -9029,46 +9025,45 @@ msgstr "Sinun on ensin varustettava ase"
 msgid "You paid the dev's bills <3 (top 3 in monthly supporter gifts ranking)"
 msgstr "Maksoit kehittäjän laskut <3 (kuukausittaisten tukilahjojen 3 parasta)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1051
+#: src/components/_user/notification/notification.frontConfig.tsx:1052
 msgid "You premium gift from <0/> has expired! Would you consider subscribing and supporting the game? 👉👈"
 msgstr "Premium-lahjasi käyttäjältä <0/> on vanhentunut! Harkitsisitko tilauksen ottamista ja pelin tukemista? 👉👈"
 
 #. placeholder {0}: data.rank
-#: src/components/_user/notification/notification.frontConfig.tsx:1265
+#: src/components/_user/notification/notification.frontConfig.tsx:1266
 msgid "You received a loot item for rank <0>#{0}</0> in <1/>"
 msgstr "Sait saalisesineen sijoituksesta <0>#{0}</0> taistelussa <1/>"
 
 #. placeholder {0}: data.muId ? ( <MuName muId={data.muId} /> ) : data.countryId ? ( <CountryName countryId={data.countryId} /> ) : ( 'your' )
 #. placeholder {1}: data.rank && ( <> position{' '} <Typo fw='bold' color='text1'> #{data.rank} </Typo> </> )
-#: src/components/_user/notification/notification.frontConfig.tsx:1391
+#: src/components/_user/notification/notification.frontConfig.tsx:1392
 msgid "You received a reward for {0} {1} in<0/> tier in the ranking <1/>"
 msgstr "Sait palkinnon {0} {1} <0/> -tasolla rankingissa <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1887
+#: src/components/_user/notification/notification.frontConfig.tsx:1896
 msgid "You received the skin \"{skinTitle}\"!"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:594
+#: src/components/_user/notification/notification.frontConfig.tsx:595
 msgid "You sold items."
 msgstr "Myit tavaroita."
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1446
+#: src/components/_user/notification/notification.frontConfig.tsx:1447
 msgid "You successfully gifted \"{0}\" to <0/>!"
 msgstr "Lahjoit onnistuneesti \"{0}\" käyttäjälle <0/>!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1712
+#: src/components/_user/notification/notification.frontConfig.tsx:1713
 msgid "You successfully gifted \"{skinTitle}\" to <0/>!"
 msgstr "Lahjoit onnistuneesti \"{skinTitle}\" käyttäjälle <0/>!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1016
+#: src/components/_user/notification/notification.frontConfig.tsx:1017
 msgid "You successfully gifted a premium subscription to <0/>!"
 msgstr "Lahjoit onnistuneesti premium-tilauksen kohteeseen <0/>!"
 
-#. placeholder {0}: data.skinPackTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1776
-msgid "You successfully gifted the skin pack \"{0}\" to <0/>!"
-msgstr "Lahjoit onnistuneesti ihopakkauksen \"{0}\" käyttäjälle <0/>!"
+#: src/components/_user/notification/notification.frontConfig.tsx:1781
+msgid "You successfully gifted the skin pack \"{skinPackTitle}\" to <0/>!"
+msgstr ""
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:130
 msgid "You survived the big reset"
@@ -9082,7 +9077,7 @@ msgstr "Olet todella onnekas"
 msgid "You voted in a major election"
 msgstr "Äänestit suurissa vaaleissa"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:537
+#: src/components/_user/notification/notification.frontConfig.tsx:538
 msgid "You was fired from the government by <0/>"
 msgstr "Sinut on erotettu hallituksesta <0/>:n toimesta"
 
@@ -9090,8 +9085,8 @@ msgstr "Sinut on erotettu hallituksesta <0/>:n toimesta"
 msgid "You were an alpha tester (user before 20 march 2025)"
 msgstr "Olit alfatestaaja (käyttäjä ennen 20. maaliskuuta 2025)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1982
-#: src/components/_user/notification/notification.frontConfig.tsx:1999
+#: src/components/_user/notification/notification.frontConfig.tsx:1991
+#: src/components/_user/notification/notification.frontConfig.tsx:2008
 msgid "You were elected"
 msgstr "Sinut valittiin"
 
@@ -9192,8 +9187,8 @@ msgstr "Esivanhempasi ovat ylpeitä"
 msgid "Your announcement to the country..."
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:366
-#: src/components/_user/notification/notification.frontConfig.tsx:1066
+#: src/components/_user/notification/notification.frontConfig.tsx:367
+#: src/components/_user/notification/notification.frontConfig.tsx:1067
 msgid "Your application to <0/> has been rejected"
 msgstr "Hakemuksesi numeroon <0/> on hylätty"
 
@@ -9202,11 +9197,11 @@ msgid "Your article reached 2% of the active population in score (min 10)"
 msgstr "Artikkelisi saavutti 2 % aktiivisesta väestöstä pistemäärässä (min 10)"
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1537
+#: src/components/_user/notification/notification.frontConfig.tsx:1538
 msgid "Your banner \"{0}\" has been accepted and is now available in the shop! It has been automatically unlocked for you."
 msgstr "Bannerisi \"{0}\" on hyväksytty ja on nyt saatavilla myymälässä! Se on avattu automaattisesti sinulle."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:697
+#: src/components/_user/notification/notification.frontConfig.tsx:698
 msgid "Your buff(s) will expire in less than 1 hour. The debuff phase will begin soon."
 msgstr "Buffisi vanhenee alle 1 tunnin kuluttua. Debuff-vaihe alkaa pian."
 
@@ -9218,15 +9213,15 @@ msgstr "Kansalaisuutesi tulee muuttumaan"
 msgid "Your country"
 msgstr "Sinun maasi"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2023
+#: src/components/_user/notification/notification.frontConfig.tsx:2032
 msgid "Your country is under attack!"
 msgstr "Maasi on hyökkäyksen kohteena!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2026
+#: src/components/_user/notification/notification.frontConfig.tsx:2035
 msgid "Your country launched an attack!"
 msgstr "Maasi aloitti hyökkäyksen!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:936
+#: src/components/_user/notification/notification.frontConfig.tsx:937
 msgid "Your country started a revolt in <0/> against <1/>"
 msgstr "Maasi aloitti kapinan <0/> <1/>"
 
@@ -9238,7 +9233,7 @@ msgstr "Nykyinen työsi"
 msgid "Your current order"
 msgstr "Nykyinen tilauksesi"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1686
+#: src/components/_user/notification/notification.frontConfig.tsx:1687
 msgid "Your daily missions have been reset! Complete them to earn rewards."
 msgstr "Päivittäiset tehtäväsi on nollattu! Täytä ne ansaitaksesi palkintoja."
 
@@ -9254,7 +9249,7 @@ msgstr "Työnantajasi haluaa alentaa palkkaasi <0>{0}</0> tasolle <1>{1}</1>."
 
 #. placeholder {0}: data.oldWage
 #. placeholder {1}: data.newWage
-#: src/components/_user/notification/notification.frontConfig.tsx:471
+#: src/components/_user/notification/notification.frontConfig.tsx:472
 msgid "Your employer wants to reduce your wage in <0/> from <1>{0}</1> to <2>{1}</2>. Accept or reject this change."
 msgstr "Työnantajasi haluaa alentaa palkkaasi yrityksessä <0/> arvosta <1>{0}</1> arvoon <2>{1}</2>. Hyväksy tai hylkää tämä muutos."
 
@@ -9303,11 +9298,11 @@ msgstr "Sinun tarjoukset"
 msgid "Your party name"
 msgstr "Puolueen nimi"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:998
+#: src/components/_user/notification/notification.frontConfig.tsx:999
 msgid "Your premium subscription has been activated!"
 msgstr "Premium-tilauksesi on aktivoitu!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1007
+#: src/components/_user/notification/notification.frontConfig.tsx:1008
 msgid "Your premium subscription has expired!"
 msgstr "Premium-tilauksesi on vanhentunut!"
 
@@ -9323,11 +9318,11 @@ msgstr "Viittauslinkkisi"
 msgid "Your team"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1370
+#: src/components/_user/notification/notification.frontConfig.tsx:1371
 msgid "Your team <0/> has been eliminated from the <1/>"
 msgstr "Joukkueesi <0/> on eliminoitu <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1281
+#: src/components/_user/notification/notification.frontConfig.tsx:1282
 msgid "Your team <0/> won a round in <1/>!"
 msgstr "Joukkueesi <0/> voitti kierroksen <1/>!"
 
@@ -9337,11 +9332,11 @@ msgstr "Sinun tiimisi:"
 
 #. placeholder {0}: data.oldWage
 #. placeholder {1}: data.newWage
-#: src/components/_user/notification/notification.frontConfig.tsx:456
+#: src/components/_user/notification/notification.frontConfig.tsx:457
 msgid "Your wage in <0/> changed from <1>{0}</1> to <2>{1}</2>"
 msgstr "Palkkasi yrityksessä <0/> muuttui arvosta <1>{0}</1> arvoon <2>{1}</2>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1698
+#: src/components/_user/notification/notification.frontConfig.tsx:1699
 msgid "Your weekly missions have been reset! Complete them to earn rewards."
 msgstr "Viikoittaiset tehtäväsi on nollattu! Täytä ne ansaitaksesi palkintoja."
 
