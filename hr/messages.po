@@ -5737,7 +5737,7 @@ msgstr "Nominiraj"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:100
 msgid "Nominate <0/> as leader"
-msgstr "Nominiraj <0/> za lidera"
+msgstr "Imenuj <0/> liderom saveza"
 
 #: src/components/_political/government/Government.tsx:282
 msgid "Nominate a {title}"
@@ -5745,12 +5745,12 @@ msgstr "Nominiraj {title}"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:93
 msgid "Nominate a citizen of a member country as the alliance leader."
-msgstr "Nominiraj građana države članice kao lidera saveza"
+msgstr "Imenuj građana države članice liderom saveza"
 
 #: src/components/_political/alliance/alliance.frontConfig.tsx:17
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:91
 msgid "Nominate leader"
-msgstr "Nominiraj lidera"
+msgstr "Imenuj lidera"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1994
 msgid "Nominated at government"
