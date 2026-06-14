@@ -753,7 +753,7 @@ msgstr "<0>{strategicBonus}</0> dal bonus di produzione delle risorse strategich
 msgid "<0>#{key}</0> resource of each type = <1>{value}</1>"
 msgstr "<0>#{key}</0> risorsa di ogni tipo = <1>{value}</1>"
 
-#: src/components/_political/country/CountryHeader.tsx:207
+#: src/components/_political/country/CountryHeader.tsx:206
 msgid "<0>Average development</0> is the average of <1>Core development</1> and <2>Current development</2>."
 msgstr "Lo <0>Sviluppo medio</0> è la media tra <1>Sviluppo core</1> e <2>Sviluppo corrente</2>"
 
@@ -761,11 +761,11 @@ msgstr "Lo <0>Sviluppo medio</0> è la media tra <1>Sviluppo core</1> e <2>Svilu
 msgid "<0>Buff</0> ends <1/>"
 msgstr "<0>Buff</0> scade <1/>"
 
-#: src/components/_political/country/CountryHeader.tsx:171
+#: src/components/_political/country/CountryHeader.tsx:170
 msgid "<0>Core development</0> is calculated depending on the country's <1>Population</1> and average <2>Level</2>. then distributed equally among the country's <3>Core regions</3>."
 msgstr "Lo <0>Sviluppo core</0> è calcolato in base alla <1>Popolazione</1> del paese ed il <2>Livello</2> medio. Viene poi distribuito equamente tra le <3>Regioni core</3> del paese."
 
-#: src/components/_political/country/CountryHeader.tsx:235
+#: src/components/_political/country/CountryHeader.tsx:234
 msgid "<0>Current development</0> is the total development of the <1>regions</1> the country currently controls, including conquered territory."
 msgstr "Lo <0>Sviluppo attuale</0> è lo sviluppo totale delle <1>regioni</1> che il paese controlla attualmente, inclusi i territori conquistati"
 
@@ -1326,7 +1326,7 @@ msgstr "Accettato"
 msgid "Access war"
 msgstr "Apri la guerra"
 
-#: src/components/_political/country/CountryHeader.tsx:77
+#: src/components/_political/country/CountryHeader.tsx:76
 #: src/components/_user/user/UserHeader.tsx:167
 #: src/pages/country/[countryId]/account.tsx:43
 #: src/pages/country/[countryId]/index.tsx:253
@@ -1661,7 +1661,7 @@ msgstr "Approvato"
 msgid "Arcane Boots"
 msgstr "Stivali Arcani"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:243
+#: src/components/_economy/inventory/ConsumeItems.tsx:236
 msgid "Are you sure you want to consume pill?"
 msgstr "Sei sicuro di voler assumere la pillola?"
 
@@ -1693,11 +1693,11 @@ msgstr "Sei sicuro di voler fare questa offerta?"
 msgid "Are you sure you want to promote this member to commander?"
 msgstr "Sei sicuro di voler promuovere questo membro a comandante?"
 
-#: src/pages/market/index.tsx:193
+#: src/pages/market/index.tsx:196
 msgid "Are you sure you want to remove all buy orders?"
 msgstr "Sei sicuro di voler rimuovere tutti gli ordini di acquisto?"
 
-#: src/pages/market/index.tsx:256
+#: src/pages/market/index.tsx:259
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "Sei sicuro di voler rimuovere tutti gli ordini di vendita?"
 
@@ -1867,7 +1867,7 @@ msgstr "Auto-equipaggia quando l'oggetto si rompe"
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Genera automaticamente <0>Punti Produzione</0> nel tempo, senza bisogno di lavorare."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:300
+#: src/components/_economy/inventory/ConsumeItems.tsx:293
 msgid "Autobuy when empty"
 msgstr "Acquisto automatico quando è vuoto"
 
@@ -1917,6 +1917,10 @@ msgstr "Bilanciato"
 #: src/components/_political/party/party.frontConfig.tsx:438
 msgid "Balanced - No modifiers"
 msgstr "Bilanciato - Nessun modificatore"
+
+#: src/components/_other/shop/skin.frontConfig.tsx:359
+msgid "Ball"
+msgstr ""
 
 #: src/components/_political/event/EventList.tsx:73
 msgid "Bankruptcy"
@@ -2202,7 +2206,7 @@ msgid "Buy Items"
 msgstr "Compra oggetti"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:51
-#: src/pages/market/index.tsx:155
+#: src/pages/market/index.tsx:158
 msgid "Buy orders"
 msgstr "Ordini di acquisto"
 
@@ -2437,7 +2441,7 @@ msgstr "Scegliere un oggetto specifico costa doppio acciaio"
 msgid "Citizen since <0><1/></0>"
 msgstr "Cittadino dal <0><1/></0>"
 
-#: src/components/_political/country/CountryHeader.tsx:127
+#: src/components/_political/country/CountryHeader.tsx:126
 msgid "Citizens"
 msgstr "Cittadini"
 
@@ -2445,7 +2449,7 @@ msgstr "Cittadini"
 msgid "Citizens get a bonus when fighting for allies, or against the sworn enemy"
 msgstr "I cittadini ottengono un bonus quando combattono per gli alleati o contro il nemico giurato"
 
-#: src/components/_political/country/CountryHeader.tsx:114
+#: src/components/_political/country/CountryHeader.tsx:113
 msgid "Citizenship"
 msgstr "Cittadinanza"
 
@@ -2491,7 +2495,7 @@ msgstr "Clicca sulla chat del tuo paese per parlare con gli altri cittadini."
 msgid "Click to apply and start earning money right away."
 msgstr "Clicca per fare richiesta e iniziare subito a guadagnare soldi."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:187
+#: src/components/_economy/inventory/ConsumeItems.tsx:180
 msgid "Click to consume."
 msgstr "Fai clic per consumare."
 
@@ -2713,7 +2717,7 @@ msgstr "Conquistatore"
 msgid "Consider giving it to your local moderator"
 msgstr "Considera di darlo al tuo moderatore locale"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:184
+#: src/components/_economy/inventory/ConsumeItems.tsx:177
 msgid "Consume items"
 msgstr "Consuma oggetti"
 
@@ -2751,7 +2755,7 @@ msgstr "Contratto annullato"
 #: src/components/_military/battle/BattlesHeader.tsx:44
 #: src/components/_military/battle/BattleSideContractsModal.tsx:47
 #: src/components/_military/battle/LootSummaryCard.tsx:95
-#: src/components/_political/country/CountryHeader.tsx:135
+#: src/components/_political/country/CountryHeader.tsx:134
 msgid "Contracts"
 msgstr "Contratti"
 
@@ -2821,7 +2825,7 @@ msgstr "Paesi"
 #: src/components/_layout/MoreButtonNav.tsx:133
 #: src/components/_military/battle/BattleCountrySide.tsx:73
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:133
-#: src/components/_political/country/CountryHeader.tsx:56
+#: src/components/_political/country/CountryHeader.tsx:55
 msgid "Country"
 msgstr "Paese"
 
@@ -3324,7 +3328,7 @@ msgid "Disbanded <0/>"
 msgstr "Sciolta <0/>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:187
-#: src/pages/user/[userId]/inventory.tsx:51
+#: src/pages/user/[userId]/inventory.tsx:52
 msgid "Dismantle"
 msgstr "Smantella"
 
@@ -3395,7 +3399,7 @@ msgstr "Donazione"
 msgid "Donation Summary"
 msgstr "Riepilogo donazioni"
 
-#: src/components/_political/country/CountryHeader.tsx:89
+#: src/components/_political/country/CountryHeader.tsx:88
 #: src/pages/country/[countryId]/donations.tsx:17
 #: src/pages/mu/[muId]/donations.tsx:17
 #: src/pages/party/[partyId]/donations.tsx:17
@@ -3479,7 +3483,7 @@ msgstr "Elezione terminata"
 msgid "Election vote open"
 msgstr "Votazione elettorale aperta"
 
-#: src/components/_political/country/CountryHeader.tsx:108
+#: src/components/_political/country/CountryHeader.tsx:107
 #: src/pages/country/[countryId]/elections.tsx:28
 #: src/pages/country/[countryId]/index.tsx:281
 #: src/pages/party/[partyId]/index.tsx:101
@@ -3589,9 +3593,9 @@ msgstr "Imprenditorialità"
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_layout/LayoutOptions.tsx:187
 #: src/components/_user/user/WealthPanel.tsx:56
-#: src/pages/market/index.tsx:78
+#: src/pages/market/index.tsx:81
 #: src/pages/user/[userId]/index.tsx:92
-#: src/pages/user/[userId]/inventory.tsx:61
+#: src/pages/user/[userId]/inventory.tsx:62
 msgid "Equipment"
 msgstr "Equipaggiamento"
 
@@ -4096,7 +4100,7 @@ msgstr "Vai alle abilità"
 msgid "Gold"
 msgstr "Oro"
 
-#: src/components/_political/country/CountryHeader.tsx:95
+#: src/components/_political/country/CountryHeader.tsx:94
 #: src/pages/country/[countryId]/index.tsx:176
 msgid "Government"
 msgstr "Governo"
@@ -4329,7 +4333,7 @@ msgid "Hitting for your own country while in government gives {0}% bounty effici
 msgstr "Combattere per il proprio paese mentre si è nel governo dà {0}% di efficienza taglia."
 
 #: src/components/_other/shop/ShopHeader.tsx:16
-#: src/components/_political/country/CountryHeader.tsx:64
+#: src/components/_political/country/CountryHeader.tsx:63
 #: src/components/_user/user/UserHeader.tsx:153
 msgid "Home"
 msgstr "Home"
@@ -4566,7 +4570,7 @@ msgstr "Mercato del lavoro"
 msgid "Job offer"
 msgstr "Offerta di lavoro"
 
-#: src/pages/market/index.tsx:84
+#: src/pages/market/index.tsx:87
 msgid "Job offers"
 msgstr "Offerte di lavoro"
 
@@ -4725,7 +4729,7 @@ msgstr "Legge bocciata"
 msgid "Law proposed"
 msgstr "Legge proposta"
 
-#: src/components/_political/country/CountryHeader.tsx:70
+#: src/components/_political/country/CountryHeader.tsx:69
 #: src/pages/alliance/[allianceId]/index.tsx:95
 #: src/pages/country/[countryId]/index.tsx:182
 #: src/pages/country/[countryId]/laws.tsx:26
@@ -5108,7 +5112,7 @@ msgstr "Membro retrocesso da comandante"
 msgid "Member kicked successfully"
 msgstr "Membro espulso con successo"
 
-#: src/components/_political/country/CountryHeader.tsx:254
+#: src/components/_political/country/CountryHeader.tsx:253
 msgid "Member of <0/>"
 msgstr "Membro di <0/>"
 
@@ -5747,7 +5751,7 @@ msgid "No sworn enemy"
 msgstr "Nessun nemico giurato"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:44
-#: src/pages/market/index.tsx:147
+#: src/pages/market/index.tsx:150
 msgid "No trading orders"
 msgstr "Nessun ordine di trading"
 
@@ -5969,7 +5973,7 @@ msgstr "Ordini"
 msgid "Orders & actions"
 msgstr "Ordini e azioni"
 
-#: src/pages/market/index.tsx:142
+#: src/pages/market/index.tsx:145
 msgid "Orders cancelled"
 msgstr "Ordini annullati"
 
@@ -6699,7 +6703,7 @@ msgstr "I costi di mantenimento dei potenziamenti della regione aumentano di <0>
 msgid "regions"
 msgstr "regioni"
 
-#: src/components/_political/country/CountryHeader.tsx:121
+#: src/components/_political/country/CountryHeader.tsx:120
 msgid "Regions"
 msgstr "Regioni"
 
@@ -6772,8 +6776,8 @@ msgstr "Rimuovi un paese membro dall'alleanza"
 msgid "Remove a member from the party council"
 msgstr "Rimuovi un membro dal consiglio del partito"
 
-#: src/pages/market/index.tsx:197
-#: src/pages/market/index.tsx:260
+#: src/pages/market/index.tsx:200
+#: src/pages/market/index.tsx:263
 msgid "Remove all"
 msgstr "Rimuovi tutto"
 
@@ -7192,7 +7196,7 @@ msgid "Sell Items"
 msgstr "Vendi oggetti"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:84
-#: src/pages/market/index.tsx:206
+#: src/pages/market/index.tsx:209
 msgid "Sell orders"
 msgstr "Ordini di vendita"
 
@@ -7477,7 +7481,7 @@ msgstr "Spendi la tua <0>Energia</0> lavorando qui per guadagnare <1>Denaro</1>.
 msgid "Spendings"
 msgstr "Spese"
 
-#: src/components/_political/country/CountryHeader.tsx:186
+#: src/components/_political/country/CountryHeader.tsx:185
 msgid "Stable, conquest-proof strength. Still used for unrest, government wages and revolution cost. Other costs use <0>Average development</0>."
 msgstr "Indice di forza stabile, a prova di occupazione. Viene utilizzato per il calcolo di disordini, salari del governo e costi di rivoluzione. Gli altri costi utilizzano lo <0>Sviluppo medio</0>."
 
@@ -7881,7 +7885,7 @@ msgstr "Ti piace, eh?"
 msgid "This is a summary of the loot you received from this battle. It includes any cases you got as well as the most valuable items from the shared loot pool."
 msgstr "Questo è un riepilogo del bottino ricevuto da questa battaglia. Include tutte le casse ottenute e gli oggetti più preziosi del pool bottino condiviso."
 
-#: src/components/_political/country/CountryHeader.tsx:215
+#: src/components/_political/country/CountryHeader.tsx:214
 msgid "This is the value used to calculate most costs: battle orders, alliance, sworn enemy and defensive pact maintenance, laws and upgrade upkeep."
 msgstr "Questo è il valore utilizzato per calcolare la maggior parte dei costi: ordini, mantenimento di alleanze, nemici giurati e accordi difensivi, oltre che leggi e costi dei potenziamenti."
 
@@ -7918,7 +7922,7 @@ msgstr "Solo questo round"
 msgid "This user is not part of any family group"
 msgstr "Questo utente non fa parte di nessun gruppo famiglia"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:244
+#: src/components/_economy/inventory/ConsumeItems.tsx:237
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr "Questo ti darà un bonus per {cocainBuffHours}h e poi causerà un malus per {cocainDebuffHours}h"
 
@@ -8085,8 +8089,8 @@ msgstr "totale"
 #: src/components/_political/law/LawCostExplanation.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:28
 #: src/pages/alliance/[allianceId]/index.tsx:59
-#: src/pages/market/index.tsx:159
-#: src/pages/market/index.tsx:210
+#: src/pages/market/index.tsx:162
+#: src/pages/market/index.tsx:213
 msgid "Total"
 msgstr "Totale"
 
@@ -8102,7 +8106,7 @@ msgstr "Danni totali"
 msgid "Total Donated:"
 msgstr "Totale donato:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:409
+#: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:467
 msgid "Total of <0/>"
 msgstr ""
 
@@ -8175,8 +8179,8 @@ msgstr "Allievo"
 msgid "Transac."
 msgstr "Transaz."
 
-#: src/components/_political/country/CountryHeader.tsx:83
-#: src/pages/market/index.tsx:90
+#: src/components/_political/country/CountryHeader.tsx:82
+#: src/pages/market/index.tsx:93
 #: src/pages/user/[userId]/index.tsx:230
 msgid "Transactions"
 msgstr "Transazioni"
@@ -8664,7 +8668,7 @@ msgstr "Avviso"
 msgid "Warrant Officer"
 msgstr "Ufficiale di mandato"
 
-#: src/components/_political/country/CountryHeader.tsx:101
+#: src/components/_political/country/CountryHeader.tsx:100
 msgid "Wars"
 msgstr "Guerre"
 
@@ -8820,10 +8824,6 @@ msgstr "Lavorare per altri è un ottimo modo per guadagnare denaro quando inizi.
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:64
 msgid "World <0/>"
 msgstr "Mondo <0/>"
-
-#: src/components/_other/shop/skin.frontConfig.tsx:359
-msgid "World Cup Ball"
-msgstr ""
 
 #: src/components/_layout/LayoutOptions.tsx:222
 #: src/components/_user/kits/KitsPopover.tsx:258

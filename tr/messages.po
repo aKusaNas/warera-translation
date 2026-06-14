@@ -753,7 +753,7 @@ msgstr "<1/> stratejik kaynaklar üretim bonusundan <0>{strategicBonus}</0>."
 msgid "<0>#{key}</0> resource of each type = <1>{value}</1>"
 msgstr "Her türden <0>#{key}</0> kaynak = <1>{value}</1>"
 
-#: src/components/_political/country/CountryHeader.tsx:207
+#: src/components/_political/country/CountryHeader.tsx:206
 msgid "<0>Average development</0> is the average of <1>Core development</1> and <2>Current development</2>."
 msgstr "<0>Ortalama gelişim</0>, <1>Çekirdek gelişim</1> ve <2>Mevcut gelişim</2> ortalamasıdır."
 
@@ -761,11 +761,11 @@ msgstr "<0>Ortalama gelişim</0>, <1>Çekirdek gelişim</1> ve <2>Mevcut gelişi
 msgid "<0>Buff</0> ends <1/>"
 msgstr "<0>Buff</0> bitecek <1/>"
 
-#: src/components/_political/country/CountryHeader.tsx:171
+#: src/components/_political/country/CountryHeader.tsx:170
 msgid "<0>Core development</0> is calculated depending on the country's <1>Population</1> and average <2>Level</2>. then distributed equally among the country's <3>Core regions</3>."
 msgstr "<0>Çekirdek gelişim</0>, ülkenin <1>Nüfus</1> ve ortalama <2>Seviye</2> değerine bağlı olarak hesaplanır, ardından ülkenin <3>Çekirdek bölgeleri</3> arasında eşit olarak dağıtılır."
 
-#: src/components/_political/country/CountryHeader.tsx:235
+#: src/components/_political/country/CountryHeader.tsx:234
 msgid "<0>Current development</0> is the total development of the <1>regions</1> the country currently controls, including conquered territory."
 msgstr "<0>Mevcut gelişim</0>, ülkenin şu anda kontrol ettiği <1>bölgelerin</1> toplam gelişimidir, fethedilen topraklar dahil."
 
@@ -1326,7 +1326,7 @@ msgstr "Kabul Edildi"
 msgid "Access war"
 msgstr "Savaşa eriş"
 
-#: src/components/_political/country/CountryHeader.tsx:77
+#: src/components/_political/country/CountryHeader.tsx:76
 #: src/components/_user/user/UserHeader.tsx:167
 #: src/pages/country/[countryId]/account.tsx:43
 #: src/pages/country/[countryId]/index.tsx:253
@@ -1661,7 +1661,7 @@ msgstr "Onaylandı"
 msgid "Arcane Boots"
 msgstr "Esrarengiz Çizmeler"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:243
+#: src/components/_economy/inventory/ConsumeItems.tsx:236
 msgid "Are you sure you want to consume pill?"
 msgstr "Hapı tüketmek istediğinize emin misiniz?"
 
@@ -1693,11 +1693,11 @@ msgstr "Bu teklifi vermek istediğinize emin misiniz?"
 msgid "Are you sure you want to promote this member to commander?"
 msgstr "Bu üyeyi komutana terfi ettirmek istediğinizden emin misiniz?"
 
-#: src/pages/market/index.tsx:193
+#: src/pages/market/index.tsx:196
 msgid "Are you sure you want to remove all buy orders?"
 msgstr "Tüm alış emirlerini kaldırmak istediğinizden emin misiniz?"
 
-#: src/pages/market/index.tsx:256
+#: src/pages/market/index.tsx:259
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "Tüm satış emirlerini kaldırmak istediğinizden emin misiniz?"
 
@@ -1867,7 +1867,7 @@ msgstr "Eşya kırıldığında otomatik donat"
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Çalışmaya gerek kalmadan zamanla otomatik olarak <0>Üretim Puanı</0> oluşturur."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:300
+#: src/components/_economy/inventory/ConsumeItems.tsx:293
 msgid "Autobuy when empty"
 msgstr "Boşaldığında otomatik satın al"
 
@@ -1917,6 +1917,10 @@ msgstr "Dengeli"
 #: src/components/_political/party/party.frontConfig.tsx:438
 msgid "Balanced - No modifiers"
 msgstr "Dengeli - Değiştirici yok"
+
+#: src/components/_other/shop/skin.frontConfig.tsx:359
+msgid "Ball"
+msgstr ""
 
 #: src/components/_political/event/EventList.tsx:73
 msgid "Bankruptcy"
@@ -2202,7 +2206,7 @@ msgid "Buy Items"
 msgstr "Eşya Satın Al"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:51
-#: src/pages/market/index.tsx:155
+#: src/pages/market/index.tsx:158
 msgid "Buy orders"
 msgstr "Alım market emirleri"
 
@@ -2437,7 +2441,7 @@ msgstr "Belirli bir eşya seçmek ×2 çelik maliyetlidir:"
 msgid "Citizen since <0><1/></0>"
 msgstr "<0><1/></0>'dan beri vatandaş"
 
-#: src/components/_political/country/CountryHeader.tsx:127
+#: src/components/_political/country/CountryHeader.tsx:126
 msgid "Citizens"
 msgstr "Vatandaşlar"
 
@@ -2445,7 +2449,7 @@ msgstr "Vatandaşlar"
 msgid "Citizens get a bonus when fighting for allies, or against the sworn enemy"
 msgstr "Vatandaşlar müttefikler için savaşırken veya baş düşmana karşı bonus alır"
 
-#: src/components/_political/country/CountryHeader.tsx:114
+#: src/components/_political/country/CountryHeader.tsx:113
 msgid "Citizenship"
 msgstr "Vatandaşlık"
 
@@ -2491,7 +2495,7 @@ msgstr "Memleketlilerinle sohbet etmek için ülkenin sohbet bölümüne tıkla.
 msgid "Click to apply and start earning money right away."
 msgstr "Başvurmak ve hemen para kazanmaya başlamak için tıkla."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:187
+#: src/components/_economy/inventory/ConsumeItems.tsx:180
 msgid "Click to consume."
 msgstr "Tüketmek için tıkla."
 
@@ -2713,7 +2717,7 @@ msgstr "Fatih"
 msgid "Consider giving it to your local moderator"
 msgstr "Yerel moderatörüne vermeyi düşün."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:184
+#: src/components/_economy/inventory/ConsumeItems.tsx:177
 msgid "Consume items"
 msgstr "Eşyaları tüket"
 
@@ -2751,7 +2755,7 @@ msgstr "Sözleşme geri alındı"
 #: src/components/_military/battle/BattlesHeader.tsx:44
 #: src/components/_military/battle/BattleSideContractsModal.tsx:47
 #: src/components/_military/battle/LootSummaryCard.tsx:95
-#: src/components/_political/country/CountryHeader.tsx:135
+#: src/components/_political/country/CountryHeader.tsx:134
 msgid "Contracts"
 msgstr "Sözleşmeler"
 
@@ -2821,7 +2825,7 @@ msgstr "Ülkeler"
 #: src/components/_layout/MoreButtonNav.tsx:133
 #: src/components/_military/battle/BattleCountrySide.tsx:73
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:133
-#: src/components/_political/country/CountryHeader.tsx:56
+#: src/components/_political/country/CountryHeader.tsx:55
 msgid "Country"
 msgstr "Ülke"
 
@@ -3324,7 +3328,7 @@ msgid "Disbanded <0/>"
 msgstr "<0/> feshedildi"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:187
-#: src/pages/user/[userId]/inventory.tsx:51
+#: src/pages/user/[userId]/inventory.tsx:52
 msgid "Dismantle"
 msgstr "Parçala"
 
@@ -3395,7 +3399,7 @@ msgstr "Bağış"
 msgid "Donation Summary"
 msgstr "Bağış Tablosu"
 
-#: src/components/_political/country/CountryHeader.tsx:89
+#: src/components/_political/country/CountryHeader.tsx:88
 #: src/pages/country/[countryId]/donations.tsx:17
 #: src/pages/mu/[muId]/donations.tsx:17
 #: src/pages/party/[partyId]/donations.tsx:17
@@ -3479,7 +3483,7 @@ msgstr "Seçim sona erdi"
 msgid "Election vote open"
 msgstr "Oylama başladı"
 
-#: src/components/_political/country/CountryHeader.tsx:108
+#: src/components/_political/country/CountryHeader.tsx:107
 #: src/pages/country/[countryId]/elections.tsx:28
 #: src/pages/country/[countryId]/index.tsx:281
 #: src/pages/party/[partyId]/index.tsx:101
@@ -3589,9 +3593,9 @@ msgstr "Girişimcilik"
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_layout/LayoutOptions.tsx:187
 #: src/components/_user/user/WealthPanel.tsx:56
-#: src/pages/market/index.tsx:78
+#: src/pages/market/index.tsx:81
 #: src/pages/user/[userId]/index.tsx:92
-#: src/pages/user/[userId]/inventory.tsx:61
+#: src/pages/user/[userId]/inventory.tsx:62
 msgid "Equipment"
 msgstr "Ekipman"
 
@@ -4096,7 +4100,7 @@ msgstr "Becerilere git"
 msgid "Gold"
 msgstr "Altın"
 
-#: src/components/_political/country/CountryHeader.tsx:95
+#: src/components/_political/country/CountryHeader.tsx:94
 #: src/pages/country/[countryId]/index.tsx:176
 msgid "Government"
 msgstr "Hükümet"
@@ -4329,7 +4333,7 @@ msgid "Hitting for your own country while in government gives {0}% bounty effici
 msgstr "Hükümetteyken kendi ülken için vurmak %{0} ödül verimliliği sağlar."
 
 #: src/components/_other/shop/ShopHeader.tsx:16
-#: src/components/_political/country/CountryHeader.tsx:64
+#: src/components/_political/country/CountryHeader.tsx:63
 #: src/components/_user/user/UserHeader.tsx:153
 msgid "Home"
 msgstr "Ana Sayfa"
@@ -4566,7 +4570,7 @@ msgstr "İş piyasası"
 msgid "Job offer"
 msgstr "İş teklifi"
 
-#: src/pages/market/index.tsx:84
+#: src/pages/market/index.tsx:87
 msgid "Job offers"
 msgstr "İş teklifleri"
 
@@ -4725,7 +4729,7 @@ msgstr "Yasa arızalandı"
 msgid "Law proposed"
 msgstr "Yasa önerildi"
 
-#: src/components/_political/country/CountryHeader.tsx:70
+#: src/components/_political/country/CountryHeader.tsx:69
 #: src/pages/alliance/[allianceId]/index.tsx:95
 #: src/pages/country/[countryId]/index.tsx:182
 #: src/pages/country/[countryId]/laws.tsx:26
@@ -5108,7 +5112,7 @@ msgstr "Üye komutanlıktan düşürüldü"
 msgid "Member kicked successfully"
 msgstr "Üye başarıyla atıldı"
 
-#: src/components/_political/country/CountryHeader.tsx:254
+#: src/components/_political/country/CountryHeader.tsx:253
 msgid "Member of <0/>"
 msgstr "<0/> üyesi"
 
@@ -5747,7 +5751,7 @@ msgid "No sworn enemy"
 msgstr "Baş düşman yok"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:44
-#: src/pages/market/index.tsx:147
+#: src/pages/market/index.tsx:150
 msgid "No trading orders"
 msgstr "Alım satım emri yok"
 
@@ -5969,7 +5973,7 @@ msgstr "Emirler"
 msgid "Orders & actions"
 msgstr "Emirler ve eylemler"
 
-#: src/pages/market/index.tsx:142
+#: src/pages/market/index.tsx:145
 msgid "Orders cancelled"
 msgstr "Emirler iptal edildi"
 
@@ -6699,7 +6703,7 @@ msgstr "Bölge yükseltme bakım maliyetleri <0>{0}</0> artar."
 msgid "regions"
 msgstr "bölgeler"
 
-#: src/components/_political/country/CountryHeader.tsx:121
+#: src/components/_political/country/CountryHeader.tsx:120
 msgid "Regions"
 msgstr "Bölgeler"
 
@@ -6772,8 +6776,8 @@ msgstr "Bir üye ülkeyi ittifaktan çıkar."
 msgid "Remove a member from the party council"
 msgstr "Parti konseyinden bir üyeyi çıkarın"
 
-#: src/pages/market/index.tsx:197
-#: src/pages/market/index.tsx:260
+#: src/pages/market/index.tsx:200
+#: src/pages/market/index.tsx:263
 msgid "Remove all"
 msgstr "Hepsini kaldır"
 
@@ -7192,7 +7196,7 @@ msgid "Sell Items"
 msgstr "Eşya Sat"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:84
-#: src/pages/market/index.tsx:206
+#: src/pages/market/index.tsx:209
 msgid "Sell orders"
 msgstr "Satış emirleri"
 
@@ -7477,7 +7481,7 @@ msgstr "<0>Enerjini</0> burada çalışarak harca ve <1>Para</1> kazan. Daha faz
 msgid "Spendings"
 msgstr "Harcamalar"
 
-#: src/components/_political/country/CountryHeader.tsx:186
+#: src/components/_political/country/CountryHeader.tsx:185
 msgid "Stable, conquest-proof strength. Still used for unrest, government wages and revolution cost. Other costs use <0>Average development</0>."
 msgstr "İstikrarlı, fethe dayanıklı güç. Yine de huzursuzluk, hükümet maaşları ve devrim maliyeti için kullanılır. Diğer maliyetler <0>Ortalama gelişimi</0> kullanır."
 
@@ -7881,7 +7885,7 @@ msgstr "İyi hissettiriyor, değil mi?"
 msgid "This is a summary of the loot you received from this battle. It includes any cases you got as well as the most valuable items from the shared loot pool."
 msgstr "Bu, bu savaştan elde ettiğiniz ganimetlerin özetidir. Aldığınız tüm sandıkları ve paylaşılan ganimet havuzundaki en değerli eşyaları içerir."
 
-#: src/components/_political/country/CountryHeader.tsx:215
+#: src/components/_political/country/CountryHeader.tsx:214
 msgid "This is the value used to calculate most costs: battle orders, alliance, sworn enemy and defensive pact maintenance, laws and upgrade upkeep."
 msgstr "Bu, çoğu maliyeti hesaplamak için kullanılan değerdir: savaş emirleri, ittifak, baş düşman ve savunma paktı bakımı, yasalar ve yükseltme bakımı."
 
@@ -7918,7 +7922,7 @@ msgstr "Sadece bu tur"
 msgid "This user is not part of any family group"
 msgstr "Bu kullanıcı herhangi bir aile grubunun parçası değil"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:244
+#: src/components/_economy/inventory/ConsumeItems.tsx:237
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr "Bu size {cocainBuffHours}s boyunca buff, ardından {cocainDebuffHours}s boyunca ceza verecektir"
 
@@ -8085,8 +8089,8 @@ msgstr "toplam"
 #: src/components/_political/law/LawCostExplanation.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:28
 #: src/pages/alliance/[allianceId]/index.tsx:59
-#: src/pages/market/index.tsx:159
-#: src/pages/market/index.tsx:210
+#: src/pages/market/index.tsx:162
+#: src/pages/market/index.tsx:213
 msgid "Total"
 msgstr "Toplam"
 
@@ -8102,10 +8106,9 @@ msgstr "Toplam hasar"
 msgid "Total Donated:"
 msgstr "Toplam bağış:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:409
+#: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:467
 msgid "Total of <0/>"
 msgstr "<0/>'in Toplamı"
-
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:399
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
@@ -8176,8 +8179,8 @@ msgstr "Stajyer"
 msgid "Transac."
 msgstr "İşlem."
 
-#: src/components/_political/country/CountryHeader.tsx:83
-#: src/pages/market/index.tsx:90
+#: src/components/_political/country/CountryHeader.tsx:82
+#: src/pages/market/index.tsx:93
 #: src/pages/user/[userId]/index.tsx:230
 msgid "Transactions"
 msgstr "İşlemler"
@@ -8665,7 +8668,7 @@ msgstr "Uyarı"
 msgid "Warrant Officer"
 msgstr "Asteğmen"
 
-#: src/components/_political/country/CountryHeader.tsx:101
+#: src/components/_political/country/CountryHeader.tsx:100
 msgid "Wars"
 msgstr "Savaşlar"
 
@@ -8821,10 +8824,6 @@ msgstr "Başlarken başkaları için çalışmak para kazanmanın harika bir yol
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:64
 msgid "World <0/>"
 msgstr "Dünya <0/>"
-
-#: src/components/_other/shop/skin.frontConfig.tsx:359
-msgid "World Cup Ball"
-msgstr "Dünya Kupası Topu"
 
 #: src/components/_layout/LayoutOptions.tsx:222
 #: src/components/_user/kits/KitsPopover.tsx:258

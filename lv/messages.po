@@ -753,7 +753,7 @@ msgstr "<0>{strategicBonus}</0> no <1/> stratēģisko resursu ražošanas bonusa
 msgid "<0>#{key}</0> resource of each type = <1>{value}</1>"
 msgstr "<0>#{key}</0> katra tipa resurss = <1>{value}</1>"
 
-#: src/components/_political/country/CountryHeader.tsx:207
+#: src/components/_political/country/CountryHeader.tsx:206
 msgid "<0>Average development</0> is the average of <1>Core development</1> and <2>Current development</2>."
 msgstr "<0>Vidējā attīstība</0> ir vidējā vērtība starp <1>Pamata attīstību</1> un <2>Pašreizējo attīstību</2>."
 
@@ -761,11 +761,11 @@ msgstr "<0>Vidējā attīstība</0> ir vidējā vērtība starp <1>Pamata attīs
 msgid "<0>Buff</0> ends <1/>"
 msgstr "<0>Pastiprinājums</0> beigsies <1/>"
 
-#: src/components/_political/country/CountryHeader.tsx:171
+#: src/components/_political/country/CountryHeader.tsx:170
 msgid "<0>Core development</0> is calculated depending on the country's <1>Population</1> and average <2>Level</2>. then distributed equally among the country's <3>Core regions</3>."
 msgstr "<0>Pamata attīstība</0> tiek aprēķināta atkarībā no valsts <1>Iedzīvotāju skaita</1> un to vidējā <2>Līmeņa</2>. Tad sadalīta vienlīdzīgi starp valsts <3>Pamatreģioniem</3>."
 
-#: src/components/_political/country/CountryHeader.tsx:235
+#: src/components/_political/country/CountryHeader.tsx:234
 msgid "<0>Current development</0> is the total development of the <1>regions</1> the country currently controls, including conquered territory."
 msgstr "<0>Pašreizējā attīstība</0> ir kopējā attīstība valsts kontrolējamos <1>reģionos</1>, ieskaitot iekarotās teritorijas."
 
@@ -1326,7 +1326,7 @@ msgstr "Pieņemts"
 msgid "Access war"
 msgstr "Apskatīt karu"
 
-#: src/components/_political/country/CountryHeader.tsx:77
+#: src/components/_political/country/CountryHeader.tsx:76
 #: src/components/_user/user/UserHeader.tsx:167
 #: src/pages/country/[countryId]/account.tsx:43
 #: src/pages/country/[countryId]/index.tsx:253
@@ -1661,7 +1661,7 @@ msgstr "Pieņemts"
 msgid "Arcane Boots"
 msgstr "Arkānie Zābaki"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:243
+#: src/components/_economy/inventory/ConsumeItems.tsx:236
 msgid "Are you sure you want to consume pill?"
 msgstr "Vai esi pārliecināts, ka gribi apēst tableti?"
 
@@ -1693,11 +1693,11 @@ msgstr "Vai esi pārliecināts, ka gribi pieņemt šo izsoles piedāvājumu?"
 msgid "Are you sure you want to promote this member to commander?"
 msgstr "Vai esi pārliecināts, ka vēlies paaugstināt par komandieri šo biedru?"
 
-#: src/pages/market/index.tsx:193
+#: src/pages/market/index.tsx:196
 msgid "Are you sure you want to remove all buy orders?"
 msgstr "Vai esi pārliecināts, ka gribi atcelt visus pirkšanas rīkojumus?"
 
-#: src/pages/market/index.tsx:256
+#: src/pages/market/index.tsx:259
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "Vai esi pārliecināts, ka gribi atcelt visus pārdošanas rīkojumus?"
 
@@ -1867,7 +1867,7 @@ msgstr "Automātiski apvilkt, kad manta salūzt"
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Automātiski rada <0>Ražošanas Punktus</0> laika gaitā, bez nepieciešamības strādāt."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:300
+#: src/components/_economy/inventory/ConsumeItems.tsx:293
 msgid "Autobuy when empty"
 msgstr "Automātiski nopirkt, kad tukšs"
 
@@ -1917,6 +1917,10 @@ msgstr "Centrisms"
 #: src/components/_political/party/party.frontConfig.tsx:438
 msgid "Balanced - No modifiers"
 msgstr "Centrisms - Nav modifikātoru"
+
+#: src/components/_other/shop/skin.frontConfig.tsx:359
+msgid "Ball"
+msgstr ""
 
 #: src/components/_political/event/EventList.tsx:73
 msgid "Bankruptcy"
@@ -2202,7 +2206,7 @@ msgid "Buy Items"
 msgstr "Pirkt Preces"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:51
-#: src/pages/market/index.tsx:155
+#: src/pages/market/index.tsx:158
 msgid "Buy orders"
 msgstr "Pirkšanas rīkojumi"
 
@@ -2437,7 +2441,7 @@ msgstr "Izvēlēties konkrētu mantu maksā x2 tērauda:"
 msgid "Citizen since <0><1/></0>"
 msgstr "Pilsonis kopš <0><1/></0>"
 
-#: src/components/_political/country/CountryHeader.tsx:127
+#: src/components/_political/country/CountryHeader.tsx:126
 msgid "Citizens"
 msgstr "Pilsoņi"
 
@@ -2445,7 +2449,7 @@ msgstr "Pilsoņi"
 msgid "Citizens get a bonus when fighting for allies, or against the sworn enemy"
 msgstr "Pilsoņi gūst bonusu cīnoties par sabiedrotajiem, var arī pret zvērēto ienaidnieku"
 
-#: src/components/_political/country/CountryHeader.tsx:114
+#: src/components/_political/country/CountryHeader.tsx:113
 msgid "Citizenship"
 msgstr "Pilsonība"
 
@@ -2491,7 +2495,7 @@ msgstr "Spied uz savas valsts čatu, lai sarunātos ar līdzpilsoņiem."
 msgid "Click to apply and start earning money right away."
 msgstr "Spied, lai pieteiktos un sāktu uzreiz pelnīt naudu."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:187
+#: src/components/_economy/inventory/ConsumeItems.tsx:180
 msgid "Click to consume."
 msgstr "Uzspied, lai apēstu."
 
@@ -2713,7 +2717,7 @@ msgstr "Iekarotājs"
 msgid "Consider giving it to your local moderator"
 msgstr "Apsver to atdot savam vietējam moderatoram"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:184
+#: src/components/_economy/inventory/ConsumeItems.tsx:177
 msgid "Consume items"
 msgstr "Patērēt preces"
 
@@ -2751,7 +2755,7 @@ msgstr "Līgums tika lauzts"
 #: src/components/_military/battle/BattlesHeader.tsx:44
 #: src/components/_military/battle/BattleSideContractsModal.tsx:47
 #: src/components/_military/battle/LootSummaryCard.tsx:95
-#: src/components/_political/country/CountryHeader.tsx:135
+#: src/components/_political/country/CountryHeader.tsx:134
 msgid "Contracts"
 msgstr "Līgumi"
 
@@ -2821,7 +2825,7 @@ msgstr "Valstis"
 #: src/components/_layout/MoreButtonNav.tsx:133
 #: src/components/_military/battle/BattleCountrySide.tsx:73
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:133
-#: src/components/_political/country/CountryHeader.tsx:56
+#: src/components/_political/country/CountryHeader.tsx:55
 msgid "Country"
 msgstr "Valsts"
 
@@ -3324,7 +3328,7 @@ msgid "Disbanded <0/>"
 msgstr "<0/> izformēta"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:187
-#: src/pages/user/[userId]/inventory.tsx:51
+#: src/pages/user/[userId]/inventory.tsx:52
 msgid "Dismantle"
 msgstr "Izjaukt"
 
@@ -3395,7 +3399,7 @@ msgstr "Ziedojums"
 msgid "Donation Summary"
 msgstr "Ziedojumu Kopsavilkums"
 
-#: src/components/_political/country/CountryHeader.tsx:89
+#: src/components/_political/country/CountryHeader.tsx:88
 #: src/pages/country/[countryId]/donations.tsx:17
 #: src/pages/mu/[muId]/donations.tsx:17
 #: src/pages/party/[partyId]/donations.tsx:17
@@ -3479,7 +3483,7 @@ msgstr "Vēlēšanas beigušās"
 msgid "Election vote open"
 msgstr "Vēlēšanu balsošana ir atvērta"
 
-#: src/components/_political/country/CountryHeader.tsx:108
+#: src/components/_political/country/CountryHeader.tsx:107
 #: src/pages/country/[countryId]/elections.tsx:28
 #: src/pages/country/[countryId]/index.tsx:281
 #: src/pages/party/[partyId]/index.tsx:101
@@ -3589,9 +3593,9 @@ msgstr "Uzņēmējdarbība"
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_layout/LayoutOptions.tsx:187
 #: src/components/_user/user/WealthPanel.tsx:56
-#: src/pages/market/index.tsx:78
+#: src/pages/market/index.tsx:81
 #: src/pages/user/[userId]/index.tsx:92
-#: src/pages/user/[userId]/inventory.tsx:61
+#: src/pages/user/[userId]/inventory.tsx:62
 msgid "Equipment"
 msgstr "Ekipējums"
 
@@ -4096,7 +4100,7 @@ msgstr "Doties uz prasmēm"
 msgid "Gold"
 msgstr "Zelts"
 
-#: src/components/_political/country/CountryHeader.tsx:95
+#: src/components/_political/country/CountryHeader.tsx:94
 #: src/pages/country/[countryId]/index.tsx:176
 msgid "Government"
 msgstr "Valdība"
@@ -4329,7 +4333,7 @@ msgid "Hitting for your own country while in government gives {0}% bounty effici
 msgstr "Sitot par savu valsti, kamēr esi valdībā, dod {0}% no atlīdzības."
 
 #: src/components/_other/shop/ShopHeader.tsx:16
-#: src/components/_political/country/CountryHeader.tsx:64
+#: src/components/_political/country/CountryHeader.tsx:63
 #: src/components/_user/user/UserHeader.tsx:153
 msgid "Home"
 msgstr "Sākums"
@@ -4566,7 +4570,7 @@ msgstr "Darba tirgus"
 msgid "Job offer"
 msgstr "Darba piedāvājums"
 
-#: src/pages/market/index.tsx:84
+#: src/pages/market/index.tsx:87
 msgid "Job offers"
 msgstr "Darba piedāvājumi"
 
@@ -4725,7 +4729,7 @@ msgstr "Likums neizdevās"
 msgid "Law proposed"
 msgstr "Likums ierosināts"
 
-#: src/components/_political/country/CountryHeader.tsx:70
+#: src/components/_political/country/CountryHeader.tsx:69
 #: src/pages/alliance/[allianceId]/index.tsx:95
 #: src/pages/country/[countryId]/index.tsx:182
 #: src/pages/country/[countryId]/laws.tsx:26
@@ -5108,7 +5112,7 @@ msgstr "Biedrs pazemināts no komandiera amata"
 msgid "Member kicked successfully"
 msgstr "Biedrs veiksmīgi izraidīts"
 
-#: src/components/_political/country/CountryHeader.tsx:254
+#: src/components/_political/country/CountryHeader.tsx:253
 msgid "Member of <0/>"
 msgstr "<0/> dalībvalsts"
 
@@ -5747,7 +5751,7 @@ msgid "No sworn enemy"
 msgstr "Nav zvērētā ienaidnieka"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:44
-#: src/pages/market/index.tsx:147
+#: src/pages/market/index.tsx:150
 msgid "No trading orders"
 msgstr "Nav tirgus rīkojumu"
 
@@ -5969,7 +5973,7 @@ msgstr "Rīkojumi"
 msgid "Orders & actions"
 msgstr "Rīkojumi un darbības"
 
-#: src/pages/market/index.tsx:142
+#: src/pages/market/index.tsx:145
 msgid "Orders cancelled"
 msgstr "Rīkojumi atcelti"
 
@@ -6699,7 +6703,7 @@ msgstr "Reģionu uzlabojumu uzturēšanas maksa tiek palielināta par <0>{0}</0>
 msgid "regions"
 msgstr "reģionus"
 
-#: src/components/_political/country/CountryHeader.tsx:121
+#: src/components/_political/country/CountryHeader.tsx:120
 msgid "Regions"
 msgstr "Reģioni"
 
@@ -6772,8 +6776,8 @@ msgstr "Izraidīt dalībvalsti no alianses."
 msgid "Remove a member from the party council"
 msgstr "Atlaist biedru no partijas padomes"
 
-#: src/pages/market/index.tsx:197
-#: src/pages/market/index.tsx:260
+#: src/pages/market/index.tsx:200
+#: src/pages/market/index.tsx:263
 msgid "Remove all"
 msgstr "Atcelt visus"
 
@@ -7192,7 +7196,7 @@ msgid "Sell Items"
 msgstr "Pārdot preces"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:84
-#: src/pages/market/index.tsx:206
+#: src/pages/market/index.tsx:209
 msgid "Sell orders"
 msgstr "Pārdošanas rīkojumi"
 
@@ -7477,7 +7481,7 @@ msgstr "Tērē savu <0>Enerģiju</0> strādājot šeit, lai nopelnītu <1>Naudu<
 msgid "Spendings"
 msgstr "Tēriņi"
 
-#: src/components/_political/country/CountryHeader.tsx:186
+#: src/components/_political/country/CountryHeader.tsx:185
 msgid "Stable, conquest-proof strength. Still used for unrest, government wages and revolution cost. Other costs use <0>Average development</0>."
 msgstr "Stabils, iekarojuma-noturīgs spēks. Joprojām izmantots priekš nemieriem, valdības algām un revolūcijas izmaksām. Citas izmaksas izmanto <0>Vidējo attīstību</0>."
 
@@ -7881,7 +7885,7 @@ msgstr "Forša sajūta, ne?"
 msgid "This is a summary of the loot you received from this battle. It includes any cases you got as well as the most valuable items from the shared loot pool."
 msgstr "Šis ir kopsavilkums par laupījumu, ko saņēmāt šajā kaujā. Tas satur jebkādas kastes ko ieguvāt, kā arī vērtīgos ekipējumus no kopējā laupījuma katla."
 
-#: src/components/_political/country/CountryHeader.tsx:215
+#: src/components/_political/country/CountryHeader.tsx:214
 msgid "This is the value used to calculate most costs: battle orders, alliance, sworn enemy and defensive pact maintenance, laws and upgrade upkeep."
 msgstr "Šī vērtība tiek izmantota, lai aprēķinātu lielāko daļu izmaksu: kauju rīkojumiem, aliansēm, zvērēto ienaidnieku un aizsardzības paktu uzturēšanai, likumiem un uzlabojumu uzturēšanai."
 
@@ -7918,7 +7922,7 @@ msgstr "Tikai šim raundam"
 msgid "This user is not part of any family group"
 msgstr "Šis lietotājs nav nevienas ģimenes grupas dalībnieks"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:244
+#: src/components/_economy/inventory/ConsumeItems.tsx:237
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr "Tas dos tev pastiprinājumu uz {cocainBuffHours}h, tad izraisīs paģiras uz {cocainDebuffHours}h"
 
@@ -8085,8 +8089,8 @@ msgstr "kopā"
 #: src/components/_political/law/LawCostExplanation.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:28
 #: src/pages/alliance/[allianceId]/index.tsx:59
-#: src/pages/market/index.tsx:159
-#: src/pages/market/index.tsx:210
+#: src/pages/market/index.tsx:162
+#: src/pages/market/index.tsx:213
 msgid "Total"
 msgstr "Kopā"
 
@@ -8102,7 +8106,7 @@ msgstr "Kopējie bojājumi"
 msgid "Total Donated:"
 msgstr "Kopā noziedots:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:409
+#: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:467
 msgid "Total of <0/>"
 msgstr ""
 
@@ -8175,8 +8179,8 @@ msgstr "Māceklis"
 msgid "Transac."
 msgstr "Darījumi"
 
-#: src/components/_political/country/CountryHeader.tsx:83
-#: src/pages/market/index.tsx:90
+#: src/components/_political/country/CountryHeader.tsx:82
+#: src/pages/market/index.tsx:93
 #: src/pages/user/[userId]/index.tsx:230
 msgid "Transactions"
 msgstr "Darījumi"
@@ -8664,7 +8668,7 @@ msgstr "Brīdinājums"
 msgid "Warrant Officer"
 msgstr "Vecākais Apakšvirsnieks"
 
-#: src/components/_political/country/CountryHeader.tsx:101
+#: src/components/_political/country/CountryHeader.tsx:100
 msgid "Wars"
 msgstr "Kari"
 
@@ -8819,10 +8823,6 @@ msgstr "Strādāšana pie citiem ir labs veids kā sākt pelnīt naudu."
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:64
 msgid "World <0/>"
-msgstr ""
-
-#: src/components/_other/shop/skin.frontConfig.tsx:359
-msgid "World Cup Ball"
 msgstr ""
 
 #: src/components/_layout/LayoutOptions.tsx:222
