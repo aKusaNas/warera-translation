@@ -9077,7 +9077,7 @@ msgstr "Baigėsi tavo \"Premium\" dovanos iš <0/> galiojimas! Ar apsvarstytum p
 #. placeholder {0}: data.rank
 #: src/components/_user/notification/notification.frontConfig.tsx:1266
 msgid "You received a loot item for rank <0>#{0}</0> in <1/>"
-msgstr "Gavai grobio daiktą už <0>#{0}</0> vietą <1/>"
+msgstr "Gavai grobį už <0>#{0}</0> vietą <1/>"
 
 #. placeholder {0}: data.muId ? ( <MuName muId={data.muId} /> ) : data.countryId ? ( <CountryName countryId={data.countryId} /> ) : ( 'your' )
 #. placeholder {1}: data.rank && ( <> position{' '} <Typo fw='bold' color='text1'> #{data.rank} </Typo> </> )
