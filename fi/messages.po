@@ -51,7 +51,7 @@ msgstr ""
 msgid " - Using outside market standards or manipulated trade prices"
 msgstr ""
 
-#: src/components/_user/premium/PremiumActions.tsx:71
+#: src/components/_user/premium/PremiumActions.tsx:74
 msgid " Gift a sub"
 msgstr " Lahjoita tilaus"
 
@@ -84,7 +84,7 @@ msgid "{0} & allies"
 msgstr "{0} ja liittolaiset"
 
 #. placeholder {0}: lawConfig.minActiveCitizen
-#: src/components/_political/law/Law.tsx:139
+#: src/components/_political/law/Law.tsx:148
 msgid "{0} active citizens required"
 msgstr "Tarvitaan {0} aktiivista kansalaista"
 
@@ -105,8 +105,8 @@ msgstr "{0} ilmainen"
 
 #. placeholder {0}: lawConfig?.coolDownInHours
 #. placeholder {0}: motionConfig.coolDownInHours
-#: src/components/_political/law/Law.tsx:130
-#: src/components/_political/partyMotion/PartyMotion.tsx:113
+#: src/components/_political/law/Law.tsx:139
+#: src/components/_political/partyMotion/PartyMotion.tsx:130
 msgid "{0} hours"
 msgstr "{0} tuntia"
 
@@ -133,7 +133,7 @@ msgstr "{0}n yritykset"
 
 #. placeholder {0}: activeCompaniesCount.data ?? 0
 #. placeholder {1}: companiesLimit ?? 1
-#: src/components/_economy/company/CompanyDropdown.tsx:253
+#: src/components/_economy/company/CompanyDropdown.tsx:260
 msgid "{0}/{1} active"
 msgstr "{0}/{1} aktiivista"
 
@@ -148,7 +148,7 @@ msgid "{0}% income tax will be deducted from your workers wages."
 msgstr "{0}% tulovero vähennetään työntekijöidesi palkoista."
 
 #. placeholder {0}: gameConfig.company.destructionValuePercent
-#: src/components/_economy/company/CompanyDropdown.tsx:314
+#: src/components/_economy/company/CompanyDropdown.tsx:321
 msgid "{0}% of invested"
 msgstr "{0}% sijoitetusta"
 
@@ -729,23 +729,23 @@ msgid "<0>{0}</0> Storage capacity"
 msgstr "<0>{0}</0> Varastointikapasiteetti"
 
 #. placeholder {0}: lawConfig.maintenanceCost
-#: src/components/_political/law/Law.tsx:115
+#: src/components/_political/law/Law.tsx:124
 msgid "<0>{0}</0>/day"
 msgstr "<0>{0}</0>/päivä"
 
-#: src/components/_economy/company/CompanyProductionBonusTag.tsx:75
+#: src/components/_economy/company/CompanyProductionBonusTag.tsx:78
 msgid "<0>{depositBonus}</0> from deposit resources in <1/>."
 msgstr "<0>{depositBonus}</0> talletusresursseista <1/>."
 
-#: src/components/_economy/company/CompanyProductionBonusTag.tsx:86
+#: src/components/_economy/company/CompanyProductionBonusTag.tsx:89
 msgid "<0>{ethicDepositBonus}</0> from <1/> agrarian ethics deposit bonus."
 msgstr "<0>{ethicDepositBonus}</0> <1/> maatalouden etiikan talletusbonuksesta."
 
-#: src/components/_economy/company/CompanyProductionBonusTag.tsx:64
+#: src/components/_economy/company/CompanyProductionBonusTag.tsx:67
 msgid "<0>{ethicSpecializationBonus}</0> from <1/> industrialist ethics specialization bonus."
 msgstr "<0>{ethicSpecializationBonus}</0> <1/> teollisen etiikan erikoistumisbonuksesta."
 
-#: src/components/_economy/company/CompanyProductionBonusTag.tsx:53
+#: src/components/_economy/company/CompanyProductionBonusTag.tsx:56
 msgid "<0>{strategicBonus}</0> from <1/> strategic resources production bonus."
 msgstr "<0>{strategicBonus}</0> <1/> strategisten resurssien tuotantobonuksesta."
 
@@ -754,7 +754,7 @@ msgstr "<0>{strategicBonus}</0> <1/> strategisten resurssien tuotantobonuksesta.
 msgid "<0>#{key}</0> resource of each type = <1>{value}</1>"
 msgstr "<0>#{key}</0> kunkin tyypin resurssi = <1>{value}</1>"
 
-#: src/components/_political/country/CountryHeader.tsx:206
+#: src/components/_political/country/CountryHeader.tsx:207
 msgid "<0>Average development</0> is the average of <1>Core development</1> and <2>Current development</2>."
 msgstr ""
 
@@ -762,11 +762,11 @@ msgstr ""
 msgid "<0>Buff</0> ends <1/>"
 msgstr "<0>Buff</0> päättyy <1/>"
 
-#: src/components/_political/country/CountryHeader.tsx:170
+#: src/components/_political/country/CountryHeader.tsx:171
 msgid "<0>Core development</0> is calculated depending on the country's <1>Population</1> and average <2>Level</2>. then distributed equally among the country's <3>Core regions</3>."
 msgstr ""
 
-#: src/components/_political/country/CountryHeader.tsx:234
+#: src/components/_political/country/CountryHeader.tsx:235
 msgid "<0>Current development</0> is the total development of the <1>regions</1> the country currently controls, including conquered territory."
 msgstr ""
 
@@ -1274,9 +1274,9 @@ msgstr "Vahvistuskoodi on lähetetty osoitteeseen {phoneNumber}"
 msgid "a. Insults, slurs and targeted harassment"
 msgstr ""
 
-#: src/components/_political/allianceLaw/AllianceLaw.tsx:133
-#: src/components/_political/law/Law.tsx:190
-#: src/components/_political/partyMotion/PartyMotion.tsx:173
+#: src/components/_political/allianceLaw/AllianceLaw.tsx:142
+#: src/components/_political/law/Law.tsx:199
+#: src/components/_political/partyMotion/PartyMotion.tsx:190
 msgid "Abstain"
 msgstr "Pidättäytyä äänestämästä"
 
@@ -1288,9 +1288,9 @@ msgstr "Ilmoitusjärjestelmän väärinkäyttö tai roskapostittaminen voi johta
 msgid "Abusing this power to advantage another country will lead to a <0>ban.</0>"
 msgstr "Tämän vallan väärinkäyttö toisen maan hyväksi johtaa <0>kieltoon.</0>"
 
-#: src/components/_political/allianceLaw/AllianceLaw.tsx:122
-#: src/components/_political/law/Law.tsx:179
-#: src/components/_political/partyMotion/PartyMotion.tsx:162
+#: src/components/_political/allianceLaw/AllianceLaw.tsx:131
+#: src/components/_political/law/Law.tsx:188
+#: src/components/_political/partyMotion/PartyMotion.tsx:179
 #: src/components/_user/worker/WageReductionAlert.tsx:86
 msgid "Accept"
 msgstr "Hyväksy"
@@ -1317,9 +1317,7 @@ msgstr "Hyväksy rauha"
 msgid "Accept to make peace with the other country"
 msgstr "Hyväksy rauhan tekeminen toisen maan kanssa"
 
-#: src/components/_political/allianceLaw/AllianceLawStatus.tsx:43
-#: src/components/_political/law/LawStatus.tsx:43
-#: src/components/_political/partyMotion/PartyMotionStatus.tsx:52
+#: src/components/_political/law/GenericLawStatus.tsx:40
 msgid "Accepted"
 msgstr "Hyväksytty"
 
@@ -1384,9 +1382,9 @@ msgstr "Toiminta"
 msgid "Add User"
 msgstr "Lisää käyttäjä"
 
-#: src/components/_political/law/Law.tsx:101
+#: src/components/_political/law/Law.tsx:110
 #: src/components/_political/law/LawFormModal.tsx:328
-#: src/components/_political/partyMotion/PartyMotion.tsx:99
+#: src/components/_political/partyMotion/PartyMotion.tsx:116
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:172
 msgid "Additional cost"
 msgstr "Lisäkustannukset"
@@ -1641,7 +1639,7 @@ msgstr "API-tunnukset"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API-tunnukset sallivat ulkoisten sovellusten käyttää API:ta puolestasi. Käytä merkkiä <0>X-API-Key</0>-otsikossa. Jokaisella tunnuksella on nopeusrajoitus 200 pyyntöä minuutissa."
 
-#: src/components/_layout/LayoutOptions.tsx:257
+#: src/components/_layout/LayoutOptions.tsx:262
 msgid "App pattern"
 msgstr "Sovellusmalli"
 
@@ -1859,7 +1857,7 @@ msgstr "Todennus epäonnistui. Yritä uudelleen."
 msgid "Auto approval"
 msgstr "Automaattinen hyväksyntä"
 
-#: src/components/_layout/LayoutOptions.tsx:190
+#: src/components/_layout/LayoutOptions.tsx:195
 #: src/components/_user/kits/KitsPopover.tsx:220
 msgid "Auto-equip when item breaks"
 msgstr ""
@@ -1898,7 +1896,7 @@ msgstr ""
 msgid "Baby Boomer"
 msgstr "Babyboomeri"
 
-#: src/components/_user/referral/ReferralList.tsx:110
+#: src/components/_user/referral/ReferralList.tsx:111
 msgid "Badge won"
 msgstr "Merkki ansaittu"
 
@@ -2063,7 +2061,7 @@ msgstr "Taistelut voitetut"
 msgid "Become a Candidate"
 msgstr "Ryhdy ehdokkaaksi"
 
-#: src/components/_layout/LayoutOptions.tsx:210
+#: src/components/_layout/LayoutOptions.tsx:215
 #: src/components/_user/kits/KitsPopover.tsx:244
 msgid "Best"
 msgstr ""
@@ -2080,7 +2078,7 @@ msgstr ""
 msgid "Birthday Hat for 1st year of Beta"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:279
+#: src/components/_user/user/UserDropdown.tsx:292
 msgid "Block (hide content)"
 msgstr "Estä (piilota sisältö)"
 
@@ -2088,7 +2086,7 @@ msgstr "Estä (piilota sisältö)"
 msgid "Blue Staff"
 msgstr "Sininen henkilökunta"
 
-#: src/components/_layout/LayoutOptions.tsx:151
+#: src/components/_layout/LayoutOptions.tsx:156
 msgid "Blur"
 msgstr ""
 
@@ -2363,7 +2361,7 @@ msgstr ""
 msgid "Change color to <0>{0}</0>"
 msgstr ""
 
-#: src/components/_military/mu/MuSettings.tsx:89
+#: src/components/_military/mu/MuSettings.tsx:87
 msgid "Change nationality"
 msgstr ""
 
@@ -2372,7 +2370,7 @@ msgstr ""
 msgid "Change produced item"
 msgstr "Muuta tuotettua tuotetta"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:194
+#: src/components/_economy/company/CompanyDropdown.tsx:201
 msgid "Change production"
 msgstr "Muuta tuotantoa"
 
@@ -2533,11 +2531,11 @@ msgstr ""
 msgid "Colonel"
 msgstr "Eversti"
 
-#: src/components/_user/user/UserDropdown.tsx:219
+#: src/components/_user/user/UserDropdown.tsx:232
 msgid "Color scheme"
 msgstr "Värimaailma"
 
-#: src/components/_layout/LayoutOptions.tsx:167
+#: src/components/_layout/LayoutOptions.tsx:172
 msgid "Colorblind mode"
 msgstr ""
 
@@ -2576,7 +2574,7 @@ msgstr "Yritysten raja"
 msgid "Companies limit reached"
 msgstr "Yritysraja saavutettu"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:93
+#: src/components/_economy/company/CompanyDropdown.tsx:98
 msgid "Company destroyed!"
 msgstr "Yritys tuhottu!"
 
@@ -2584,15 +2582,15 @@ msgstr "Yritys tuhottu!"
 msgid "Company disabled"
 msgstr "Yritys pois käytöstä"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:120
+#: src/components/_economy/company/CompanyDropdown.tsx:125
 msgid "Company disabled!"
 msgstr "Yritys pois käytöstä!"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:119
+#: src/components/_economy/company/CompanyDropdown.tsx:124
 msgid "Company enabled!"
 msgstr "Yritys käytössä!"
 
-#: src/components/_economy/company/MoveCompanyForm.tsx:55
+#: src/components/_economy/company/MoveCompanyForm.tsx:58
 msgid "Company moved"
 msgstr "Yritys muutti"
 
@@ -2604,7 +2602,7 @@ msgstr "Yrityksen tuotannon varastointi"
 msgid "Company renamed!"
 msgstr "Yritys nimetty uudelleen!"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:143
+#: src/components/_economy/company/CompanyDropdown.tsx:148
 msgid "Company upgraded!"
 msgstr ""
 
@@ -2768,8 +2766,8 @@ msgstr ""
 msgid "Cooked Fish"
 msgstr "Keitetty kala"
 
-#: src/components/_political/law/Law.tsx:127
-#: src/components/_political/partyMotion/PartyMotion.tsx:110
+#: src/components/_political/law/Law.tsx:136
+#: src/components/_political/partyMotion/PartyMotion.tsx:127
 msgid "Cool down"
 msgstr "Odotusaika"
 
@@ -2984,7 +2982,7 @@ msgstr ""
 msgid "Current Military Unit"
 msgstr "Nykyinen sotilasyksikkö"
 
-#: src/components/_military/mu/MuSettings.tsx:63
+#: src/components/_military/mu/MuSettings.tsx:61
 msgid "Current nationality"
 msgstr ""
 
@@ -3064,7 +3062,7 @@ msgstr "Pimeä aikakausi"
 msgid "Dark Era Pack"
 msgstr "Dark Era -paketti"
 
-#: src/components/_layout/LayoutOptions.tsx:142
+#: src/components/_layout/LayoutOptions.tsx:147
 msgid "Dark map"
 msgstr "Tumma kartta"
 
@@ -3286,7 +3284,7 @@ msgstr "Kuvaus poistettu"
 msgid "Description updated!"
 msgstr "Kuvaus päivitetty!"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:304
+#: src/components/_economy/company/CompanyDropdown.tsx:311
 msgid "Destruct"
 msgstr "Tuhota"
 
@@ -3316,7 +3314,7 @@ msgstr "Diplomaattinen"
 msgid "Diplomatic: defensive pact maintenance costs {less}% less <0>{0}</0>."
 msgstr ""
 
-#: src/components/_economy/company/CompanyDropdown.tsx:260
+#: src/components/_economy/company/CompanyDropdown.tsx:267
 msgid "Disable company"
 msgstr "Poista yritys käytöstä"
 
@@ -3456,7 +3454,7 @@ msgstr "Taloudelliset taidot"
 msgid "Economy & Companies"
 msgstr "Talous & Yritykset"
 
-#: src/components/_user/user/UserDropdown.tsx:210
+#: src/components/_user/user/UserDropdown.tsx:223
 msgid "Edit description"
 msgstr "Muokkaa kuvausta"
 
@@ -3527,16 +3525,16 @@ msgstr "Työntekijöiden tuotanto"
 msgid "Empty"
 msgstr "Tyhjä"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:250
+#: src/components/_economy/company/CompanyDropdown.tsx:257
 msgid "Enable company"
 msgstr "Ota yritys käyttöön"
 
-#: src/components/_political/allianceLaw/AllianceLaw.tsx:78
+#: src/components/_political/allianceLaw/AllianceLaw.tsx:87
 #: src/components/_political/allianceLaw/AllianceLawTypeSelect.tsx:102
-#: src/components/_political/law/Law.tsx:83
-#: src/components/_political/law/Law.tsx:86
+#: src/components/_political/law/Law.tsx:92
+#: src/components/_political/law/Law.tsx:95
 #: src/components/_political/law/LawTypeSelect.tsx:176
-#: src/components/_political/partyMotion/PartyMotion.tsx:89
+#: src/components/_political/partyMotion/PartyMotion.tsx:106
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:132
 msgid "Enacting cost"
 msgstr "Toteutuskustannukset"
@@ -3592,7 +3590,7 @@ msgid "Entrepreneurship"
 msgstr "Yrittäjyys"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
-#: src/components/_layout/LayoutOptions.tsx:187
+#: src/components/_layout/LayoutOptions.tsx:192
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:81
 #: src/pages/user/[userId]/index.tsx:92
@@ -3608,9 +3606,7 @@ msgstr "Laitteet:"
 msgid "Equipments"
 msgstr "Varusteet"
 
-#: src/components/_political/allianceLaw/AllianceLawStatus.tsx:47
-#: src/components/_political/law/LawStatus.tsx:47
-#: src/components/_political/partyMotion/PartyMotionStatus.tsx:56
+#: src/components/_political/law/GenericLawStatus.tsx:44
 msgid "Error"
 msgstr "Virhe"
 
@@ -3937,15 +3933,15 @@ msgstr "Liput"
 msgid "Flail"
 msgstr "Nuijakeihäs"
 
-#: src/components/_layout/LayoutOptions.tsx:227
+#: src/components/_layout/LayoutOptions.tsx:232
 msgid "Font"
 msgstr "Fontti"
 
-#: src/components/_layout/LayoutOptions.tsx:239
+#: src/components/_layout/LayoutOptions.tsx:244
 msgid "Font size"
 msgstr "Fontin koko"
 
-#: src/components/_user/user/UserDropdown.tsx:228
+#: src/components/_user/user/UserDropdown.tsx:241
 msgid "Font style"
 msgstr "Fonttityyli"
 
@@ -4043,7 +4039,7 @@ msgstr "Lahja lähetetty! Ihopakkaus avattu vastaanottajalle!"
 msgid "Gift sent! Thanks for supporting the game <3"
 msgstr "Lahja lähetetty! Kiitos pelin tukemisesta <3"
 
-#: src/components/_user/user/UserDropdown.tsx:262
+#: src/components/_user/user/UserDropdown.tsx:275
 msgid "Gift Supporter Plan"
 msgstr "Lahjatukisuunnitelma"
 
@@ -4562,7 +4558,7 @@ msgstr ""
 msgid "Job"
 msgstr "Työpaikka"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:273
+#: src/components/_economy/company/CompanyDropdown.tsx:280
 #: src/components/_economy/workOffer/WageInfoAlert.tsx:42
 msgid "Job market"
 msgstr "Työmarkkinat"
@@ -4673,7 +4669,7 @@ msgstr "Veitset eivät hyväksy ammuksia"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Laske <0>{count}</0> kriittisiä osumia"
 
-#: src/components/_layout/LayoutOptions.tsx:180
+#: src/components/_layout/LayoutOptions.tsx:185
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Language"
 msgstr "Kieli"
@@ -4720,8 +4716,8 @@ msgstr "Aloitetaan johtajan vaalit"
 msgid "Launch primary election"
 msgstr "Aloita esivaalit"
 
-#: src/components/_political/allianceLaw/AllianceLaw.tsx:57
-#: src/components/_political/law/Law.tsx:61
+#: src/components/_political/allianceLaw/AllianceLaw.tsx:66
+#: src/components/_political/law/Law.tsx:70
 msgid "Law failed"
 msgstr "Laki epäonnistui"
 
@@ -4745,7 +4741,7 @@ msgstr "Lyijy"
 msgid "Leather Sling"
 msgstr ""
 
-#: src/components/_economy/company/CompanyDropdown.tsx:292
+#: src/components/_economy/company/CompanyDropdown.tsx:299
 msgid "Leave"
 msgstr "Lähde"
 
@@ -4880,7 +4876,7 @@ msgstr "Ruoan kulutuksen raja"
 msgid "Limited:"
 msgstr "Rajoitettu:"
 
-#: src/components/_layout/LayoutOptions.tsx:269
+#: src/components/_layout/LayoutOptions.tsx:274
 msgid "Line"
 msgstr "Linja"
 
@@ -4965,7 +4961,7 @@ msgstr "Onni on vihdoin palkalla"
 msgid "Mage Robe"
 msgstr "Velhon viitta"
 
-#: src/components/_political/law/Law.tsx:112
+#: src/components/_political/law/Law.tsx:121
 msgid "Maintenance cost"
 msgstr "Ylläpitokustannukset"
 
@@ -4977,7 +4973,7 @@ msgstr "Majuri"
 msgid "Make <0/> the new alliance leader. The leader can edit the alliance avatar and color scheme directly."
 msgstr ""
 
-#: src/components/_user/premium/PremiumActions.tsx:81
+#: src/components/_user/premium/PremiumActions.tsx:84
 msgid "Manage Subscription"
 msgstr "Hallinnoi tilausta"
 
@@ -5000,6 +4996,10 @@ msgstr ""
 msgid "Map Accent"
 msgstr "Kartta Accent"
 
+#: src/components/_layout/LayoutOptions.tsx:142
+msgid "Map icons"
+msgstr ""
+
 #: src/components/_economy/market/MarketHeader.tsx:37
 #: src/components/_layout/LayoutMenu.tsx:189
 #: src/pages/country/[countryId]/account.tsx:31
@@ -5021,8 +5021,8 @@ msgstr "Marsalkka"
 msgid "Max level reached!"
 msgstr "Maksimitaso saavutettu!"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:214
-#: src/components/_economy/company/CompanyDropdown.tsx:232
+#: src/components/_economy/company/CompanyDropdown.tsx:221
+#: src/components/_economy/company/CompanyDropdown.tsx:239
 msgid "Maxed!"
 msgstr ""
 
@@ -5113,7 +5113,7 @@ msgstr "Jäsen alennettiin komentajasta"
 msgid "Member kicked successfully"
 msgstr "Jäsen potkittiin onnistuneesti"
 
-#: src/components/_political/country/CountryHeader.tsx:253
+#: src/components/_political/country/CountryHeader.tsx:254
 msgid "Member of <0/>"
 msgstr ""
 
@@ -5222,7 +5222,7 @@ msgstr "Sotilasyksiköt"
 msgid "Min reached"
 msgstr ""
 
-#: src/components/_political/law/Law.tsx:137
+#: src/components/_political/law/Law.tsx:146
 msgid "Min. active citizens"
 msgstr "Min. aktiivisia kansalaisia"
 
@@ -5241,7 +5241,7 @@ msgstr "talousministeri"
 msgid "Minister of Foreign Affairs"
 msgstr "ulkoministeri"
 
-#: src/components/_layout/LayoutOptions.tsx:175
+#: src/components/_layout/LayoutOptions.tsx:180
 msgid "Mission tags"
 msgstr ""
 
@@ -5271,7 +5271,7 @@ msgstr "Rahan sijoitus"
 msgid "Money transfer"
 msgstr "Rahansiirto"
 
-#: src/components/_user/referral/ReferralList.tsx:115
+#: src/components/_user/referral/ReferralList.tsx:116
 msgid "Money won"
 msgstr "Raha voitti"
 
@@ -5300,7 +5300,7 @@ msgstr "Lisää"
 msgid "More premium features coming soon!"
 msgstr "Lisää premium-ominaisuuksia tulossa pian!"
 
-#: src/components/_political/partyMotion/PartyMotion.tsx:74
+#: src/components/_political/partyMotion/PartyMotion.tsx:91
 msgid "Motion failed"
 msgstr "Liike epäonnistui"
 
@@ -5317,8 +5317,8 @@ msgstr "Liikkeet"
 msgid "Move a company to another region"
 msgstr "Siirrä yritys toiselle alueelle"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:179
-#: src/components/_economy/company/MoveCompanyForm.tsx:64
+#: src/components/_economy/company/CompanyDropdown.tsx:186
+#: src/components/_economy/company/MoveCompanyForm.tsx:67
 msgid "Move company"
 msgstr "Siirrä yritys"
 
@@ -5326,11 +5326,11 @@ msgstr "Siirrä yritys"
 msgid "Move Company"
 msgstr "Siirrä yritys"
 
-#: src/components/_economy/company/MoveCompanyForm.tsx:89
+#: src/components/_economy/company/MoveCompanyForm.tsx:92
 msgid "Move the company"
 msgstr "Siirrä yritys"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:241
+#: src/components/_economy/company/CompanyDropdown.tsx:248
 msgid "Move to top"
 msgstr "Siirrä ylös"
 
@@ -5437,7 +5437,7 @@ msgstr ""
 msgid "National bounty"
 msgstr "Kansallinen palkkio"
 
-#: src/components/_military/mu/MuSettings.tsx:31
+#: src/components/_military/mu/MuSettings.tsx:30
 msgid "Nationality updated"
 msgstr ""
 
@@ -5495,7 +5495,7 @@ msgstr "Uusi eettinen konfiguraatio"
 msgid "New item offer"
 msgstr "Uuden tuotteen tarjous"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:186
+#: src/components/_economy/company/CompanyDropdown.tsx:193
 #: src/components/_economy/workOffer/WorkOfferList.tsx:172
 #: src/pages/company/[companyId]/index.tsx:67
 msgid "New job offer"
@@ -5505,7 +5505,7 @@ msgstr "Uusi työtarjous"
 msgid "New leader"
 msgstr ""
 
-#: src/components/_economy/company/MoveCompanyForm.tsx:78
+#: src/components/_economy/company/MoveCompanyForm.tsx:81
 msgid "New location"
 msgstr "Uusi sijainti"
 
@@ -5529,7 +5529,7 @@ msgstr "Uusi MU-sovellus"
 msgid "New name"
 msgstr "Uusi nimi"
 
-#: src/components/_military/mu/MuSettings.tsx:76
+#: src/components/_military/mu/MuSettings.tsx:74
 msgid "New nationality"
 msgstr ""
 
@@ -5819,7 +5819,7 @@ msgstr "Ei vaikuttava, mutta ei häpeällinen"
 msgid "Not in any alliance"
 msgstr ""
 
-#: src/components/_military/mu/MuSettings.tsx:69
+#: src/components/_military/mu/MuSettings.tsx:67
 msgid "Not set"
 msgstr ""
 
@@ -5893,7 +5893,7 @@ msgstr "Vain presidentit voivat rekisteröidä maansa"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Vain kannattajat näkevät meno- ja tulojakauman."
 
-#: src/components/_military/mu/MuSettings.tsx:104
+#: src/components/_military/mu/MuSettings.tsx:97
 msgid "Only the owner and commanders can change the nationality."
 msgstr ""
 
@@ -5983,9 +5983,9 @@ msgstr "Tilaukset peruttu"
 msgid "Other"
 msgstr "muu"
 
-#: src/components/_political/allianceLaw/AllianceLaw.tsx:63
-#: src/components/_political/law/Law.tsx:68
-#: src/components/_political/partyMotion/PartyMotion.tsx:81
+#: src/components/_political/allianceLaw/AllianceLaw.tsx:72
+#: src/components/_political/law/Law.tsx:77
+#: src/components/_political/partyMotion/PartyMotion.tsx:98
 msgid "Outcome"
 msgstr "Tulokset"
 
@@ -6321,6 +6321,10 @@ msgstr "Presidentinvaalien äänestys on nyt auki <0/>"
 msgid "Presidential elections"
 msgstr "Presidentinvaalit"
 
+#: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:430
+msgid "Price auto-matches existing orders"
+msgstr ""
+
 #: src/components/_political/election/election.frontConfig.tsx:43
 msgid "Primary election"
 msgstr "Esivaalit"
@@ -6378,7 +6382,7 @@ msgstr "Tuotetta muutettu!"
 msgid "Production"
 msgstr "Tuotanto"
 
-#: src/components/_economy/company/CompanyProductionBonusTag.tsx:48
+#: src/components/_economy/company/CompanyProductionBonusTag.tsx:51
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:99
 #: src/pages/region/[regionId]/index.tsx:69
 msgid "Production bonus"
@@ -6598,9 +6602,9 @@ msgstr "Valmiina taisteluun!"
 msgid "Rear Admiral"
 msgstr "Kontra-amiraali"
 
-#: src/components/_political/allianceLaw/AllianceLaw.tsx:70
+#: src/components/_political/allianceLaw/AllianceLaw.tsx:79
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:135
-#: src/components/_political/law/Law.tsx:75
+#: src/components/_political/law/Law.tsx:84
 #: src/components/_political/law/LawFormModal.tsx:180
 msgid "Reason"
 msgstr "Syy"
@@ -6736,15 +6740,13 @@ msgstr "Vahvistettu kypärä"
 msgid "Reinforced Pants"
 msgstr "Vahvistetut housut"
 
-#: src/components/_political/allianceLaw/AllianceLaw.tsx:144
-#: src/components/_political/law/Law.tsx:201
-#: src/components/_political/partyMotion/PartyMotion.tsx:184
+#: src/components/_political/allianceLaw/AllianceLaw.tsx:153
+#: src/components/_political/law/Law.tsx:210
+#: src/components/_political/partyMotion/PartyMotion.tsx:201
 msgid "Reject"
 msgstr "Hylkää"
 
-#: src/components/_political/allianceLaw/AllianceLawStatus.tsx:45
-#: src/components/_political/law/LawStatus.tsx:45
-#: src/components/_political/partyMotion/PartyMotionStatus.tsx:54
+#: src/components/_political/law/GenericLawStatus.tsx:42
 #: src/utils/translations.tsx:271
 msgid "Rejected"
 msgstr "Hylätty"
@@ -6791,7 +6793,7 @@ msgstr "Poista ei-aktiivinen kongressin jäsen asemastaan"
 msgid "Remove announcement"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:396
+#: src/components/_user/user/UserDropdown.tsx:409
 msgid "Remove Avatar"
 msgstr "Poista Avatar"
 
@@ -6803,7 +6805,7 @@ msgstr "Poista palkkio"
 msgid "Remove council member"
 msgstr "Erotetaan valtuuston jäsen"
 
-#: src/components/_user/user/UserDropdown.tsx:418
+#: src/components/_user/user/UserDropdown.tsx:431
 msgid "Remove Description"
 msgstr "Poista kuvaus"
 
@@ -6821,7 +6823,7 @@ msgstr "Poista puolueen nykyinen johtaja asemastaan"
 msgid "Removed from Military Unit"
 msgstr "Poistettu sotilasyksiköstä"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:282
+#: src/components/_economy/company/CompanyDropdown.tsx:289
 msgid "Rename"
 msgstr "Nimeä uudelleen"
 
@@ -6865,7 +6867,7 @@ msgstr "Jäsenen vaihtaminen"
 msgid "Report"
 msgstr "Raportoi"
 
-#: src/components/_user/user/UserDropdown.tsx:269
+#: src/components/_user/user/UserDropdown.tsx:282
 msgid "Report user"
 msgstr "Ilmoita käyttäjästä"
 
@@ -6886,7 +6888,7 @@ msgstr ""
 msgid "Reputation purchased!"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:336
+#: src/components/_user/user/UserDropdown.tsx:349
 msgid "Request Phone Verification"
 msgstr "Pyydä puhelinvahvistus"
 
@@ -6914,7 +6916,7 @@ msgstr "Nollaa Survivor"
 msgid "Reset tutorials"
 msgstr "Palauta opetusohjelmat"
 
-#: src/components/_user/user/UserDropdown.tsx:407
+#: src/components/_user/user/UserDropdown.tsx:420
 msgid "Reset Username"
 msgstr "Palauta käyttäjänimi"
 
@@ -7129,7 +7131,7 @@ msgstr "Katso kaikki työntekijäsi ja yrityksesi tilastot"
 msgid "See your spending and income breakdown"
 msgstr "Katso meno- ja tuloerittelysi"
 
-#: src/components/_military/mu/MuSettings.tsx:79
+#: src/components/_military/mu/MuSettings.tsx:77
 msgid "Select a country"
 msgstr ""
 
@@ -7149,7 +7151,7 @@ msgstr "Valitse kaikki"
 msgid "Select an occupied region"
 msgstr "Valitse varattu alue"
 
-#: src/components/_user/user/UserDropdown.tsx:242
+#: src/components/_user/user/UserDropdown.tsx:255
 msgid "Select banner"
 msgstr "Valitse banneri"
 
@@ -7167,7 +7169,7 @@ msgstr "Valitse kartan korostus"
 msgid "Select motion type"
 msgstr "Valitse liiketyyppi"
 
-#: src/components/_user/user/UserDropdown.tsx:249
+#: src/components/_user/user/UserDropdown.tsx:262
 msgid "Select skin"
 msgstr "Valitse ulkoasu"
 
@@ -7180,7 +7182,7 @@ msgstr "Itsetyö"
 msgid "Self work <0>{count}</0> times in your companies"
 msgstr "Työskentele itse <0>{count}</0> kertaa yrityksissäsi"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:324
+#: src/components/_economy/company/CompanyDropdown.tsx:331
 msgid "Sell company?"
 msgstr "Myydä yritystä?"
 
@@ -7205,7 +7207,7 @@ msgstr "Myyntitilaukset"
 msgid "Sell price:"
 msgstr "Myyntihinta:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:158
 msgid "sells"
 msgstr "myy"
 
@@ -7217,7 +7219,7 @@ msgstr ""
 msgid "Send <0>{count}</0> messages"
 msgstr "Lähetä <0>{count}</0> viestiä"
 
-#: src/components/_user/user/UserDropdown.tsx:426
+#: src/components/_user/user/UserDropdown.tsx:204
 msgid "Send a message"
 msgstr "Lähetä viesti"
 
@@ -7454,7 +7456,7 @@ msgstr "Sosiaaliset viestit ja viestit"
 msgid "Some of your companies are disabled."
 msgstr "Osa yrityksistäsi on poistettu käytöstä."
 
-#: src/components/_layout/LayoutOptions.tsx:159
+#: src/components/_layout/LayoutOptions.tsx:164
 msgid "Sound effects"
 msgstr "Äänitehosteet"
 
@@ -7482,7 +7484,7 @@ msgstr "Käytä <0>Energiasi</0> täällä työskennellessään ansaitaksesi <1>
 msgid "Spendings"
 msgstr "Kulut"
 
-#: src/components/_political/country/CountryHeader.tsx:185
+#: src/components/_political/country/CountryHeader.tsx:186
 msgid "Stable, conquest-proof strength. Still used for unrest, government wages and revolution cost. Other costs use <0>Average development</0>."
 msgstr ""
 
@@ -7630,7 +7632,7 @@ msgstr "Sisäänkirjautuminen onnistui!"
 msgid "Sugar Daddy"
 msgstr "Rikas tukija"
 
-#: src/components/_user/premium/PremiumActions.tsx:57
+#: src/components/_user/premium/PremiumActions.tsx:60
 msgid "Support the game"
 msgstr "Tue peliä"
 
@@ -7649,9 +7651,9 @@ msgid "Supporter"
 msgstr "Tukija"
 
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:51
-#: src/components/_user/user/UserDropdown.tsx:213
-#: src/components/_user/user/UserDropdown.tsx:222
-#: src/components/_user/user/UserDropdown.tsx:231
+#: src/components/_user/user/UserDropdown.tsx:226
+#: src/components/_user/user/UserDropdown.tsx:235
+#: src/components/_user/user/UserDropdown.tsx:244
 msgid "Supporter feature"
 msgstr "Tuki-ominaisuus"
 
@@ -7762,7 +7764,7 @@ msgstr "Ehdot"
 msgid "Terms of Service"
 msgstr "Palveluehdot"
 
-#: src/components/_layout/LayoutOptions.tsx:280
+#: src/components/_layout/LayoutOptions.tsx:285
 msgid "Texture"
 msgstr "Rakenne"
 
@@ -7886,7 +7888,7 @@ msgstr "Tämä tuntuu hyvältä, vai mitä?"
 msgid "This is a summary of the loot you received from this battle. It includes any cases you got as well as the most valuable items from the shared loot pool."
 msgstr "Tämä on yhteenveto saaliista, jonka sait tästä taistelusta. Se sisältää kaikki saamasi kotelot sekä arvokkaimmat tavarat yhteisestä saaliista."
 
-#: src/components/_political/country/CountryHeader.tsx:214
+#: src/components/_political/country/CountryHeader.tsx:215
 msgid "This is the value used to calculate most costs: battle orders, alliance, sworn enemy and defensive pact maintenance, laws and upgrade upkeep."
 msgstr ""
 
@@ -7927,7 +7929,7 @@ msgstr "Tämä käyttäjä ei kuulu mihinkään perheryhmään"
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:337
+#: src/components/_user/user/UserDropdown.tsx:350
 msgid "This will require the user to verify their mobile phone number."
 msgstr "Tämä edellyttää, että käyttäjä vahvistaa matkapuhelinnumeronsa."
 
@@ -8107,7 +8109,7 @@ msgstr "Kokonaisvahingot"
 msgid "Total Donated:"
 msgstr "Lahjoitetut yhteensä:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:467
+#: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:484
 msgid "Total of <0/>"
 msgstr ""
 
@@ -8227,11 +8229,11 @@ msgstr "Oppaat palautettu"
 msgid "Tyrannosaurus Rex"
 msgstr ""
 
-#: src/components/_layout/LayoutOptions.tsx:148
+#: src/components/_layout/LayoutOptions.tsx:153
 msgid "UI"
 msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:278
+#: src/components/_user/user/UserDropdown.tsx:291
 msgid "Unblock (show content)"
 msgstr "Kumoa esto (näytä sisältö)"
 
@@ -8336,7 +8338,7 @@ msgstr "Päivitä työntekijä"
 msgid "Upgrade a company"
 msgstr "Päivitä yritys"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:200
+#: src/components/_economy/company/CompanyDropdown.tsx:207
 msgid "Upgrade automated engine"
 msgstr ""
 
@@ -8348,7 +8350,7 @@ msgstr "Päivitä yritys"
 msgid "Upgrade Skills"
 msgstr "Päivitä taitoja"
 
-#: src/components/_economy/company/CompanyDropdown.tsx:218
+#: src/components/_economy/company/CompanyDropdown.tsx:225
 msgid "Upgrade storage"
 msgstr ""
 
@@ -8637,7 +8639,7 @@ msgid "Wage reduction proposed! Waiting for worker to accept or reject."
 msgstr "Palkan alennusta ehdotetaan! Odotetaan, että työntekijä hyväksyy tai hylkää."
 
 #. placeholder {0}: gameConfig?.referral.levelNeededForBadge
-#: src/components/_user/referral/ReferralList.tsx:111
+#: src/components/_user/referral/ReferralList.tsx:112
 msgid "Waiting for level {0}"
 msgstr "Odotetaan tasoa {0}"
 
@@ -8645,7 +8647,7 @@ msgstr "Odotetaan tasoa {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Odottaa, että työntekijä hyväksyy tai hylkää palkanleikkauksen. Et voi muuttaa palkkaa ennen kuin he vastaavat."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:158
 msgid "wants"
 msgstr "haluaa"
 
@@ -8826,7 +8828,7 @@ msgstr "Työskentely muille on loistava tapa ansaita rahaa aloittaessasi."
 msgid "World <0/>"
 msgstr ""
 
-#: src/components/_layout/LayoutOptions.tsx:222
+#: src/components/_layout/LayoutOptions.tsx:227
 #: src/components/_user/kits/KitsPopover.tsx:258
 msgid "Worst"
 msgstr ""
@@ -8857,7 +8859,7 @@ msgid "XP"
 msgstr "Kokemuspisteet"
 
 #. placeholder {0}: companiesLimit ?? 1
-#: src/components/_economy/company/CompanyDropdown.tsx:268
+#: src/components/_economy/company/CompanyDropdown.tsx:275
 msgid "You already have {0} active companies. Disable one first."
 msgstr "Sinulla on jo {0} aktiivista yritystä. Poista ensin yksi käytöstä."
 
@@ -9036,7 +9038,7 @@ msgstr "Kutsuit ystäväsi tai lähetit roskapostiviestejä. Kun he saavuttavat 
 msgid "You left the company."
 msgstr "Lähdit yrityksestä."
 
-#: src/components/_economy/company/CompanyDropdown.tsx:60
+#: src/components/_economy/company/CompanyDropdown.tsx:65
 msgid "You left your job!"
 msgstr "Jätit työsi!"
 
@@ -9056,10 +9058,6 @@ msgstr "Sinun on oltava vähintään taso {0}, jotta voit osallistua."
 #: src/components/_political/election/Election.tsx:226
 msgid "You must be at least level {0} to vote."
 msgstr ""
-
-#: src/components/_user/premium/PremiumActions.tsx:42
-msgid "You must be on web to subscribe"
-msgstr "Sinun on oltava verkossa, jotta voit tilata"
 
 #: src/components/_political/government/PoliticalEthicsSelect.tsx:115
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
@@ -9163,7 +9161,7 @@ msgid "You were so close"
 msgstr "Olit niin lähellä"
 
 #. placeholder {0}: gameConfig?.referral.lifeTimeBadgeMoneySharePercent
-#: src/components/_user/referral/ReferralList.tsx:116
+#: src/components/_user/referral/ReferralList.tsx:117
 msgid "You win money for the badge + {0}% of the badge income of all your referrals"
 msgstr "Voitat rahaa merkistä + {0}% kaikkien viittauksiesi merkkituloista"
 
@@ -9277,7 +9275,7 @@ msgstr "Maasi aloitti kapinan <0/> <1/>"
 msgid "Your current job"
 msgstr "Nykyinen työsi"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:146
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:149
 msgid "Your current order"
 msgstr "Nykyinen tilauksesi"
 
@@ -9330,8 +9328,8 @@ msgstr "Onnesi on lomalla"
 msgid "Your military unit name"
 msgstr "Armeijayksikkösi nimi"
 
-#: src/components/_military/mu/MuSettings.tsx:55
-msgid "Your military unit nationality is the country it represents. Changing it costs concrete and can only be done once every {cooldownDays} days."
+#: src/components/_military/mu/MuSettings.tsx:53
+msgid "Your military unit nationality is the country it represents. Changing it is free and can only be done once every {cooldownDays} days."
 msgstr ""
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
