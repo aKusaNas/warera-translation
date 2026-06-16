@@ -1819,7 +1819,7 @@ msgstr "Po isteku tajmera <0>{actualTickPoints}</0> će biti dodijeljeno strani 
 #: src/components/_user/user/skills.frontConfig.tsx:44
 #: src/components/_user/user/skills.frontConfig.tsx:45
 msgid "Attack"
-msgstr "Napadni"
+msgstr "Napad"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:195
 #: src/components/_military/war/WarComparison.tsx:41
@@ -4997,7 +4997,7 @@ msgstr "Akcent Mape"
 
 #: src/components/_layout/LayoutOptions.tsx:142
 msgid "Map icons"
-msgstr ""
+msgstr "Ikone mape"
 
 #: src/components/_economy/market/MarketHeader.tsx:37
 #: src/components/_layout/LayoutMenu.tsx:189
@@ -6322,7 +6322,7 @@ msgstr "Predsjednički izbori"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:430
 msgid "Price auto-matches existing orders"
-msgstr ""
+msgstr "Iznos cijene se automatski podudara s trenutnom ponudom/potražnjom"
 
 #: src/components/_political/election/election.frontConfig.tsx:43
 msgid "Primary election"
