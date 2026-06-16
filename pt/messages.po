@@ -90,7 +90,7 @@ msgstr "{0} cidadãos ativos necessários"
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
 #: src/components/_user/notification/notification.frontConfig.tsx:487
 msgid "{0} bought your item offer"
-msgstr "{0} comprou o seu item"
+msgstr "{0} comprou o teu item"
 
 #. placeholder {0}: Math.floor(cooldownHours / 24)
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:144
@@ -7829,7 +7829,7 @@ msgstr "O bónus de <0/> aplica-se até <1/> do <2>Desenvolvimento</2> global. A
 #: src/components/_military/mercenaryContract/MercenaryContractItem.tsx:85
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:64
 msgid "The MU will receive the acceptance fee back, partial payout for damage done, and a 10% penalty fee of <0>{0}</0>. Are you sure?"
-msgstr "A MU receberá de volta a caução, um pagamento parcial pelo dano dado, e uma penalização de 10% de <0>{0}</0>. Tem a certeza?"
+msgstr "A UM receberá de volta a caução, um pagamento parcial pelo dano dado, e uma penalização de 10% de <0>{0}</0>. Tem a certeza?"
 
 #: src/components/_political/event/event.frontConfig.tsx:88
 msgid "The revolution in <0/> has been suppressed. The government remains in power."
@@ -8974,36 +8974,36 @@ msgstr "Recebeste uma caixa!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1136
 msgid "You have been demoted from commander in <0/> by <1/>"
-msgstr "Foi despromovido de comandante em <0/> por <1/>"
+msgstr "Foste despromovido de comandante em <0/> por <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:323
 msgid "You have been elected as the new leader of <0/>"
-msgstr "Foi eleito como o novo líder de <0/>"
+msgstr "Foste eleito como o novo líder de <0/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1122
 msgid "You have been promoted to commander in <0/> by <1/>"
-msgstr "Foi promovido a comandante em <0/> por <1/>"
+msgstr "Foste promovido a comandante em <0/> por <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1108
 msgid "You have been removed from <0/> by <1/>"
-msgstr "Foi removido de <0/> por <1/>"
+msgstr "Foste removido de <0/> por <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:442
 msgid "You have been transferred from <0/> to <1/>"
-msgstr "Foi transferido de <0/> para <1/>"
+msgstr "Foste transferido de <0/> para <1/>"
 
 #. placeholder {0}: 1
 #: src/components/_user/notification/notification.frontConfig.tsx:683
 msgid "You have consumed <0>{0}</0>, it's effect starts now and ends in <1>{buffDuration}h</1>."
-msgstr "Consumiu <0>{0}</0>, o efeito começa agora e termina em <1>{buffDuration}h</1>."
+msgstr "Consumiste <0>{0}</0>, o efeito começa agora e termina em <1>{buffDuration}h</1>."
 
 #: src/pages/country/[countryId]/government.tsx:46
 msgid "You have resigned from the congress"
-msgstr "Demitiu-se do congresso"
+msgstr "Demitiste-te do congresso"
 
 #: src/pages/country/[countryId]/government.tsx:38
 msgid "You have resigned from the government"
-msgstr "Demitiu-se do governo"
+msgstr "Demitiste-te do governo"
 
 #. placeholder {0}: gameConfig?.user.canTakeControlAtLevel
 #: src/pages/country/[countryId]/index.tsx:103
