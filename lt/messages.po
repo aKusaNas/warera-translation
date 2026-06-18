@@ -4893,7 +4893,7 @@ msgstr "Įkelti daugiau"
 
 #: src/components/_military/mu/MuList.tsx:120
 msgid "Load More Military Units"
-msgstr "Įkelti daugiau karinių vienetų"
+msgstr "Įkelti daugiau karinių dalinių"
 
 #: src/components/_political/party/PartyList.tsx:122
 msgid "Load more parties"
@@ -5211,11 +5211,11 @@ msgstr "Karinis dalinys sukurtas"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:105
 msgid "Military units"
-msgstr "Kariniai vienetai"
+msgstr "Kariniai daliniai"
 
 #: src/components/_military/battle/BattleCountrySide.tsx:93
 msgid "Military Units"
-msgstr "Kariniai vienetai"
+msgstr "Kariniai Daliniai"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:293
 msgid "Min reached"
@@ -8442,7 +8442,7 @@ msgstr "Naudojama plienui gaminti"
 
 #: src/utils/translations.tsx:125
 msgid "Used to upgrade companies, MUs and fortifications"
-msgstr "Naudojama įmonėms, MUs ir įtvirtinimams tobulinti"
+msgstr "Naudojama įmonėms, MU ir įtvirtinimams tobulinti"
 
 #: src/components/_layout/LoadingScreenContent.tsx:22
 msgid "user"
