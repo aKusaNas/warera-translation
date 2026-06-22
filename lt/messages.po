@@ -6397,7 +6397,7 @@ msgstr "Gamybos bonusas:"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:577
 msgid "Production in<0/> is full, you should start production!"
-msgstr "Gamyba įmonėje <0/> pilna, turėtum ją pradėti!"
+msgstr "Gamyba įmonėje <0/> pilna, laikas ją paleisti!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1972
 msgid "Production is full"
@@ -6538,7 +6538,7 @@ msgstr "Reitingai"
 
 #: src/components/_layout/LayoutRightIcons.tsx:233
 msgid "Ranks"
-msgstr "Laipsniai"
+msgstr "Reitingai"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:175
 msgid "Rate"
@@ -9087,7 +9087,7 @@ msgstr "Gavai grobį už <0>#{0}</0> vietą <1/>"
 #. placeholder {1}: data.rank && ( <> position{' '} <Typo fw='bold' color='text1'> #{data.rank} </Typo> </> )
 #: src/components/_user/notification/notification.frontConfig.tsx:1392
 msgid "You received a reward for {0} {1} in<0/> tier in the ranking <1/>"
-msgstr "Gavai atlygį už {0} {1} <0/>reitingo <1/> pakopoje"
+msgstr "Gautas atlygis: {0} {1} <1/> reitingo <0/> pakopoje."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1896
 msgid "You received the skin \"{skinTitle}\"!"
