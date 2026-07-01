@@ -2041,7 +2041,7 @@ msgstr "Mūšiai"
 
 #: src/components/_layout/LayoutOptions.tsx:120
 msgid "Battles on layout"
-msgstr "Mūšiai žemėlapyje"
+msgstr "Mūšiai skydelyje"
 
 #: src/components/_layout/LayoutOptions.tsx:115
 msgid "Battles on map"
@@ -6222,7 +6222,7 @@ msgstr "Žaidėjai gali dalytis vienu IP adresu, jei jie yra užregistruoti kaip
 #: src/components/_user/auth/ConnectFromModal.tsx:113
 #: src/components/_user/auth/ConnectFromModal.tsx:190
 msgid "Please complete the CAPTCHA."
-msgstr "Prašome užpildyti CAPTCHA."
+msgstr "Užpildyk CAPTCHA."
 
 #: src/components/_military/mu/MuFormModal.tsx:65
 #: src/components/_political/party/PartyFormModal.tsx:61
@@ -8745,7 +8745,7 @@ msgstr "Kai tau baigsis <0>sveikata</0>, atidaryk šį meniu ir atkurk ją maist
 
 #: src/components/_common/GameRules.tsx:80
 msgid "While data collection and display tools that use the official public API are allowed, for any other development or data access, please contact the staff team directly."
-msgstr "Nors duomenų rinkimo ir rodymo įrankiai, naudojantys oficialų viešąjį API, yra leidžiami, dėl bet kokio kito programavimo ar prieigos prie duomenų prašome kreiptis tiesiogiai į administraciją."
+msgstr "Nors duomenų rinkimo ir rodymo įrankiai, naudojantys oficialų viešąjį API, yra leidžiami, dėl bet kokio kito programavimo ar prieigos prie duomenų kreipkis tiesiogiai į administraciją."
 
 #: src/pages/companies.tsx:102
 msgid "Whole Production"
