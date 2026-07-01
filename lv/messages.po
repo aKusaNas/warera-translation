@@ -2445,7 +2445,7 @@ msgstr "Pilsoņi"
 
 #: src/pages/country/[countryId]/index.tsx:190
 msgid "Citizens get a bonus when fighting for allies, or against the sworn enemy"
-msgstr "Pilsoņi gūst kaujas bonusus atbilstoši noslēgtajiem starptautiskajiem līgumiem (alianses, aizsardzības paktiem) un pieņemtajiem likumiem (zvērēto ienaidnieku)"
+msgstr "Pilsoņi gūst kaujas bonusus cīnoties par sabiedrotajiem un par aizsardzības paktu partnervalstīm, kā arī pret zvērēto ienaidnieku"
 
 #: src/components/_political/country/CountryHeader.tsx:113
 msgid "Citizenship"
