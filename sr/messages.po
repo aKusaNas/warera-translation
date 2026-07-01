@@ -50,7 +50,7 @@ msgstr " - Учестало давање напојница за чланке"
 msgid " - Using outside market standards or manipulated trade prices"
 msgstr " - Коришћење цена изван тржишних стандарда или манипулисаних трговачких цена"
 
-#: src/components/_user/premium/PremiumActions.tsx:71
+#: src/components/_user/premium/PremiumActions.tsx:74
 msgid " Gift a sub"
 msgstr " Поклони претплату"
 
@@ -732,19 +732,19 @@ msgstr "<0>{0}</0> Капацитет складишта"
 msgid "<0>{0}</0>/day"
 msgstr "<0>{0}</0>/дан"
 
-#: src/components/_economy/company/CompanyProductionBonusTag.tsx:75
+#: src/components/_economy/company/CompanyProductionBonusTag.tsx:78
 msgid "<0>{depositBonus}</0> from deposit resources in <1/>."
 msgstr "<0>{depositBonus}</0> од ресурса налазишта у <1/>."
 
-#: src/components/_economy/company/CompanyProductionBonusTag.tsx:86
+#: src/components/_economy/company/CompanyProductionBonusTag.tsx:89
 msgid "<0>{ethicDepositBonus}</0> from <1/> agrarian ethics deposit bonus."
 msgstr "<0>{ethicDepositBonus}</0> од <1/> бонуса на депозит за аграрну етику."
 
-#: src/components/_economy/company/CompanyProductionBonusTag.tsx:64
+#: src/components/_economy/company/CompanyProductionBonusTag.tsx:67
 msgid "<0>{ethicSpecializationBonus}</0> from <1/> industrialist ethics specialization bonus."
 msgstr "<0>{ethicSpecializationBonus}</0> од <1/> бонуса за специјализацију етике индустријалаца."
 
-#: src/components/_economy/company/CompanyProductionBonusTag.tsx:53
+#: src/components/_economy/company/CompanyProductionBonusTag.tsx:56
 msgid "<0>{strategicBonus}</0> from <1/> strategic resources production bonus."
 msgstr "<0>{strategicBonus}</0> од бонуса за производњу стратешких ресурса у <1/>."
 
@@ -1638,7 +1638,7 @@ msgstr "API токени"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "API токени омогућавају спољним апликацијама приступ API-ју у твоје име. Користи токен у <0>X-API-Key</0> заглављу. Сваки токен има ограничење од 200 захтева у минути."
 
-#: src/components/_layout/LayoutOptions.tsx:257
+#: src/components/_layout/LayoutOptions.tsx:262
 msgid "App pattern"
 msgstr "Шаблон апликације"
 
@@ -1856,7 +1856,7 @@ msgstr "Аутентификација неуспела. Покушајте по
 msgid "Auto approval"
 msgstr "Аутоматско одобравање"
 
-#: src/components/_layout/LayoutOptions.tsx:190
+#: src/components/_layout/LayoutOptions.tsx:195
 #: src/components/_user/kits/KitsPopover.tsx:220
 msgid "Auto-equip when item breaks"
 msgstr "Аутоматски опреми када се предмет поломи"
@@ -2060,7 +2060,7 @@ msgstr "Битке добијене"
 msgid "Become a Candidate"
 msgstr "Постани кандидат"
 
-#: src/components/_layout/LayoutOptions.tsx:210
+#: src/components/_layout/LayoutOptions.tsx:215
 #: src/components/_user/kits/KitsPopover.tsx:244
 msgid "Best"
 msgstr "Најбоље"
@@ -2085,7 +2085,7 @@ msgstr "Блокирај (сакриј садржај)"
 msgid "Blue Staff"
 msgstr "Плаво жезло"
 
-#: src/components/_layout/LayoutOptions.tsx:151
+#: src/components/_layout/LayoutOptions.tsx:156
 msgid "Blur"
 msgstr "Замућење"
 
@@ -2534,7 +2534,7 @@ msgstr "Пуковник"
 msgid "Color scheme"
 msgstr "Шема боја"
 
-#: src/components/_layout/LayoutOptions.tsx:167
+#: src/components/_layout/LayoutOptions.tsx:172
 msgid "Colorblind mode"
 msgstr "Режим за далтонисте"
 
@@ -2589,7 +2589,7 @@ msgstr "Компанија онемогућена!"
 msgid "Company enabled!"
 msgstr "Компанија омогућена!"
 
-#: src/components/_economy/company/MoveCompanyForm.tsx:55
+#: src/components/_economy/company/MoveCompanyForm.tsx:58
 msgid "Company moved"
 msgstr "Компанија премештена"
 
@@ -3061,7 +3061,7 @@ msgstr "Мрачно доба"
 msgid "Dark Era Pack"
 msgstr "Пакет „Мрачно доба“"
 
-#: src/components/_layout/LayoutOptions.tsx:142
+#: src/components/_layout/LayoutOptions.tsx:147
 msgid "Dark map"
 msgstr "Тамна мапа"
 
@@ -3589,7 +3589,7 @@ msgid "Entrepreneurship"
 msgstr "Предузетништво"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
-#: src/components/_layout/LayoutOptions.tsx:187
+#: src/components/_layout/LayoutOptions.tsx:192
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:81
 #: src/pages/user/[userId]/index.tsx:92
@@ -3932,11 +3932,11 @@ msgstr "Заставе"
 msgid "Flail"
 msgstr "Млатилица"
 
-#: src/components/_layout/LayoutOptions.tsx:227
+#: src/components/_layout/LayoutOptions.tsx:232
 msgid "Font"
 msgstr "Фонт"
 
-#: src/components/_layout/LayoutOptions.tsx:239
+#: src/components/_layout/LayoutOptions.tsx:244
 msgid "Font size"
 msgstr "Величина фонта"
 
@@ -4668,7 +4668,7 @@ msgstr "Ножеви не користе муницију"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Задај <0>{count}</0> крит. ударца"
 
-#: src/components/_layout/LayoutOptions.tsx:180
+#: src/components/_layout/LayoutOptions.tsx:185
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Language"
 msgstr "Језик"
@@ -4875,7 +4875,7 @@ msgstr "Ограничење потрошње хране"
 msgid "Limited:"
 msgstr "Ограничено:"
 
-#: src/components/_layout/LayoutOptions.tsx:269
+#: src/components/_layout/LayoutOptions.tsx:274
 msgid "Line"
 msgstr "Линија"
 
@@ -4972,7 +4972,7 @@ msgstr "Мајор"
 msgid "Make <0/> the new alliance leader. The leader can edit the alliance avatar and color scheme directly."
 msgstr "Постави <0/> за новог вођу савеза. Вођа може директно мењати аватар и шему боја савеза."
 
-#: src/components/_user/premium/PremiumActions.tsx:81
+#: src/components/_user/premium/PremiumActions.tsx:84
 msgid "Manage Subscription"
 msgstr "Управљај претплатом"
 
@@ -4994,6 +4994,10 @@ msgstr "Мапа"
 #: src/components/_political/law/LawFormModal.tsx:292
 msgid "Map Accent"
 msgstr "Акцент мапе"
+
+#: src/components/_layout/LayoutOptions.tsx:142
+msgid "Map icons"
+msgstr ""
 
 #: src/components/_economy/market/MarketHeader.tsx:37
 #: src/components/_layout/LayoutMenu.tsx:189
@@ -5236,7 +5240,7 @@ msgstr "Министар економије"
 msgid "Minister of Foreign Affairs"
 msgstr "Министар спољних послова"
 
-#: src/components/_layout/LayoutOptions.tsx:175
+#: src/components/_layout/LayoutOptions.tsx:180
 msgid "Mission tags"
 msgstr "Ознаке мисија"
 
@@ -5313,7 +5317,7 @@ msgid "Move a company to another region"
 msgstr "Пресели компанију у други регион"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:186
-#: src/components/_economy/company/MoveCompanyForm.tsx:64
+#: src/components/_economy/company/MoveCompanyForm.tsx:67
 msgid "Move company"
 msgstr "Пресели компанију"
 
@@ -5321,7 +5325,7 @@ msgstr "Пресели компанију"
 msgid "Move Company"
 msgstr "Пресели компанију"
 
-#: src/components/_economy/company/MoveCompanyForm.tsx:89
+#: src/components/_economy/company/MoveCompanyForm.tsx:92
 msgid "Move the company"
 msgstr "Пресели компанију"
 
@@ -5440,6 +5444,10 @@ msgstr "Националност ажурирана"
 msgid "Need a job?"
 msgstr "Треба ти посао?"
 
+#: src/components/_economy/inventory/ItemRecipe.tsx:59
+msgid "Needs more <0/> to produce"
+msgstr ""
+
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:47
 msgid "Negative mercenary reputation"
 msgstr "Негативан плаћенички углед"
@@ -5500,7 +5508,7 @@ msgstr "Нова понуда за посао"
 msgid "New leader"
 msgstr "Нови вођа"
 
-#: src/components/_economy/company/MoveCompanyForm.tsx:78
+#: src/components/_economy/company/MoveCompanyForm.tsx:81
 msgid "New location"
 msgstr "Нова локација"
 
@@ -6377,7 +6385,7 @@ msgstr "Произведени предмет промењен!"
 msgid "Production"
 msgstr "Производња"
 
-#: src/components/_economy/company/CompanyProductionBonusTag.tsx:48
+#: src/components/_economy/company/CompanyProductionBonusTag.tsx:51
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:99
 #: src/pages/region/[regionId]/index.tsx:69
 msgid "Production bonus"
@@ -7202,7 +7210,7 @@ msgstr "Налози за продају"
 msgid "Sell price:"
 msgstr "Продајна цена:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:158
 msgid "sells"
 msgstr "продаје"
 
@@ -7451,7 +7459,7 @@ msgstr "Друштво и поруке"
 msgid "Some of your companies are disabled."
 msgstr "Неке твоје компаније су онемогућене."
 
-#: src/components/_layout/LayoutOptions.tsx:159
+#: src/components/_layout/LayoutOptions.tsx:164
 msgid "Sound effects"
 msgstr "Звучни ефекти"
 
@@ -7627,7 +7635,7 @@ msgstr "Пријава успешна!"
 msgid "Sugar Daddy"
 msgstr "Богати татица"
 
-#: src/components/_user/premium/PremiumActions.tsx:57
+#: src/components/_user/premium/PremiumActions.tsx:60
 msgid "Support the game"
 msgstr "Подржи игру"
 
@@ -7759,7 +7767,7 @@ msgstr "Услови"
 msgid "Terms of Service"
 msgstr "Услови коришћења"
 
-#: src/components/_layout/LayoutOptions.tsx:280
+#: src/components/_layout/LayoutOptions.tsx:285
 msgid "Texture"
 msgstr "Текстуре"
 
@@ -8224,7 +8232,7 @@ msgstr "Водичи су ресетовани"
 msgid "Tyrannosaurus Rex"
 msgstr "Тираносаурус Рекс"
 
-#: src/components/_layout/LayoutOptions.tsx:148
+#: src/components/_layout/LayoutOptions.tsx:153
 msgid "UI"
 msgstr "Интерфејс"
 
@@ -8642,7 +8650,7 @@ msgstr "Чека се ниво {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Чека се да радник прихвати или одбије смањење плате. Не можеш променити плату док не одговори."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:158
 msgid "wants"
 msgstr "жели"
 
@@ -8823,7 +8831,7 @@ msgstr "Рад за друге је одличан начин да заради�
 msgid "World <0/>"
 msgstr "Свет <0/>"
 
-#: src/components/_layout/LayoutOptions.tsx:222
+#: src/components/_layout/LayoutOptions.tsx:227
 #: src/components/_user/kits/KitsPopover.tsx:258
 msgid "Worst"
 msgstr "Најгоре"
@@ -9054,10 +9062,6 @@ msgstr "Мораш бити најмање ниво {0} да би доприне
 msgid "You must be at least level {0} to vote."
 msgstr "Мораш бити најмање ниво {0} да би гласао."
 
-#: src/components/_user/premium/PremiumActions.tsx:42
-msgid "You must be on web to subscribe"
-msgstr "Мораш бити на вебу да би се претплатио"
-
 #: src/components/_political/government/PoliticalEthicsSelect.tsx:115
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr "Мораш потрошити сва 3 етичка поена (преостало {pointsRemaining})"
@@ -9274,7 +9278,7 @@ msgstr "Твоја држава је започела побуну у <0/> пр�
 msgid "Your current job"
 msgstr "Твој тренутни посао"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:146
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:149
 msgid "Your current order"
 msgstr "Твој тренутни налог"
 

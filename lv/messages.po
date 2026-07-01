@@ -4999,6 +4999,10 @@ msgstr "Krāsas tonis"
 msgid "Map icons"
 msgstr "Ikonas uz kartes"
 
+#: src/components/_layout/LayoutOptions.tsx:142
+msgid "Map icons"
+msgstr ""
+
 #: src/components/_economy/market/MarketHeader.tsx:37
 #: src/components/_layout/LayoutMenu.tsx:189
 #: src/pages/country/[countryId]/account.tsx:31
@@ -8650,7 +8654,7 @@ msgstr "Gaidām {0}. līmeņa sasniegšanu"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Gaidām, kad strādnieks apstiprinās vai noraidīs algas samazināšanu. Tu nevari mainīt algu, kamēr viņš nav atbildējis."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:158
 msgid "wants"
 msgstr "pērk"
 

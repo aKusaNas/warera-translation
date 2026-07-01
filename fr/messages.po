@@ -50,7 +50,7 @@ msgstr " - Tipper à plusieurs reprises des articles"
 msgid " - Using outside market standards or manipulated trade prices"
 msgstr " - Utiliser des normes de marché extérieures ou des prix de transaction manipulés"
 
-#: src/components/_user/premium/PremiumActions.tsx:71
+#: src/components/_user/premium/PremiumActions.tsx:74
 msgid " Gift a sub"
 msgstr " Offrir un abonnement"
 
@@ -732,19 +732,19 @@ msgstr "<0>{0}</0> Capacité de stockage"
 msgid "<0>{0}</0>/day"
 msgstr "<0>{0}</0>/jour"
 
-#: src/components/_economy/company/CompanyProductionBonusTag.tsx:75
+#: src/components/_economy/company/CompanyProductionBonusTag.tsx:78
 msgid "<0>{depositBonus}</0> from deposit resources in <1/>."
 msgstr "<0>{depositBonus}</0> provenant des ressources de gisement à <1/>."
 
-#: src/components/_economy/company/CompanyProductionBonusTag.tsx:86
+#: src/components/_economy/company/CompanyProductionBonusTag.tsx:89
 msgid "<0>{ethicDepositBonus}</0> from <1/> agrarian ethics deposit bonus."
 msgstr "<0>{ethicDepositBonus}</0> du bonus de gisement de l'éthique agraire de <1/>."
 
-#: src/components/_economy/company/CompanyProductionBonusTag.tsx:64
+#: src/components/_economy/company/CompanyProductionBonusTag.tsx:67
 msgid "<0>{ethicSpecializationBonus}</0> from <1/> industrialist ethics specialization bonus."
 msgstr "<0>{ethicSpecializationBonus}</0> du bonus de spécialisation de l'éthique industrialiste de <1/>."
 
-#: src/components/_economy/company/CompanyProductionBonusTag.tsx:53
+#: src/components/_economy/company/CompanyProductionBonusTag.tsx:56
 msgid "<0>{strategicBonus}</0> from <1/> strategic resources production bonus."
 msgstr "<0>{strategicBonus}</0> provenant du bonus de production des ressources stratégiques à <1/>."
 
@@ -1403,23 +1403,23 @@ msgstr "Amiral"
 
 #: src/utils/translations.tsx:205
 msgid "Advanced Boots"
-msgstr "Bottes Avancées"
+msgstr "Bottes avancées"
 
 #: src/utils/translations.tsx:196
 msgid "Advanced Chest"
-msgstr "Gilet Avancé"
+msgstr "Gilet avancé"
 
 #: src/utils/translations.tsx:214
 msgid "Advanced Gloves"
-msgstr "Gants Avancés"
+msgstr "Gants avancés"
 
 #: src/utils/translations.tsx:187
 msgid "Advanced Helmet"
-msgstr "Casque Avancé"
+msgstr "Casque avancé"
 
 #: src/utils/translations.tsx:223
 msgid "Advanced Pants"
-msgstr "Pantalon Avancé"
+msgstr "Pantalon avancé"
 
 #: src/components/_political/party/party.frontConfig.tsx:355
 #: src/components/_political/party/party.frontConfig.tsx:372
@@ -1519,7 +1519,7 @@ msgstr "Proposition de loi sur l'alliance"
 #: src/components/_political/allianceLaw/AllianceLawTypeSelect.tsx:57
 #: src/pages/alliance/[allianceId]/laws.tsx:16
 msgid "Alliance laws"
-msgstr "Lois de l'Alliance"
+msgstr "Lois de l'alliance"
 
 #: src/components/_political/law/LawFormModal.tsx:203
 #: src/components/_political/law/LawFormModal.tsx:204
@@ -1612,7 +1612,7 @@ msgstr "Un autre pays a proposé un pacte défensif au vôtre."
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:40
 msgid "Anti Terrorist Pack"
-msgstr "Pack Anti-Terroriste"
+msgstr "Pack anti-terroriste"
 
 #: src/components/_common/GameRules.tsx:61
 msgid "Any attempts to bypass these rules can result in the removal of sharing status, fines and temporary or permanent bans."
@@ -1638,7 +1638,7 @@ msgstr "Jetons API"
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
 msgstr "Les jetons API permettent aux applications externes d'accéder à l'API en ton nom. Utilisez le jeton dans l'en-tête <0>X-API-Key</0>. Chaque jeton a une limite de 200 requêtes par minute."
 
-#: src/components/_layout/LayoutOptions.tsx:257
+#: src/components/_layout/LayoutOptions.tsx:262
 msgid "App pattern"
 msgstr "Motif de l'application"
 
@@ -1769,7 +1769,7 @@ msgstr "Hélicoptère de combat AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:308
 msgid "AT Heavy Ammo"
-msgstr "Munitions Lourdes AT"
+msgstr "Munitions lourdes AT"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:8
 msgid "At least you tried"
@@ -1777,7 +1777,7 @@ msgstr "Au moins t'as essayé"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:302
 msgid "AT Light Ammo"
-msgstr "Munitions Légères AT"
+msgstr "Munitions légères AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:287
 msgid "AT Pistol"
@@ -1789,27 +1789,27 @@ msgstr "Fusil de précision AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:317
 msgid "AT Tactical Boots"
-msgstr "Bottes Tactiques AT"
+msgstr "Bottes tactiques AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:323
 msgid "AT Tactical Gloves"
-msgstr "Gants Tactiques AT"
+msgstr "Gants tactiques AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:311
 msgid "AT Tactical Helmet"
-msgstr "Casque Tactique AT"
+msgstr "Casque tactique AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:320
 msgid "AT Tactical Pants"
-msgstr "Pantalon Tactique AT"
+msgstr "Pantalon tactique AT"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:284
 msgid "AT Tactical Shield"
-msgstr "Bouclier Tactique"
+msgstr "Bouclier tactique"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:314
 msgid "AT Tactical Vest"
-msgstr "Gilet Tactique AT"
+msgstr "Gilet tactique AT"
 
 #: src/components/_military/battle/BattleSystem.tsx:615
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
@@ -1856,7 +1856,7 @@ msgstr "Échec de l'authentification. Veuillez réessayer."
 msgid "Auto approval"
 msgstr "Approbation automatique"
 
-#: src/components/_layout/LayoutOptions.tsx:190
+#: src/components/_layout/LayoutOptions.tsx:195
 #: src/components/_user/kits/KitsPopover.tsx:220
 msgid "Auto-equip when item breaks"
 msgstr "Équiper automatiquement lorsque l'objet se casse"
@@ -1918,7 +1918,7 @@ msgstr "Équilibré - Sans modificateurs"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:359
 msgid "Ball"
-msgstr ""
+msgstr "Ballon"
 
 #: src/components/_political/event/EventList.tsx:73
 msgid "Bankruptcy"
@@ -1955,23 +1955,23 @@ msgstr "Coût de base"
 
 #: src/utils/translations.tsx:203
 msgid "Basic Boots"
-msgstr "Bottes Basiques"
+msgstr "Bottes basiques"
 
 #: src/utils/translations.tsx:194
 msgid "Basic Chest"
-msgstr "Gilet Basique"
+msgstr "Gilet basique"
 
 #: src/utils/translations.tsx:212
 msgid "Basic Gloves"
-msgstr "Gants Basiques"
+msgstr "Gants basiques"
 
 #: src/utils/translations.tsx:185
 msgid "Basic Helmet"
-msgstr "Casque Basique"
+msgstr "Casque basique"
 
 #: src/utils/translations.tsx:221
 msgid "Basic Pants"
-msgstr "Pantalon Basique"
+msgstr "Pantalon basique"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:86
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:187
@@ -1994,7 +1994,7 @@ msgstr "Bataille pour {regionName} {score}"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
-msgstr "Héro de guerre"
+msgstr "Héros de guerre"
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:60
 msgid "Battle loot"
@@ -2060,7 +2060,7 @@ msgstr "Batailles gagnées"
 msgid "Become a Candidate"
 msgstr "Devenir candidat"
 
-#: src/components/_layout/LayoutOptions.tsx:210
+#: src/components/_layout/LayoutOptions.tsx:215
 #: src/components/_user/kits/KitsPopover.tsx:244
 msgid "Best"
 msgstr "Meilleur"
@@ -2085,13 +2085,13 @@ msgstr "Bloquer (masquer le contenu)"
 msgid "Blue Staff"
 msgstr "Bâton bleu"
 
-#: src/components/_layout/LayoutOptions.tsx:151
+#: src/components/_layout/LayoutOptions.tsx:156
 msgid "Blur"
 msgstr "Flou"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:242
 msgid "Bone Club"
-msgstr "Club d'Os"
+msgstr "Bâton d'os"
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:62
 #: src/components/_political/law/law.frontConfig.tsx:235
@@ -2362,7 +2362,7 @@ msgstr "Changer la couleur en <0>{0}</0>"
 
 #: src/components/_military/mu/MuSettings.tsx:87
 msgid "Change nationality"
-msgstr ""
+msgstr "Changer la nationalité"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:67
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:82
@@ -2534,9 +2534,9 @@ msgstr "Colonel"
 msgid "Color scheme"
 msgstr "Palette de couleurs"
 
-#: src/components/_layout/LayoutOptions.tsx:167
+#: src/components/_layout/LayoutOptions.tsx:172
 msgid "Colorblind mode"
-msgstr ""
+msgstr "Mode daltonien"
 
 #: src/components/_military/mu/MuMemberList.tsx:327
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:155
@@ -2589,7 +2589,7 @@ msgstr "Entreprise désactivée !"
 msgid "Company enabled!"
 msgstr "Entreprise activée !"
 
-#: src/components/_economy/company/MoveCompanyForm.tsx:55
+#: src/components/_economy/company/MoveCompanyForm.tsx:58
 msgid "Company moved"
 msgstr "Entreprise déplacée"
 
@@ -2603,7 +2603,7 @@ msgstr "Entreprise renommée !"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:148
 msgid "Company upgraded!"
-msgstr ""
+msgstr "Entreprise améliorée !"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:194
 msgid "Complete missions daily to earn XP and level up faster. Click to claim!"
@@ -2983,7 +2983,7 @@ msgstr "Unité militaire actuelle"
 
 #: src/components/_military/mu/MuSettings.tsx:61
 msgid "Current nationality"
-msgstr ""
+msgstr "Nationalité actuelle"
 
 #: src/components/_military/battle/BattleSystem.tsx:634
 msgid "Current tick:"
@@ -3061,7 +3061,7 @@ msgstr "Ère sombre"
 msgid "Dark Era Pack"
 msgstr "Pack Ère sombre"
 
-#: src/components/_layout/LayoutOptions.tsx:142
+#: src/components/_layout/LayoutOptions.tsx:147
 msgid "Dark map"
 msgstr "Carte sombre"
 
@@ -3498,7 +3498,7 @@ msgstr "Caisse Élite"
 
 #: src/utils/translations.tsx:197
 msgid "Elite Chest"
-msgstr "Gilet Élite"
+msgstr "Gilet d'élite"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:45
 msgid "Elite counter-terrorism unit"
@@ -3506,19 +3506,19 @@ msgstr "Unité d'élite antiterroriste"
 
 #: src/utils/translations.tsx:215
 msgid "Elite Gloves"
-msgstr "Gants Élite"
+msgstr "Gants d'élite"
 
 #: src/utils/translations.tsx:188
 msgid "Elite Helmet"
-msgstr "Casque Élite"
+msgstr "Casque d'élite"
 
 #: src/utils/translations.tsx:224
 msgid "Elite Pants"
-msgstr "Pantalon Élite"
+msgstr "Pantalon d'élite"
 
 #: src/components/_economy/work/WorkChart.tsx:214
 msgid "Employee Production"
-msgstr "Production des Employés"
+msgstr "Production des employés"
 
 #: src/pages/region/[regionId]/index.tsx:166
 msgid "Empty"
@@ -3589,7 +3589,7 @@ msgid "Entrepreneurship"
 msgstr "Entrepreneuriat"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
-#: src/components/_layout/LayoutOptions.tsx:187
+#: src/components/_layout/LayoutOptions.tsx:192
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:81
 #: src/pages/user/[userId]/index.tsx:92
@@ -3739,7 +3739,7 @@ msgstr "Diplomatie Fanatique : coûts d'entretien des ennemis jurés {plus} % de
 
 #: src/components/_political/party/party.frontConfig.tsx:105
 msgid "Fanatic Expansionist"
-msgstr "Expansionniste Fanatique"
+msgstr "Expansionniste fanatique"
 
 #: src/components/_political/party/party.frontConfig.tsx:304
 msgid "Fanatic Imperialist"
@@ -3756,11 +3756,11 @@ msgstr "Isolationniste fanatique"
 #. placeholder {0}: ts.paper
 #: src/components/_political/law/LawEthicEffects.tsx:188
 msgid "Fanatic Isolationist: all treaty maintenance costs {more}% more <0>{0}</0>."
-msgstr "Fanatique Isolationniste : tous les coûts de maintien des traités {plus} % de plus <0>{0}</0>."
+msgstr "Fanatique isolationniste : tous les coûts de maintien des traités {plus} % de plus <0>{0}</0>."
 
 #: src/components/_political/law/LawEthicEffects.tsx:114
 msgid "Fanatic Isolationist: this sworn enemy starts at {start}% bonus and grows +{perDay}% per day."
-msgstr "Fanatique Isolationniste : cet ennemi juré commence avec un bonus de {start}% et augmente de +{perDay}% par jour."
+msgstr "Fanatique isolationniste : cet ennemi juré commence avec un bonus de {start}% et augmente de +{perDay}% par jour."
 
 #: src/components/_political/party/party.frontConfig.tsx:56
 msgid "Fanatic Pacifist"
@@ -3932,11 +3932,11 @@ msgstr "Drapeaux"
 msgid "Flail"
 msgstr "Fléau"
 
-#: src/components/_layout/LayoutOptions.tsx:227
+#: src/components/_layout/LayoutOptions.tsx:232
 msgid "Font"
 msgstr "Police"
 
-#: src/components/_layout/LayoutOptions.tsx:239
+#: src/components/_layout/LayoutOptions.tsx:244
 msgid "Font size"
 msgstr "Taille de police"
 
@@ -4040,7 +4040,7 @@ msgstr "Cadeau envoyé ! Merci de soutenir le jeu <3"
 
 #: src/components/_user/user/UserDropdown.tsx:275
 msgid "Gift Supporter Plan"
-msgstr "Offrir un Plan Supporter"
+msgstr "Offrir un plan supporter"
 
 #: src/components/_other/shop/SkinPackModal.tsx:225
 msgid "Gift this pack to someone"
@@ -4159,7 +4159,7 @@ msgstr "Pistolet Grimdark"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:221
 msgid "Grimdark Heavy Ammo"
-msgstr "Munitions Lourdes Grimdark"
+msgstr "Munitions lourdes Grimdark"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:224
 msgid "Grimdark Helmet"
@@ -4175,7 +4175,7 @@ msgstr "Couteau Grimdark"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:215
 msgid "Grimdark Light Ammo"
-msgstr "Munitions Légères Grimdark"
+msgstr "Munitions légères Grimdark"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:28
 msgid "Grimdark Pack"
@@ -4235,27 +4235,27 @@ msgstr "Fusil d'assault GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:350
 msgid "GSG9 Tactical Boots"
-msgstr "Bottes Tactiques GSG9"
+msgstr "Bottes tactiques GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:356
 msgid "GSG9 Tactical Gloves"
-msgstr "Gants Tactiques GSG9"
+msgstr "Gants tactiques GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:344
 msgid "GSG9 Tactical Helmet"
-msgstr "Casque Tactique GSG9"
+msgstr "Casque tactique GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:353
 msgid "GSG9 Tactical Pants"
-msgstr "Pantalon Tactique GSG9"
+msgstr "Pantalon tactique GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:326
 msgid "GSG9 Tactical Shield"
-msgstr "Bouclier Tactique GSG9"
+msgstr "Bouclier tactique GSG9"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:347
 msgid "GSG9 Tactical Vest"
-msgstr "Gilet Tactique GSG9"
+msgstr "Gilet tactique GSG9"
 
 #: src/utils/translations.tsx:23
 msgid "Gun"
@@ -4284,7 +4284,7 @@ msgstr "Santé"
 
 #: src/utils/translations.tsx:98
 msgid "Heavy Ammo"
-msgstr "Munitions Lourdes"
+msgstr "Munitions lourdes"
 
 #: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:184
@@ -4668,7 +4668,7 @@ msgstr "Les couteaux n'acceptent pas de munitions"
 msgid "Land <0>{count}</0> critical hits"
 msgstr "Porte <0>{count}</0> coups critiques"
 
-#: src/components/_layout/LayoutOptions.tsx:180
+#: src/components/_layout/LayoutOptions.tsx:185
 #: src/components/_user/auth/WelcomeModal.tsx:152
 msgid "Language"
 msgstr "Langue"
@@ -4785,23 +4785,23 @@ msgstr "Légende repérée !"
 
 #: src/utils/translations.tsx:207
 msgid "Legendary Boots"
-msgstr "Bottes Légendaires"
+msgstr "Bottes légendaires"
 
 #: src/utils/translations.tsx:198
 msgid "Legendary Chest"
-msgstr "Gilet Légendaire"
+msgstr "Gilet légendaire"
 
 #: src/utils/translations.tsx:216
 msgid "Legendary Gloves"
-msgstr "Gants Légendaires"
+msgstr "Gants légendaires"
 
 #: src/utils/translations.tsx:189
 msgid "Legendary Helmet"
-msgstr "Casque Légendaire"
+msgstr "Casque légendaire"
 
 #: src/utils/translations.tsx:225
 msgid "Legendary Pants"
-msgstr "Pantalon Légendaire"
+msgstr "Pantalon légendaire"
 
 #: src/components/_military/mu/MuLevel.tsx:64
 #: src/components/_military/mu/MuLevelsInfoModal.tsx:89
@@ -4845,7 +4845,7 @@ msgstr "Clair"
 
 #: src/utils/translations.tsx:92
 msgid "Light Ammo"
-msgstr "Munitions Légères"
+msgstr "Munitions légères"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:340
 msgid "Like <0>{count}</0> articles"
@@ -4875,7 +4875,7 @@ msgstr "Limite de consommation de nourriture"
 msgid "Limited:"
 msgstr "Limité :"
 
-#: src/components/_layout/LayoutOptions.tsx:269
+#: src/components/_layout/LayoutOptions.tsx:274
 msgid "Line"
 msgstr "Ligne"
 
@@ -4972,7 +4972,7 @@ msgstr "Commandant"
 msgid "Make <0/> the new alliance leader. The leader can edit the alliance avatar and color scheme directly."
 msgstr "Faites de <0/> le nouveau chef de l'alliance. Le chef peut modifier directement l'avatar de l'alliance et le schéma de couleurs."
 
-#: src/components/_user/premium/PremiumActions.tsx:81
+#: src/components/_user/premium/PremiumActions.tsx:84
 msgid "Manage Subscription"
 msgstr "Gérer l'abonnement"
 
@@ -4994,6 +4994,10 @@ msgstr "Carte"
 #: src/components/_political/law/LawFormModal.tsx:292
 msgid "Map Accent"
 msgstr "Accent de carte"
+
+#: src/components/_layout/LayoutOptions.tsx:142
+msgid "Map icons"
+msgstr "Icônes sur la carte"
 
 #: src/components/_economy/market/MarketHeader.tsx:37
 #: src/components/_layout/LayoutMenu.tsx:189
@@ -5019,7 +5023,7 @@ msgstr "Niveau maximum atteint !"
 #: src/components/_economy/company/CompanyDropdown.tsx:221
 #: src/components/_economy/company/CompanyDropdown.tsx:239
 msgid "Maxed!"
-msgstr ""
+msgstr "Au maximum !"
 
 #. placeholder {0}: levelConfig.stats.members
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:109
@@ -5046,43 +5050,43 @@ msgstr "Médiéval"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:68
 msgid "Medieval Boots"
-msgstr "Bottes Médiévales"
+msgstr "Bottes médiévales"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:62
 msgid "Medieval Chest"
-msgstr "Gilet Médiéval"
+msgstr "Gilet médiéval"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:71
 msgid "Medieval Gloves"
-msgstr "Gants Médiévaux"
+msgstr "Gants médiévaux"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:59
 msgid "Medieval Helmet"
-msgstr "Casque Médiéval"
+msgstr "Casque médiéval"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:77
 msgid "Medieval Iron Arrow"
-msgstr "Flèche en fer Médiévale"
+msgstr "Flèches en fer médiévale"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:12
 msgid "Medieval Pack"
-msgstr "Pack Médiéval"
+msgstr "Pack médiéval"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:65
 msgid "Medieval Pants"
-msgstr "Pantalon Médiéval"
+msgstr "Pantalon médiéval"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:83
 msgid "Medieval Spear"
-msgstr "Lance Médiévale"
+msgstr "Lance médiévale"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:80
 msgid "Medieval Steel Arrow"
-msgstr "Flèche en acier Médiévale"
+msgstr "Flèches en acier médiévales"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:74
 msgid "Medieval Stone Arrow"
-msgstr "Flèche en pierre Médiévale"
+msgstr "Flèches en pierre médiévales"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:204
 msgid "Meet other players in the chat. Don't be shy, introduce yourself!"
@@ -5167,7 +5171,7 @@ msgstr "Militaire & Batailles"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:46
 msgid "Military base"
-msgstr "Base Militaire"
+msgstr "Base militaire"
 
 #. placeholder {0}: ethicsBonuses.militarism[1].regionUpgradeCooldownHours
 #. placeholder {0}: ethicsBonuses.militarism[2].regionUpgradeCooldownHours
@@ -5178,15 +5182,15 @@ msgstr "Les bases militaires peuvent être améliorées ou dégradées toutes le
 
 #: src/components/_political/law/LawTypeSelect.tsx:76
 msgid "Military laws"
-msgstr "Lois Militaires"
+msgstr "Lois militaires"
 
 #: src/pages/user/[userId]/index.tsx:142
 msgid "Military Rank"
-msgstr "Rang Militaire"
+msgstr "Rang militaire"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2025
 msgid "Military Rank Up!"
-msgstr "Promotion Militaire !"
+msgstr "Promotion militaire !"
 
 #: src/components/_user/user/SkillValue.tsx:184
 msgid "Military rank:"
@@ -5194,7 +5198,7 @@ msgstr "Rangs Militaire :"
 
 #: src/components/_user/user/MilitaryRanksInfoModal.tsx:88
 msgid "Military Ranks"
-msgstr "Rangs Militaires"
+msgstr "Rangs militaires"
 
 #: src/components/_layout/MoreButtonNav.tsx:152
 #: src/components/_user/notification/notificationPrefs.categories.ts:159
@@ -5203,11 +5207,11 @@ msgstr "Unité Militaire"
 
 #: src/components/_military/mu/MuFormModal.tsx:46
 msgid "Military unit created"
-msgstr "Unité Militaire créée"
+msgstr "Unité militaire créée"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:105
 msgid "Military units"
-msgstr "Unités Militaires"
+msgstr "Unités militaires"
 
 #: src/components/_military/battle/BattleCountrySide.tsx:93
 msgid "Military Units"
@@ -5236,9 +5240,9 @@ msgstr "Ministre de l'Économie"
 msgid "Minister of Foreign Affairs"
 msgstr "Ministre des Affaires étrangères"
 
-#: src/components/_layout/LayoutOptions.tsx:175
+#: src/components/_layout/LayoutOptions.tsx:180
 msgid "Mission tags"
-msgstr ""
+msgstr "Etiquettes de mission"
 
 #: src/components/_layout/LayoutRightIcons.tsx:173
 #: src/components/_layout/MoreButtonNav.tsx:105
@@ -5313,7 +5317,7 @@ msgid "Move a company to another region"
 msgstr "Déplace une entreprise vers une autre région"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:186
-#: src/components/_economy/company/MoveCompanyForm.tsx:64
+#: src/components/_economy/company/MoveCompanyForm.tsx:67
 msgid "Move company"
 msgstr "Déplacer l'entreprise"
 
@@ -5321,7 +5325,7 @@ msgstr "Déplacer l'entreprise"
 msgid "Move Company"
 msgstr "Déplacer une entreprise"
 
-#: src/components/_economy/company/MoveCompanyForm.tsx:89
+#: src/components/_economy/company/MoveCompanyForm.tsx:92
 msgid "Move the company"
 msgstr "Déplacer l'entreprise"
 
@@ -5389,27 +5393,27 @@ msgstr "Mes entreprises"
 
 #: src/utils/translations.tsx:114
 msgid "Mysterious Plant"
-msgstr "Plante Mystérieuse"
+msgstr "Plante mystérieuse"
 
 #: src/utils/translations.tsx:208
 msgid "Mythic Boots"
-msgstr "Bottes Mythiques"
+msgstr "Bottes mythiques"
 
 #: src/utils/translations.tsx:199
 msgid "Mythic Chest"
-msgstr "Gilet Mythique"
+msgstr "Gilet mythique"
 
 #: src/utils/translations.tsx:217
 msgid "Mythic Gloves"
-msgstr "Gants Mythiques"
+msgstr "Gants mythiques"
 
 #: src/utils/translations.tsx:190
 msgid "Mythic Helmet"
-msgstr "Casque Mythique"
+msgstr "Casque mythique"
 
 #: src/utils/translations.tsx:226
 msgid "Mythic Pants"
-msgstr "Pantalon Mythique"
+msgstr "Pantalon mythique"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:91
 msgid "Mythic?! Your account is blessed"
@@ -5434,11 +5438,15 @@ msgstr "Prime nationale"
 
 #: src/components/_military/mu/MuSettings.tsx:30
 msgid "Nationality updated"
-msgstr ""
+msgstr "Nationalité mise à jour"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:56
 msgid "Need a job?"
 msgstr "Besoin d'un emploi ?"
+
+#: src/components/_economy/inventory/ItemRecipe.tsx:59
+msgid "Needs more <0/> to produce"
+msgstr "Nécessite plus de <0/> pour être produit"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:47
 msgid "Negative mercenary reputation"
@@ -5500,7 +5508,7 @@ msgstr "Nouvelle offre d'emploi"
 msgid "New leader"
 msgstr "Nouveau leader"
 
-#: src/components/_economy/company/MoveCompanyForm.tsx:78
+#: src/components/_economy/company/MoveCompanyForm.tsx:81
 msgid "New location"
 msgstr "Nouvel emplacement"
 
@@ -5526,7 +5534,7 @@ msgstr "Nouveau nom"
 
 #: src/components/_military/mu/MuSettings.tsx:74
 msgid "New nationality"
-msgstr ""
+msgstr "Nouvelle nationalité"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2020
 msgid "New Party Application"
@@ -5672,7 +5680,7 @@ msgstr "Pas encore de classement de terrain."
 
 #: src/components/_user/kits/KitsPopover.tsx:130
 msgid "No kits yet - add one to quick-equip a full loadout."
-msgstr ""
+msgstr "Aucun kit pour le moment - ajoute-en un pour équiper rapidement un ensemble complet"
 
 #: src/components/_political/law/LawList.tsx:66
 msgid "No laws yet"
@@ -5816,7 +5824,7 @@ msgstr "Pas dans une alliance"
 
 #: src/components/_military/mu/MuSettings.tsx:67
 msgid "Not set"
-msgstr ""
+msgstr "Non défini"
 
 #: src/pages/notifications.tsx:38
 #: src/pages/user/[userId]/settings.tsx:79
@@ -5890,7 +5898,7 @@ msgstr "Seuls les supporters peuvent voir la répartition de leurs dépenses et 
 
 #: src/components/_military/mu/MuSettings.tsx:97
 msgid "Only the owner and commanders can change the nationality."
-msgstr ""
+msgstr "Seuls le propriétaire et les commandants peuvent changer la nationalité."
 
 #: src/components/_political/party/party.frontConfig.tsx:264
 msgid "Only your core regions generate development income."
@@ -6257,7 +6265,7 @@ msgstr "Précision"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:32
 msgid "Prehistoric Pack"
-msgstr "Pack Préhistorique"
+msgstr "Pack préhistorique"
 
 #: src/pages/shop/index.tsx:171
 msgid "Premium"
@@ -6318,7 +6326,7 @@ msgstr "Élections présidentielles"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:430
 msgid "Price auto-matches existing orders"
-msgstr ""
+msgstr "Le prix s'aligne automatiquement sur les commandes existantes"
 
 #: src/components/_political/election/election.frontConfig.tsx:43
 msgid "Primary election"
@@ -6377,7 +6385,7 @@ msgstr "Objet produit modifié !"
 msgid "Production"
 msgstr "Production"
 
-#: src/components/_economy/company/CompanyProductionBonusTag.tsx:48
+#: src/components/_economy/company/CompanyProductionBonusTag.tsx:51
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:99
 #: src/pages/region/[regionId]/index.tsx:69
 msgid "Production bonus"
@@ -6494,7 +6502,7 @@ msgstr "Les sanctions, ainsi que leur justification, sont visibles sur les profi
 
 #: src/components/_other/shop/skin.frontConfig.tsx:167
 msgid "Purple Staff"
-msgstr "Bâton Pourpre"
+msgstr "Bâton pourpre"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:35
 msgid "Put yourself to work!"
@@ -6606,7 +6614,7 @@ msgstr "Motif"
 
 #: src/pages/party/[partyId]/index.tsx:86
 msgid "Recent Applications"
-msgstr "Candidatures Récentes"
+msgstr "Candidatures récentes"
 
 #: src/pages/company/[companyId]/index.tsx:101
 msgid "Recipe"
@@ -7128,7 +7136,7 @@ msgstr "Voir le détail de tes dépenses et revenus"
 
 #: src/components/_military/mu/MuSettings.tsx:77
 msgid "Select a country"
-msgstr ""
+msgstr "Sélectionner un pays"
 
 #: src/components/_military/mu/MuFormModal.tsx:114
 msgid "Select a location"
@@ -7202,7 +7210,7 @@ msgstr "Ordres de vente"
 msgid "Sell price:"
 msgstr "Prix de vente :"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:158
 msgid "sells"
 msgstr "vend"
 
@@ -7451,7 +7459,7 @@ msgstr "Réseaux sociaux & Messages"
 msgid "Some of your companies are disabled."
 msgstr "Certaines de tes entreprises sont désactivées."
 
-#: src/components/_layout/LayoutOptions.tsx:159
+#: src/components/_layout/LayoutOptions.tsx:164
 msgid "Sound effects"
 msgstr "Effets sonores"
 
@@ -7627,7 +7635,7 @@ msgstr "Connexion réussie !"
 msgid "Sugar Daddy"
 msgstr "Mécène généreux"
 
-#: src/components/_user/premium/PremiumActions.tsx:57
+#: src/components/_user/premium/PremiumActions.tsx:60
 msgid "Support the game"
 msgstr "Soutenir le jeu"
 
@@ -7674,7 +7682,7 @@ msgstr "Plan Supporter"
 
 #: src/components/_user/kits/KitsPopover.tsx:209
 msgid "Supporter Plan: up to {premiumMax} kits"
-msgstr ""
+msgstr "Plan Supporter : jusqu'à {premiumMax} kits"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
@@ -7759,7 +7767,7 @@ msgstr "Conditions"
 msgid "Terms of Service"
 msgstr "Conditions d'utilisation"
 
-#: src/components/_layout/LayoutOptions.tsx:280
+#: src/components/_layout/LayoutOptions.tsx:285
 msgid "Texture"
 msgstr "Texture"
 
@@ -7938,63 +7946,63 @@ msgstr "C'est l'heure de produire !"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:17
 msgid "Tiny Pixel"
-msgstr "Tiny Pixel"
+msgstr "Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:98
 msgid "Tiny Pixel Ammo"
-msgstr "Munitions Tiny Pixel"
+msgstr "Munitions Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:110
 msgid "Tiny Pixel Boots"
-msgstr "Bottes Tiny Pixel"
+msgstr "Bottes Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:107
 msgid "Tiny Pixel Chest"
-msgstr "Gilet Tiny Pixel"
+msgstr "Gilet Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:116
 msgid "Tiny Pixel Gloves"
-msgstr "Gants Tiny Pixel"
+msgstr "Gants Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:119
 msgid "Tiny Pixel Gun"
-msgstr "Pistolet Tiny Pixel"
+msgstr "Pistolet Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:101
 msgid "Tiny Pixel Heavy Ammo"
-msgstr "Munitions Lourdes Tiny Pixel"
+msgstr "Munitions Lourdes Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:104
 msgid "Tiny Pixel Helmet"
-msgstr "Casque Tiny Pixel"
+msgstr "Casque Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:131
 msgid "Tiny Pixel Jet"
-msgstr "Chasseur Tiny Pixel"
+msgstr "Chasseur Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:134
 msgid "Tiny Pixel Light Ammo"
-msgstr "Munitions Légères Tiny Pixel"
+msgstr "Munitions Légères Petit pixel"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:16
 msgid "Tiny Pixel Pack"
-msgstr "Pack Tiny Pixel"
+msgstr "Pack Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:113
 msgid "Tiny Pixel Pants"
-msgstr "Pantalons Tiny Pixel"
+msgstr "Pantalon Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:122
 msgid "Tiny Pixel Rifle"
-msgstr "Fusil Tiny Pixel"
+msgstr "Fusil Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:125
 msgid "Tiny Pixel Sniper"
-msgstr "Tiny Pixel Sniper"
+msgstr "Sniper Petit pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:128
 msgid "Tiny Pixel Tank"
-msgstr "Tiny Pixel Tank"
+msgstr "Tank Petit pixel"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:312
 msgid "Tip <0>{count}</0> articles"
@@ -8106,7 +8114,7 @@ msgstr "Total donné :"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderFormModal.tsx:484
 msgid "Total of <0/>"
-msgstr ""
+msgstr "Total de <0/>"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:399
 msgid "Total of <0>{totalMaintenanceCostPerDay}</0>/day"
@@ -8224,7 +8232,7 @@ msgstr "Tutoriels réinitialisés"
 msgid "Tyrannosaurus Rex"
 msgstr "Tyrannosaure Rex"
 
-#: src/components/_layout/LayoutOptions.tsx:148
+#: src/components/_layout/LayoutOptions.tsx:153
 msgid "UI"
 msgstr "UI"
 
@@ -8335,7 +8343,7 @@ msgstr "Améliore une entreprise"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:207
 msgid "Upgrade automated engine"
-msgstr ""
+msgstr "Améliorer la machine automatisée"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:393
 msgid "Upgrade Company"
@@ -8347,7 +8355,7 @@ msgstr "Améliorer les compétences"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:225
 msgid "Upgrade storage"
-msgstr ""
+msgstr "Améliorer l'entrepôt"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:205
 msgid "Upgrade to supporter"
@@ -8642,7 +8650,7 @@ msgstr "En attente du niveau {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "En attente de la réponse du travailleur à la réduction de salaire. Vous ne pouvez pas modifier le salaire tant qu'il n'a pas répondu."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:155
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:158
 msgid "wants"
 msgstr "veut"
 
@@ -8823,7 +8831,7 @@ msgstr "Travailler pour les autres est un excellent moyen de gagner de l'argent 
 msgid "World <0/>"
 msgstr "Monde <0/>"
 
-#: src/components/_layout/LayoutOptions.tsx:222
+#: src/components/_layout/LayoutOptions.tsx:227
 #: src/components/_user/kits/KitsPopover.tsx:258
 msgid "Worst"
 msgstr "Pire"
@@ -9054,10 +9062,6 @@ msgstr "Tu dois être au moins niveau {0} pour contribuer."
 msgid "You must be at least level {0} to vote."
 msgstr "Tu dois être au moins de niveau {0} pour voter."
 
-#: src/components/_user/premium/PremiumActions.tsx:42
-msgid "You must be on web to subscribe"
-msgstr "Tu dois être sur le web pour t'abonner"
-
 #: src/components/_political/government/PoliticalEthicsSelect.tsx:115
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr "Tu dois dépenser les 3 points d'éthique ({pointsRemaining} restants)"
@@ -9274,7 +9278,7 @@ msgstr "Ton pays a commencé une révolte dans <0/> contre <1/>"
 msgid "Your current job"
 msgstr "Ton emploi actuel"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:146
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:149
 msgid "Your current order"
 msgstr "Ton ordre actuel"
 
@@ -9329,7 +9333,7 @@ msgstr "Le nom de ton unité militaire"
 
 #: src/components/_military/mu/MuSettings.tsx:53
 msgid "Your military unit nationality is the country it represents. Changing it is free and can only be done once every {cooldownDays} days."
-msgstr ""
+msgstr "La nationalité de ton unité militaire est le pays qu'elle représente. La changer est gratuit et ne peut être effectué que tous les {cooldownDays} jours"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
