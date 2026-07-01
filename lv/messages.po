@@ -5124,7 +5124,7 @@ msgstr "Biedrs paaugstināts par komandieri"
 #: src/pages/party/[partyId]/index.tsx:76
 #: src/pages/party/[partyId]/members.tsx:21
 msgid "Members"
-msgstr "biedri"
+msgstr "Biedri"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:46
 msgid "Membership suspended"
