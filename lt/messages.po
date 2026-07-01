@@ -410,7 +410,7 @@ msgstr "<0/> sukilo šalyje <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:923
 msgid "<0/> is revolting in <1/> against your country"
-msgstr "<1/> <0/> sukilo prieš tavo šalį"
+msgstr "<0/> sukilo <1/> prieš tavo šalį"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:25
 msgid "<0/> joined the conversation"
