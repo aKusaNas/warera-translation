@@ -2024,7 +2024,7 @@ msgstr "Kaujas rīkojumi par aizsardzības pakta dalībvalsti maksā par <0>{0}<
 
 #: src/components/_political/party/party.frontConfig.tsx:60
 msgid "Battle orders to defend your core regions and revolts are free."
-msgstr "Kaujas rīkojumi aizsargāt tavas valsts pamatreģionus un sacelšanās ir bezmaksas."
+msgstr "Kaujas rīkojumi aizsargāt tavas valsts pamatreģionus un sacelšanās ir bez maksas."
 
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.militarism['-1'].defendCoreRevoltOrderMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:75
