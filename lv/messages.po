@@ -8741,7 +8741,7 @@ msgstr "Rīkojot sacelšanos, tu kopē ienaidnieka bunkura bojājumu bonusu."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:156
 msgid "When your <0>Health</0> runs out, open this menu to restore it with food."
-msgstr "Kad tev vairs nav <0>dzīvību</0>, atver šo izvēlni, lai tās atjaunotu ar ēdienu."
+msgstr "Kad tev vairs nav <0>dzīvību</0>, atver šo izvēlni, lai tās atjaunotu, izmantojot ēdienu."
 
 #: src/components/_common/GameRules.tsx:80
 msgid "While data collection and display tools that use the official public API are allowed, for any other development or data access, please contact the staff team directly."
