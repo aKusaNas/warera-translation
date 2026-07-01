@@ -6498,7 +6498,7 @@ msgstr "Priekšlikumi"
 
 #: src/components/_common/GameRules.tsx:286
 msgid "Punishments, along with their reasoning, are visible on user profiles. Players may appeal through the official Discord server, where detailed explanations and evidence will be provided. Rule violations can be reported with supporting evidence."
-msgstr "Sankcijas kopā ar to pamatojumu ir redzamas lietotāju profilos. Spēlētāji var iesniegt apelāciju izmantojot spēles oficiālo Discord serveri, kur jāiesniedz detalizēti paskaidrojumi un pierādījumi. Par noteikumu pārkāpumiem var ziņot, pievienojot atbilstošus pierādījumus."
+msgstr "Sankcijas kopā ar to pamatojumu ir redzamas lietotāju profilos. Spēlētāji var iesniegt apelāciju, izmantojot spēles oficiālo Discord serveri, kur jāiesniedz detalizēti paskaidrojumi un pierādījumi. Par noteikumu pārkāpumiem var ziņot, pievienojot atbilstošus pierādījumus."
 
 #: src/components/_other/shop/skin.frontConfig.tsx:167
 msgid "Purple Staff"
