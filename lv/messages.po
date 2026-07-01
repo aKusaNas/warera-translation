@@ -6018,7 +6018,7 @@ msgstr "Īpašnieks"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1150
 msgid "Ownership of <0/> has been transferred from <1/> to <2/>"
-msgstr "Īpašumtiesības <0/> tika nodotas no <1/> uz <2/>"
+msgstr "<1/> <0/> īpašumtiesības tika nodotas <2/>"
 
 #: src/components/_military/mu/MuMemberList.tsx:120
 msgid "Ownership transferred successfully"
