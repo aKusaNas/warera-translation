@@ -2371,7 +2371,7 @@ msgstr "Keisti gaminamą prekę"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:201
 msgid "Change production"
-msgstr "Keisti gamybą"
+msgstr "Keisti produkciją"
 
 #: src/components/_political/law/law.frontConfig.tsx:60
 #: src/components/_political/law/lawNames.tsx:12
