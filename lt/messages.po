@@ -834,11 +834,11 @@ msgstr "1★ Admirolas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:112
 msgid "1★ Brigadier"
-msgstr "1★ Brigados generolas"
+msgstr "1★ Brigados Generolas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:27
 msgid "1★ Cadet"
-msgstr "1★ Kadetas"
+msgstr "1★ Kariūnas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:92
 msgid "1★ Captain"
@@ -846,7 +846,7 @@ msgstr "1★ Kapitonas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:72
 msgid "1★ Chief"
-msgstr "1★ Vadas"
+msgstr "1★ Viršininkas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:107
 msgid "1★ Colonel"
@@ -922,11 +922,11 @@ msgstr "1★ Specialistas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:17
 msgid "1★ Trainee"
-msgstr "1★ Naujokas"
+msgstr "1★ Stažuotojas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:37
 msgid "1★ Trooper"
-msgstr "1★ Eilinis"
+msgstr "1★ Kareivis"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:57
 msgid "1★ Vanguard"
@@ -938,7 +938,7 @@ msgstr "1★ Viceadmirolas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:77
 msgid "1★ Warrant Officer"
-msgstr "1★ Vyresnysis puskarininkis"
+msgstr "1★ Vyresnysis Puskarininkis"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:33
 msgid "100% historically accurate"
@@ -958,11 +958,11 @@ msgstr "2★ Admirolas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:113
 msgid "2★ Brigadier"
-msgstr "2★ Brigadierius"
+msgstr "2★ Brigados Generolas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:28
 msgid "2★ Cadet"
-msgstr "2★ Kadetas"
+msgstr "2★ Kariūnas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:93
 msgid "2★ Captain"
@@ -970,7 +970,7 @@ msgstr "2★ Kapitonas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:73
 msgid "2★ Chief"
-msgstr "2★ Vadas"
+msgstr "2★ Viršininkas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:108
 msgid "2★ Colonel"
@@ -986,7 +986,7 @@ msgstr "2★ Kapralas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:83
 msgid "2★ Ensign"
-msgstr "2★ Vėliavininkas"
+msgstr "2★ Jaunesnysis Leitenantas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:150
 msgid "2★ General"
@@ -1022,7 +1022,7 @@ msgstr "2★ Operatyvininkas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:68
 msgid "2★ Petty Officer"
-msgstr "2★ Laivūnas"
+msgstr "2★ Bocmanas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:33
 msgid "2★ Private"
@@ -1046,7 +1046,7 @@ msgstr "2★ Specialistas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:18
 msgid "2★ Trainee"
-msgstr "2★ Naujokas"
+msgstr "2★ Stažuotojas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:38
 msgid "2★ Trooper"
@@ -1062,7 +1062,7 @@ msgstr "2★ Viceadmirolas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:78
 msgid "2★ Warrant Officer"
-msgstr "2★ Viršila"
+msgstr "2★ Vyresnysis Puskarininkis"
 
 #: src/components/_common/GameRules.tsx:70
 msgid "3. Bots and Automation"
@@ -1078,7 +1078,7 @@ msgstr "3★ Admirolas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:114
 msgid "3★ Brigadier"
-msgstr "3★ Brigadininkas"
+msgstr "3★ Brigados Generolas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:29
 msgid "3★ Cadet"
@@ -1090,7 +1090,7 @@ msgstr "3★ Kapitonas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:74
 msgid "3★ Chief"
-msgstr "3★ Vadas"
+msgstr "3★ Viršininkas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:109
 msgid "3★ Colonel"
@@ -1106,7 +1106,7 @@ msgstr "3★ Kapralas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:84
 msgid "3★ Ensign"
-msgstr "3★ Vėliavininkas"
+msgstr "3★ Jaunesnysis Leitenantas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:151
 msgid "3★ General"
@@ -1142,7 +1142,7 @@ msgstr "3★ Operatyvininkas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:69
 msgid "3★ Petty Officer"
-msgstr "3★ Puskarininkis"
+msgstr "3★ Bocmanas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:34
 msgid "3★ Private"
@@ -1154,7 +1154,7 @@ msgstr "3★ Kontradmirolas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:24
 msgid "3★ Recruit"
-msgstr "3★ Naujokas"
+msgstr "3★ Rekrūtas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:54
 msgid "3★ Sergeant"
@@ -1166,7 +1166,7 @@ msgstr "3★ Specialistas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:19
 msgid "3★ Trainee"
-msgstr "3★ Naujokas"
+msgstr "3★ Stažuotojas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:39
 msgid "3★ Trooper"
@@ -1182,7 +1182,7 @@ msgstr "3★ Viceadmirolas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:79
 msgid "3★ Warrant Officer"
-msgstr "3★ Viršila"
+msgstr "3★ Vyresnysis Puskarininkis"
 
 #: src/components/_common/GameRules.tsx:90
 msgid "4. Bug Exploits"
@@ -2139,7 +2139,7 @@ msgstr "Nutraukti gynybinį paktą su <0/>"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:111
 msgid "Brigadier"
-msgstr "Brigados generolas"
+msgstr "Brigados Generolas"
 
 #: src/components/_other/shop/SkinCollectionModal.tsx:103
 msgid "Browse Packs"
@@ -2227,7 +2227,7 @@ msgstr "c. Seksualinės, atviros ar dviprasmiškos pastabos, komentarai, nuotrau
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:26
 msgid "Cadet"
-msgstr "Kadetas"
+msgstr "Kariūnas"
 
 #: src/components/_political/election/CandidateFormModal.tsx:66
 msgid "Campaign Article Link (optional)"
@@ -2371,7 +2371,7 @@ msgstr "Keisti gaminamą prekę"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:201
 msgid "Change production"
-msgstr "Keisti gamybą"
+msgstr "Keisti produkciją"
 
 #: src/components/_political/law/law.frontConfig.tsx:60
 #: src/components/_political/law/lawNames.tsx:12
@@ -2417,11 +2417,11 @@ msgstr "Liemenė"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:71
 msgid "Chief"
-msgstr "Vadas"
+msgstr "Viršininkas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:159
 msgid "Chief Commander"
-msgstr "Vyriausiasis vadas"
+msgstr "Vyriausiasis Vadas"
 
 #: src/components/_user/auth/WelcomeModal.tsx:145
 msgid "Choose your country"
@@ -4309,7 +4309,7 @@ msgstr "Padėk žaidimui augti"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:157
 msgid "High Commander"
-msgstr "Vyriausiasis vadas"
+msgstr "Aukštesnysis Vadas"
 
 #: src/components/_military/battle/BattlesHeader.tsx:32
 msgid "History"
@@ -6630,7 +6630,7 @@ msgstr "Rekomenduojami regionai"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:21
 msgid "Recruit"
-msgstr "Naujokas"
+msgstr "Rekrūtas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:170
 msgid "Red Staff"
@@ -7686,7 +7686,7 @@ msgstr "Rėmėjo planas: iki {premiumMax} rinkinių"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
-msgstr "Vyriausiasis vadas"
+msgstr "Aukščiausiasis Vadas"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:276
 msgid "Sworn enemy"
@@ -8179,7 +8179,7 @@ msgstr "Prekybos sandoris"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:16
 msgid "Trainee"
-msgstr "Naujokas"
+msgstr "Stažuotojas"
 
 #: src/components/_user/user/UserHeader.tsx:200
 msgid "Transac."
@@ -8672,7 +8672,7 @@ msgstr "Įspėjimas"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:76
 msgid "Warrant Officer"
-msgstr "Viršila"
+msgstr "Vyresnysis Puskarininkis"
 
 #: src/components/_political/country/CountryHeader.tsx:100
 msgid "Wars"
