@@ -2197,7 +2197,7 @@ msgstr "Adquirir <0/> de <1/> por <2>{0}</2>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:179
 msgid "Buy for <0>{count}</0> money on market"
-msgstr "Comprar por <0>{count}</0> de dinheiro no mercado"
+msgstr "Gastar <0>{count}</0> no mercado"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:177
 msgid "Buy Items"
@@ -2335,7 +2335,7 @@ msgstr "Probabilidade de obter recompensas instantaneamente por cada tiro certei
 
 #: src/components/_user/user/skills.frontConfig.tsx:138
 msgid "Chance to dodge all incoming damage when fighting in battles.<0/>Dodging also prevents equipment durability from being consumed."
-msgstr "Chance de esquivar todo o dano recebido em batalhas.<0/>Evasão também evita o consumo da durabilidade do equipamento."
+msgstr "Chance de esquivar dano recebido em batalhas.<0/>Evasão também evita o consumo da durabilidade do equipamento."
 
 #: src/components/_user/user/skills.frontConfig.tsx:124
 msgid "Chance to hit the target.<0/>Misses cannot crit, and deal half damage."
@@ -2975,7 +2975,7 @@ msgstr "Bónus de dano atual da aliança → <0/>"
 
 #: src/components/_political/alliance/AllianceHeader.tsx:96
 msgid "Current development"
-msgstr "Desenolvimento global"
+msgstr "Desenvolvimento global"
 
 #: src/pages/user/[userId]/index.tsx:163
 msgid "Current Military Unit"
@@ -3067,7 +3067,7 @@ msgstr "Mapa escuro"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:133
 msgid "Deal <0>{count}</0> for allies or your country"
-msgstr "Cause <0>{count}</0> de dano para aliados ou seu país"
+msgstr "Causar <0>{count}</0> de dano por países aliados ou pelo seu país"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:113
 msgid "Deal <0>{count}</0> in battles"
@@ -3091,7 +3091,7 @@ msgstr "Causar dano"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:131
 msgid "Deal Damages for Allies or Country"
-msgstr "Cause dano para aliados ou seu país"
+msgstr "Cause dano por países aliados ou pelo seu país"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:121
 msgid "Deal Damages on Orders"
@@ -3293,7 +3293,7 @@ msgstr "Desenvolvimento"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:301
 msgid "Diminish <0/> received damages with <1>Armor</1> in battles"
-msgstr "Reduz <0/> de danos recebidos com <1>Armadura</1> em batalhas"
+msgstr "Reduzir <0/> de danos recebidos com <1>Armadura</1> em batalhas"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:299
 msgid "Diminish Received Damages"
@@ -3893,11 +3893,11 @@ msgstr "Encontrar emprego"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:441
 msgid "Find a job at a company"
-msgstr "Encontrar emprego numa empresa"
+msgstr "Junte-se a uma empresa"
 
 #: src/components/_military/mu/MuJobItem.tsx:26
 msgid "Find a military unit"
-msgstr "Encontrar uma unidade militar"
+msgstr "Junte-se a uma unidade militar"
 
 #: src/components/_economy/company/CompanyProduce.tsx:116
 msgid "Find another job"
@@ -4853,7 +4853,7 @@ msgstr "Curtir <0>{count}</0> artigos"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:411
 msgid "Like <0>{count}</0> messages"
-msgstr "Curtir <0>{count}</0> mensagens"
+msgstr "Goste de <0>{count}</0> mensagens"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:338
 msgid "Like Article"
@@ -5446,7 +5446,7 @@ msgstr "Precisa de um emprego?"
 
 #: src/components/_economy/inventory/ItemRecipe.tsx:59
 msgid "Needs more <0/> to produce"
-msgstr ""
+msgstr "É necessário mais <0/> para produzir"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:47
 msgid "Negative mercenary reputation"
@@ -6554,15 +6554,15 @@ msgstr "Recursos Naturais:"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:405
 msgid "Reach level 10"
-msgstr "Alcançar nível 10"
+msgstr "Alcançe nível 10"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:404
 msgid "Reach Level 10"
-msgstr "Alcançar Nível 10"
+msgstr "Alcançe Nível 10"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:400
 msgid "Reach level 5"
-msgstr "Alcançar nível 5"
+msgstr "Alcançe nível 5"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:399
 msgid "Reach Level 5"
@@ -6570,19 +6570,19 @@ msgstr "Alcançar Nível 5"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:436
 msgid "Reach military rank 10"
-msgstr "Alcançar rank militar 10"
+msgstr "Alcançe rank militar 10"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:435
 msgid "Reach Military Rank 10"
-msgstr "Alcançar rank Militar 10"
+msgstr "Alcançe rank Militar 10"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:431
 msgid "Reach military rank 5"
-msgstr "Alcançar rank militar 5"
+msgstr "Alcançe rank militar 5"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:430
 msgid "Reach Military Rank 5"
-msgstr "Alcançar rank Militar 5"
+msgstr "Alcançe rank Militar 5"
 
 #. placeholder {0}: leveling.level + 1
 #: src/components/_user/user/Level.tsx:111
@@ -6638,7 +6638,7 @@ msgstr "Cajado Vermelho"
 
 #: src/components/_user/user/skills.frontConfig.tsx:70
 msgid "Reduces health lost when fighting in battles"
-msgstr "Reduzir a saúde perdida ao lutar em batalhas"
+msgstr "Reduz a saúde perdida ao lutar em batalhas"
 
 #: src/pages/user/[userId]/referrals.tsx:87
 msgid "Referral link copied to clipboard"
@@ -7224,7 +7224,7 @@ msgstr "Enviar <0>{count}</0> mensagens"
 
 #: src/components/_user/user/UserDropdown.tsx:204
 msgid "Send a message"
-msgstr "Enviar uma mensagem"
+msgstr "Envie uma mensagem no chat"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:222
 msgid "Send a message to complete the tutorial. Welcome to the community!"
@@ -8339,7 +8339,7 @@ msgstr "Atualizar trabalhador"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:394
 msgid "Upgrade a company"
-msgstr "Melhorar uma empresa"
+msgstr "Melhore uma empresa"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:207
 msgid "Upgrade automated engine"
@@ -8363,7 +8363,7 @@ msgstr "Seja um supporter"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:464
 msgid "Upgrade your skills <0>{count}</0> times"
-msgstr "Melhorar as suas habilidades <0>{count}</0> vezes"
+msgstr "Melhore as suas habilidades <0>{count}</0> vezes"
 
 #: src/pages/user/[userId]/skills.tsx:149
 msgid "Upgrade your skills!"
