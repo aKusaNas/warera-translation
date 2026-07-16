@@ -3075,7 +3075,7 @@ msgstr "Padaryk <0>{count}</0> žalos mūšiuose"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:123
 msgid "Deal <0>{count}</0> on country/mu orders"
-msgstr "Įvykdyk <0>{count}</0> sandorių pagal šalies / karinio vieneto užsakymus"
+msgstr "Padaryk <0>{count}</0> žalos vykdant šalies / karinio vieneto įsakymus"
 
 #: src/components/_user/user/MilitaryRanksInfoModal.tsx:94
 msgid "Deal damage in battles to increase your military rank and unlock attack bonuses."
@@ -5364,7 +5364,7 @@ msgstr "Mėnesiniai MU lygiai"
 
 #: src/components/_military/battle/BattleSideOrdersModal.tsx:72
 msgid "MU Orders"
-msgstr "Karinio būrio įsakymai"
+msgstr "Karinio vieneto įsakymai"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2081
 msgid "MU Ownership Transferred"
