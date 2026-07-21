@@ -229,7 +229,7 @@ msgstr "<0/> perka tavo regioną <1/> už <2>{0}</2>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1594
 msgid "<0/> cancelled the contract."
-msgstr "<0/> atšaukė sutartį."
+msgstr "<0/> atšaukė kontraktą."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:773
 msgid "<0/> commented on your article <1/>"
@@ -237,7 +237,7 @@ msgstr "<0/> pakomentavo tavo straipsnį <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1569
 msgid "<0/> completed a contract, you earned <1/>"
-msgstr "<0/> įvykdė sutartį, tu uždirbai <1/>"
+msgstr "<0/> įvykdė kontraktą, tu uždirbai <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:666
 msgid "<0/> conquered the region in <1/>"
@@ -549,7 +549,7 @@ msgstr "<0/> laimėjo {0}-ą raundą"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1552
 msgid "<0/> won the auction on a contract with <1/>"
-msgstr "<0/> laimėjo sutarties su <1/> aukcioną"
+msgstr "<0/> laimėjo kontraktą su šalimi: <1/>"
 
 #. placeholder {0}: data.attackerWonRoundsCount
 #. placeholder {1}: data.defenderWonRoundsCount
@@ -623,7 +623,7 @@ msgstr "<0>{0}</0> prieš <1/> priešą"
 #. placeholder {0}: levelConfig.stats.attackBonus || 0
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:49
 msgid "<0>{0}</0> Attack bonus when attacking from this region.<1/>Citizens get the full bonus, allied countries get half."
-msgstr "<0>{0}</0> Puolimo bonusas puolant iš šio regiono.<1/>Piliečiai gauna visą bonusą, sąjungininkų šalys – pusę."
+msgstr "<0>{0}</0> Atakos bonusas puolant iš šio regiono.<1/>Piliečiai gauna visą bonusą, sąjungininkų šalys – pusę."
 
 #. placeholder {0}: sideBonus.regionNotLinkedToCapitalMalusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:209
@@ -1250,12 +1250,12 @@ msgstr "<2/> aptiktas <0>{0}</0> <1>{1}</1> telkinys {2} dienoms"
 #. placeholder {0}: contract.acceptanceFee
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:97
 msgid "A fee of <0>{0}</0> is required to accept this contract. The fee is returned once you complete the minimum damage of <1/>. If you fail to complete the contract or the country cancels it, the fee is lost."
-msgstr "Norint priimti šią sutartį, reikalingas <0>{0}</0> mokestis. Mokestis grąžinamas, kai padarai minimalią žalą <1/>. Jei neįvykdysi sutarties arba šalis ją atšauks, mokestis bus prarastas."
+msgstr "Norint priimti šį kontraktą, reikalingas <0>{0}</0> mokestis. Mokestis grąžinamas, kai padarai minimalią žalą <1/>. Jei neįvykdysi kontrakto arba šalis jį atšauks, mokestis bus prarastas."
 
 #. placeholder {0}: contract.acceptanceFee
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:91
 msgid "A fee of <0>{0}</0> was required to accept this contract. The fee has been returned after completing the minimum damage."
-msgstr "Norint priimti šią sutartį, buvo sumokėtas <0>{0}</0> mokestis. Mokestis buvo grąžintas padarius minimalią žalą."
+msgstr "Norint priimti šį kontraktą, reikėjo sumokėti <0>{0}</0> mokestį. Mokestis buvo grąžintas padarius minimalią žalą."
 
 #: src/components/_political/event/event.frontConfig.tsx:143
 msgid "A revolution has started in <0/>"
@@ -1576,7 +1576,7 @@ msgstr "Įmonių, kurias gali turėti, skaičius"
 #. placeholder {0}: data.refund
 #: src/components/_user/notification/notification.frontConfig.tsx:1587
 msgid "An admin cancelled the contract. <0>{0}</0> returned to <1/>."
-msgstr "Administratorius atšaukė sutartį. <0>{0}</0> grąžinta žaidėjui <1/>."
+msgstr "Administratorius atšaukė kontraktą. <0>{0}</0> grąžinta žaidėjui <1/>."
 
 #: src/components/_political/event/event.frontConfig.tsx:337
 msgid "An alliance has been broken"
@@ -1819,7 +1819,7 @@ msgstr "Pasibaigus laikui, <0>{actualTickPoints}</0> bus skirti pusei, padariusi
 #: src/components/_user/user/skills.frontConfig.tsx:44
 #: src/components/_user/user/skills.frontConfig.tsx:45
 msgid "Attack"
-msgstr "Pulti"
+msgstr "Ataka"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:195
 #: src/components/_military/war/WarComparison.tsx:41
@@ -2248,13 +2248,13 @@ msgstr "Gali bet kada atsisakyti prenumeratos"
 #: src/components/_military/mercenaryContract/AdminDeleteContractModal.tsx:43
 #: src/components/_military/mercenaryContract/AdminDeleteContractModal.tsx:64
 msgid "Cancel Contract"
-msgstr "Nutraukti sutartį"
+msgstr "Nutraukti kontraktą"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItem.tsx:84
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:63
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:75
 msgid "Cancel Mercenary Contract"
-msgstr "Nutraukti samdinio sutartį"
+msgstr "Nutraukti Samdinio Kontraktą"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:232
 #: src/utils/translations.tsx:264
@@ -2648,7 +2648,7 @@ msgstr "Sveikiname! Buvai išrinktas į <0/> tarybą"
 #. placeholder {0}: militaryRankingConfig[data.rank].percentDamages
 #: src/components/_user/notification/notification.frontConfig.tsx:1244
 msgid "Congratulations! You have been promoted to <0/> with an attack bonus of <1>{0}</1>"
-msgstr "Sveikiname! Buvai paaukštintas į <0/>, suteikiant <1>{0}</1> puolimo bonusą"
+msgstr "Sveikiname! Buvai paaukštintas į <0/>, suteikiant <1>{0}</1> atakos bonusą"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1433
 msgid "Congratulations! You won the giveaway and received cases!"
@@ -2735,19 +2735,19 @@ msgstr "Kontekstinės ribos"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2093
 msgid "Contract cancelled"
-msgstr "Sutartis atšaukta"
+msgstr "Kontraktas atšauktas"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2090
 msgid "Contract completed"
-msgstr "Sutartis įvykdyta"
+msgstr "Kontraktas įvykdytas"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2096
 msgid "Contract expired"
-msgstr "Sutartis baigėsi"
+msgstr "Kontraktas baigėsi"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2099
 msgid "Contract rolled back"
-msgstr "Sutartis atšaukta"
+msgstr "Kontraktas grąžintas"
 
 #: src/components/_military/battle/BattleHeader.tsx:312
 #: src/components/_military/battle/BattlesHeader.tsx:44
@@ -2759,7 +2759,7 @@ msgstr "Kontraktai"
 
 #: src/components/_military/battle/BattleSideContractsModal.tsx:29
 msgid "Contracts & Auctions"
-msgstr "Sutartys ir aukcionai"
+msgstr "Kontraktai ir Aukcionai"
 
 #: src/utils/translations.tsx:39
 msgid "Cooked Fish"
@@ -3079,7 +3079,7 @@ msgstr "Padaryk <0>{count}</0> žalos vykdant šalies / karinio vieneto įsakymu
 
 #: src/components/_user/user/MilitaryRanksInfoModal.tsx:94
 msgid "Deal damage in battles to increase your military rank and unlock attack bonuses."
-msgstr "Daryk žalą mūšiuose, kad keltum savo karinį rangą ir atrakintum puolimo bonusus."
+msgstr "Daryk žalą mūšiuose, kad keltum savo karinį rangą ir atrakintum atakos bonusus."
 
 #: src/components/_military/mu/MuLevelsInfoModal.tsx:118
 msgid "Deal damage in battles with your MU members to level up each month and earn rewards. Resets on the 1st of each month."
@@ -3115,7 +3115,7 @@ msgstr "Padaro daugiau žalos"
 
 #: src/utils/translations.tsx:56
 msgid "Deals some damages"
-msgstr "Padaro žalos"
+msgstr "Padaro šiek tiek žalos"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2107
 msgid "Debuff ended"
@@ -4259,7 +4259,7 @@ msgstr "GSG9 Taktinė liemenė"
 
 #: src/utils/translations.tsx:23
 msgid "Gun"
-msgstr "Ginklas"
+msgstr "Pistoletas"
 
 #: src/components/_common/GameRules.tsx:243
 msgid "h. Glorification, promotion or encouragement of rule-breaking or cheating"
@@ -4317,7 +4317,7 @@ msgstr "Istorija"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:101
 msgid "Hit"
-msgstr "Pulti"
+msgstr "Suduoti"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:103
 msgid "Hit <0>{count}</0> times in battles"
@@ -5106,7 +5106,7 @@ msgstr "Šalis narė, kurią nori pašalinti"
 
 #: src/components/_military/mu/MuMemberList.tsx:116
 msgid "Member demoted from commander"
-msgstr "Pažemintas iš vado pareigų"
+msgstr "Narys pažemintas iš vado pareigų"
 
 #: src/components/_military/mu/MuMemberList.tsx:108
 msgid "Member kicked successfully"
@@ -5143,7 +5143,7 @@ msgstr "Samdinių aukcionai"
 #: src/pages/country/[countryId]/index.tsx:292
 #: src/pages/mu/[muId]/contracts.tsx:25
 msgid "Mercenary Contracts"
-msgstr "Samdinių sutartys"
+msgstr "Samdinių kontraktai"
 
 #: src/components/_military/mercenaryContract/MercenaryContractsDisabled.tsx:11
 msgid "Mercenary contracts are currently disabled."
@@ -5450,7 +5450,7 @@ msgstr "Gamybai reikia daugiau <0/>"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:47
 msgid "Negative mercenary reputation"
-msgstr "Neigiama samdinių reputacija"
+msgstr "Neigiama samdinio reputacija"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:173
 msgid "Net benefit:"
@@ -5488,7 +5488,7 @@ msgstr "Naujas komentaras"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2087
 msgid "New contract accepted"
-msgstr "Nauja sutartis priimta"
+msgstr "Naujas kontraktas priimtas"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:157
 msgid "New ethics configuration"
@@ -5700,7 +5700,7 @@ msgstr "Nėra samdinių aukcionų"
 
 #: src/components/_military/mercenaryContract/MercenaryContractList.tsx:98
 msgid "No mercenary contracts"
-msgstr "Nėra samdinių sutarčių"
+msgstr "Nėra samdinių kontraktų"
 
 #: src/components/_military/mu/MuList.tsx:93
 msgid "No military units found"
@@ -5853,7 +5853,7 @@ msgstr "Iš"
 
 #: src/utils/translations.tsx:87
 msgid "Oil"
-msgstr "Nafta"
+msgstr "Kuras"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:58
 msgid "Okay hacker, chill"
@@ -5869,11 +5869,11 @@ msgstr "Omg, čia per stipru"
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:20
 msgid "On contract completion: +1 rep per <0/> paid out."
-msgstr "Įvykdžius sutartį: +1 rep. už kiekvieną išmokėtą <0/>."
+msgstr "Įvykdžius kontraktą: +1 rep. už kiekvieną išmokėtą <0/>."
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:26
 msgid "On contract failure: -1 rep per <0/> in budget, and -1 rep per <1/> short of completing the contract."
-msgstr "Neįvykdžius sutarties: -1 rep. už kiekvieną <0/> biudžete ir -1 rep. už kiekvieną trūkstamą <1/> iki sutarties įvykdymo."
+msgstr "Neįvykdžius kontrakto: -1 rep. už kiekvieną <0/> biudžete ir -1 rep. už kiekvieną trūkstamą <1/> iki kontrakto įvykdymo."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:70
 msgid "One step away from legendary..."
@@ -5963,7 +5963,7 @@ msgstr "Operatyvininkas"
 
 #: src/components/_layout/LayoutLeftIcons.tsx:159
 msgid "Options"
-msgstr "Nustatymai"
+msgstr "Parinktys"
 
 #: src/components/_military/order/BattleOrderTags.tsx:25
 msgid "Order"
@@ -6538,7 +6538,7 @@ msgstr "Reitingai"
 
 #: src/components/_layout/LayoutRightIcons.tsx:233
 msgid "Ranks"
-msgstr "Reitingai"
+msgstr "Topai"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:175
 msgid "Rate"
@@ -6876,7 +6876,7 @@ msgstr "Pranešti apie žaidėją"
 
 #: src/components/_user/user/UserHeader.tsx:192
 msgid "Reports"
-msgstr "Pranešimai"
+msgstr "Ataskaitos"
 
 #: src/components/_political/party/party.frontConfig.tsx:270
 #: src/components/_political/party/party.frontConfig.tsx:285
@@ -7006,11 +7006,11 @@ msgstr "Grąžinti lėšas (atsiimti visus mokėjimus iš MU / naudotojų ir gr�
 
 #: src/utils/translations.tsx:266
 msgid "Rolled back by admin"
-msgstr "Atšaukė administratorius"
+msgstr "Grąžino administratorius"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:240
 msgid "Rolled back by Admin"
-msgstr "Atšaukė administratorius"
+msgstr "Grąžino administratorius"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:200
 msgid "Round"
@@ -7761,7 +7761,7 @@ msgstr "Nutraukta"
 #: src/pages/index.tsx:138
 #: src/pages/rules.tsx:32
 msgid "Terms"
-msgstr "Taisyklės"
+msgstr "Sąlygos"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:386
 msgid "Terms of Service"
@@ -7798,12 +7798,12 @@ msgstr "Pilietinis karas, kurį <1/> pradėjo <0/>, baigėsi sėkmingai prieš <
 #. placeholder {0}: data.refund
 #: src/components/_user/notification/notification.frontConfig.tsx:1639
 msgid "The contract for <0/> has expired. <1>{0}</1> returned to <2/>."
-msgstr "Sutartis dėl <0/> baigėsi. <1>{0}</1> grąžinta <2/>."
+msgstr "Kontraktas dėl <0/> baigėsi. <1>{0}</1> grąžinta <2/>."
 
 #. placeholder {0}: data.moneyRolledBack
 #: src/components/_user/notification/notification.frontConfig.tsx:1657
 msgid "The contract has been rolled back. <0>{0}</0> sent back to <1/>."
-msgstr "Sutartis buvo atšaukta. <0>{0}</0> grąžinta <1/>."
+msgstr "Kontraktas buvo atšauktas. <0>{0}</0> grąžinta <1/>."
 
 #: src/components/_political/law/LawCostExplanation.tsx:32
 msgid "The cost is the law's base cost scaled by your country's average development."
@@ -7861,7 +7861,7 @@ msgstr "Botų, skriptų ar bet kokios formos automatizacijos naudojimas siekiant
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:139
 msgid "This action will submit your MU bid for this contract."
-msgstr "Šis veiksmas pateiks tavo MU statymą šiai sutarčiai."
+msgstr "Šis veiksmas pateiks tavo MU statymą šiam kontraktui."
 
 #: src/components/_military/battle/BattleSystem.tsx:799
 msgid "This bounty is reserved for nationals only."
@@ -8426,7 +8426,7 @@ msgstr "Skirta keptai žuviai gaminti"
 
 #: src/utils/translations.tsx:85
 msgid "Used to produce Oil"
-msgstr "Naudojama naftai išgauti"
+msgstr "Naudojama kurui gaminti"
 
 #: src/utils/translations.tsx:89
 msgid "Used to produce Paper"
@@ -9025,7 +9025,7 @@ msgstr "Padėjai kūrėjui rasti klaidą, ačiū <3"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:218
 msgid "You helped the dev find an exploit, ty <3"
-msgstr "Padėjai kūrėjui rasti klaidą, ačiū <3"
+msgstr "Padėjai kūrėjui rasti spragą, ačiū <3"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:211
 msgid "You helped translate the game into another language"
@@ -9337,11 +9337,11 @@ msgstr "Tavo karinio dalinio pilietybė yra šalis, kuriai jis atstovauja. Jos p
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
-msgstr "Tavo MU turi <0/> reputacijos ir negali dalyvauti samdinių sutarčių aukcionuose. Sumokėk, kad išsipirktum reputaciją (kartą per dieną)."
+msgstr "Tavo MU turi <0/> reputacijos ir negali dalyvauti samdinių kontraktų aukcionuose. Sumokėk, kad išsipirktum reputaciją (kartą per dieną)."
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:230
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
-msgstr "Tavo MU turi turėti pakankamai pinigų priėmimo mokesčiui padengti, kad galėtų atlikti statymą. Mokestis atskaitomas tik laimėjus ir grąžinamas įvykdžius sutartį."
+msgstr "Tavo MU turi turėti pakankamai pinigų priėmimo mokesčiui padengti, kad galėtų atlikti statymą. Mokestis atskaitomas tik laimėjus ir grąžinamas įvykdžius kontraktą."
 
 #: src/components/_economy/market/MarketHeader.tsx:13
 msgid "Your offers"
