@@ -15,23 +15,23 @@ msgstr ""
 
 #: src/components/_common/GameRules.tsx:99
 msgid "  a. Trading equipment"
-msgstr ""
+msgstr "a. 交易裝備"
 
 #: src/components/_common/GameRules.tsx:101
 msgid "  b. Working for each other"
-msgstr ""
+msgstr "b. 互相工作"
 
 #: src/components/_common/GameRules.tsx:173
 msgid " - Funneling assets without proper exchange"
-msgstr ""
+msgstr " - 未經正當交易轉移資產"
 
 #: src/components/_common/GameRules.tsx:171
 msgid " - Gear merging schemes *"
-msgstr ""
+msgstr " - 利用裝備合成套利"
 
 #: src/components/_common/GameRules.tsx:161
 msgid " - Low-wage labor (lower than 0.8x and above 1.2x the normal salary)"
-msgstr ""
+msgstr " - 低薪勞工（低於正常薪資之80%或高於20%）"
 
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:469
@@ -40,15 +40,15 @@ msgstr " - 原因: {0}"
 
 #: src/components/_common/GameRules.tsx:177
 msgid " - Repeated donations of resources or money to a military unit or country."
-msgstr ""
+msgstr " - 重複向軍團或國家捐贈物資或金錢"
 
 #: src/components/_common/GameRules.tsx:175
 msgid " - Repeatedly tipping articles"
-msgstr ""
+msgstr " - 重複給予文章小費"
 
 #: src/components/_common/GameRules.tsx:167
 msgid " - Using outside market standards or manipulated trade prices"
-msgstr ""
+msgstr " - 使用市場外機制或操控交易價格"
 
 #: src/components/_user/premium/PremiumActions.tsx:74
 msgid " Gift a sub"
@@ -67,15 +67,15 @@ msgstr "- 發展收入減少50%: <0>{0}</0> "
 #: src/components/_political/alliance/AllianceMemberRow.tsx:71
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:246
 msgid "(average member development)"
-msgstr ""
+msgstr "（平均成員發展度）"
 
 #: src/components/_political/alliance/AllianceMemberRow.tsx:66
 msgid "(member average development)"
-msgstr ""
+msgstr "（成員平均發展度）"
 
 #: src/components/_political/country/CountryDiplomacyGrid.tsx:236
 msgid "(own development)"
-msgstr ""
+msgstr "（個人發展度）"
 
 #. placeholder {0}: myCountry?.name
 #: src/components/_military/battle/EndedBattlesList.tsx:81
@@ -113,12 +113,12 @@ msgstr "{0} 小時"
 #. placeholder {1}: data.newPerK
 #: src/components/_user/notification/notification.frontConfig.tsx:1688
 msgid "{0} outbid you at ${1}/K"
-msgstr ""
+msgstr "{0} 以 ${1}/K 出價高於你"
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
 #: src/components/_user/notification/notification.frontConfig.tsx:511
 msgid "{0} proposed a new law <0/>"
-msgstr ""
+msgstr "{0} 提出了新法律 <0/>"
 
 #. placeholder {0}: staticGameConfig.battle.roundsToWin
 #: src/components/_military/battle/RoundScore.tsx:55
@@ -157,27 +157,27 @@ msgstr "{completedCount}/{totalCount} 已完成"
 
 #: src/components/_user/user/SkillUpgrade.tsx:267
 msgid "{draftPrestigeCount} prestige point(s) on this skill ({savedPrestigeCount} saved, locked until reset)"
-msgstr ""
+msgstr "{draftPrestigeCount} 聲望點數在此技能（{savedPrestigueCount} 已儲存，鎖定直到重置）"
 
 #: src/components/_user/user/Level.tsx:153
 msgid "{prestigeLevel} Prestige Points"
-msgstr ""
+msgstr "{prestigueLevel} 聲望點數"
 
 #: src/pages/events/index.tsx:97
 msgid "{registeredCount} countries registered"
-msgstr ""
+msgstr "{registeredCount} 國家已報名"
 
 #: src/pages/events/index.tsx:95
 msgid "{registeredCount} MUs registered"
-msgstr ""
+msgstr "{registeredCount} 軍團已報名"
 
 #: src/components/_military/battle/BattleTimeline.tsx:79
 msgid "{roundsToWin} Rounds to win "
-msgstr ""
+msgstr "{roundsToWin} 回合至獲勝"
 
 #: src/components/_user/user/SkillUpgrade.tsx:376
 msgid "{savedPrestigeCount} prestige point(s) active on this skill"
-msgstr ""
+msgstr "{savedPrestigeCount} 聲望點數已激活於此技能"
 
 #. placeholder {0}: staticGameConfig.battle.roundsToWin
 #: src/components/_military/battle/RoundScore.tsx:50
@@ -186,7 +186,7 @@ msgstr "{score}/{0} 回合"
 
 #: src/components/_common/GameRules.tsx:197
 msgid "* A gear merging scheme consists of buying items with very low durability at a relatively high price, merging them, and then reselling the result at a low price."
-msgstr ""
+msgstr "* 利用裝備合成套利包含購買低耐久度物品於較高價格，合成它們，並重新於較低價格出售。"
 
 #: src/components/_other/shop/SkinPackModal.tsx:213
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
@@ -198,15 +198,15 @@ msgstr "*可能會燒起來"
 
 #: src/components/_political/government/Government.tsx:222
 msgid "/day"
-msgstr ""
+msgstr "/天"
 
 #: src/components/_military/battle/MyBattlesRecapCard.tsx:190
 msgid "+{hiddenBattles} more battles"
-msgstr ""
+msgstr "+{hiddenBattles} 更多戰鬥"
 
 #: src/components/_user/user/Level.tsx:162
 msgid "+{xpBonusPercent}% XP"
-msgstr ""
+msgstr "+{xpBonusPercent}% 經驗"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:381
 #: src/components/_user/notification/notification.frontConfig.tsx:1095
@@ -221,30 +221,30 @@ msgstr "<0/>，薪資為 <1>{0}</1>。{1}"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:54
 msgid "<0/> banned <1/> from the conversation"
-msgstr ""
+msgstr "<0/> 禁止 <1/> 參與對話"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1903
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
-msgstr ""
+msgstr "<0/>購買了你的 {assetLabel} 作為給 <1/> 的禮物！"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1910
 msgid "<0/> bought your {assetLabel}!"
-msgstr ""
+msgstr "<0/> 購買了你的 {assetLabel}！"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
 #: src/components/_user/notification/notification.frontConfig.tsx:1523
 msgid "<0/> bought your banner{0} as a gift for <1/>!"
-msgstr ""
+msgstr "<0/> 購買了你的橫幅{0} 作為給 <1/> 的禮物！"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
 #: src/components/_user/notification/notification.frontConfig.tsx:1531
 msgid "<0/> bought your banner{0}!"
-msgstr ""
+msgstr "<0/> 購買了你的橫幅{0}！"
 
 #. placeholder {0}: law.data.amount ?? 0
 #: src/components/_political/law/law.frontConfig.tsx:443
 msgid "<0/> buys <1/> for <2>{0}</2>"
-msgstr ""
+msgstr "<0/> 為 <2>{0}</2> 買了 <1/>"
 
 #. placeholder {0}: law.data.amount ?? 0
 #: src/components/_political/law/law.frontConfig.tsx:454
@@ -253,7 +253,7 @@ msgstr "<0/> 用 <2>{0}</2> 購買你的地區 <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1608
 msgid "<0/> cancelled the contract."
-msgstr ""
+msgstr "<0/> 取消了合約。"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:774
 msgid "<0/> commented on your article <1/>"
@@ -261,7 +261,7 @@ msgstr "<0/> 在你的文章 <1/> 留言"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1583
 msgid "<0/> completed a contract, you earned <1/>"
-msgstr ""
+msgstr "<0/> 完成了一個合約，你賺取了 <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:667
 msgid "<0/> conquered the region in <1/>"
@@ -287,11 +287,11 @@ msgstr "<0/> 捐獻了 <1>{0}</1> 給 <2/>"
 #. placeholder {0}: ts[data.caseCode]
 #: src/components/_political/message/systemMessage.frontConfig.tsx:124
 msgid "<0/> dropped <1/> from <2>{0}</2>"
-msgstr ""
+msgstr "<0/> 將 <1/> 從 <2>{0}</2> 中移除"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:172
 msgid "<0/> ended <1/>"
-msgstr ""
+msgstr "<0/> 結束了 <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:148
 msgid "<0/> financed a resistance war for <1/> in <2/>"
@@ -324,11 +324,11 @@ msgstr "<0/> 贈送給你造型 \"{skinTitle}\"！"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1856
 msgid "<0/> gifted you the skin pack \"{skinPackTitle}\"!"
-msgstr ""
+msgstr "<0/> 贈送給你材質包 \"{skinPackTitle}\"！"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:227
 msgid "<0/> got fee back"
-msgstr ""
+msgstr "<0/> 拿回了費用"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1332
 msgid "<0/> has been created, it gonna start soon!"
@@ -340,7 +340,7 @@ msgstr "<0/> 被選為 <1/> 的總統"
 
 #: src/components/_political/event/event.frontConfig.tsx:379
 msgid "<0/> has been excluded from the alliance <1/>"
-msgstr ""
+msgstr "<0/> 被從連 <1/> 排除了"
 
 #. placeholder {0}: data.amount
 #: src/components/_political/event/event.frontConfig.tsx:216
@@ -353,7 +353,7 @@ msgstr "<0/> 已中斷與 <1/> 的聯盟"
 
 #: src/components/_political/event/event.frontConfig.tsx:407
 msgid "<0/> has broken their defensive pact with <1/>"
-msgstr ""
+msgstr "<0/> 已打破和 <1/> 的共同防禦條約"
 
 #: src/components/_political/event/event.frontConfig.tsx:103
 msgid "<0/> has conquered <1/> against <2/>"
@@ -377,11 +377,11 @@ msgstr "<0/> 已與 <1/> 建立了聯盟"
 
 #: src/components/_political/law/law.frontConfig.tsx:392
 msgid "<0/> has invited your country to join."
-msgstr ""
+msgstr "<0/> 邀請了你的國家加入。"
 
 #: src/components/_political/event/event.frontConfig.tsx:349
 msgid "<0/> has joined the alliance <1/>"
-msgstr ""
+msgstr "<0/> 已加入聯盟 <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:364
 msgid "<0/> has left the alliance <1/>"
