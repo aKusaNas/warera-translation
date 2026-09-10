@@ -345,7 +345,7 @@ msgstr "<0/> został wykluczony z sojuszu <1/>"
 #. placeholder {0}: data.amount
 #: src/components/_political/event/event.frontConfig.tsx:216
 msgid "<0/> has bought <1/> from <2/> for <3>{0}</3>"
-msgstr "<0/> został zakupiony <1/> od <2/> dla <3>{0}</3>"
+msgstr "<0/> został zakupiony <1/> od <2/> za <3>{0}</3>"
 
 #: src/components/_political/event/event.frontConfig.tsx:332
 msgid "<0/> has broken their alliance with <1/>"
