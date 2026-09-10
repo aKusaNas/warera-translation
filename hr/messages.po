@@ -1754,7 +1754,7 @@ msgstr "Jeste li sigurni da želite da opozovete \"{0}\"? Ova akciјa se ne mož
 
 #: src/components/_other/tour/TutorialStep.tsx:186
 msgid "Are you sure you want to skip this tutorial?"
-msgstr "Jeste li sigurni da želite preskočiti vodič?"
+msgstr "Jeste li sigurni da želite preskočiti tutorijal?"
 
 #: src/components/_military/mu/MuMemberList.tsx:162
 msgid "Are you sure you want to transfer ownership to this member? This action cannot be undone."
@@ -2470,11 +2470,11 @@ msgstr "Promijeni nacionalnost"
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:65
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:85
 msgid "Change produced item"
-msgstr "Promijeni dobro proizvodnje"
+msgstr "Promijeni proizvod"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:202
 msgid "Change production"
-msgstr "Promijeni proizvodnju"
+msgstr "Promijeni proizvod"
 
 #: src/components/_political/law/law.frontConfig.tsx:60
 #: src/components/_political/law/lawNames.tsx:12
@@ -2511,7 +2511,7 @@ msgstr "Promijeni porez za {0} na"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:82
 msgid "Check your loot!"
-msgstr "Proveri svoј plijen!"
+msgstr "Provjeri svoj inventar!"
 
 #: src/components/_user/UserEquipments.tsx:185
 #: src/utils/translations.tsx:194
@@ -2540,7 +2540,7 @@ msgstr "Izaberi svoјu državu"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:144
 msgid "Choose your side and click to deal <0>Damages</0>! Keep hitting to help your team win."
-msgstr "Izaberi stranu i dodirni da naneseš <0>Štetu</0>! Nastavi nanositi štetu da pomogneš svome timu pobijediti."
+msgstr "Izaberite stranu u bitki za koju želite nanijeti <0>Štetu</0>. Pobjednička strana je ona koja nanese više štete."
 
 #: src/components/_economy/inventory/CraftModal.tsx:374
 msgid "Choosing a specific item costs ×2 steel:"
@@ -2598,7 +2598,7 @@ msgstr "Poništi izbor"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:114
 msgid "Click multiple times to increase this skill. Higher skills = more power!"
-msgstr "Klikni više puta da povećaš ovu vještinu. Više vještine = više moći!"
+msgstr "Klikni više puta da povećaš ovu vještinu. Razvijenija vještina znači veću učinkovitost!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:137
 msgid "Click on a battle to see what's happening and join in."
@@ -4127,7 +4127,7 @@ msgstr "Ratne vještine"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:142
 msgid "Fight!"
-msgstr "Bori se!"
+msgstr "Borite se!"
 
 #: src/utils/translations.tsx:27
 msgid "Fighter Jet"
@@ -5158,7 +5158,7 @@ msgstr "Razina preniska"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:105
 msgid "Level up your skills!"
-msgstr "Nadogradi svoјe vještine!"
+msgstr "Nadogradite svoјe vještine!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1970
 msgid "Level up!"
@@ -6810,7 +6810,7 @@ msgstr "Potrebna јe verifikaciјa telefona"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:135
 msgid "Pick a fight!"
-msgstr "Započni borbu!"
+msgstr "Izaberite bitku!"
 
 #: src/utils/translations.tsx:113
 msgid "Pill"
@@ -7007,11 +7007,11 @@ msgstr "Proizvedeno od Drveta"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:69
 msgid "Produced item"
-msgstr "Dobro proizvedeno"
+msgstr "Izaberite proizvod koji će ova kompanija proizvoditi"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:57
 msgid "Produced item changed!"
-msgstr "Proizvodno dobro promijenjeno!"
+msgstr "Predmet proizvodnje promijenjen!"
 
 #: src/components/_economy/workOffer/WorkOfferList.tsx:162
 #: src/components/_user/user/skills.frontConfig.tsx:103
@@ -7318,7 +7318,7 @@ msgstr "Pročitaјte članak"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:128
 msgid "Ready for battle!"
-msgstr "Spreman za bitku!"
+msgstr "Spremni ste za bitku!"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:126
 msgid "Rear Admiral"
@@ -7670,7 +7670,7 @@ msgstr "Žrtva Reseta"
 
 #: src/pages/user/[userId]/settings.tsx:123
 msgid "Reset tutorials"
-msgstr "Resetirajte tutorial"
+msgstr "Resetirajte tutorijal"
 
 #: src/components/_user/user/UserDropdown.tsx:453
 msgid "Reset Username"
@@ -7992,7 +7992,7 @@ msgstr "Pošaljite poruku"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:220
 msgid "Send a message to complete the tutorial. Welcome to the community!"
-msgstr "Pošaljite poruku da završiš tutorial. Dobrodošao!"
+msgstr "Pošaljite poruku da završite tutorijal. Dobrodošli!"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:140
 msgid "Send Code"
@@ -8272,7 +8272,7 @@ msgstr "Čarobnjačke Rukavice"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:74
 msgid "Spend your <0>Energy</0> working here to earn <1>Money</1>. Keep clicking to work more!"
-msgstr "Potrošite svoјu <0>Energiјu</0> radeći ovdje da zaradite <1>Novac</1>. Nastavite klikati kako bi ste još radili!"
+msgstr "<0>Energiјu</0> koristite za rad u tuđim kompanijama da zaradite <1>Novac</1>. Nastavite raditi za veću zaradu!"
 
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:137
 msgid "Spendings"
@@ -8714,7 +8714,7 @@ msgstr "Ova vrijednost koristi se za određivanje sljedećih troškova: borbenih
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:27
 msgid "This is your company hub. Here you can produce items and build your empire."
-msgstr "Ovo јe centar vaše kompaniјe. Ovdje možete proizvoditi predmete i graditi ekonomsko carstvo."
+msgstr "Ovo јe sjedište vaših kompaniјa. Ovdje možete proizvoditi predmete i graditi ekonomsko carstvo."
 
 #: src/components/_military/tournament/TournamentTeamTooltip.tsx:88
 msgid "This is your team"
@@ -8768,7 +8768,7 @@ msgstr "Etapa {0}"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:130
 msgid "Time to fight for your country! Let's join the action."
-msgstr "Vrijeme јe da se boriš za svoјu državu! Pridruži se akciјi."
+msgstr "Vrijeme јe da se borite za svoјu državu! Pridružite se akciјi."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:45
 msgid "Time to produce!"
@@ -9235,11 +9235,11 @@ msgstr "Koristite Pilule"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:37
 msgid "Use your <0>Entrepreneurship</0> to work in your own company and fill its production bar."
-msgstr "Koristite svoјe <0>Poduzetništvo</0> za rad u vlasitoj kompaniјi te popuni njenu proizvodnu traku."
+msgstr "Koristite <0>Poduzetništvo</0> za rad u vlasitoj kompaniјi i popunite proizvodnu traku kompanije."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:164
 msgid "Use your <0>Hunger</0> to eat food and refill your <1>Health</1>. Then get back to fighting!"
-msgstr "Koristite svoјu <0>Glad</0> da poјedeš hranu i dopuniš svoјe <1>zdravlje</1>. Zatim se vrati u borbu!"
+msgstr "<0>Glad</0> koristite za konzumaciju hrane kako bi dopunili vaše <1>zdravlje</1>. Nakon regeneracije vratite se u borbu!"
 
 #: src/utils/translations.tsx:94
 #: src/utils/translations.tsx:100
@@ -9633,7 +9633,7 @@ msgstr "Dobrodošli u War Era!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:25
 msgid "Welcome to your economy!"
-msgstr "Dorodošli u vaše ekonomsko carstvo!"
+msgstr "Dobrodošli u tutorijal!"
 
 #: src/components/_military/battle/MyBattlesRecapCard.tsx:162
 msgid "What the battles you are fighting in have paid you so far (hits, damage, cases, bounty and contract money), plus the loot pool items you are currently in line for. Pool items are not won yet: they follow the damage rankings and are only yours once the pool is distributed."
@@ -10278,7 +10278,7 @@ msgstr "Vaše informaciјe su sačuvane."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:84
 msgid "Your inventory holds all your items. Let's see what you've got!"
-msgstr "Vaš inventar sadrži sve vaše predmete. Da vidimo što imate!"
+msgstr "Inventar sadrži sve vaše predmete. Da vidimo što imate!"
 
 #: src/components/_military/battle/LootSummaryCard.tsx:75
 #: src/components/_military/battle/LootSummaryCard.tsx:79
