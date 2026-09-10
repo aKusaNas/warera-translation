@@ -2511,7 +2511,7 @@ msgstr "Promijeni porez za {0} na"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:82
 msgid "Check your loot!"
-msgstr "Proveri svoј plijen!"
+msgstr "Provjeri svoj inventar!"
 
 #: src/components/_user/UserEquipments.tsx:185
 #: src/utils/translations.tsx:194
@@ -9633,7 +9633,7 @@ msgstr "Dobrodošli u War Era!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:25
 msgid "Welcome to your economy!"
-msgstr "Dorodošli u vaše ekonomsko carstvo!"
+msgstr "Dobrodošli u Tutorial!"
 
 #: src/components/_military/battle/MyBattlesRecapCard.tsx:162
 msgid "What the battles you are fighting in have paid you so far (hits, damage, cases, bounty and contract money), plus the loot pool items you are currently in line for. Pool items are not won yet: they follow the damage rankings and are only yours once the pool is distributed."
