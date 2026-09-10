@@ -7496,161 +7496,161 @@ msgstr "Reinforced Pants"
 #: src/components/_political/law/Law.tsx:210
 #: src/components/_political/partyMotion/PartyMotion.tsx:201
 msgid "Reject"
-msgstr "Reject"
+msgstr "Zamítnout"
 
 #: src/components/_political/law/GenericLawStatus.tsx:42
 #: src/utils/translations.tsx:274
 msgid "Rejected"
-msgstr "Rejected"
+msgstr "Zamítnuto"
 
 #: src/components/_layout/LayoutUserMenu.tsx:226
 msgid "Remaining buff duration"
-msgstr "Remaining buff duration"
+msgstr "Zbývající trvání buffu"
 
 #: src/components/_layout/LayoutUserMenu.tsx:239
 msgid "Remaining debuff duration"
-msgstr "Remaining debuff duration"
+msgstr "Zbývající trvání debuffu"
 
 #: src/components/_political/law/law.frontConfig.tsx:201
 msgid "Remove <0/> from congress due to inactivity"
-msgstr "Remove <0/> from congress due to inactivity"
+msgstr "Odvolat <0/> z kongresu kvůli neaktivitě"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:82
 msgid "Remove <0/> from the alliance immediately on acceptance."
-msgstr "Remove <0/> from the alliance immediately on acceptance."
+msgstr "Okamžitě po přijetí vyloučit <0/> z aliance."
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:38
 msgid "Remove <0/> from the party council"
-msgstr "Remove <0/> from the party council"
+msgstr "Odvolat <0/> ze stranické rady"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:66
 msgid "Remove a member country from the alliance."
-msgstr "Remove a member country from the alliance."
+msgstr "Vyloučit členský stát z aliance."
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:32
 msgid "Remove a member from the party council"
-msgstr "Remove a member from the party council"
+msgstr "Odvolat člena stranické rady"
 
 #: src/pages/market/index.tsx:200
 #: src/pages/market/index.tsx:263
 msgid "Remove all"
-msgstr "Remove all"
+msgstr "Odstranit vše"
 
 #: src/components/_political/law/law.frontConfig.tsx:185
 msgid "Remove an inactive congress member from its position"
-msgstr "Remove an inactive congress member from its position"
+msgstr "Odvolat neaktivního člena kongresu z funkce"
 
 #: src/components/_social/announcement/Announcement.tsx:125
 #: src/components/_social/announcement/Announcement.tsx:132
 msgid "Remove announcement"
-msgstr "Remove announcement"
+msgstr "Odstranit oznámení"
 
 #: src/components/_user/user/UserDropdown.tsx:442
 msgid "Remove Avatar"
-msgstr "Remove Avatar"
+msgstr "Odstranit avatar"
 
 #: src/components/_military/battle/BattleOrderActionsDropdown.tsx:168
 msgid "Remove bounty"
-msgstr "Remove bounty"
+msgstr "Odstranit odměnu"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:31
 msgid "Remove council member"
-msgstr "Remove council member"
+msgstr "Odvolat člena rady"
 
 #: src/components/_user/user/UserDropdown.tsx:464
 msgid "Remove Description"
-msgstr "Remove Description"
+msgstr "Odstranit popis"
 
 #: src/components/_political/law/law.frontConfig.tsx:428
 #: src/components/_political/law/lawNames.tsx:29
 msgid "Remove enemy"
-msgstr "Remove enemy"
+msgstr "Odstranit nepřítele"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:60
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:63
 msgid "Remove the current party leader from their position"
-msgstr "Remove the current party leader from their position"
+msgstr "Odvolat současného předsedu strany z funkce"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2115
 msgid "Removed from Military Unit"
-msgstr "Removed from Military Unit"
+msgstr "Vyhozen z vojenské jednotky"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:290
 msgid "Rename"
-msgstr "Rename"
+msgstr "Přejmenovat"
 
 #: src/components/_political/alliance/alliance.frontConfig.tsx:18
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:120
 msgid "Rename alliance"
-msgstr "Rename alliance"
+msgstr "Přejmenovat alianci"
 
 #. placeholder {0}: data.newName
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:127
 msgid "Rename alliance to \"{0}\""
-msgstr "Rename alliance to \"{0}\""
+msgstr "Přejmenovat alianci na \"{0}\""
 
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:66
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:82
 msgid "Rename company"
-msgstr "Rename company"
+msgstr "Přejmenovat továrnu"
 
 #. placeholder {0}: data.newName
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:133
 msgid "Rename the alliance to \"{0}\" immediately on acceptance."
-msgstr "Rename the alliance to \"{0}\" immediately on acceptance."
+msgstr "Po přijetí okamžitě přejmenovat alianci na \"{0}\"."
 
 #: src/components/_political/government/Government.tsx:244
 msgid "Replace"
-msgstr "Replace"
+msgstr "Nahradit"
 
 #: src/components/_political/government/Government.tsx:282
 msgid "Replace {title}"
-msgstr "Replace {title}"
+msgstr "Nahradit {title}"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:80
 msgid "Replace all party ethics with a new configuration"
-msgstr "Replace all party ethics with a new configuration"
+msgstr "Nahradit veškerou politickou etiku strany novou konfigurací"
 
 #: src/components/_political/government/NominateForm.tsx:57
 msgid "Replacing a member"
-msgstr "Replacing a member"
+msgstr "Výměna člena"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItem.tsx:66
 msgid "Report"
-msgstr "Report"
+msgstr "Hlášení"
 
 #: src/components/_user/user/UserDropdown.tsx:302
 msgid "Report user"
-msgstr "Report user"
+msgstr "Nahlásit uživatele"
 
 #: src/components/_user/user/UserHeader.tsx:213
 msgid "Reports"
-msgstr "Reports"
+msgstr "Hlášení"
 
 #: src/components/_political/party/party.frontConfig.tsx:270
 #: src/components/_political/party/party.frontConfig.tsx:285
 msgid "Republican"
-msgstr "Republican"
+msgstr "Republikán"
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:34
 msgid "Reputation decays 20% toward 0 every week (minimum 1 point)."
-msgstr "Reputation decays 20% toward 0 every week (minimum 1 point)."
+msgstr "Reputace klesá každý týden o 20 % směrem k 0 (minimum je 1 bod)."
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:25
 msgid "Reputation purchased!"
-msgstr "Reputation purchased!"
+msgstr "Reputace zakoupena!"
 
 #: src/components/_user/user/UserDropdown.tsx:369
 msgid "Request Phone Verification"
-msgstr "Request Phone Verification"
+msgstr "Vyžádat ověření telefonu"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:197
 msgid "Requests:"
-msgstr "Requests:"
+msgstr "Žádosti"
 
 #: src/components/_user/mission/MissionItem.tsx:118
 msgid "Reroll Mission"
-msgstr "Reroll Mission"
+msgstr "Změnit misi"
 
 #: src/pages/user/[userId]/skills.tsx:216
 msgid "Reset"
@@ -7662,106 +7662,106 @@ msgstr "Reset CAPTCHA"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:489
 msgid "Reset Skills"
-msgstr "Reset Skills"
+msgstr "Resetovat dovednosti"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:129
 msgid "Reset Survivor"
-msgstr "Reset Survivor"
+msgstr "Přeživší resetu"
 
 #: src/pages/user/[userId]/settings.tsx:123
 msgid "Reset tutorials"
-msgstr "Reset tutorials"
+msgstr "Resetovat tutoriály"
 
 #: src/components/_user/user/UserDropdown.tsx:453
 msgid "Reset Username"
-msgstr "Reset Username"
+msgstr "Resetovat uživatelské jméno"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:490
 msgid "Reset your skills"
-msgstr "Reset your skills"
+msgstr "Resetovat dovednosti"
 
 #: src/pages/region/[regionId]/index.tsx:109
 msgid "Reshuffle in"
-msgstr "Reshuffle in"
+msgstr "Přerozdělení"
 
 #: src/components/_military/hit/HitButton.tsx:468
 #: src/components/_user/mission/mission.frontConfig.tsx:562
 msgid "Resist"
-msgstr "Resist"
+msgstr "Odporovat"
 
 #: src/pages/region/[regionId]/index.tsx:125
 msgid "Resistance"
-msgstr "Resistance"
+msgstr "Odboj"
 
 #: src/components/_political/contribution/ContributionList.tsx:198
 msgid "Resistance Contributors"
-msgstr "Resistance Contributors"
+msgstr "Přispěvatelé odboje"
 
 #: src/components/_military/battle/BattleName.tsx:155
 msgid "Resistance for {regionName} {score}"
-msgstr "Resistance for {regionName} {score}"
+msgstr "Odpor pro {regionName} {score}"
 
 #: src/components/_political/region/RegionTooltip.tsx:101
 msgid "Resource"
-msgstr "Resource"
+msgstr "Zdroj"
 
 #: src/components/_political/country/CountryTooltip.tsx:160
 #: src/pages/country/[countryId]/index.tsx:226
 #: src/pages/region/[regionId]/index.tsx:49
 msgid "Resources"
-msgstr "Resources"
+msgstr "Zdroje"
 
 #: src/components/_political/event/EventList.tsx:143
 msgid "Resources reshuffled"
-msgstr "Resources reshuffled"
+msgstr "Zdroje přerozděleny"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2153
 msgid "Response to message"
-msgstr "Response to message"
+msgstr "Odpovědět na zprávu"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:162
 msgid "Restore your health!"
-msgstr "Restore your health!"
+msgstr "Obnov své zdraví!"
 
 #: src/components/_political/law/law.frontConfig.tsx:494
 msgid "Return a region to its original country"
-msgstr "Return a region to its original country"
+msgstr "Navrátit region původní zemi"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:217
 msgid "Revoke API token?"
-msgstr "Revoke API token?"
+msgstr "Zneplatnit API token?"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2081
 msgid "Revolt started!"
-msgstr "Revolt started!"
+msgstr "Vzpoura zahájena!"
 
 #: src/components/_military/battle/BattleName.tsx:160
 msgid "Revolution {score}"
-msgstr "Revolution {score}"
+msgstr "Revoluce {score}"
 
 #: src/components/_political/event/EventList.tsx:140
 msgid "Revolution ended"
-msgstr "Revolution ended"
+msgstr "Revoluce skončila"
 
 #: src/components/_political/event/EventList.tsx:139
 msgid "Revolution started"
-msgstr "Revolution started"
+msgstr "Revoluce zahájena"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2084
 msgid "Revolution started!"
-msgstr "Revolution started!"
+msgstr "Revoluce zahájena!"
 
 #: src/components/_user/badgeCollection/Badge.tsx:59
 msgid "Reward"
-msgstr "Reward"
+msgstr "Odměna"
 
 #: src/utils/translations.tsx:24
 msgid "Rifle"
-msgstr "Rifle"
+msgstr "Puška"
 
 #: src/components/_political/government/Government.tsx:179
 msgid "Rights"
-msgstr "Rights"
+msgstr "Práva"
 
 #: src/components/_military/mercenaryContract/AdminDeleteContractModal.tsx:51
 msgid "Rollback money (take back all payments from MU/users and refund full pool to country)"
@@ -7769,260 +7769,260 @@ msgstr "Rollback money (take back all payments from MU/users and refund full poo
 
 #: src/utils/translations.tsx:269
 msgid "Rolled back by admin"
-msgstr "Rolled back by admin"
+msgstr "Vráceno administrátorem"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:240
 msgid "Rolled back by Admin"
-msgstr "Rolled back by Admin"
+msgstr "Vráceno administrátorem"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:198
 msgid "Round"
-msgstr "Round"
+msgstr "Kolo"
 
 #. placeholder {0}: auction.roundNumber
 #. placeholder {0}: contract.roundNumber
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:221
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:132
 msgid "Round {0}"
-msgstr "Round {0}"
+msgstr "Kolo {0}"
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:90
 msgid "Round {roundNumber} loot pool"
-msgstr "Round {roundNumber} loot pool"
+msgstr "Fond kořisti pro kolo {roundNumber}"
 
 #. placeholder {0}: i + 1
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:75
 msgid "Round #{0}"
-msgstr "Round #{0}"
+msgstr "Kolo #{0}"
 
 #. placeholder {0}: data.roundNumber
 #: src/components/_user/notification/notification.frontConfig.tsx:647
 msgid "Round <0>#{0}</0> in <1/> is about to end!"
-msgstr "Round <0>#{0}</0> in <1/> is about to end!"
+msgstr "Kolo <0>#{0}</0> v <1/> brzy skončí!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2069
 msgid "Round about to end"
-msgstr "Round about to end"
+msgstr "Kolo brzy skončí"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2067
 msgid "Round ended"
-msgstr "Round ended"
+msgstr "Kolo skončilo"
 
 #: src/components/_military/battle/BattleSystem.tsx:473
 #: src/components/_military/battle/BattleSystem.tsx:510
 msgid "Round ETA"
-msgstr "Round ETA"
+msgstr "Odhad konce kola"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:79
 msgid "Round Hero"
-msgstr "Round Hero"
+msgstr "Hrdina kola"
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:60
 msgid "Round loot"
-msgstr "Round loot"
+msgstr "Kořist z kola"
 
 #: src/components/_military/battle/BattleTimeline.tsx:78
 msgid "Rounds timeline"
-msgstr "Rounds timeline"
+msgstr "Časová osa kol"
 
 #: src/components/_military/war/WarItem.tsx:56
 #: src/components/_military/war/WarItem.tsx:90
 msgid "Rounds won"
-msgstr "Rounds won"
+msgstr "Vyhraná kola"
 
 #: src/components/_military/war/WarComparison.tsx:78
 msgid "Rounds Won"
-msgstr "Rounds Won"
+msgstr "Vyhraná kola"
 
 #: src/components/_layout/LayoutLeftIcons.tsx:218
 #: src/components/_user/auth/WelcomeModal.tsx:170
 msgid "Rules"
-msgstr "Rules"
+msgstr "Pravidla"
 
 #: src/pages/country/[countryId]/index.tsx:234
 msgid "Ruling Party"
-msgstr "Ruling Party"
+msgstr "Vládní strana"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:152
 msgid "Running low on health?"
-msgstr "Running low on health?"
+msgstr "Dochází ti zdraví?"
 
 #: src/components/_military/order/BattleOrderList.tsx:217
 #: src/components/_political/party/PartyDescriptionModal.tsx:72
 #: src/components/_user/auth/WelcomeModal.tsx:182
 #: src/pages/user/[userId]/skills.tsx:247
 msgid "Save"
-msgstr "Save"
+msgstr "Uložit"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:122
 msgid "Save your progress!"
-msgstr "Save your progress!"
+msgstr "Ulož si postup!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:200
 msgid "Say hello!"
-msgstr "Say hello!"
+msgstr "Pozdrav!"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:14
 msgid "Scammed"
-msgstr "Scammed"
+msgstr "Podveden"
 
 #: src/utils/translations.tsx:40
 msgid "Scraps"
-msgstr "Scraps"
+msgstr "Šrot"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:75
 msgid "Screenshot or it didn't happen"
-msgstr "Screenshot or it didn't happen"
+msgstr "Když není screenshot, tak se to nestalo"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:64
 msgid "Screenshot this or no one will believe you"
-msgstr "Screenshot this or no one will believe you"
+msgstr "Vyfoť to, jinak tomu nikdo nebude věřit"
 
 #: src/components/_political/country/CountrySelectV2.tsx:240
 msgid "Search countries..."
-msgstr "Search countries..."
+msgstr "Vyhledat státy..."
 
 #: src/components/_other/shop/SkinPackModal.tsx:233
 msgid "Search recipient username..."
-msgstr "Search recipient username..."
+msgstr "Vyhledat uživatelské jméno příjemce..."
 
 #: src/components/_political/government/NominateForm.tsx:53
 msgid "Search username to nominate..."
-msgstr "Search username to nominate..."
+msgstr "Vyhledat uživatele k nominaci..."
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:65
 msgid "See all your workers and companies stats"
-msgstr "See all your workers and companies stats"
+msgstr "Zobrazit statistiky všech pracovníků a továren"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:137
 msgid "See your spending and income breakdown"
-msgstr "See your spending and income breakdown"
+msgstr "Zobrazit přehled výdajů a příjmů"
 
 #: src/components/_military/mu/MuSettings.tsx:77
 msgid "Select a country"
-msgstr "Select a country"
+msgstr "Vybrat stát"
 
 #: src/components/_military/mu/MuFormModal.tsx:112
 msgid "Select a location"
-msgstr "Select a location"
+msgstr "Vybrat lokaci"
 
 #: src/components/_political/party/PartyFormModal.tsx:108
 msgid "Select a region"
-msgstr "Select a region"
+msgstr "Vybrat region"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:247
 msgid "Select all"
-msgstr "Select all"
+msgstr "Vybrat vše"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:141
 msgid "Select an occupied region"
-msgstr "Select an occupied region"
+msgstr "Vybrat okupovaný region"
 
 #: src/components/_user/user/UserDropdown.tsx:275
 msgid "Select banner"
-msgstr "Select banner"
+msgstr "Vybrat banner"
 
 #: src/components/_political/allianceLaw/AllianceLawTypeSelect.tsx:50
 #: src/components/_political/law/LawTypeSelect.tsx:69
 msgid "Select law type"
-msgstr "Select law type"
+msgstr "Vybrat typ zákona"
 
 #: src/components/_political/law/LawFormModal.tsx:214
 #: src/components/_political/law/LawFormModal.tsx:292
 msgid "Select map accent"
-msgstr "Select map accent"
+msgstr "Vybrat akcent mapy"
 
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:59
 msgid "Select motion type"
-msgstr "Select motion type"
+msgstr "Vybrat typ hnutí"
 
 #: src/components/_user/user/UserDropdown.tsx:282
 msgid "Select skin"
-msgstr "Select skin"
+msgstr "Vybrat skin"
 
 #: src/components/_economy/work/WorkChart.tsx:224
 #: src/components/_user/mission/mission.frontConfig.tsx:83
 msgid "Self Work"
-msgstr "Self Work"
+msgstr "Vlastní práce"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:85
 msgid "Self work <0/> times in your companies"
-msgstr "Self work <0/> times in your companies"
+msgstr "Pracovat sám na sebe <0/>krát ve tvých továrnách"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:332
 msgid "Sell company?"
-msgstr "Sell company?"
+msgstr "Prodat továrnu?"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:219
 msgid "Sell for <0/> money on market"
-msgstr "Sell for <0/> money on market"
+msgstr "Prodat za <0/> peněz na trhu"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:54
 msgid "Sell it, you need to buy more cases to gamble!"
-msgstr "Sell it, you need to buy more cases to gamble!"
+msgstr "Prodej to, potřebuješ koupit víc beden na hazard!"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:217
 msgid "Sell Items"
-msgstr "Sell Items"
+msgstr "Prodat předměty"
 
 #: src/components/_economy/itemTrading/TradingOrders.tsx:82
 #: src/pages/market/index.tsx:209
 msgid "Sell orders"
-msgstr "Sell orders"
+msgstr "Prodejní nabídky"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:111
 msgid "Sell price:"
-msgstr "Sell price:"
+msgstr "Prodejní cena:"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:158
 msgid "sells"
-msgstr "sells"
+msgstr "prodává"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:389
 msgid "Send <0/> messages"
-msgstr "Send <0/> messages"
+msgstr "Odeslat <0/> zpráv"
 
 #: src/components/_political/law/law.frontConfig.tsx:418
 msgid "Send <0/> to <1/>"
-msgstr "Send <0/> to <1/>"
+msgstr "Odeslat <0/> do <1/>"
 
 #: src/components/_user/user/UserDropdown.tsx:215
 msgid "Send a message"
-msgstr "Send a message"
+msgstr "Odeslat zprávu"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:220
 msgid "Send a message to complete the tutorial. Welcome to the community!"
-msgstr "Send a message to complete the tutorial. Welcome to the community!"
+msgstr "Odešli zprávu pro dokončení tutoriálu. Vítej v komunitě!"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:140
 msgid "Send Code"
-msgstr "Send Code"
+msgstr "Odeslat kód"
 
 #: src/components/_other/shop/SkinPackModal.tsx:285
 msgid "Send Gift"
-msgstr "Send Gift"
+msgstr "Odeslat dárek"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:387
 msgid "Send Message"
-msgstr "Send Message"
+msgstr "Odeslat zprávu"
 
 #. placeholder {0}: staticGameConfig.law[ELawType.SEND_MONEY_TO_COUNTRY].allianceTaxRate * 100
 #. placeholder {1}: staticGameConfig.law[ELawType.SEND_MONEY_TO_COUNTRY].externalTaxRate * 100
 #: src/components/_political/law/law.frontConfig.tsx:404
 msgid "Send money to another country. Paper tax on top: {0}% within your alliance, {1}% for external transfers."
-msgstr "Send money to another country. Paper tax on top: {0}% within your alliance, {1}% for external transfers."
+msgstr "Odeslat peníze do jiné země. Papírová daň navíc: {0} % v rámci aliance, {1} % pro externí převody."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:51
 msgid "Sergeant"
-msgstr "Sergeant"
+msgstr "Seržant"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:144
 msgid "Set a <0>description</0>"
-msgstr "Set a <0>description</0>"
+msgstr "Nastavit <0>popis</0>"
 
 #: src/pages/user/[userId]/referrals.tsx:153
 msgid "Set a referrer"
-msgstr "Set a referrer"
+msgstr "Nastavit doporučujícího"
 
 #: src/components/_political/law/law.frontConfig.tsx:518
 msgid "Set a welcome article for your country"
@@ -8030,98 +8030,98 @@ msgstr "Set a welcome article for your country"
 
 #: src/components/_political/law/law.frontConfig.tsx:523
 msgid "Set a welcome article for your country<0/>"
-msgstr "Set a welcome article for your country<0/>"
+msgstr "Nastavit uvítací článek pro vaši zemi<0/>"
 
 #: src/components/_military/battle/BattleOrderActionsDropdown.tsx:181
 msgid "Set bounty"
-msgstr "Set bounty"
+msgstr "Nastavit odměnu"
 
 #: src/components/_political/law/law.frontConfig.tsx:544
 #: src/components/_political/law/lawNames.tsx:34
 msgid "Set country color"
-msgstr "Set country color"
+msgstr "Nastavit barvu země"
 
 #. placeholder {0}: law.data.scheme
 #: src/components/_political/law/law.frontConfig.tsx:536
 msgid "Set country color to <0>{0}</0> "
-msgstr "Set country color to <0>{0}</0> "
+msgstr "Nastavit barvu země na <0>{0}</0>"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:88
 msgid "Set new party ethics configuration:"
-msgstr "Set new party ethics configuration:"
+msgstr "Nastavit novou konfiguraci etiky strany:"
 
 #: src/components/_military/battle/BattleOrderActionsDropdown.tsx:131
 msgid "Set order"
-msgstr "Set order"
+msgstr "Vydat rozkaz"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:79
 msgid "Set party ethics"
-msgstr "Set party ethics"
+msgstr "Nastavit etiku strany"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:442
 msgid "Set Profile Picture"
-msgstr "Set Profile Picture"
+msgstr "Nastavit profilový obrázek"
 
 #: src/components/_political/law/law.frontConfig.tsx:590
 #: src/components/_political/law/lawNames.tsx:36
 msgid "Set specialization item"
-msgstr "Set specialization item"
+msgstr "Nastavit specializační položku"
 
 #. placeholder {0}: ts[law.data.itemCode]
 #: src/components/_political/law/law.frontConfig.tsx:596
 msgid "Set the country's specialized item to <0>{0}</0>.<1/>The country strategic resources <2>Production Bonus</2> will be available for local companies producing this item."
-msgstr "Set the country's specialized item to <0>{0}</0>.<1/>The country strategic resources <2>Production Bonus</2> will be available for local companies producing this item."
+msgstr "Nastavit specializovanou položku země na <0>{0}</0>.<1/>Pro místní továrny vyrábějící tuto položku bude k dispozici <2>produkční bonus</2> ze strategických zdrojů země."
 
 #: src/components/_political/law/law.frontConfig.tsx:591
 msgid "Set the country's specialized production item"
-msgstr "Set the country's specialized production item"
+msgstr "Nastavit specializovanou produkční položku země"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:436
 msgid "Set Username"
-msgstr "Set Username"
+msgstr "Nastavit uživatelské jméno"
 
 #: src/components/_political/law/law.frontConfig.tsx:517
 #: src/components/_political/law/lawNames.tsx:33
 msgid "Set welcome article"
-msgstr "Set welcome article"
+msgstr "Nastavit uvítací článek"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:443
 msgid "Set your profile picture"
-msgstr "Set your profile picture"
+msgstr "Nastavit profilový obrázek"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:437
 msgid "Set your username"
-msgstr "Set your username"
+msgstr "Nastavit uživatelské jméno"
 
 #: src/components/_military/mu/MuHeader.tsx:192
 #: src/components/_user/user/MyAvatar.tsx:54
 #: src/components/_user/user/UserHeader.tsx:265
 msgid "Settings"
-msgstr "Settings"
+msgstr "Nastavení"
 
 #: src/components/_user/milestone/MilestoneTiersModal.tsx:64
 msgid "Share of active players who reached each tier, refreshed daily."
-msgstr "Share of active players who reached each tier, refreshed daily."
+msgstr "Podíl aktivních hráčů, kteří dosáhli jednotlivých tierů, obnovováno denně."
 
 #: src/components/_user/user/UserEffectSelector.tsx:56
 msgid "Shine"
-msgstr "Shine"
+msgstr "Lesklé"
 
 #: src/components/_layout/LayoutRightIcons.tsx:181
 #: src/components/_layout/MoreButtonNav.tsx:70
 #: src/components/_other/shop/ShopHeader.tsx:53
 msgid "Shop"
-msgstr "Shop"
+msgstr "Obchod"
 
 #. placeholder {0}: Math.min(step, remaining)
 #: src/components/_political/party/PartyMembers.tsx:217
 msgid "Show {0} more ({remaining} remaining)"
-msgstr "Show {0} more ({remaining} remaining)"
+msgstr "Zobrazit dalších {0} (zbývá {remaining})"
 
 #. placeholder {0}: auction.bids.length
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:277
 msgid "Show all {0} bids"
-msgstr "Show all {0} bids"
+msgstr "Zobrazit všech {0} nabídek"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:189
 #: src/components/_social/ArticleTags.tsx:264
