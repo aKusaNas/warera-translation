@@ -803,7 +803,7 @@ msgstr "<0>Każdy dzień pracy dla tego samego pracodawcy zwiększa bonus lojaln
 
 #: src/components/_economy/company/CompanyProduce.tsx:81
 msgid "<0>Filled with <1>Production Points</1> by employees working and from the automated engine.</0><2>Only the company owner can spend it to produce items.</2>"
-msgstr "<0>Wypełniane <1>Punktami Produkcji</1> przez pracowników podczas pracy oraz przez silnik automatyczny.</0><2>Tylko właściciel firmy może je wydawać, aby produkować przedmioty.</2>"
+msgstr "<0>Wypełniane <1>Punktami Produkcji</1> przez pracowników podczas pracy oraz przez linie produkcyjne.</0><2>Tylko właściciel firmy może je wydawać, aby produkować przedmioty.</2>"
 
 #. placeholder {0}: gameConfig?.unrest.contributionCost
 #. placeholder {1}: gameConfig?.unrest.contributionCost
@@ -1924,12 +1924,12 @@ msgstr "Auto-zakup po wyczerpaniu"
 
 #: src/components/_economy/company/CompanyTags.tsx:87
 msgid "Automated engine"
-msgstr "Silnik automatyczny"
+msgstr "Linie produkcyjne"
 
 #: src/components/_economy/work/WorkChart.tsx:235
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:74
 msgid "Automated Engine"
-msgstr "Automatyczny Silnik"
+msgstr "Linie Produkcyjne"
 
 #: src/components/_user/mission/MissionsList.tsx:322
 msgid "Available now"
