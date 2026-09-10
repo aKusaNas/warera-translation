@@ -803,7 +803,7 @@ msgstr "<0>Kiekvieną dieną dirbant tam pačiam darbdaviui, lojalumo bonusas pa
 
 #: src/components/_economy/company/CompanyProduce.tsx:81
 msgid "<0>Filled with <1>Production Points</1> by employees working and from the automated engine.</0><2>Only the company owner can spend it to produce items.</2>"
-msgstr "<0>Pildoma <1>gamybos taškais</1>, kuriuos suteikia dirbantys darbuotojai ir automatinė sistema.</0><2>Juos naudoti daiktų gamybai gali tik įmonės savininkas.</2>"
+msgstr "<0>Pildoma <1>gamybos taškais</1>, kuriuos suteikia dirbantys darbuotojai ir automatinė sistema.</0><2>Juos naudoti prekių gamybai gali tik įmonės savininkas.</2>"
 
 #. placeholder {0}: gameConfig?.unrest.contributionCost
 #. placeholder {1}: gameConfig?.unrest.contributionCost
@@ -2544,7 +2544,7 @@ msgstr "Pasirink savo pusę ir spausk, kad darytum <0>žalą</0>! Smūgiuok toli
 
 #: src/components/_economy/inventory/CraftModal.tsx:374
 msgid "Choosing a specific item costs ×2 steel:"
-msgstr "Konkretaus daikto pasirinkimas kainuoja ×2 plieno:"
+msgstr "Konkrečios įrangos pasirinkimas kainuoja ×2 plieno:"
 
 #: src/components/_user/user/UserHeader.tsx:322
 msgid "Citizen since"
@@ -3044,7 +3044,7 @@ msgstr "Gaminti įrangą"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:209
 msgid "Craft <0/> items"
-msgstr "Pagamink daiktų: <0/>"
+msgstr "Pagamink įrangos: <0/>"
 
 #: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
@@ -6999,7 +6999,7 @@ msgstr "Gaminti Viską"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:508
 msgid "Produce items <0/> times"
-msgstr "Gamink daiktus — kartų: <0/>"
+msgstr "Gamink prekes — kartų: <0/>"
 
 #: src/utils/translations.tsx:91
 msgid "Produced from Wood"
@@ -7011,7 +7011,7 @@ msgstr "Gaminama prekė"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:57
 msgid "Produced item changed!"
-msgstr "Pakeistas gaminamas daiktas!"
+msgstr "Pakeista gaminama prekė!"
 
 #: src/components/_economy/workOffer/WorkOfferList.tsx:162
 #: src/components/_user/user/skills.frontConfig.tsx:103
@@ -8065,7 +8065,7 @@ msgstr "Nustatyti Profilio Nuotrauką"
 #: src/components/_political/law/law.frontConfig.tsx:590
 #: src/components/_political/law/lawNames.tsx:36
 msgid "Set specialization item"
-msgstr "Nustatyti specializacijos daiktą"
+msgstr "Nustatyti specializacijos prekę"
 
 #. placeholder {0}: ts[law.data.itemCode]
 #: src/components/_political/law/law.frontConfig.tsx:596
@@ -8260,7 +8260,7 @@ msgstr "Specializacija"
 
 #: src/components/_political/law/LawFormModal.tsx:318
 msgid "Specialization item"
-msgstr "Specializacijos daiktas"
+msgstr "Specializacijos prekė"
 
 #: src/components/_political/country/CountryTooltip.tsx:177
 msgid "Specialty"
@@ -8714,7 +8714,7 @@ msgstr "Ši vertė naudojama apskaičiuojant daugumą išlaidų: kovos įsakymų
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:27
 msgid "This is your company hub. Here you can produce items and build your empire."
-msgstr "Tai tavo įmonės centras. Čia gali gaminti daiktus ir kurti savo imperiją."
+msgstr "Tai tavo įmonės centras. Čia gali gaminti prekes ir kurti savo imperiją."
 
 #: src/components/_military/tournament/TournamentTeamTooltip.tsx:88
 msgid "This is your team"
@@ -9261,7 +9261,7 @@ msgstr "Naudojama įmonėms ir MU statyti"
 
 #: src/utils/translations.tsx:41
 msgid "Used to craft items"
-msgstr "Naudojama daiktų gamybai"
+msgstr "Naudojama įrangos gamybai"
 
 #: src/utils/translations.tsx:84
 msgid "Used to maintain upgrades"
@@ -10175,7 +10175,7 @@ msgstr "Pasiekei maksimalų lygį!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:47
 msgid "Your <0>Production</0> bar is full! Click to produce items and add them to your inventory."
-msgstr "Tavo <0>gamybos</0> juosta pilna! Spustelėk, kad pagamintum daiktus ir pridėtum juos į savo inventorių."
+msgstr "Tavo <0>gamybos</0> juosta pilna! Spustelėk, kad pagamintum prekes ir pridėtum jas į savo inventorių."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:96
 msgid "Your account has been automatically reported for cheating"
