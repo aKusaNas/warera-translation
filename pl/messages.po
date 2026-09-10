@@ -1733,7 +1733,7 @@ msgstr "Jesteś pewien, że chcesz awansować tego członka na dowódcę?"
 
 #: src/pages/market/index.tsx:196
 msgid "Are you sure you want to remove all buy orders?"
-msgstr "Czy na pewno chcesz usunąć wszystkie zamówienia kupna?"
+msgstr "Czy na pewno chcesz usunąć wszystkie oferty kupna?"
 
 #: src/pages/market/index.tsx:259
 msgid "Are you sure you want to remove all sell orders?"
@@ -2295,7 +2295,7 @@ msgstr "Kup przedmioty"
 #: src/components/_economy/itemTrading/TradingOrders.tsx:51
 #: src/pages/market/index.tsx:158
 msgid "Buy orders"
-msgstr "Zamówienia kupna"
+msgstr "Oferty kupna"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:408
 msgid "By continuing, you agree to our <0>Terms of Service</0>."
@@ -4300,7 +4300,7 @@ msgstr "Klejnoty służą do kupowania przedmiotów w sklepie i obdarowywania in
 
 #: src/components/_user/user/UserRankingsPanel.tsx:110
 msgid "Gems purchased"
-msgstr "Klejnoty kupione"
+msgstr "Kupione Klejnoty"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:148
 msgid "General"
@@ -8405,7 +8405,7 @@ msgstr "Strategiczny"
 
 #: src/pages/region/[regionId]/index.tsx:93
 msgid "Strategic resource"
-msgstr "Zasoby strategiczne"
+msgstr "Zasób strategiczne"
 
 #: src/components/_layout/map.frontConfig.tsx:59
 msgid "Strategic resources"
@@ -8739,7 +8739,7 @@ msgstr "Ten członek nie może być ponownie nominowany przez {cooldownDays} dni
 
 #: src/pages/region/[regionId]/index.tsx:177
 msgid "This region is not linked to it's owner's capital."
-msgstr "Ten region nie jest połączony ze stolicą swojego właściciela."
+msgstr "Ten region nie jest połączony ze stolicą swojego kraju."
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:203
 msgid "This round only"
@@ -9134,7 +9134,7 @@ msgstr "Odblokuj"
 #. placeholder {1}: estimate.notOwnedCount > 1 ? 's' : ''
 #: src/components/_other/shop/SkinPackModal.tsx:287
 msgid "Unlock {0} skin{1}"
-msgstr "Odblokuj {0} skrókę{1}"
+msgstr "Odblokuj {0} skórek"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:110
 msgid "Unlock Help all button"
@@ -9150,7 +9150,7 @@ msgstr "Odblokowano zestaw"
 
 #: src/components/_user/user/UserHeader.tsx:465
 msgid "Unmuted <0/>"
-msgstr "Uciszono <0/>"
+msgstr "Cofnięto wyciszenie <0/>"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:93
 msgid "Unreal. This doesn't happen"
@@ -9257,7 +9257,7 @@ msgstr "Używane do <0>Pracy</0>"
 
 #: src/utils/translations.tsx:71
 msgid "Used to build companies and MUs"
-msgstr "Używany do budowy firm i JW"
+msgstr "Używana do budowy firm i JW"
 
 #: src/utils/translations.tsx:41
 msgid "Used to craft items"
@@ -9273,7 +9273,7 @@ msgstr "Używany do produkcji amunicji"
 
 #: src/utils/translations.tsx:69
 msgid "Used to produce Bread"
-msgstr "Używany do produkcji Chleba"
+msgstr "Używane do produkcji Chleba"
 
 #: src/utils/translations.tsx:70
 msgid "Used to produce Concrete"
@@ -9281,7 +9281,7 @@ msgstr "Używany do produkcji Betonu"
 
 #: src/utils/translations.tsx:43
 msgid "Used to produce Cooked Fish"
-msgstr "Używany do produkcji Gotowanej Ryby"
+msgstr "Używana do produkcji Gotowanej Ryby"
 
 #: src/utils/translations.tsx:85
 msgid "Used to produce Oil"
@@ -9293,7 +9293,7 @@ msgstr "Używane do produkcji Papieru"
 
 #: src/utils/translations.tsx:115
 msgid "Used to produce Pills"
-msgstr "Używany do produkcji Pigułek"
+msgstr "Używana do produkcji Pigułek"
 
 #: src/utils/translations.tsx:54
 msgid "Used to produce Steel"
@@ -9515,7 +9515,7 @@ msgstr "Wynagrodzenie"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2008
 msgid "Wage changed"
-msgstr "Pensja zmieniona"
+msgstr "Wynagrodzenie zmienione"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:119
 msgid "Wage cost ({productionPoints} pts):"
@@ -10303,7 +10303,7 @@ msgstr "Narodowość Twojej jednostki wojskowej zależy od reprezentowanego pań
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1725
 msgid "Your monthly missions have been reset! Complete them to earn rewards."
-msgstr "Twoje misje miesięczne zostały zresetowane! Ukończ je, aby otrzymac nagrody."
+msgstr "Twoje misje miesięczne zostały zresetowane! Ukończ je, aby zdobyć nagrody."
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:49
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
@@ -10315,7 +10315,7 @@ msgstr "Twoja JW jest zarejestrowana"
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:141
 msgid "Your MU is registered for this tournament"
-msgstr "Twoja JA jest zarejestrowana do tego turnieju"
+msgstr "Twoja JW jest zapisana do tego turnieju"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:230
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
