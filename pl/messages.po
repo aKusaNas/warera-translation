@@ -4809,7 +4809,7 @@ msgstr "Celowe lub wielokrotne naruszenia niniejszych zasad skutkują trwałym z
 #: src/pages/user/[userId]/index.tsx:217
 #: src/pages/user/[userId]/inventory.tsx:31
 msgid "Inventory"
-msgstr "Ekwipunek"
+msgstr "Zapasy"
 
 #: src/components/_political/chat/ChatConversationsMenu.tsx:162
 msgid "Invitations"
