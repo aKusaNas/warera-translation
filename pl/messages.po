@@ -291,7 +291,7 @@ msgstr "<0/> usunął <1/> z <2>{0}</2>"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:172
 msgid "<0/> ended <1/>"
-msgstr "<0/> zakończył <1/>"
+msgstr "<0/> zakończone <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:148
 msgid "<0/> financed a resistance war for <1/> in <2/>"
@@ -2946,7 +2946,7 @@ msgstr "Rdzenny region"
 
 #: src/pages/country/[countryId]/regions.tsx:28
 msgid "Core regions"
-msgstr "Główne regiony"
+msgstr "Regiony rdzenne"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:46
 msgid "Corporal"
