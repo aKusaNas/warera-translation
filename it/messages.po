@@ -1933,7 +1933,7 @@ msgstr "Motore automatizzato"
 
 #: src/components/_user/mission/MissionsList.tsx:322
 msgid "Available now"
-msgstr ""
+msgstr "Disponibile"
 
 #: src/components/_user/user/UserDropdown.tsx:148
 msgid "Avatar removed"
@@ -2198,7 +2198,7 @@ msgstr "Cooldown taglia"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:116
 msgid "Bounty earned"
-msgstr ""
+msgstr "Taglia ricevuta"
 
 #: src/components/_military/battle/BattleSystem.tsx:844
 msgid "Bounty will be available in"
@@ -2422,7 +2422,7 @@ msgstr "Le casse contengono oggetti casuali. Clicca per aprirla!"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:104
 msgid "Cases opened"
-msgstr ""
+msgstr "Casse aperte"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:92
 msgid "Catapult"
@@ -2901,11 +2901,11 @@ msgstr "Contratti e aste"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:554
 msgid "Contribute to constructions <0/> times"
-msgstr ""
+msgstr "Contribuito <0/> volte alle costruzioni"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:564
 msgid "Contribute to resistance <0/> times"
-msgstr ""
+msgstr "Contribuito <0/> volte alla resistenza"
 
 #: src/utils/translations.tsx:39
 msgid "Cooked Fish"
@@ -3479,51 +3479,51 @@ msgstr "Sviluppo"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:383
 msgid "Diesel Bomber Jacket"
-msgstr ""
+msgstr "Giacca Bomber a gasolio"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:386
 msgid "Diesel Boots"
-msgstr ""
+msgstr "Stivali a gasolio"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:362
 msgid "Diesel Butterfly Knife"
-msgstr ""
+msgstr "Coltello da burro a gasolio"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:392
 msgid "Diesel Gloves"
-msgstr ""
+msgstr "Guanti a gasolio"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:389
 msgid "Diesel Pants"
-msgstr ""
+msgstr "Pantaloni a gasolio"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:365
 msgid "Diesel Pistol"
-msgstr ""
+msgstr "Pistola a gasolio"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:48
 msgid "Diesel Power"
-msgstr ""
+msgstr "Potere del gasolio"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:368
 msgid "Diesel Rifle"
-msgstr ""
+msgstr "Fucile a gasolio"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:380
 msgid "Diesel Shades"
-msgstr ""
+msgstr "Occhiali da sole a gasolio"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:377
 msgid "Diesel Smuggler Plane"
-msgstr ""
+msgstr "Aereo da contrabbando a gasolio"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:371
 msgid "Diesel Sniper"
-msgstr ""
+msgstr "Cecchino a gasolio"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:374
 msgid "Diesel Sports Sedan"
-msgstr ""
+msgstr "Familiare sportiva a gasolio"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:301
 msgid "Diminish <0/> received damages with <1>Armor</1> in battles"
@@ -4191,8 +4191,11 @@ msgstr "Trova un'unità militare"
 msgid "Find another job"
 msgstr "Trova un altro lavoro"
 
-#: src/components/_political/government/Government.tsx:253
 #: src/components/_user/user/UserEffectSelector.tsx:61
+msgid "Fire"
+msgstr "Infuocato"
+
+#: src/components/_political/government/Government.tsx:253
 #: src/components/_user/worker/WorkerEditFormModal.tsx:214
 msgid "Fire"
 msgstr "Licenzia"
@@ -4256,7 +4259,7 @@ msgstr "Ricompensa giornaliera gratuita"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:49
 msgid "Full throttle, no brakes"
-msgstr ""
+msgstr "GAS A MARTELLO!!"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:27
 msgid "Fun fact: The house always wins"
@@ -4300,7 +4303,7 @@ msgstr "Le gemme servono per comprare asset nel negozio e regalare mesi supporte
 
 #: src/components/_user/user/UserRankingsPanel.tsx:110
 msgid "Gems purchased"
-msgstr ""
+msgstr "Gemme acquistate"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:148
 msgid "General"
@@ -5282,11 +5285,11 @@ msgstr "Spada lunga"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:323
 msgid "Loot <0/> in battles"
-msgstr ""
+msgstr "Ricevi <0/> bottini in battaglia"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:333
 msgid "Loot <0/> items on battlefield"
-msgstr ""
+msgstr "Ricevi <0/> oggetti dal bottino"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:321
 msgid "Loot Cases"
@@ -5554,19 +5557,19 @@ msgstr "Messaggio piaciuto"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:413
 msgid "Miami Aviators"
-msgstr ""
+msgstr "Miami a goccia"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:416
 msgid "Miami Blazer"
-msgstr ""
+msgstr "Giacca Miami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:419
 msgid "Miami Boots"
-msgstr ""
+msgstr "Mocassini Miami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:395
 msgid "Miami Brass Knuckles"
-msgstr ""
+msgstr "Tirapugni Miami"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:52
 msgid "Miami Cartel"
@@ -5574,31 +5577,31 @@ msgstr ""
 
 #: src/components/_other/shop/skin.frontConfig.tsx:425
 msgid "Miami Gloves"
-msgstr ""
+msgstr "Guanti Miami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:422
 msgid "Miami Pants"
-msgstr ""
+msgstr "Pantaloni Miami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:398
 msgid "Miami Pistol"
-msgstr ""
+msgstr "Pistola Miami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:401
 msgid "Miami Rifle"
-msgstr ""
+msgstr "Fucile Miami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:404
 msgid "Miami Sniper"
-msgstr ""
+msgstr "Cecchino Miami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:410
 msgid "Miami Speedboat"
-msgstr ""
+msgstr "Barca Mami"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:407
 msgid "Miami Supercar"
-msgstr ""
+msgstr "Supercar Miami"
 
 #: src/components/_user/mission/MissionsHeader.tsx:82
 #: src/components/_user/user/UserRankingsPanel.tsx:86
@@ -5754,7 +5757,7 @@ msgstr "Danni mensili: <0>{monthlyDamages}</0>"
 
 #: src/components/_user/mission/MissionsList.tsx:311
 msgid "Monthly missions are not available yet"
-msgstr ""
+msgstr "Le missioni mensili non sono ancora disponibili"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2170
 msgid "Monthly Missions Reset"
@@ -6546,7 +6549,7 @@ msgstr "Opzioni"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:370
 msgid "or"
-msgstr ""
+msgstr "o"
 
 #: src/components/_military/order/BattleOrderTags.tsx:25
 msgid "Order"
@@ -8220,7 +8223,7 @@ msgstr "Skin in questo pacchetto"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:98
 msgid "Skins owned"
-msgstr ""
+msgstr "Skin possedute"
 
 #: src/components/_other/tour/TutorialStep.tsx:185
 msgid "Skip Tutorial"
@@ -8967,7 +8970,7 @@ msgstr "XP totali guadagnati da missioni e pietre miliari"
 #. placeholder {0}: leveling.totalXp ?? 0
 #: src/components/_user/user/Level.tsx:137
 msgid "Total XP earned: <0>{0}</0>"
-msgstr ""
+msgstr "XP totali gaudagnati: <0>{0}</0>"
 
 #: src/components/_military/mu/MuMemberList.tsx:361
 #: src/components/_military/mu/MuMemberList.tsx:401
@@ -9658,7 +9661,7 @@ msgstr "Sebbene siano consentiti gli strumenti di raccolta e visualizzazione dei
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:53
 msgid "White suit, gold everything"
-msgstr ""
+msgstr "Grigio fuori, dorato dentro"
 
 #: src/pages/companies.tsx:103
 msgid "Whole Production"

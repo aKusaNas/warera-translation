@@ -803,7 +803,7 @@ msgstr "<0>Kiekvieną dieną dirbant tam pačiam darbdaviui, lojalumo bonusas pa
 
 #: src/components/_economy/company/CompanyProduce.tsx:81
 msgid "<0>Filled with <1>Production Points</1> by employees working and from the automated engine.</0><2>Only the company owner can spend it to produce items.</2>"
-msgstr "<0>Pildoma <1>gamybos taškais</1>, kuriuos suteikia dirbantys darbuotojai ir automatinė sistema.</0><2>Juos naudoti daiktų gamybai gali tik įmonės savininkas.</2>"
+msgstr "<0>Pildoma <1>gamybos taškais</1>, kuriuos suteikia dirbantys darbuotojai ir automatinė sistema.</0><2>Juos naudoti prekių gamybai gali tik įmonės savininkas.</2>"
 
 #. placeholder {0}: gameConfig?.unrest.contributionCost
 #. placeholder {1}: gameConfig?.unrest.contributionCost
@@ -2544,7 +2544,7 @@ msgstr "Pasirink savo pusę ir spausk, kad darytum <0>žalą</0>! Smūgiuok toli
 
 #: src/components/_economy/inventory/CraftModal.tsx:374
 msgid "Choosing a specific item costs ×2 steel:"
-msgstr "Konkretaus daikto pasirinkimas kainuoja ×2 plieno:"
+msgstr "Konkrečios įrangos pasirinkimas kainuoja ×2 plieno:"
 
 #: src/components/_user/user/UserHeader.tsx:322
 msgid "Citizen since"
@@ -3044,7 +3044,7 @@ msgstr "Gaminti įrangą"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:209
 msgid "Craft <0/> items"
-msgstr "Pagamink daiktų: <0/>"
+msgstr "Pagamink įrangos: <0/>"
 
 #: src/components/_economy/transaction/TransactionList.tsx:92
 msgid "Craft Item"
@@ -3479,51 +3479,51 @@ msgstr "Išsivystymas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:383
 msgid "Diesel Bomber Jacket"
-msgstr ""
+msgstr "Marozo Pilotinė Striukė"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:386
 msgid "Diesel Boots"
-msgstr ""
+msgstr "Marozo Batai"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:362
 msgid "Diesel Butterfly Knife"
-msgstr ""
+msgstr "Marozo Peilis-Drugelis"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:392
 msgid "Diesel Gloves"
-msgstr ""
+msgstr "Marozo Pirštinės"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:389
 msgid "Diesel Pants"
-msgstr ""
+msgstr "Marozo Kelnės"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:365
 msgid "Diesel Pistol"
-msgstr ""
+msgstr "Marozo Pistoletas"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:48
 msgid "Diesel Power"
-msgstr ""
+msgstr "Marozų Galia"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:368
 msgid "Diesel Rifle"
-msgstr ""
+msgstr "Marozo Šautuvas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:380
 msgid "Diesel Shades"
-msgstr ""
+msgstr "Marozo Akiniai nuo Saulės"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:377
 msgid "Diesel Smuggler Plane"
-msgstr ""
+msgstr "Marozo Kontrabandininko Lėktuvas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:371
 msgid "Diesel Sniper"
-msgstr ""
+msgstr "Marozo Snaiperis"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:374
 msgid "Diesel Sports Sedan"
-msgstr ""
+msgstr "Marozo Sportinis Sedanas"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:301
 msgid "Diminish <0/> received damages with <1>Armor</1> in battles"
@@ -4256,7 +4256,7 @@ msgstr "Nemokamas kasdienis atlygis"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:49
 msgid "Full throttle, no brakes"
-msgstr ""
+msgstr "Pilnu gazu, be stabdžių"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:27
 msgid "Fun fact: The house always wins"
@@ -5554,51 +5554,51 @@ msgstr "Patiko žinutė"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:413
 msgid "Miami Aviators"
-msgstr ""
+msgstr "Miami Aviatoriaus Akiniai"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:416
 msgid "Miami Blazer"
-msgstr ""
+msgstr "Miami Švarkas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:419
 msgid "Miami Boots"
-msgstr ""
+msgstr "Miami Batai"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:395
 msgid "Miami Brass Knuckles"
-msgstr ""
+msgstr "Miami Kastetas"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:52
 msgid "Miami Cartel"
-msgstr ""
+msgstr "Miami Kartelis"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:425
 msgid "Miami Gloves"
-msgstr ""
+msgstr "Miami Pirštinės"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:422
 msgid "Miami Pants"
-msgstr ""
+msgstr "Miami Kelnės"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:398
 msgid "Miami Pistol"
-msgstr ""
+msgstr "Miami Pistoletas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:401
 msgid "Miami Rifle"
-msgstr ""
+msgstr "Miami Šautuvas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:404
 msgid "Miami Sniper"
-msgstr ""
+msgstr "Miami Snaiperis"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:410
 msgid "Miami Speedboat"
-msgstr ""
+msgstr "Miami Greitaeigis Kateris"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:407
 msgid "Miami Supercar"
-msgstr ""
+msgstr "Miami Superautomobilis"
 
 #: src/components/_user/mission/MissionsHeader.tsx:82
 #: src/components/_user/user/UserRankingsPanel.tsx:86
@@ -6999,7 +6999,7 @@ msgstr "Gaminti Viską"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:508
 msgid "Produce items <0/> times"
-msgstr "Gamink daiktus — kartų: <0/>"
+msgstr "Gamink prekes — kartų: <0/>"
 
 #: src/utils/translations.tsx:91
 msgid "Produced from Wood"
@@ -7011,7 +7011,7 @@ msgstr "Gaminama prekė"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:57
 msgid "Produced item changed!"
-msgstr "Pakeistas gaminamas daiktas!"
+msgstr "Pakeista gaminama prekė!"
 
 #: src/components/_economy/workOffer/WorkOfferList.tsx:162
 #: src/components/_user/user/skills.frontConfig.tsx:103
@@ -8065,7 +8065,7 @@ msgstr "Nustatyti Profilio Nuotrauką"
 #: src/components/_political/law/law.frontConfig.tsx:590
 #: src/components/_political/law/lawNames.tsx:36
 msgid "Set specialization item"
-msgstr "Nustatyti specializacijos daiktą"
+msgstr "Nustatyti specializacijos prekę"
 
 #. placeholder {0}: ts[law.data.itemCode]
 #: src/components/_political/law/law.frontConfig.tsx:596
@@ -8260,7 +8260,7 @@ msgstr "Specializacija"
 
 #: src/components/_political/law/LawFormModal.tsx:318
 msgid "Specialization item"
-msgstr "Specializacijos daiktas"
+msgstr "Specializacijos prekė"
 
 #: src/components/_political/country/CountryTooltip.tsx:177
 msgid "Specialty"
@@ -8714,7 +8714,7 @@ msgstr "Ši vertė naudojama apskaičiuojant daugumą išlaidų: kovos įsakymų
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:27
 msgid "This is your company hub. Here you can produce items and build your empire."
-msgstr "Tai tavo įmonės centras. Čia gali gaminti daiktus ir kurti savo imperiją."
+msgstr "Tai tavo įmonės centras. Čia gali gaminti prekes ir kurti savo imperiją."
 
 #: src/components/_military/tournament/TournamentTeamTooltip.tsx:88
 msgid "This is your team"
@@ -9261,7 +9261,7 @@ msgstr "Naudojama įmonėms ir MU statyti"
 
 #: src/utils/translations.tsx:41
 msgid "Used to craft items"
-msgstr "Naudojama daiktų gamybai"
+msgstr "Naudojama įrangos gamybai"
 
 #: src/utils/translations.tsx:84
 msgid "Used to maintain upgrades"
@@ -9658,7 +9658,7 @@ msgstr "Nors duomenų rinkimo ir rodymo įrankiai, naudojantys oficialų viešą
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:53
 msgid "White suit, gold everything"
-msgstr ""
+msgstr "Baltas kostiumas, visa kita – auksas"
 
 #: src/pages/companies.tsx:103
 msgid "Whole Production"
@@ -10175,7 +10175,7 @@ msgstr "Pasiekei maksimalų lygį!"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:47
 msgid "Your <0>Production</0> bar is full! Click to produce items and add them to your inventory."
-msgstr "Tavo <0>gamybos</0> juosta pilna! Spustelėk, kad pagamintum daiktus ir pridėtum juos į savo inventorių."
+msgstr "Tavo <0>gamybos</0> juosta pilna! Spustelėk, kad pagamintum prekes ir pridėtum jas į savo inventorių."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:96
 msgid "Your account has been automatically reported for cheating"
