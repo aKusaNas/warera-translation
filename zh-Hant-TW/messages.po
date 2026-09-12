@@ -157,11 +157,11 @@ msgstr "{completedCount}/{totalCount} 已完成"
 
 #: src/components/_user/user/SkillUpgrade.tsx:267
 msgid "{draftPrestigeCount} prestige point(s) on this skill ({savedPrestigeCount} saved, locked until reset)"
-msgstr "{draftPrestigeCount} 聲望點數在此技能（{savedPrestigueCount} 已儲存，鎖定直到重置）"
+msgstr "{draftPrestigeCount} 聲望點數在此技能（{savedPrestigeCount} 已儲存，鎖定直到重置）"
 
 #: src/components/_user/user/Level.tsx:153
 msgid "{prestigeLevel} Prestige Points"
-msgstr "{prestigueLevel} 聲望點數"
+msgstr "{prestigeLevel} 聲望點數"
 
 #: src/pages/events/index.tsx:97
 msgid "{registeredCount} countries registered"
@@ -6641,7 +6641,7 @@ msgstr "和平主義"
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:543
 msgid "Pacifist: orders defending your core regions or revolts cost {orderDiscountPercent}% less <0>{0}</0>"
-msgstr "和平主義：守護核心區域或反抗的命令花費少 <0>{0}</0>"
+msgstr "和平主義：守護核心區域或反抗的命令花費少 {orderDiscountPercent}% <0>{0}</0>"
 
 #: src/components/_other/shop/ShopHeader.tsx:30
 msgid "Packs"
@@ -7788,7 +7788,7 @@ msgstr "回合 {0}"
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:90
 msgid "Round {roundNumber} loot pool"
-msgstr "回合 {0} 獎勵池"
+msgstr "回合 {roundNumber} 獎勵池"
 
 #. placeholder {0}: i + 1
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:75
@@ -8044,7 +8044,7 @@ msgstr "設定國家顏色"
 #. placeholder {0}: law.data.scheme
 #: src/components/_political/law/law.frontConfig.tsx:536
 msgid "Set country color to <0>{0}</0> "
-msgstr "設定國家顏色為 <0?{0}</0>"
+msgstr "設定國家顏色為 <0>{0}</0>"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:88
 msgid "Set new party ethics configuration:"
@@ -8510,7 +8510,7 @@ msgstr "宿敵維持費用增加 <0>{0}</0>。"
 #: src/components/_political/party/party.frontConfig.tsx:141
 #: src/components/_political/party/party.frontConfig.tsx:177
 msgid "Sworn enemy treaties start at <0>{0} fidelity</0> and gain <1>{1}</1> each day."
-msgstr "宿敵條約開始於 <0?{0}忠實</0> 並每天獲得 <1>{1}</1>。"
+msgstr "宿敵條約開始於 <0>{0}忠實</0> 並每天獲得 <1>{1}</1>。"
 
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:537
@@ -8644,7 +8644,7 @@ msgstr "你的食用增益效果已結束，接下來將獲取減益效果，持
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:53
 msgid "The full bonus of <0/> applies up to <1/> share of global <2>Development</2>. Above that, the bonus drops by <3/> per percentage point of share over the plateau, down to <4/>."
-msgstr "<0/> 的完整紅利適用於全球 <2>發展度</2>的占比。在此之上，超出高原期的每個百分點使紅利下降 <3/>，最低至 <4/>。"
+msgstr "<0/> 的完整紅利適用於全球 <2>發展度</2>的占比 <1/>。在此之上，超出高原期的每個百分點使紅利下降 <3/>，最低至 <4/>。"
 
 #. placeholder {0}: Math.round(contract.moneyPool * 10) / 100
 #: src/components/_military/mercenaryContract/MercenaryContractItem.tsx:85
@@ -9976,7 +9976,7 @@ msgstr "你幫忙將遊戲翻譯至另一個語言"
 #. placeholder {1}: staticGameConfig.referral.lifeTimeBadgeMoneySharePercent
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:34
 msgid "You invited a friend or spammed forum posts. After they reach level {0}, you will get the badge + {1}% of all your referrals' badge rewards"
-msgstr "你邀請了一個朋友或洗版了論壇貼文。在他們達到等級 {0} 後，你會得到獎章 + 你所有引薦者的獎章獎勵"
+msgstr "你邀請了一個朋友或洗版了論壇貼文。在他們達到等級 {0} 後，你會得到獎章以及 {1}% 你所有引薦者的獎章獎勵"
 
 #: src/components/_user/worker/WageReductionAlert.tsx:44
 msgid "You left the company."
