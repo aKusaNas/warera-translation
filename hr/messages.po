@@ -3682,7 +3682,7 @@ msgstr "Trajno raspusti savez, uklanjajući i sve države članice."
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:103
 msgid "Distributed"
-msgstr "Raspoređeno"
+msgstr "Plijen raspodijeljen"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:10
 msgid "Do you even know what luck is?"
