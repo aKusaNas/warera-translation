@@ -827,12 +827,12 @@ msgstr "<0>Emotes</0> in de chat"
 #. placeholder {0}: ts.case2
 #: src/components/_military/damageRanking/BattleLoot.tsx:64
 msgid "<0>Every <1/> damage dealt in this round across both sides rolls an <2>{0}</2> into the round loot pool.</0><3>The pool is handed out at the end of the round: the top damage dealer gets the most valuable item, #2 the next one, and so on. The item you are in line for is shown on your row in the ranking below.</3>"
-msgstr ""
+msgstr "<0>Bij elke <1/> schade die in deze ronde door beide kanten samen wordt toegebracht, wordt er een <2>{0}</2> in de oorlogsbuit van de ronde gerold.</0><3>De buit wordt aan het einde van de ronde verdeeld: wie de meeste schade heeft toegebracht, krijgt het waardevolste item, #2 het volgende, enzovoort. Het item waarvoor jij in aanmerking komt, staat op jouw rij in de ranglijst hieronder.</3>"
 
 #. placeholder {0}: ts.case2
 #: src/components/_military/damageRanking/BattleLoot.tsx:79
 msgid "<0>Every <1/> total damage dealt across both sides rolls an <2>{0}</2> into the battle loot pool.</0><3>The pool is handed out at the end of the battle: the top damage dealer gets the most valuable item, #2 the next one, and so on. The item you are in line for is shown on your row in the ranking below.</3>"
-msgstr ""
+msgstr "<0>Bij elke <1/> totale schade die door beide kanten samen wordt toegebracht, wordt er een <2>{0}</2> in de gevechtsbuitpool gerold.</0><3>De buit wordt aan het einde van het gevecht verdeeld: wie de meeste schade heeft toegebracht, krijgt het waardevolste item, #2 het volgende, enzovoort. Het item waarvoor jij in aanmerking komt, staat op jouw rij in de ranglijst hieronder.</3>"
 
 #. placeholder {0}: 1
 #. placeholder {1}: worker.fidelity
