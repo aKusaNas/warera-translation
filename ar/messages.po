@@ -1576,11 +1576,11 @@ msgstr "اضرار اضافية لمعارك للتحالف"
 
 #: src/components/_political/event/EventList.tsx:118
 msgid "Alliance broken"
-msgstr "انهار التحالف"
+msgstr "انهيار تحالف"
 
 #: src/components/_political/event/EventList.tsx:117
 msgid "Alliance formed"
-msgstr "تأسس التحالف"
+msgstr "تأسيس تحالف"
 
 #: src/components/_political/allianceLaw/AllianceLawFormModal.tsx:51
 msgid "Alliance law proposed"
@@ -2133,7 +2133,7 @@ msgstr "مجموعة غنائم المعركة"
 
 #: src/components/_political/event/EventList.tsx:107
 msgid "Battle opened"
-msgstr "بدأت المعركة"
+msgstr "اندلاع معركة"
 
 #: src/pages/country/[countryId]/government.tsx:137
 msgid "Battle orders"
@@ -3077,15 +3077,15 @@ msgstr "مكافأة دخل تطوير الدولة"
 
 #: src/components/_political/event/EventList.tsx:129
 msgid "Country excluded from alliance"
-msgstr "تم استبعاد الدولة من التحالف"
+msgstr "استبعاد دولة من تحالف"
 
 #: src/components/_political/event/EventList.tsx:121
 msgid "Country joined alliance"
-msgstr "انضمت الدولة إلى التحالف"
+msgstr "انضمام دولة لتحالف"
 
 #: src/components/_political/event/EventList.tsx:125
 msgid "Country left alliance"
-msgstr "غادرت الدولة التحالف"
+msgstr "مغادرة دولة لتحالف"
 
 #: src/components/_economy/transaction/TransactionList.tsx:102
 msgid "Country Money Transfer"
@@ -3442,7 +3442,7 @@ msgstr "ميثاق دفاع مشترك"
 
 #: src/components/_political/event/EventList.tsx:137
 msgid "Defensive pact broken"
-msgstr "تم إنهاء ميثاق الدفاع المشترك"
+msgstr "نقض ميثاق دفاع مشترك"
 
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism[1].pactMaintenanceMultiplier, )
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.isolationism[2].pactMaintenanceMultiplier, )
@@ -3453,7 +3453,7 @@ msgstr "تُخفَّض تكاليف صيانة ميثاق الدفاع المش�
 
 #: src/components/_political/event/EventList.tsx:133
 msgid "Defensive pact signed"
-msgstr "تم توقيع ميثاق الدفاع المشترك"
+msgstr "توقيع ميثاق دفاع مشترك"
 
 #. placeholder {0}: ts.paper
 #: src/components/_military/battle/SetOrderFormModal.tsx:531
@@ -3512,11 +3512,11 @@ msgstr "المخزون"
 
 #: src/components/_political/event/EventList.tsx:114
 msgid "Deposit depleted"
-msgstr "نضب المخزون"
+msgstr "انتهاء مخزون"
 
 #: src/components/_political/event/EventList.tsx:113
 msgid "Deposit discovered"
-msgstr "تم اكتشاف مخزون"
+msgstr "اكتشاف مخزون"
 
 #. placeholder {0}: ts[data.itemCode]
 #: src/components/_political/event/event.frontConfig.tsx:290
@@ -6950,7 +6950,7 @@ msgstr "مبلغ الدفع"
 
 #: src/components/_political/event/EventList.tsx:106
 msgid "Peace made"
-msgstr "تم إحلال السلام"
+msgstr "عقد السلام"
 
 #: src/utils/translations.tsx:277
 msgid "Pending"
@@ -7621,7 +7621,7 @@ msgstr "المنطقة تثور!"
 
 #: src/components/_political/event/EventList.tsx:111
 msgid "Region liberated"
-msgstr "تحررت المنطقة"
+msgstr "تحرير منطقة"
 
 #: src/components/_political/region/RegionHeader.tsx:47
 msgid "Region of"
@@ -7629,7 +7629,7 @@ msgstr "منطقة"
 
 #: src/components/_political/event/EventList.tsx:110
 msgid "Region transfer"
-msgstr "نقل المنطقة"
+msgstr "نقل منطقة"
 
 #. placeholder {0}: formatMultiplierDelta( ethicsBonuses.imperialism[2].upgradeMaintenanceMultiplier, )
 #: src/components/_political/party/party.frontConfig.tsx:316
@@ -7946,7 +7946,7 @@ msgstr "الموارد"
 
 #: src/components/_political/event/EventList.tsx:143
 msgid "Resources reshuffled"
-msgstr "تم إعادة خلط الموارد"
+msgstr "إعادة توزيع الموارد الاستراتيجية"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2153
 msgid "Response to message"
@@ -7974,11 +7974,11 @@ msgstr "ثورة {score}"
 
 #: src/components/_political/event/EventList.tsx:140
 msgid "Revolution ended"
-msgstr "انتهت الثورة"
+msgstr "انتهاء ثورة"
 
 #: src/components/_political/event/EventList.tsx:139
 msgid "Revolution started"
-msgstr "بدأت الثورة"
+msgstr "بدء ثورة"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2084
 msgid "Revolution started!"
@@ -8777,7 +8777,7 @@ msgstr "العدو اللدود: أوامر القتال ضد عدوك اللد�
 
 #: src/components/_political/event/EventList.tsx:115
 msgid "System revolt"
-msgstr "ثورة النظام"
+msgstr "ثورة نظام"
 
 #: src/pages/country/[countryId]/index.tsx:117
 #: src/pages/country/[countryId]/index.tsx:141
@@ -9854,7 +9854,7 @@ msgstr "يريد"
 
 #: src/components/_political/event/EventList.tsx:105
 msgid "War declared"
-msgstr "أعلنت الحرب"
+msgstr "إعلان حرب"
 
 #: src/pages/war/[warId]/index.tsx:49
 msgid "War Ended"
