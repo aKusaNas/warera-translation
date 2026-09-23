@@ -189,7 +189,7 @@ msgstr "{rareCount, plural, one {# منها نادر أو أفضل} other {# م�
 #: src/components/_layout/LayoutMapUserMenu.tsx:167
 #: src/components/_political/map/MapMenu.tsx:605
 msgid "{regionsAway, plural, one {# region away} other {# regions away}}"
-msgstr "{regionsAway, plural, one {تبعد منطقة واحدة} other {تبعد # مناطق}}"
+msgstr "{regionsAway, plural, one {تبعد # منطقة } other {تبعد # مناطق}}"
 
 #: src/pages/events/index.tsx:97
 msgid "{registeredCount} countries registered"
