@@ -10384,7 +10384,7 @@ msgstr "Primili ste skin \"{skinTitle}\"!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:596
 msgid "You sold items."
-msgstr "Prodali ste predmete."
+msgstr "Prodali ste predmet/e."
 
 #. placeholder {0}: data.bannerTitle
 #: src/components/_user/notification/notification.frontConfig.tsx:1461
