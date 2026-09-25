@@ -6107,7 +6107,7 @@ msgstr "需要一個工作？"
 
 #: src/components/_economy/inventory/ItemRecipe.tsx:59
 msgid "Needs more <0/> to produce"
-msgstr "需要更東 <0/> 以生產"
+msgstr "需要更多 <0/> 以生產"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:46
 msgid "Negative mercenary reputation"
