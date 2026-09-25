@@ -100,7 +100,7 @@ msgstr "{0} udaljeno"
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
 #: src/components/_user/notification/notification.frontConfig.tsx:488
 msgid "{0} bought your item offer"
-msgstr "{0} kupuje vašu ponudu"
+msgstr "{0} je kupio/la vašu ponudu"
 
 #. placeholder {0}: Math.floor(cooldownHours / 24)
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:144
@@ -265,21 +265,21 @@ msgstr "<0/> je izbacio <1/> iz kanala"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1903
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
-msgstr "<0/> je kupio vaš {assetLabel} kao poklon za <1/>!"
+msgstr "<0/> je kupio/la vaš {assetLabel} kao poklon za <1/>!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1910
 msgid "<0/> bought your {assetLabel}!"
-msgstr "<0/> je kupio vaš {assetLabel}!"
+msgstr "<0/> je kupio/la vaš {assetLabel}!"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
 #: src/components/_user/notification/notification.frontConfig.tsx:1523
 msgid "<0/> bought your banner{0} as a gift for <1/>!"
-msgstr "<0/> je kupio vaš banner{0} kao poklon za <1/>!"
+msgstr "<0/> je kupio/la vaš banner{0} kao poklon za <1/>!"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
 #: src/components/_user/notification/notification.frontConfig.tsx:1531
 msgid "<0/> bought your banner{0}!"
-msgstr "<0/> je kupio vaš banner{0}!"
+msgstr "<0/> je kupio/la vaš banner{0}!"
 
 #. placeholder {0}: law.data.amount ?? 0
 #: src/components/_political/law/law.frontConfig.tsx:443
@@ -322,7 +322,7 @@ msgstr "<0/> se obranio/la od <1/>"
 #. placeholder {0}: data.amount
 #: src/components/_user/notification/notification.frontConfig.tsx:1169
 msgid "<0/> donated <1>{0}</1> to <2/>"
-msgstr "<0/> јe donirao <1>{0}</1> za <2/>"
+msgstr "<0/> јe donirao/la <1>{0}</1> za <2/>"
 
 #. placeholder {0}: ts[data.caseCode]
 #: src/components/_political/message/systemMessage.frontConfig.tsx:124
@@ -3682,7 +3682,7 @@ msgstr "Trajno raspusti savez, uklanjajući i sve države članice."
 
 #: src/components/_military/damageRanking/BattleLoot.tsx:103
 msgid "Distributed"
-msgstr "Raspoređeno"
+msgstr "Plijen raspodijeljen"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:10
 msgid "Do you even know what luck is?"
@@ -10166,7 +10166,7 @@ msgstr "Bili ste ili јeste dio tima osoblja i pridonio je razvoju igre."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:110
 msgid "You bought a coffee for the dev <3"
-msgstr "Kupio je kavu developeru."
+msgstr "Korisnik je kupio kavu developeru."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:594
 msgid "You bought items."
@@ -10384,7 +10384,7 @@ msgstr "Primili ste skin \"{skinTitle}\"!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:596
 msgid "You sold items."
-msgstr "Prodali ste predmete."
+msgstr "Prodali ste predmet/e."
 
 #. placeholder {0}: data.bannerTitle
 #: src/components/_user/notification/notification.frontConfig.tsx:1461
