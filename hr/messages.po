@@ -322,7 +322,7 @@ msgstr "<0/> se obranio/la od <1/>"
 #. placeholder {0}: data.amount
 #: src/components/_user/notification/notification.frontConfig.tsx:1169
 msgid "<0/> donated <1>{0}</1> to <2/>"
-msgstr "<0/> јe donirao <1>{0}</1> za <2/>"
+msgstr "<0/> јe donirao/la <1>{0}</1> za <2/>"
 
 #. placeholder {0}: ts[data.caseCode]
 #: src/components/_political/message/systemMessage.frontConfig.tsx:124
