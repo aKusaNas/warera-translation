@@ -4398,7 +4398,7 @@ msgstr "Besplatna dnevna nagrada"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:49
 msgid "Full throttle, no brakes"
-msgstr "Pun gas, nema nazad"
+msgstr "Pun gas, nema nazad."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:27
 msgid "Fun fact: The house always wins"
@@ -9841,15 +9841,15 @@ msgstr "Vrijedni doprinosi biti će nagrađeni \"Deratizator Bugova\" značkom."
 
 #: src/components/_other/shop/skin.frontConfig.tsx:479
 msgid "Vampire Ammo"
-msgstr "Vampir Municija"
+msgstr "Vampirska Municija"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:64
 msgid "Vampire Arsenal"
-msgstr "Vampir Arsenal"
+msgstr "Vampirski Arsenal"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:470
 msgid "Vampire Coffin"
-msgstr "Vampir Lijes"
+msgstr "Vampirski Lijes"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:56
 msgid "Vampire Count"
@@ -10138,7 +10138,7 @@ msgstr "Iako su alati koji prikupljaju i prezentiraju podatke putem javno dostup
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:53
 msgid "White suit, gold everything"
-msgstr "Svagdje zlata i bijelog"
+msgstr "Svuda zlata i bijelog."
 
 #: src/pages/companies.tsx:103
 msgid "Whole Production"
