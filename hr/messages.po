@@ -10381,7 +10381,7 @@ msgstr "Možete nadograditi svoje vještine!"
 #. placeholder {0}: gameConfig?.election.voteMinDaysSinceCitizenshipChange
 #: src/components/_political/election/Election.tsx:249
 msgid "You can vote {0} days after changing citizenship. Available in <0/>."
-msgstr ""
+msgstr "Možete glasovati {0} dana nakon promjene državljanstva. Dostupno za <0/>."
 
 #: src/pages/country/[countryId]/citizenship.tsx:61
 msgid "You cannot apply for citizenship if you have a government/congress role"
