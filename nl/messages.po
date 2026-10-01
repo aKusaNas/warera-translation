@@ -1423,7 +1423,7 @@ msgstr "Actieve burgers"
 #. placeholder {0}: staticGameConfig.user.activeCitizenMinLevel
 #: src/components/_political/country/CountryHeader.tsx:195
 msgid "Active citizens (citizenship of this country, active and level {0}+)"
-msgstr "Actieve burgers (burgerschap van dit land, actief en level {0}+)"
+msgstr "Actieve burgers (staatsburgers van dit land, actief en level {0}+)"
 
 #: src/pages/region/[regionId]/index.tsx:212
 msgid "Active construction"
@@ -2103,7 +2103,7 @@ msgstr "Standaardbroek"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:473
 msgid "Bat Swarm"
-msgstr ""
+msgstr "Vleermuizenzwerm"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:85
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:185
@@ -2626,11 +2626,11 @@ msgstr "Burgers krijgen een bonus wanneer ze vechten voor bondgenoten, of tegen 
 
 #: src/components/_political/country/CountryHeader.tsx:131
 msgid "Citizenship"
-msgstr "Burgerschap"
+msgstr "Staatsburgerschap"
 
 #: src/pages/country/[countryId]/citizenship.tsx:72
 msgid "Citizenship Applications"
-msgstr "Burgerschap aanvragen"
+msgstr "Staatsburgerschap aanvragen"
 
 #: src/components/_military/battle/BattleSystem.tsx:378
 msgid "Civil war"
@@ -3757,7 +3757,7 @@ msgstr "Draak"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:61
 msgid "Dressed to kill"
-msgstr ""
+msgstr "Strak in het pak"
 
 #: src/components/_common/GameRules.tsx:262
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
@@ -4736,59 +4736,59 @@ msgstr "Harde Werker"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:68
 msgid "Harlequin"
-msgstr ""
+msgstr "Harlekijn"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:506
 msgid "Harlequin Ammo"
-msgstr ""
+msgstr "Harlekijn Munitie"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:500
 msgid "Harlequin Biplane"
-msgstr ""
+msgstr "Harlekijn Tweedekker"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:518
 msgid "Harlequin Boots"
-msgstr ""
+msgstr "Harlekijn Laarzen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:524
 msgid "Harlequin Gloves"
-msgstr ""
+msgstr "Harlekijn Handschoenen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:509
 msgid "Harlequin Heavy Ammo"
-msgstr ""
+msgstr "Harlekijn Zware Munitie"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:515
 msgid "Harlequin Jacket"
-msgstr ""
+msgstr "Harlekijn Jas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:503
 msgid "Harlequin Light Ammo"
-msgstr ""
+msgstr "Harlekijn Lichte Munitie"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:485
 msgid "Harlequin Mallet"
-msgstr ""
+msgstr "Harlekijn Hamer"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:512
 msgid "Harlequin Mask"
-msgstr ""
+msgstr "Harlekijn Masker"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:521
 msgid "Harlequin Pants"
-msgstr ""
+msgstr "Harlekijn Broek"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:488
 msgid "Harlequin Pistol"
-msgstr ""
+msgstr "Harlekijn Pistool"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:491
 msgid "Harlequin Rifle"
-msgstr ""
+msgstr "Harlekijn Geweer"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:494
 msgid "Harlequin Sniper"
-msgstr ""
+msgstr "Harlekijn Sniper"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:94
 msgid "Headquarters"
@@ -5084,7 +5084,7 @@ msgstr "j. Spam en herhaalde berichten"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:497
 msgid "Jack-in-the-Box Tank"
-msgstr ""
+msgstr "Duveltje-uit-een-doosje Tank"
 
 #: src/pages/companies.tsx:32
 #: src/pages/user/[userId]/companies.tsx:56
@@ -5238,7 +5238,7 @@ msgstr "Laatste geschenken"
 
 #: src/pages/shop/index.tsx:122
 msgid "Last skin gifts"
-msgstr ""
+msgstr "Laatste skin-geschenken"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:339
 #: src/components/_user/auth/ConnectFromModal.tsx:358
@@ -7612,7 +7612,7 @@ msgstr "Recente aanvragen"
 
 #: src/components/_political/election/Election.tsx:247
 msgid "Recent citizenship change"
-msgstr ""
+msgstr "Recente staatsburgerschap wijziging"
 
 #: src/pages/company/[companyId]/index.tsx:101
 msgid "Recipe"
@@ -8470,7 +8470,7 @@ msgstr "Kant"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:65
 msgid "Silver not included"
-msgstr ""
+msgstr "Zilver niet inbegrepen"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:103
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:77
@@ -8548,7 +8548,7 @@ msgstr "Overgeslagen"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:57
 msgid "Sleeps all day, bites all night"
-msgstr ""
+msgstr "Slaapt overdag, bijt heel de nacht"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:260
 msgid "Sling Stones"
@@ -8995,7 +8995,7 @@ msgstr "De volledige bonus van <0/> geldt tot <1/> aandeel van de wereldwijde <2
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:69
 msgid "The joke's on you"
-msgstr ""
+msgstr "Jij bent de dupe"
 
 #: src/components/_political/map/MapLibreErrorBoundary.tsx:69
 msgid "The map needs WebGL2, which your browser or device doesn't support. Everything else in the game works normally."
@@ -9219,7 +9219,7 @@ msgstr "Tip Artikel"
 
 #: src/pages/shop/index.tsx:147
 msgid "to"
-msgstr ""
+msgstr "aan"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:246
 msgid "Token Name"
@@ -9841,87 +9841,87 @@ msgstr "Waardevolle bijdragen worden erkend met het \"Bug Finder\"-insigne."
 
 #: src/components/_other/shop/skin.frontConfig.tsx:479
 msgid "Vampire Ammo"
-msgstr ""
+msgstr "Vampier Munitie"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:64
 msgid "Vampire Arsenal"
-msgstr ""
+msgstr "Vampier Arsenaal"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:470
 msgid "Vampire Coffin"
-msgstr ""
+msgstr "Vampier Doodskist"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:56
 msgid "Vampire Count"
-msgstr ""
+msgstr "Vampiergraaf"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:434
 msgid "Vampire Count Boots"
-msgstr ""
+msgstr "Vampiergraaf Laarzen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:440
 msgid "Vampire Count Gloves"
-msgstr ""
+msgstr "Vampiergraaf Handschoenen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:428
 msgid "Vampire Count Mask"
-msgstr ""
+msgstr "Vampiergraaf Masker"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:437
 msgid "Vampire Count Pants"
-msgstr ""
+msgstr "Vampiergraaf Broek"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:431
 msgid "Vampire Count Tailcoat"
-msgstr ""
+msgstr "Vampiergraaf Slipjas"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:60
 msgid "Vampire Countess"
-msgstr ""
+msgstr "Vampiergravin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:449
 msgid "Vampire Countess Boots"
-msgstr ""
+msgstr "Vampiergravin Laarzen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:446
 msgid "Vampire Countess Corset"
-msgstr ""
+msgstr "Vampiergravin Korset"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:452
 msgid "Vampire Countess Garters"
-msgstr ""
+msgstr "Vampiergravin Kousenbanden"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:455
 msgid "Vampire Countess Gloves"
-msgstr ""
+msgstr "Vampiergravin Handschoenen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:443
 msgid "Vampire Countess Top Hat"
-msgstr ""
+msgstr "Vampiergravin Hoge Hoed"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:464
 msgid "Vampire Crossbow"
-msgstr ""
+msgstr "Vampier Kruisboog"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:458
 msgid "Vampire Dagger"
-msgstr ""
+msgstr "Vampier Dolk"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:482
 msgid "Vampire Heavy Ammo"
-msgstr ""
+msgstr "Vampier Zware Munitie"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:476
 msgid "Vampire Light Ammo"
-msgstr ""
+msgstr "Vampier Lichte Munitie"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:461
 msgid "Vampire Pistol"
-msgstr ""
+msgstr "Vampier Pistool"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:467
 msgid "Vampire Sniper"
-msgstr ""
+msgstr "Vampier Sniper"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
 msgid "Vanguard"
@@ -10381,7 +10381,7 @@ msgstr "Je kunt je vaardigheden upgraden!"
 #. placeholder {0}: gameConfig?.election.voteMinDaysSinceCitizenshipChange
 #: src/components/_political/election/Election.tsx:249
 msgid "You can vote {0} days after changing citizenship. Available in <0/>."
-msgstr ""
+msgstr "Je kunt {0} dagen na het wijzigen van je staatsburgerschap stemmen. Beschikbaar over <0/>."
 
 #: src/pages/country/[countryId]/citizenship.tsx:61
 msgid "You cannot apply for citizenship if you have a government/congress role"
@@ -10739,7 +10739,7 @@ msgstr "Je burgers zien <0/> in hun gevechtslijst, samen met dit bericht. Het le
 
 #: src/pages/country/[countryId]/index.tsx:142
 msgid "Your citizenship is going to change"
-msgstr "Je burgerschap gaat veranderen"
+msgstr "Je staatsburgerschap gaat veranderen"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:141
 #: src/pages/index.tsx:135
