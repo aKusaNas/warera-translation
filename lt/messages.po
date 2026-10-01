@@ -360,7 +360,7 @@ msgstr "<0/> padovanojo tau banerį \"{0}\"!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1785
 msgid "<0/> gifted you the skin \"{skinTitle}\"!"
-msgstr "<0/> padovanojo tau \"{skinTitle}\" išvaizdą!"
+msgstr "<0/> padovanojo tau skiną \"{skinTitle}\"!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1856
 msgid "<0/> gifted you the skin pack \"{skinPackTitle}\"!"
@@ -2062,7 +2062,7 @@ msgstr "Baneris Patvirtintas!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1982
 msgid "Banner gift received"
-msgstr "Gauta reklamjuostės dovana"
+msgstr "Gauta banerio dovana"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1980
 msgid "Banner gift sent"
@@ -2103,7 +2103,7 @@ msgstr "Paprastos Kelnės"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:473
 msgid "Bat Swarm"
-msgstr ""
+msgstr "Šikšnosparnių Spiečius"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:85
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:185
@@ -3757,7 +3757,7 @@ msgstr "Drakonas"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:61
 msgid "Dressed to kill"
-msgstr ""
+msgstr "Mirtinai elegantiška"
 
 #: src/components/_common/GameRules.tsx:262
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
@@ -4483,7 +4483,7 @@ msgstr "Dovana išsiųsta! Gavėjui atrakintas skinų rinkinys!"
 
 #: src/pages/shop/index.tsx:60
 msgid "Gift sent! Thanks for supporting the game <3"
-msgstr "Dovana išsiųsta! Ačiū, kad palaikote žaidimą <3"
+msgstr "Dovana išsiųsta! Ačiū, kad palaikai žaidimą <3"
 
 #: src/components/_user/user/UserDropdown.tsx:295
 msgid "Gift Supporter Plan"
@@ -4736,59 +4736,59 @@ msgstr "Darbštuolis"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:68
 msgid "Harlequin"
-msgstr ""
+msgstr "Arlekinas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:506
 msgid "Harlequin Ammo"
-msgstr ""
+msgstr "Arlekino Amunicija"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:500
 msgid "Harlequin Biplane"
-msgstr ""
+msgstr "Arlekino Biplanas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:518
 msgid "Harlequin Boots"
-msgstr ""
+msgstr "Arlekino Batai"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:524
 msgid "Harlequin Gloves"
-msgstr ""
+msgstr "Arlekino Pirštinės"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:509
 msgid "Harlequin Heavy Ammo"
-msgstr ""
+msgstr "Arlekino Sunkioji Amunicija"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:515
 msgid "Harlequin Jacket"
-msgstr ""
+msgstr "Arlekino Švarkas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:503
 msgid "Harlequin Light Ammo"
-msgstr ""
+msgstr "Arlekino Lengvoji Amunicija"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:485
 msgid "Harlequin Mallet"
-msgstr ""
+msgstr "Arlekino Kūjis"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:512
 msgid "Harlequin Mask"
-msgstr ""
+msgstr "Arlekino Kaukė"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:521
 msgid "Harlequin Pants"
-msgstr ""
+msgstr "Arlekino Kelnės"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:488
 msgid "Harlequin Pistol"
-msgstr ""
+msgstr "Arlekino Pistoletas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:491
 msgid "Harlequin Rifle"
-msgstr ""
+msgstr "Arlekino Šautuvas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:494
 msgid "Harlequin Sniper"
-msgstr ""
+msgstr "Arlekino Snaiperis"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:94
 msgid "Headquarters"
@@ -5084,7 +5084,7 @@ msgstr "j. Šlamštas (spam) ir pasikartojančios žinutės"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:497
 msgid "Jack-in-the-Box Tank"
-msgstr ""
+msgstr "Staigmenų Dėžutės Tankas"
 
 #: src/pages/companies.tsx:32
 #: src/pages/user/[userId]/companies.tsx:56
@@ -5238,7 +5238,7 @@ msgstr "Naujausios dovanos"
 
 #: src/pages/shop/index.tsx:122
 msgid "Last skin gifts"
-msgstr ""
+msgstr "Naujausios skinų dovanos"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:339
 #: src/components/_user/auth/ConnectFromModal.tsx:358
@@ -7015,7 +7015,7 @@ msgstr "Pristabdyta"
 
 #: src/pages/shop/index.tsx:48
 msgid "Payment successful! Thanks for supporting the game <3"
-msgstr "Mokėjimas sėkmingas! Ačiū, kad palaikote žaidimą <3"
+msgstr "Mokėjimas sėkmingas! Ačiū, kad palaikai žaidimą <3"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:186
 msgid "Payout"
@@ -7612,7 +7612,7 @@ msgstr "Naujausios Paraiškos"
 
 #: src/components/_political/election/Election.tsx:247
 msgid "Recent citizenship change"
-msgstr ""
+msgstr "Neseniai pakeista pilietybė"
 
 #: src/pages/company/[companyId]/index.tsx:101
 msgid "Recipe"
@@ -8470,7 +8470,7 @@ msgstr "Pusė"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:65
 msgid "Silver not included"
-msgstr ""
+msgstr "Sidabras nepridedamas"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:103
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:77
@@ -8548,7 +8548,7 @@ msgstr "Praleista"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:57
 msgid "Sleeps all day, bites all night"
-msgstr ""
+msgstr "Visą dieną miega, visą naktį kanda"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:260
 msgid "Sling Stones"
@@ -8995,7 +8995,7 @@ msgstr "Visas <0/> bonusas taikomas iki <1/> dalies pasaulinio <2>išsivystymo</
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:69
 msgid "The joke's on you"
-msgstr ""
+msgstr "Pokštas tavo sąskaita"
 
 #: src/components/_political/map/MapLibreErrorBoundary.tsx:69
 msgid "The map needs WebGL2, which your browser or device doesn't support. Everything else in the game works normally."
@@ -9219,7 +9219,7 @@ msgstr "Paremti Straipsnį"
 
 #: src/pages/shop/index.tsx:147
 msgid "to"
-msgstr ""
+msgstr "žaidėjui"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:246
 msgid "Token Name"
@@ -9841,87 +9841,87 @@ msgstr "Vertingas indėlis bus įvertintas \"Klaidų ieškotojo\" (Bug Finder) �
 
 #: src/components/_other/shop/skin.frontConfig.tsx:479
 msgid "Vampire Ammo"
-msgstr ""
+msgstr "Vampyro Amunicija"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:64
 msgid "Vampire Arsenal"
-msgstr ""
+msgstr "Vampyro Arsenalas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:470
 msgid "Vampire Coffin"
-msgstr ""
+msgstr "Vampyro Karstas"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:56
 msgid "Vampire Count"
-msgstr ""
+msgstr "Grafas Vampyras"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:434
 msgid "Vampire Count Boots"
-msgstr ""
+msgstr "Grafo Vampyro Batai"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:440
 msgid "Vampire Count Gloves"
-msgstr ""
+msgstr "Grafo Vampyro Pirštinės"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:428
 msgid "Vampire Count Mask"
-msgstr ""
+msgstr "Grafo Vampyro Kaukė"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:437
 msgid "Vampire Count Pants"
-msgstr ""
+msgstr "Grafo Vampyro Kelnės"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:431
 msgid "Vampire Count Tailcoat"
-msgstr ""
+msgstr "Grafo Vampyro Frakas"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:60
 msgid "Vampire Countess"
-msgstr ""
+msgstr "Grafienė Vampyrė"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:449
 msgid "Vampire Countess Boots"
-msgstr ""
+msgstr "Grafienės Vampyrės Batai"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:446
 msgid "Vampire Countess Corset"
-msgstr ""
+msgstr "Grafienės Vampyrės Korsetas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:452
 msgid "Vampire Countess Garters"
-msgstr ""
+msgstr "Grafienės Vampyrės Keliaraiščiai"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:455
 msgid "Vampire Countess Gloves"
-msgstr ""
+msgstr "Grafienės Vampyrės Pirštinės"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:443
 msgid "Vampire Countess Top Hat"
-msgstr ""
+msgstr "Grafienės Vampyrės Cilindras"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:464
 msgid "Vampire Crossbow"
-msgstr ""
+msgstr "Vampyro Arbaletas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:458
 msgid "Vampire Dagger"
-msgstr ""
+msgstr "Vampyro Durklas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:482
 msgid "Vampire Heavy Ammo"
-msgstr ""
+msgstr "Vampyro Sunkioji Amunicija"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:476
 msgid "Vampire Light Ammo"
-msgstr ""
+msgstr "Vampyro Lengvoji Amunicija"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:461
 msgid "Vampire Pistol"
-msgstr ""
+msgstr "Vampyro Pistoletas"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:467
 msgid "Vampire Sniper"
-msgstr ""
+msgstr "Vampyro Snaiperis"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
 msgid "Vanguard"
@@ -10381,7 +10381,7 @@ msgstr "Gali patobulinti savo įgūdžius!"
 #. placeholder {0}: gameConfig?.election.voteMinDaysSinceCitizenshipChange
 #: src/components/_political/election/Election.tsx:249
 msgid "You can vote {0} days after changing citizenship. Available in <0/>."
-msgstr ""
+msgstr "Pakeitus pilietybę, balsuoti galėsi tik po {0} d. Bus galima po <0/>."
 
 #: src/pages/country/[countryId]/citizenship.tsx:61
 msgid "You cannot apply for citizenship if you have a government/congress role"
@@ -10727,7 +10727,7 @@ msgstr "Tavo straipsnis surinko balų, lygių 2 % aktyvios populiacijos skaičiu
 #. placeholder {0}: data.bannerTitle
 #: src/components/_user/notification/notification.frontConfig.tsx:1552
 msgid "Your banner \"{0}\" has been accepted and is now available in the shop! It has been automatically unlocked for you."
-msgstr "Tavo reklamjuostė \"{0}\" buvo patvirtinta ir dabar ją galima rasti parduotuvėje! Ji tau buvo automatiškai atrakinta."
+msgstr "Tavo baneris \"{0}\" buvo patvirtintas ir dabar jį galima rasti parduotuvėje! Jis tau buvo automatiškai atrakintas."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:699
 msgid "Your buff(s) will expire in less than 1 hour. The debuff phase will begin soon."
