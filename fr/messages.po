@@ -2103,7 +2103,7 @@ msgstr "Pantalon basique"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:473
 msgid "Bat Swarm"
-msgstr ""
+msgstr "Essaim de chauves-souris"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:85
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:185
@@ -2313,7 +2313,7 @@ msgstr "Le bonus expire bientôt"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2145
 msgid "Buff started"
-msgstr "Buff commencé"
+msgstr "Le bonus a démarré"
 
 #: src/components/_user/user/SkillValue.tsx:205
 msgid "Buffs:"
@@ -2984,7 +2984,7 @@ msgstr "Contrats"
 
 #: src/components/_military/battle/BattleSideContractsModal.tsx:29
 msgid "Contracts & Auctions"
-msgstr "Contrats & Enchères"
+msgstr "Contrats et enchères"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:556
 msgid "Contribute to constructions <0/> times"
@@ -3389,7 +3389,7 @@ msgstr "Inflige quelques dégâts"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2150
 msgid "Debuff ended"
-msgstr "Malus terminé"
+msgstr "Le malus est terminé"
 
 #: src/components/_user/user/UserHeader.tsx:350
 #: src/components/_user/user/UserTooltip.tsx:149
@@ -3757,7 +3757,7 @@ msgstr "Dragon"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:61
 msgid "Dressed to kill"
-msgstr ""
+msgstr "Habillé pour tuer"
 
 #: src/components/_common/GameRules.tsx:262
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
@@ -3946,7 +3946,7 @@ msgstr "Terminée"
 
 #: src/components/_military/war/WarItem.tsx:102
 msgid "Ended <0/>"
-msgstr "Est terminée depuis <0/>"
+msgstr "Terminée depuis <0/>"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:107
 #: src/components/_military/battle/ActiveBattlesList.tsx:162
@@ -4097,7 +4097,7 @@ msgstr "Exploiter ou ignorer des bugs à des fins personnelles est interdit. Tou
 
 #: src/components/_common/GameRules.tsx:269
 msgid "f. Glorification/apology of hateful ideologies such as nazism, neo-nazism, fascism, terrorism and terrorist groups and movements (considered as such by the United Nations, the European Union or France), genocide denial, war crimes, or crimes against humanity, Putinism and communism"
-msgstr "f. Glorification/excuses des idéologies haineuses telles que le nazisme, le néo-nazisme, le fascisme, le terrorisme et les groupes et mouvements terroristes (considérés comme tels par l'Organisation des Nations Unies, l'Union européenne ou la France), le déni du génocide, les crimes de guerre ou les crimes contre l'humanité, le Poutinisme et le communisme"
+msgstr "f. Glorification/excuses des idéologies haineuses telles que le nazisme, le néo-nazisme, le fascisme, le terrorisme et les groupes et mouvements terroristes (considérés comme tels par l'Organisation des Nations Unies, l'Union européenne ou la France), le déni de génocide, les crimes de guerre ou les crimes contre l'humanité, le Poutinisme et le communisme"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:92
 #: src/components/_user/userReports/UserReportListItem.tsx:108
@@ -4736,59 +4736,59 @@ msgstr "Bourreau de travail"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:68
 msgid "Harlequin"
-msgstr ""
+msgstr "Arlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:506
 msgid "Harlequin Ammo"
-msgstr ""
+msgstr "Munitions d'Arlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:500
 msgid "Harlequin Biplane"
-msgstr ""
+msgstr "Biplan d'Arlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:518
 msgid "Harlequin Boots"
-msgstr ""
+msgstr "Bottes d'Arlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:524
 msgid "Harlequin Gloves"
-msgstr ""
+msgstr "Gants d'Arlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:509
 msgid "Harlequin Heavy Ammo"
-msgstr ""
+msgstr "Munitions lourdes d'Arlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:515
 msgid "Harlequin Jacket"
-msgstr ""
+msgstr "Veste d'Arlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:503
 msgid "Harlequin Light Ammo"
-msgstr ""
+msgstr "Munitions légères d'Arlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:485
 msgid "Harlequin Mallet"
-msgstr ""
+msgstr "Maillet d'Arlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:512
 msgid "Harlequin Mask"
-msgstr ""
+msgstr "Masque d'Arlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:521
 msgid "Harlequin Pants"
-msgstr ""
+msgstr "Pantalon d'Arlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:488
 msgid "Harlequin Pistol"
-msgstr ""
+msgstr "Pistolet d'Arlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:491
 msgid "Harlequin Rifle"
-msgstr ""
+msgstr "Fusil d'Arlequin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:494
 msgid "Harlequin Sniper"
-msgstr ""
+msgstr "Sniper d'Arlequin"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:94
 msgid "Headquarters"
@@ -5084,7 +5084,7 @@ msgstr "j. Spam et messages répétés"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:497
 msgid "Jack-in-the-Box Tank"
-msgstr ""
+msgstr "Tank de la boîte surprise"
 
 #: src/pages/companies.tsx:32
 #: src/pages/user/[userId]/companies.tsx:56
@@ -5238,7 +5238,7 @@ msgstr "Derniers cadeaux"
 
 #: src/pages/shop/index.tsx:122
 msgid "Last skin gifts"
-msgstr ""
+msgstr "Derniers skins offerts"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:339
 #: src/components/_user/auth/ConnectFromModal.tsx:358
@@ -5454,7 +5454,7 @@ msgstr "Ligne"
 
 #: src/components/_economy/itemOffer/ItemOfferFormModal.tsx:297
 msgid "Listed at, taxes included"
-msgstr "Prix ​​affiché, taxes incluses"
+msgstr "Prix affiché, taxes incluses"
 
 #: src/utils/translations.tsx:72
 msgid "Little cuties used to make steaks :("
@@ -7612,7 +7612,7 @@ msgstr "Candidatures récentes"
 
 #: src/components/_political/election/Election.tsx:247
 msgid "Recent citizenship change"
-msgstr ""
+msgstr "Changement récent de citoyenneté"
 
 #: src/pages/company/[companyId]/index.tsx:101
 msgid "Recipe"
@@ -7664,7 +7664,7 @@ msgstr "Nom d'utilisateur du parrain"
 
 #: src/pages/user/[userId]/index.tsx:130
 msgid "Refresh every hour"
-msgstr "Actualiser chaque heure"
+msgstr "Actualisé à chaque heure"
 
 #: src/components/_layout/LayoutUserMenu.tsx:201
 msgid "Regen in..."
@@ -8470,7 +8470,7 @@ msgstr "Camp"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:65
 msgid "Silver not included"
-msgstr ""
+msgstr "L'argent n'est pas inclus"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:103
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:77
@@ -8548,7 +8548,7 @@ msgstr "Ignoré"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:57
 msgid "Sleeps all day, bites all night"
-msgstr ""
+msgstr "Dort toute la journée, mord toute la nuit"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:260
 msgid "Sling Stones"
@@ -8787,7 +8787,7 @@ msgstr "Soutiens le jeu et démonte rapidement tes objets !"
 
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:60
 msgid "Support us"
-msgstr "Soutenez-nous"
+msgstr "Soutiens-nous"
 
 #: src/components/_economy/work/WorkChart.tsx:291
 #: src/components/_ui/PremiumButtonTag.tsx:25
@@ -8995,7 +8995,7 @@ msgstr "Le bonus complet de <0/> s'applique jusqu'à <1/> de part de <2>Dévelop
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:69
 msgid "The joke's on you"
-msgstr ""
+msgstr "C'est toi qui te fais avoir"
 
 #: src/components/_political/map/MapLibreErrorBoundary.tsx:69
 msgid "The map needs WebGL2, which your browser or device doesn't support. Everything else in the game works normally."
@@ -9219,7 +9219,7 @@ msgstr "Soutenir un article"
 
 #: src/pages/shop/index.tsx:147
 msgid "to"
-msgstr ""
+msgstr "à"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:246
 msgid "Token Name"
@@ -9316,7 +9316,7 @@ msgstr "Nombre total de caisses ouvertes"
 
 #: src/components/_military/tournament/TournamentTeamTooltip.tsx:92
 msgid "Total damage"
-msgstr "Dégâts totaux"
+msgstr "Dégât total"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:37
 msgid "Total damages"
@@ -9374,7 +9374,7 @@ msgstr "Le tournoi est créé"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2099
 msgid "Tournament Eliminated"
-msgstr "Est éliminé du tournoi"
+msgstr "Éliminé du tournoi"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2097
 msgid "Tournament Ended"
@@ -9407,7 +9407,7 @@ msgstr "Transaction commerciale"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:16
 msgid "Trainee"
-msgstr "Apprenti"
+msgstr "Élève"
 
 #: src/components/_user/user/UserHeader.tsx:240
 msgid "Transac."
@@ -9841,87 +9841,87 @@ msgstr "Les contributions précieuses seront reconnues avec le badge « Déniche
 
 #: src/components/_other/shop/skin.frontConfig.tsx:479
 msgid "Vampire Ammo"
-msgstr ""
+msgstr "Munitions de vampire"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:64
 msgid "Vampire Arsenal"
-msgstr ""
+msgstr "Arsenal de vampire"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:470
 msgid "Vampire Coffin"
-msgstr ""
+msgstr "Cerceuil de vampire"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:56
 msgid "Vampire Count"
-msgstr ""
+msgstr "Comte vampire"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:434
 msgid "Vampire Count Boots"
-msgstr ""
+msgstr "Bottes du comte vampire"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:440
 msgid "Vampire Count Gloves"
-msgstr ""
+msgstr "Gants du comte vampire"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:428
 msgid "Vampire Count Mask"
-msgstr ""
+msgstr "Masque du comte vampire"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:437
 msgid "Vampire Count Pants"
-msgstr ""
+msgstr "Pantalon du comte vampire"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:431
 msgid "Vampire Count Tailcoat"
-msgstr ""
+msgstr "Habit à queue du comte vampire"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:60
 msgid "Vampire Countess"
-msgstr ""
+msgstr "Comtesse vampire"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:449
 msgid "Vampire Countess Boots"
-msgstr ""
+msgstr "Bottes de la comtesse vampire"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:446
 msgid "Vampire Countess Corset"
-msgstr ""
+msgstr "Corset de la comtesse vampire"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:452
 msgid "Vampire Countess Garters"
-msgstr ""
+msgstr "Jarretières de la comtesse vampire"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:455
 msgid "Vampire Countess Gloves"
-msgstr ""
+msgstr "Gants de la comtesse vampire"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:443
 msgid "Vampire Countess Top Hat"
-msgstr ""
+msgstr "Chapeau haut de forme de la comtesse vampire"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:464
 msgid "Vampire Crossbow"
-msgstr ""
+msgstr "Arbalète de vampire"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:458
 msgid "Vampire Dagger"
-msgstr ""
+msgstr "Dague de vampire"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:482
 msgid "Vampire Heavy Ammo"
-msgstr ""
+msgstr "Munitions lourdes de vampire"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:476
 msgid "Vampire Light Ammo"
-msgstr ""
+msgstr "Munitions légères de vampire"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:461
 msgid "Vampire Pistol"
-msgstr ""
+msgstr "Pistolet de vampire"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:467
 msgid "Vampire Sniper"
-msgstr ""
+msgstr "Sniper de vampire"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
 msgid "Vanguard"
@@ -10096,7 +10096,7 @@ msgstr "Dégâts hebdomadaires"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2167
 msgid "Weekly Missions Reset"
-msgstr "Réinitialisation des Missions Hebdomadaires"
+msgstr "Réinitialisation des missions hebdomadaires"
 
 #: src/components/_military/mu/MuMemberList.tsx:349
 #: src/components/_military/mu/MuMemberList.tsx:379
@@ -10126,7 +10126,7 @@ msgstr "Lors de la défense d'une révolte, gagnez un bonus de combat supplémen
 
 #: src/components/_political/party/party.frontConfig.tsx:63
 msgid "When revolting, you copy the enemy's defensive battle bonus from Bunker region upgrades."
-msgstr "Lors de la révolte, tu copies le bonus de défense de combat de l'ennemi à partir des améliorations de la région Bunker."
+msgstr "Lors de la révolte, tu copies le bonus de défense de combat de l'ennemi à partir des améliorations de la région bunkerisée."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:169
 msgid "When your <0>Health</0> runs out, open this menu to restore it with food."
@@ -10381,7 +10381,7 @@ msgstr "Tu peux améliorer tes compétences !"
 #. placeholder {0}: gameConfig?.election.voteMinDaysSinceCitizenshipChange
 #: src/components/_political/election/Election.tsx:249
 msgid "You can vote {0} days after changing citizenship. Available in <0/>."
-msgstr ""
+msgstr "Tu ne peux voter qu'à partir de {0} jours après avoir changé de citoyenneté. Disponible dans <0/>."
 
 #: src/pages/country/[countryId]/citizenship.tsx:61
 msgid "You cannot apply for citizenship if you have a government/congress role"
