@@ -261,7 +261,7 @@ msgstr "<0/> za <1>{0}</1> wynagrodzenia.{1}"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:54
 msgid "<0/> banned <1/> from the conversation"
-msgstr "<0/> zbanowany z konwersacji <1/>"
+msgstr "<0/> zbanowanał z konwersacji <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1903
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
@@ -327,7 +327,7 @@ msgstr "<0/> podarował <1>{0}</1> dla <2/>"
 #. placeholder {0}: ts[data.caseCode]
 #: src/components/_political/message/systemMessage.frontConfig.tsx:124
 msgid "<0/> dropped <1/> from <2>{0}</2>"
-msgstr "<0/> usunął <1/> z <2>{0}</2>"
+msgstr "<0/> wyciągnął <1/> z <2>{0}</2>"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:172
 msgid "<0/> ended <1/>"
@@ -1471,7 +1471,7 @@ msgstr "Zaawansowane Buty"
 
 #: src/utils/translations.tsx:201
 msgid "Advanced Chest"
-msgstr "Zaawansowany Napierśnik"
+msgstr "Zaawansowana Kamizelka"
 
 #: src/utils/translations.tsx:219
 msgid "Advanced Gloves"
@@ -2087,7 +2087,7 @@ msgstr "Podstawowe Buty"
 
 #: src/utils/translations.tsx:199
 msgid "Basic Chest"
-msgstr "Podstawowy Napierśnik"
+msgstr "Podstawowa Kamizelka"
 
 #: src/utils/translations.tsx:217
 msgid "Basic Gloves"
@@ -2103,7 +2103,7 @@ msgstr "Podstawowe Spodnie"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:473
 msgid "Bat Swarm"
-msgstr ""
+msgstr "Rój Nietoperzy"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:85
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:185
@@ -2581,7 +2581,7 @@ msgstr "Sprawdź swój łup!"
 #: src/components/_user/UserEquipments.tsx:185
 #: src/utils/translations.tsx:198
 msgid "Chest"
-msgstr "Napierśnik"
+msgstr "Kamizelka"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:71
 msgid "Chief"
@@ -3757,7 +3757,7 @@ msgstr "Smok"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:61
 msgid "Dressed to kill"
-msgstr ""
+msgstr "Zabójczo elegancki"
 
 #: src/components/_common/GameRules.tsx:262
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
@@ -3886,7 +3886,7 @@ msgstr "Elitarna Skrzynka"
 
 #: src/utils/translations.tsx:202
 msgid "Elite Chest"
-msgstr "Elitarny Napierśnik"
+msgstr "Elitarna Kamizelka"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:45
 msgid "Elite counter-terrorism unit"
@@ -4716,7 +4716,7 @@ msgstr "GSG9 Tarcza Taktyczna"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:347
 msgid "GSG9 Tactical Vest"
-msgstr "GSG9 Napierśnik Taktyczny"
+msgstr "GSG9 Kamizelka Taktyczna"
 
 #: src/utils/translations.tsx:23
 msgid "Gun"
@@ -4736,59 +4736,59 @@ msgstr "Tytan Pracy"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:68
 msgid "Harlequin"
-msgstr ""
+msgstr "Arlekin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:506
 msgid "Harlequin Ammo"
-msgstr ""
+msgstr "Arlekinowa Amunicha"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:500
 msgid "Harlequin Biplane"
-msgstr ""
+msgstr "Arlekinowy Dwupłatowiec"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:518
 msgid "Harlequin Boots"
-msgstr ""
+msgstr "Arlekinowe Buty"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:524
 msgid "Harlequin Gloves"
-msgstr ""
+msgstr "Arlekinowowe Rękawice"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:509
 msgid "Harlequin Heavy Ammo"
-msgstr ""
+msgstr "Arlekinowowa Ciężka Amunicja"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:515
 msgid "Harlequin Jacket"
-msgstr ""
+msgstr "Arlekinowowa Marynarka"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:503
 msgid "Harlequin Light Ammo"
-msgstr ""
+msgstr "Arlekinowowa Lekka Amunicja"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:485
 msgid "Harlequin Mallet"
-msgstr ""
+msgstr "Arlekinowowy Młot"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:512
 msgid "Harlequin Mask"
-msgstr ""
+msgstr "Arlekinowowa Maska"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:521
 msgid "Harlequin Pants"
-msgstr ""
+msgstr "Arlekinowowe Spodnie"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:488
 msgid "Harlequin Pistol"
-msgstr ""
+msgstr "Arlekinowowy Pistolet"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:491
 msgid "Harlequin Rifle"
-msgstr ""
+msgstr "Arlekinowowy Karabin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:494
 msgid "Harlequin Sniper"
-msgstr ""
+msgstr "Arlekinowowa Snajperka"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:94
 msgid "Headquarters"
@@ -5084,7 +5084,7 @@ msgstr "j. Spam i powielanie wiadomości"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:497
 msgid "Jack-in-the-Box Tank"
-msgstr ""
+msgstr "Czołg z niespodzianką"
 
 #: src/pages/companies.tsx:32
 #: src/pages/user/[userId]/companies.tsx:56
@@ -5238,7 +5238,7 @@ msgstr "Ostatnie prezenty"
 
 #: src/pages/shop/index.tsx:122
 msgid "Last skin gifts"
-msgstr ""
+msgstr "Ostatnie prezenty ze skórkami"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:339
 #: src/components/_user/auth/ConnectFromModal.tsx:358
@@ -5345,7 +5345,7 @@ msgstr "Legendarne Buty"
 
 #: src/utils/translations.tsx:203
 msgid "Legendary Chest"
-msgstr "Legendarny Napierśnik"
+msgstr "Legendarna Kamizelka"
 
 #: src/utils/translations.tsx:221
 msgid "Legendary Gloves"
@@ -6127,7 +6127,7 @@ msgstr "Mityczne Buty"
 
 #: src/utils/translations.tsx:204
 msgid "Mythic Chest"
-msgstr "Mityczny Napierśnik"
+msgstr "Mityczna Kamizelka"
 
 #: src/utils/translations.tsx:222
 msgid "Mythic Gloves"
@@ -7612,7 +7612,7 @@ msgstr "Ostatnie wnioski"
 
 #: src/components/_political/election/Election.tsx:247
 msgid "Recent citizenship change"
-msgstr ""
+msgstr "Niedawna zmiana obywatelstwa"
 
 #: src/pages/company/[companyId]/index.tsx:101
 msgid "Recipe"
@@ -7765,7 +7765,7 @@ msgstr "Wzmocnione Buty"
 
 #: src/utils/translations.tsx:200
 msgid "Reinforced Chest"
-msgstr "Wzmocniony Napierśnik"
+msgstr "Wzmocniona Kamizelka"
 
 #: src/utils/translations.tsx:218
 msgid "Reinforced Gloves"
@@ -8470,7 +8470,7 @@ msgstr "Strona"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:65
 msgid "Silver not included"
-msgstr ""
+msgstr "Brak srebra w zestawie"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:103
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:77
@@ -8548,7 +8548,7 @@ msgstr "Pominięty"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:57
 msgid "Sleeps all day, bites all night"
-msgstr ""
+msgstr "Śpi cały dzień, gryzie całą noc"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:260
 msgid "Sling Stones"
@@ -8995,7 +8995,7 @@ msgstr "Pełna premia <0/> przysługuje do poziomu <1/> udziału w globalnym <2>
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:69
 msgid "The joke's on you"
-msgstr ""
+msgstr "I kto się teraz śmieje?"
 
 #: src/components/_political/map/MapLibreErrorBoundary.tsx:69
 msgid "The map needs WebGL2, which your browser or device doesn't support. Everything else in the game works normally."
@@ -9219,7 +9219,7 @@ msgstr "Daj napiwek artykułowi"
 
 #: src/pages/shop/index.tsx:147
 msgid "to"
-msgstr ""
+msgstr "do"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:246
 msgid "Token Name"
@@ -9841,87 +9841,87 @@ msgstr "Wartościowy wkład zostanie doceniony odznaką \"Odkrywca Błędów\"."
 
 #: src/components/_other/shop/skin.frontConfig.tsx:479
 msgid "Vampire Ammo"
-msgstr ""
+msgstr "Wampirza Amunicja"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:64
 msgid "Vampire Arsenal"
-msgstr ""
+msgstr "Wampirzy Arsenał"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:470
 msgid "Vampire Coffin"
-msgstr ""
+msgstr "Wampirza Trumna"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:56
 msgid "Vampire Count"
-msgstr ""
+msgstr "Wampirzy Hrabia"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:434
 msgid "Vampire Count Boots"
-msgstr ""
+msgstr "Buty Wampirzego Hrabiego"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:440
 msgid "Vampire Count Gloves"
-msgstr ""
+msgstr "Rękawice Wampirzego Hrabiego"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:428
 msgid "Vampire Count Mask"
-msgstr ""
+msgstr "Maska Wampirzego Hrabiego"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:437
 msgid "Vampire Count Pants"
-msgstr ""
+msgstr "Spodnie Wampirzego Hrabiego"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:431
 msgid "Vampire Count Tailcoat"
-msgstr ""
+msgstr "Frak Wampirzego Hrabiego"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:60
 msgid "Vampire Countess"
-msgstr ""
+msgstr "Wampirza Hrabina"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:449
 msgid "Vampire Countess Boots"
-msgstr ""
+msgstr "Buty Wampirzej Hrabiny"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:446
 msgid "Vampire Countess Corset"
-msgstr ""
+msgstr "Gorset Wampirzej Hrabiny"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:452
 msgid "Vampire Countess Garters"
-msgstr ""
+msgstr "Podwiązka Wampirzej Hrabiny"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:455
 msgid "Vampire Countess Gloves"
-msgstr ""
+msgstr "Rękawice Wampirzej Hrabiny"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:443
 msgid "Vampire Countess Top Hat"
-msgstr ""
+msgstr "Cylinder Wampirzej Hrabiny"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:464
 msgid "Vampire Crossbow"
-msgstr ""
+msgstr "Wampirza Kusza"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:458
 msgid "Vampire Dagger"
-msgstr ""
+msgstr "Wampirzy Sztylet"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:482
 msgid "Vampire Heavy Ammo"
-msgstr ""
+msgstr "Wampirza Ciężka Amuincja"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:476
 msgid "Vampire Light Ammo"
-msgstr ""
+msgstr "Wampirza Lekka Amunicja"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:461
 msgid "Vampire Pistol"
-msgstr ""
+msgstr "Wampirzy Pistolet"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:467
 msgid "Vampire Sniper"
-msgstr ""
+msgstr "Wampirza Snajperka"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
 msgid "Vanguard"
@@ -10381,7 +10381,7 @@ msgstr "Możesz ulepszyć swoje umiejętności!"
 #. placeholder {0}: gameConfig?.election.voteMinDaysSinceCitizenshipChange
 #: src/components/_political/election/Election.tsx:249
 msgid "You can vote {0} days after changing citizenship. Available in <0/>."
-msgstr ""
+msgstr "Możesz głosować {0} dni po zmianie obywatelstva. Dostępne za <0/>."
 
 #: src/pages/country/[countryId]/citizenship.tsx:61
 msgid "You cannot apply for citizenship if you have a government/congress role"
