@@ -4496,7 +4496,7 @@ msgstr "Padovanok šį rinkinį kam nors"
 #: src/pages/shop/index.tsx:108
 #: src/pages/shop/index.tsx:134
 msgid "gifted"
-msgstr "padovanota"
+msgstr "padovanojo"
 
 #: src/components/_military/mu/MuMemberList.tsx:446
 msgid "Give Ownership"
