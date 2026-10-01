@@ -2103,7 +2103,7 @@ msgstr "Osnovne Hlače"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:473
 msgid "Bat Swarm"
-msgstr ""
+msgstr "Roj Šišmiša"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:85
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:185
@@ -3757,7 +3757,7 @@ msgstr "Zmaj"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:61
 msgid "Dressed to kill"
-msgstr ""
+msgstr "Obučen za ubojstvo."
 
 #: src/components/_common/GameRules.tsx:262
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
@@ -4398,7 +4398,7 @@ msgstr "Besplatna dnevna nagrada"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:49
 msgid "Full throttle, no brakes"
-msgstr "Pun gas, nema nazad"
+msgstr "Pun gas, nema nazad."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:27
 msgid "Fun fact: The house always wins"
@@ -4736,59 +4736,59 @@ msgstr "Marljiv Radnik"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:68
 msgid "Harlequin"
-msgstr ""
+msgstr "Harlekin"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:506
 msgid "Harlequin Ammo"
-msgstr ""
+msgstr "Harlekin Municija"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:500
 msgid "Harlequin Biplane"
-msgstr ""
+msgstr "Harlekin Avion"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:518
 msgid "Harlequin Boots"
-msgstr ""
+msgstr "Harlekin Čizme"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:524
 msgid "Harlequin Gloves"
-msgstr ""
+msgstr "Harlekin Rukavice"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:509
 msgid "Harlequin Heavy Ammo"
-msgstr ""
+msgstr "Harlekin Teška Municija"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:515
 msgid "Harlequin Jacket"
-msgstr ""
+msgstr "Harlekin Jakna"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:503
 msgid "Harlequin Light Ammo"
-msgstr ""
+msgstr "Harlekin Laka Municija"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:485
 msgid "Harlequin Mallet"
-msgstr ""
+msgstr "Harlekin Malj"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:512
 msgid "Harlequin Mask"
-msgstr ""
+msgstr "Harlekin Maska"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:521
 msgid "Harlequin Pants"
-msgstr ""
+msgstr "Harlekin Hlače"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:488
 msgid "Harlequin Pistol"
-msgstr ""
+msgstr "Harlekin Pištolj"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:491
 msgid "Harlequin Rifle"
-msgstr ""
+msgstr "Harlekin Puška"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:494
 msgid "Harlequin Sniper"
-msgstr ""
+msgstr "Harlekin Snajper"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:94
 msgid "Headquarters"
@@ -5084,7 +5084,7 @@ msgstr "j. Spam i ponavljanje poruka"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:497
 msgid "Jack-in-the-Box Tank"
-msgstr ""
+msgstr "Jack-in-the-Box Tenk"
 
 #: src/pages/companies.tsx:32
 #: src/pages/user/[userId]/companies.tsx:56
@@ -5238,7 +5238,7 @@ msgstr "Zadnji pokloni"
 
 #: src/pages/shop/index.tsx:122
 msgid "Last skin gifts"
-msgstr ""
+msgstr "Nedavni skin pokloni"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:339
 #: src/components/_user/auth/ConnectFromModal.tsx:358
@@ -7612,7 +7612,7 @@ msgstr "Nedavni zahtjevi"
 
 #: src/components/_political/election/Election.tsx:247
 msgid "Recent citizenship change"
-msgstr ""
+msgstr "Nedavne promjene državljanstva"
 
 #: src/pages/company/[companyId]/index.tsx:101
 msgid "Recipe"
@@ -8470,7 +8470,7 @@ msgstr "Strana"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:65
 msgid "Silver not included"
-msgstr ""
+msgstr "Srebro nije uključeno."
 
 #: src/components/_military/tournament/TournamentHeader.tsx:103
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:77
@@ -8548,7 +8548,7 @@ msgstr "Preskočeno"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:57
 msgid "Sleeps all day, bites all night"
-msgstr ""
+msgstr "Spava cijeli dan, grize cijelu noć."
 
 #: src/components/_other/shop/skin.frontConfig.tsx:260
 msgid "Sling Stones"
@@ -8995,7 +8995,7 @@ msgstr "Puni bonus od <0/> primjenjuje se do <1/> udjela globalnog <2>razvoja</2
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:69
 msgid "The joke's on you"
-msgstr ""
+msgstr "Tko se zadnji smije, najslađe se smije."
 
 #: src/components/_political/map/MapLibreErrorBoundary.tsx:69
 msgid "The map needs WebGL2, which your browser or device doesn't support. Everything else in the game works normally."
@@ -9219,7 +9219,7 @@ msgstr "Daj napojnicu za članak"
 
 #: src/pages/shop/index.tsx:147
 msgid "to"
-msgstr ""
+msgstr "za"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:246
 msgid "Token Name"
@@ -9841,87 +9841,87 @@ msgstr "Vrijedni doprinosi biti će nagrađeni \"Deratizator Bugova\" značkom."
 
 #: src/components/_other/shop/skin.frontConfig.tsx:479
 msgid "Vampire Ammo"
-msgstr ""
+msgstr "Vampirska Municija"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:64
 msgid "Vampire Arsenal"
-msgstr ""
+msgstr "Vampirski Arsenal"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:470
 msgid "Vampire Coffin"
-msgstr ""
+msgstr "Vampirski Lijes"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:56
 msgid "Vampire Count"
-msgstr ""
+msgstr "Vampirski Grof"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:434
 msgid "Vampire Count Boots"
-msgstr ""
+msgstr "Grofovske Čizme"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:440
 msgid "Vampire Count Gloves"
-msgstr ""
+msgstr "Grofovske Rukavice"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:428
 msgid "Vampire Count Mask"
-msgstr ""
+msgstr "Grofovska Maska"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:437
 msgid "Vampire Count Pants"
-msgstr ""
+msgstr "Grofovske Hlače"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:431
 msgid "Vampire Count Tailcoat"
-msgstr ""
+msgstr "Grofovski Frak"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:60
 msgid "Vampire Countess"
-msgstr ""
+msgstr "Vampirska Grofica"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:449
 msgid "Vampire Countess Boots"
-msgstr ""
+msgstr "Grofičine Čizme"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:446
 msgid "Vampire Countess Corset"
-msgstr ""
+msgstr "Grofičin Korset"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:452
 msgid "Vampire Countess Garters"
-msgstr ""
+msgstr "Grofičine Podvezice"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:455
 msgid "Vampire Countess Gloves"
-msgstr ""
+msgstr "Grofičine Rukavice"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:443
 msgid "Vampire Countess Top Hat"
-msgstr ""
+msgstr "Grofičin Šešir"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:464
 msgid "Vampire Crossbow"
-msgstr ""
+msgstr "Vampirski Samostrel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:458
 msgid "Vampire Dagger"
-msgstr ""
+msgstr "Vampirski Bodež"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:482
 msgid "Vampire Heavy Ammo"
-msgstr ""
+msgstr "Vampirska Teška Municija"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:476
 msgid "Vampire Light Ammo"
-msgstr ""
+msgstr "Vampirska Laka Municija"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:461
 msgid "Vampire Pistol"
-msgstr ""
+msgstr "Vampirski Pištolj"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:467
 msgid "Vampire Sniper"
-msgstr ""
+msgstr "Vampirski Snajper"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
 msgid "Vanguard"
@@ -10138,7 +10138,7 @@ msgstr "Iako su alati koji prikupljaju i prezentiraju podatke putem javno dostup
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:53
 msgid "White suit, gold everything"
-msgstr "Svagdje zlata i bijelog"
+msgstr "Svuda zlata i bijelog."
 
 #: src/pages/companies.tsx:103
 msgid "Whole Production"
@@ -10381,7 +10381,7 @@ msgstr "Možete nadograditi svoje vještine!"
 #. placeholder {0}: gameConfig?.election.voteMinDaysSinceCitizenshipChange
 #: src/components/_political/election/Election.tsx:249
 msgid "You can vote {0} days after changing citizenship. Available in <0/>."
-msgstr ""
+msgstr "Možete glasovati {0} dana nakon promjene državljanstva. Dostupno za <0/>."
 
 #: src/pages/country/[countryId]/citizenship.tsx:61
 msgid "You cannot apply for citizenship if you have a government/congress role"
