@@ -1385,7 +1385,8 @@ msgstr "訪問戰爭"
 #: src/components/_user/user/UserHeader.tsx:188
 #: src/pages/country/[countryId]/account.tsx:43
 #: src/pages/country/[countryId]/index.tsx:253
-#: src/pages/user/[userId]/account.tsx:32 src/pages/user/[userId]/index.tsx:166
+#: src/pages/user/[userId]/account.tsx:32
+#: src/pages/user/[userId]/index.tsx:166
 msgid "Account"
 msgstr "帳號"
 
@@ -1401,7 +1402,8 @@ msgstr "行動"
 #: src/components/_military/mercenaryContract/MercenaryAuctionList.tsx:134
 #: src/components/_military/mercenaryContract/MercenaryContractList.tsx:85
 #: src/components/_military/tournament/TournamentTeamHeader.tsx:47
-#: src/components/_user/user/Level.tsx:193 src/pages/events/index.tsx:148
+#: src/components/_user/user/Level.tsx:193
+#: src/pages/events/index.tsx:148
 #: src/utils/translations.tsx:276
 msgid "Active"
 msgstr "進行中"
@@ -1621,7 +1623,8 @@ msgstr "快準備好了..."
 msgid "Alpha Tester"
 msgstr "阿爾法測試員"
 
-#: src/components/_user/UserEquipments.tsx:148 src/utils/translations.tsx:35
+#: src/components/_user/UserEquipments.tsx:148
+#: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "子彈"
 
@@ -2172,7 +2175,8 @@ msgstr "戰場戰利品"
 #: src/components/_military/war/WarHeader.tsx:55
 #: src/components/_military/war/WarHeader.tsx:85
 #: src/components/_political/region/RegionHeader.tsx:71
-#: src/pages/region/[regionId]/index.tsx:132 src/pages/war/[warId]/index.tsx:75
+#: src/pages/region/[regionId]/index.tsx:132
+#: src/pages/war/[warId]/index.tsx:75
 msgid "Battles"
 msgstr "戰鬥"
 
@@ -2243,7 +2247,8 @@ msgstr "傷害加成"
 msgid "Boost your production!"
 msgstr "增加你的產量！"
 
-#: src/components/_user/UserEquipments.tsx:219 src/utils/translations.tsx:207
+#: src/components/_user/UserEquipments.tsx:219
+#: src/utils/translations.tsx:207
 msgid "Boots"
 msgstr "靴子"
 
@@ -2322,7 +2327,8 @@ msgstr "漏洞發現者"
 msgid "Build a company"
 msgstr "建造一個公司"
 
-#: src/components/_military/mu/MuList.tsx:85 src/pages/mus.tsx:43
+#: src/components/_military/mu/MuList.tsx:85
+#: src/pages/mus.tsx:43
 msgid "Build a military unit"
 msgstr "建造一個軍團"
 
@@ -2406,7 +2412,8 @@ msgid "Cancel Mercenary Contract"
 msgstr "取消傭兵合約"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:232
-#: src/pages/events/index.tsx:156 src/utils/translations.tsx:271
+#: src/pages/events/index.tsx:156
+#: src/utils/translations.tsx:271
 msgid "Cancelled"
 msgstr "已取消"
 
@@ -2571,7 +2578,8 @@ msgstr "將 {0} 的稅率更改為"
 msgid "Check your loot!"
 msgstr "來看看你的戰利品！"
 
-#: src/components/_user/UserEquipments.tsx:185 src/utils/translations.tsx:198
+#: src/components/_user/UserEquipments.tsx:185
+#: src/utils/translations.tsx:198
 msgid "Chest"
 msgstr "胸甲"
 
@@ -2770,7 +2778,8 @@ msgstr "社群"
 #: src/components/_layout/LayoutMenu.tsx:174
 #: src/components/_user/user/MyAvatar.tsx:47
 #: src/components/_user/user/UserHeader.tsx:246
-#: src/components/_user/user/WealthPanel.tsx:42 src/pages/companies.tsx:97
+#: src/components/_user/user/WealthPanel.tsx:42
+#: src/pages/companies.tsx:97
 msgid "Companies"
 msgstr "公司"
 
@@ -3484,7 +3493,8 @@ msgstr "刪除帳號"
 msgid "Delete contract"
 msgstr "刪除合約"
 
-#: src/pages/index.tsx:88 src/pages/rules.tsx:48
+#: src/pages/index.tsx:88
+#: src/pages/rules.tsx:48
 msgid "Delete your account"
 msgstr "刪除你的帳號"
 
@@ -3856,7 +3866,8 @@ msgstr "投票開始"
 
 #: src/components/_political/country/CountryHeader.tsx:125
 #: src/pages/country/[countryId]/elections.tsx:28
-#: src/pages/country/[countryId]/index.tsx:281 src/pages/events/index.tsx:398
+#: src/pages/country/[countryId]/index.tsx:281
+#: src/pages/events/index.tsx:398
 #: src/pages/party/[partyId]/index.tsx:101
 msgid "Elections"
 msgstr "選舉"
@@ -3973,7 +3984,8 @@ msgstr "創業能力"
 #: src/components/_economy/inventory/case/RarityChances.tsx:56
 #: src/components/_economy/inventory/ItemGridFilters.tsx:135
 #: src/components/_layout/LayoutOptions.tsx:232
-#: src/components/_user/user/WealthPanel.tsx:56 src/pages/market/index.tsx:81
+#: src/components/_user/user/WealthPanel.tsx:56
+#: src/pages/market/index.tsx:81
 #: src/pages/user/[userId]/index.tsx:100
 #: src/pages/user/[userId]/inventory.tsx:62
 msgid "Equipment"
@@ -4283,7 +4295,8 @@ msgstr "資助在地反抗軍"
 msgid "Finance resistance in <0/>"
 msgstr "資助 <0/> 的反抗"
 
-#: src/pages/companies.tsx:60 src/pages/user/[userId]/companies.tsx:73
+#: src/pages/companies.tsx:60
+#: src/pages/user/[userId]/companies.tsx:73
 msgid "Find a job"
 msgstr "找個工作"
 
@@ -4480,7 +4493,8 @@ msgstr "贈送支持者計畫"
 msgid "Gift this pack to someone"
 msgstr "贈送這個組合包給某人"
 
-#: src/pages/shop/index.tsx:108 src/pages/shop/index.tsx:134
+#: src/pages/shop/index.tsx:108
+#: src/pages/shop/index.tsx:134
 msgid "gifted"
 msgstr "已贈送"
 
@@ -4513,7 +4527,8 @@ msgstr "球體 (試驗性)"
 msgid "Globe view isn't supported on this device"
 msgstr "全球視野在此裝置不支援"
 
-#: src/components/_user/UserEquipments.tsx:236 src/utils/translations.tsx:216
+#: src/components/_user/UserEquipments.tsx:236
+#: src/utils/translations.tsx:216
 msgid "Gloves"
 msgstr "手套"
 
@@ -4788,7 +4803,8 @@ msgstr "生命值"
 msgid "Heavy Ammo"
 msgstr "重型子彈"
 
-#: src/components/_user/UserEquipments.tsx:170 src/utils/translations.tsx:189
+#: src/components/_user/UserEquipments.tsx:170
+#: src/utils/translations.tsx:189
 msgid "Helmet"
 msgstr "頭盔"
 
@@ -4992,8 +5008,10 @@ msgstr "故意或重複的違反條例會導致永久停權。"
 #: src/components/_layout/LayoutMenu.tsx:92
 #: src/components/_layout/LayoutUserMenu.tsx:150
 #: src/components/_user/user/MyAvatar.tsx:35
-#: src/components/_user/user/UserHeader.tsx:180 src/pages/companies.tsx:84
-#: src/pages/country/[countryId]/account.tsx:25 src/pages/market/index.tsx:56
+#: src/components/_user/user/UserHeader.tsx:180
+#: src/pages/companies.tsx:84
+#: src/pages/country/[countryId]/account.tsx:25
+#: src/pages/market/index.tsx:56
 #: src/pages/user/[userId]/account.tsx:20
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:217
@@ -5068,7 +5086,8 @@ msgstr "j. 洗版及重複的訊息"
 msgid "Jack-in-the-Box Tank"
 msgstr "盒子裡的捷克坦克"
 
-#: src/pages/companies.tsx:32 src/pages/user/[userId]/companies.tsx:56
+#: src/pages/companies.tsx:32
+#: src/pages/user/[userId]/companies.tsx:56
 msgid "Job"
 msgstr "工作"
 
@@ -6620,7 +6639,8 @@ msgstr "沒有設定"
 msgid "Nothing in play. Hit in an ongoing battle to start earning, and take a top damage rank to claim a spot in its loot pool."
 msgstr "沒有東西。在進行中的戰鬥攻擊以開始賺取，並獲得高傷害排名以在獎勵池佔有一席。"
 
-#: src/pages/notifications.tsx:38 src/pages/user/[userId]/settings.tsx:135
+#: src/pages/notifications.tsx:38
+#: src/pages/user/[userId]/settings.tsx:135
 msgid "Notification preferences"
 msgstr "偏好通知"
 
@@ -6801,7 +6821,8 @@ msgstr "命令＆競標"
 msgid "Orders cancelled"
 msgstr "訂單取消"
 
-#: src/pages/orders.tsx:24 src/pages/orders.tsx:35
+#: src/pages/orders.tsx:24
+#: src/pages/orders.tsx:35
 msgid "Orders of <0/>"
 msgstr "<0/> 的命令"
 
@@ -6883,7 +6904,8 @@ msgstr "和平主義：守護核心區域或反抗的命令花費少 {orderDisco
 msgid "Packs"
 msgstr "組合包"
 
-#: src/components/_user/UserEquipments.tsx:202 src/utils/translations.tsx:225
+#: src/components/_user/UserEquipments.tsx:202
+#: src/utils/translations.tsx:225
 msgid "Pants"
 msgstr "褲子"
 
@@ -7221,7 +7243,8 @@ msgstr "初選"
 msgid "Primary Election Ended"
 msgstr "初選已結束"
 
-#: src/pages/index.tsx:84 src/pages/rules.tsx:44
+#: src/pages/index.tsx:84
+#: src/pages/rules.tsx:44
 msgid "Privacy"
 msgstr "隱私權"
 
@@ -7650,7 +7673,8 @@ msgstr "恢復於..."
 #. placeholder {0}: staticGameConfig.items.bread.flatStats?.healthRegenPercent
 #. placeholder {0}: staticGameConfig.items.cookedFish.flatStats?.healthRegenPercent
 #. placeholder {0}: staticGameConfig.items.steak.flatStats?.healthRegenPercent
-#: src/utils/translations.tsx:45 src/utils/translations.tsx:61
+#: src/utils/translations.tsx:45
+#: src/utils/translations.tsx:61
 #: src/utils/translations.tsx:74
 msgid "Regens <0>{0}</0> when consumed"
 msgstr "食用時回復 <0>{0}</0>"
@@ -7794,7 +7818,8 @@ msgstr "從聯盟中移除一個成員國。"
 msgid "Remove a member from the party council"
 msgstr "移除一位中常委"
 
-#: src/pages/market/index.tsx:200 src/pages/market/index.tsx:263
+#: src/pages/market/index.tsx:200
+#: src/pages/market/index.tsx:263
 msgid "Remove all"
 msgstr "移除所有"
 
@@ -8499,7 +8524,8 @@ msgstr "造型組合包"
 msgid "Skin Reward"
 msgstr "造型獎勵"
 
-#: src/components/_other/shop/ShopHeader.tsx:23 src/pages/shop/index.tsx:195
+#: src/components/_other/shop/ShopHeader.tsx:23
+#: src/pages/shop/index.tsx:195
 #: src/pages/user/[userId]/index.tsx:101
 msgid "Skins"
 msgstr "造型"
@@ -8896,7 +8922,8 @@ msgstr "告訴你的公民為何此區域優先"
 msgid "Terminated"
 msgstr "已結束"
 
-#: src/pages/index.tsx:80 src/pages/rules.tsx:40
+#: src/pages/index.tsx:80
+#: src/pages/rules.tsx:40
 msgid "Terms"
 msgstr "期限"
 
@@ -9277,7 +9304,8 @@ msgstr "總共"
 #: src/components/_military/mu/MuMemberList.tsx:190
 #: src/components/_political/law/LawCostExplanation.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:28
-#: src/pages/alliance/[allianceId]/index.tsx:59 src/pages/market/index.tsx:162
+#: src/pages/alliance/[allianceId]/index.tsx:59
+#: src/pages/market/index.tsx:162
 #: src/pages/market/index.tsx:213
 msgid "Total"
 msgstr "總計"
@@ -9388,7 +9416,8 @@ msgstr "交易紀錄。"
 #: src/components/_military/mu/MuHeader.tsx:168
 #: src/components/_political/country/CountryHeader.tsx:100
 #: src/components/_political/party/PartyHeader.tsx:129
-#: src/pages/market/index.tsx:93 src/pages/user/[userId]/index.tsx:246
+#: src/pages/market/index.tsx:93
+#: src/pages/user/[userId]/index.tsx:246
 msgid "Transactions"
 msgstr "交易紀錄"
 
@@ -9606,7 +9635,8 @@ msgstr "使用你的<0>創業能力</0>來增加你的公司的生產點數累�
 msgid "Use your <0>Hunger</0> to eat food and refill your <1>Health</1>. Then get back to fighting!"
 msgstr "使用你的<0>飢餓</0>來消耗食物並補充你的<1>生命值</1>。然後給我滾回去戰鬥！"
 
-#: src/utils/translations.tsx:94 src/utils/translations.tsx:100
+#: src/utils/translations.tsx:94
+#: src/utils/translations.tsx:100
 #: src/utils/translations.tsx:105
 msgid "Used for shooting guns. Increases your <0>Attack</0>"
 msgstr "用於槍械射擊，並增加你的<0>攻擊力</0>"
@@ -10286,7 +10316,8 @@ msgstr "你已是其他國家的副總統了，請先卸任。"
 msgid "You are here"
 msgstr "你在這裡"
 
-#: src/pages/companies.tsx:45 src/pages/user/[userId]/companies.tsx:64
+#: src/pages/companies.tsx:45
+#: src/pages/user/[userId]/companies.tsx:64
 msgid "You are jobless"
 msgstr "你沒有工作"
 
