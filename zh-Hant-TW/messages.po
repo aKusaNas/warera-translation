@@ -5084,7 +5084,7 @@ msgstr "j. 洗版及重複的訊息"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:497
 msgid "Jack-in-the-Box Tank"
-msgstr "盒子裡的捷克坦克"
+msgstr "驚嚇箱坦克"
 
 #: src/pages/companies.tsx:32
 #: src/pages/user/[userId]/companies.tsx:56
