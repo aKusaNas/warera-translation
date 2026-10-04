@@ -9218,8 +9218,8 @@ msgid "Tip Article"
 msgstr "Daj napiwek artykułowi"
 
 #: src/pages/shop/index.tsx:147
-msgid "dla"
-msgstr "do"
+msgid "to"
+msgstr "dla"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:246
 msgid "Token Name"
