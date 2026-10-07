@@ -331,7 +331,7 @@ msgstr "<0/> osvaja <1/> iz <2>{0}</2>"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:172
 msgid "<0/> ended <1/>"
-msgstr "<0/> završava <1/>"
+msgstr "<0/> su završeni <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:148
 msgid "<0/> financed a resistance war for <1/> in <2/>"
@@ -3757,7 +3757,7 @@ msgstr "Zmaj"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:61
 msgid "Dressed to kill"
-msgstr "Obučen za ubojstvo."
+msgstr "Otmjenost koja ubija."
 
 #: src/components/_common/GameRules.tsx:262
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
