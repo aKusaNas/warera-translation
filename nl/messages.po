@@ -327,7 +327,7 @@ msgstr "<0/> heeft <1>{0}</1> gedoneerd aan <2/>"
 #. placeholder {0}: ts[data.caseCode]
 #: src/components/_political/message/systemMessage.frontConfig.tsx:124
 msgid "<0/> dropped <1/> from <2>{0}</2>"
-msgstr "<0/> heeft <1/> verwijderd van <2>{0}</2>"
+msgstr "<0/> heeft <1/> ontvangen uit <2>{0}</2>"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:172
 msgid "<0/> ended <1/>"
